@@ -19,7 +19,7 @@
 // time benchamrk end
 
 // dblayer.php3 is my DB-abstraction layer
-include "dblayer.php3";
+include "dblayer2.php";
 // include a nice header
 echo "<select name=\"category[]\" multiple style=\"height: 150px; width: 400px;\">";
 

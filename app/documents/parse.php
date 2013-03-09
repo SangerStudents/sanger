@@ -47,7 +47,7 @@ $db = @mysql_select_db($database, $connection)
 	fclose ($filepointer);
 	include("../includes/footer.php");
 	
-}
+
 else {
 	$dir_path="../../xml_queue/";
 	if(1==7) {

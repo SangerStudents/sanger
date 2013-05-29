@@ -372,7 +372,12 @@ if(!$_POST[submit1] && !$_POST[submit2] && !isset($_GET[num_pages])) { //this is
 
 	{
 		extract($row3a);
-		//insert way to move "the" and "a" to ends of titles and resort
+		$splitTitle = explode(' ',$title); // split by spaces
+		if ($splitTitle[0] == "The" || $splitTitle[0] == "A") { 
+			$the_or_a=$splitTitle[0]; 
+			unset($splitTitle[0]); // take off "The" 
+			$title = join(' ',$splitTitle).", ".$the_or_a; //now add it to the end of the title
+		} 
 		echo "							<option value='$id'>$title</option>\n";
 
 	}

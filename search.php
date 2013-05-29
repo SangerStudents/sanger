@@ -2,6 +2,10 @@
 session_start();
 include("../includes/header.php");
 
+//debugging
+error_reporting(E_ALL);
+ini_set('display_errors', '1');
+
 $host="localhost";
 $database="sanger";
 $connection = @mysql_connect($host, "sanger_user", "sangert3st3r!")
@@ -9,7 +13,29 @@ $connection = @mysql_connect($host, "sanger_user", "sangert3st3r!")
 $db = @mysql_select_db($database, $connection)
 	or die ("couldn't select database - please report this problem to <a href='mailto:humanities.computing@nyu.edu'>the administrator</a> immediately.");
 
-if(!$_POST[submit1] && !$_POST[submit2] && !isset($_GET[num_pages])) { //this is the input page
+//function redo_alphabetize($titlesArray) { 
+	//this function accepts an mysql result array of $id, $title from the database journals, 
+	//puts the words "the" and "a" at the ends of journal titles, 
+	//then resorts the array according to the journals' second words
+ //     $newTitlesArray = array(); //container for transformed titles 
+  //    while ($row3a = mysql_fetch_array($titlesArray) { 
+//	      extract($row3a);
+//		$splitTitle = explode(' ',$title); 
+//		if ($splitTitle[0] == "The") { 
+//		        unset($splitTitle[0]); //remove "The" 	
+//			$title = join($splitTitle).", The"; //put it at the end
+//		} 
+//		if ($splitTitle[0] == "A") { 
+//		        unset($splitTitle[0]); //remove "A" 
+//			$title = join($splitTitle).", A"; //put it at the end 
+//		}
+//		$newTitlesArray.= compact(id, title);  
+//		echo "$id, $title<br/>";
+ //    } 
+  //   return $newTitlesArray; 
+//} 
+
+if(!$_POST[submit1] && !$_POST[submit2] && !isset($_GET[num_pages])) { //this is the input page 
 	session_unset();
 	$query2a="SELECT `id` FROM `categories`";
 	$result2a= mysql_query($query2a)
@@ -17,6 +43,8 @@ if(!$_POST[submit1] && !$_POST[submit2] && !isset($_GET[num_pages])) { //this is
 	$query3a="SELECT `id`, `title` FROM `journals` order by `title`";
 	$result3a= mysql_query($query3a)
 		or die ("could not execute query # 3a");
+
+//	$result3a = redo_alphabetize($result3a);  	
 
 
         echo "<br />                                                                                                                                                                                        
@@ -364,10 +392,11 @@ if(!$_POST[submit1] && !$_POST[submit2] && !isset($_GET[num_pages])) { //this is
 							<option value=''></option>\n
 ";
 				  
-	 while ($row3a = mysql_fetch_array($result3a))
+	 while ($row3a = mysql_fetch_array($result3a)) //this is the part that populates the journal titles list
 
 	{
 		extract($row3a);
+		//insert way to move "the" and "a" to ends of titles and resort
 		echo "							<option value='$id'>$title</option>\n";
 
 	}
@@ -436,7 +465,7 @@ else {
 	$display_number = 40;
 	echo "<h2>Search Results:</h2>\n";
 
-	if($_POST[submit1] || $_POST[submit2]) { //this is the output page
+	if($_POST[submit1] || $_POST[submit2] || $_GET) { //this is the output page
 		$_SESSION['search_values'] = "<div>You searched using the following values:\n<ul>";
 	
 		$query="";
@@ -700,8 +729,8 @@ else {
 		if(!isset($_GET[num_pages])) {
 	
 			//$query = "select * from 'categories'";
-			//print $query;
-			$result = mysql_query($query) //here is the actual query
+			print 'here is the query: '.$query;
+			$result = mysql_query($query) //this is the actual query
 
 			or die ("Query failed.  Please contact <a href='mailto:humanities.computing@nyu.edu'>the administrator</a> immediately.");
 			$num_results = @mysql_num_rows ($result);

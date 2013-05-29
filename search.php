@@ -18,7 +18,7 @@ if(!$_POST[submit1] && !$_POST[submit2] && !isset($_GET[num_pages])) { //this is
 	$query2a="SELECT `id` FROM `categories`";
 	$result2a= mysql_query($query2a)
 		or die ("could not execute query # 2a");
-	$query3a="SELECT `id`, `title` FROM `journals` order by trim(leading 'The ' from `title`)"; //reorders
+	$query3a="SELECT `id`, `title` FROM `journals` order by trim(leading 'The ' from trim(leading 'A ' from `title`))"; //reorders
 	$result3a= mysql_query($query3a)
 		or die ("could not execute query # 3a");
 

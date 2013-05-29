@@ -13,38 +13,14 @@ $connection = @mysql_connect($host, "sanger_user", "sangert3st3r!")
 $db = @mysql_select_db($database, $connection)
 	or die ("couldn't select database - please report this problem to <a href='mailto:humanities.computing@nyu.edu'>the administrator</a> immediately.");
 
-//function redo_alphabetize($titlesArray) { 
-	//this function accepts an mysql result array of $id, $title from the database journals, 
-	//puts the words "the" and "a" at the ends of journal titles, 
-	//then resorts the array according to the journals' second words
- //     $newTitlesArray = array(); //container for transformed titles 
-  //    while ($row3a = mysql_fetch_array($titlesArray) { 
-//	      extract($row3a);
-//		$splitTitle = explode(' ',$title); 
-//		if ($splitTitle[0] == "The") { 
-//		        unset($splitTitle[0]); //remove "The" 	
-//			$title = join($splitTitle).", The"; //put it at the end
-//		} 
-//		if ($splitTitle[0] == "A") { 
-//		        unset($splitTitle[0]); //remove "A" 
-//			$title = join($splitTitle).", A"; //put it at the end 
-//		}
-//		$newTitlesArray.= compact(id, title);  
-//		echo "$id, $title<br/>";
- //    } 
-  //   return $newTitlesArray; 
-//} 
-
 if(!$_POST[submit1] && !$_POST[submit2] && !isset($_GET[num_pages])) { //this is the input page 
 	session_unset();
 	$query2a="SELECT `id` FROM `categories`";
 	$result2a= mysql_query($query2a)
 		or die ("could not execute query # 2a");
-	$query3a="SELECT `id`, `title` FROM `journals` order by `title`";
+	$query3a="SELECT `id`, `title` FROM `journals` order by trim(leading 'The ' from `title`)"; //reorders
 	$result3a= mysql_query($query3a)
 		or die ("could not execute query # 3a");
-
-//	$result3a = redo_alphabetize($result3a);  	
 
 
         echo "<br />                                                                                                                                                                                        

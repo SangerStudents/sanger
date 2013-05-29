@@ -1,0 +1,107 @@
+128168.xml-            thousands of others, to me that was not enough. I want clinics
+128168.xml-            established in England as well as America. </p>
+128168.xml-        <p>I was able to bring together a remarkable group of people in England
+128168.xml-            to work for Birth Control. They are drawn from the most advanced
+128168.xml-            scientists, social workers and publicists in that country. Among
+128168.xml:            them are: <list>
+128168.xml-                <item>Harold Cox </item>
+128168.xml-                <item>J.O.P. Bland</item>
+128168.xml-                <item>Leonard Reese</item>
+128168.xml-                <item>Dr. Marie Stopes</item>
+128168.xml-                <item>Edith How Martin</item>
+--
+129332.xml-                ... We have millions for conservation of the forests. Our Senators and
+129332.xml-                Representatives jump to their feet the minute one mentions raising the tariff on
+129332.xml-                wool or on steel, but we can get no such interest when it comes to saving human
+129332.xml-                lives</q>."</p>
+129332.xml-        <p>Look at the health report for the past three years and see the loss of children in <place
+129332.xml:                reg="New York, NY">New York City</place> alone: <list>
+129332.xml-                <item>Under Under Under<lb/>one two five<lb/>Year. year. years. years.<lb/></item>
+129332.xml-                <item>1908 16,231 20,462 24,141<lb/></item>
+129332.xml-                <item>1909 15,976 20,716 24,519<lb/></item>
+129332.xml-                <item>1910 16,213 20,560 24,266</item>
+129332.xml-                <lb/>
+--
+143721.xml-                have very recently added to our Clinic. To make the proper use
+143721.xml-                of this new space we shall need two more nurses, four more
+143721.xml-                doctors, and one more secretary. Our present operating costs and
+143721.xml-                our costs as they would be with the expanded staff are as
+143721.xml-                follows: </p>
+143721.xml:            <list>
+143721.xml-                <item><emph rend="underline">Item:</emph> Rent. <emph
+143721.xml-                        rend="underline">Present cost per month</emph>: $200.
+143721.xml-                        <emph rend="underline">Cost per month with expanded
+143721.xml-                        staff</emph>: $200.</item>
+143721.xml-                <item><emph rend="underline">Item:</emph> Medical service (Now
+--
+236531.xml-                    <emph rend="underline">Desperation</emph> makes War
+236531.xml-                        <add>&amp; enters <emph rend="underline"
+236531.xml-                                ><place>Ethiopia</place></emph>!</add></p>
+236531.xml-            </div>
+236531.xml-            <div type="section">
+236531.xml:                <p><list>
+236531.xml-                        <item>1921: Birth rates: 29.7 Death rates: 17.3</item>
+236531.xml-                        <item>1926: Birth rates: 26.8 Death rates: 16.0</item>
+236531.xml-                        <item>1931: Birth rates: 24.9 Death rates: 14.8</item>
+236531.xml-                        <item>1932: Birth rates: 23.8 Death rates: 14.6</item>
+236531.xml-                        <item>1936: Birth rates: 23.3 Death rates: 13.9</item>
+--
+236531.xml-                        alarm</q>” the doings of “<q who="UNK"><emph
+236531.xml-                                rend="underline">bandits</emph></q>” -- walked
+236531.xml-                        in to form to puppet state of
+236531.xml-                        <place>Manchuko</place>.</p>
+236531.xml-                    <p>This action was supposed to</p>
+236531.xml:                    <list>
+236531.xml-                        <item>(1) increase her area of <emph rend="underline"
+236531.xml-                                >tillable</emph> land</item>
+236531.xml-                        <item>(2) given her room for expansion</item>
+236531.xml-                        <item>(3) given her access to minerals and fuel.
+236531.xml-                            railroads which were to enable Japan to become an
+--
+236531.xml-                            >goal</emph>.</p></div>
+236531.xml-                </div>
+236531.xml-            </div>
+236531.xml-            <div type="section">
+236531.xml-                <head type="sub">The Way Out <del>Before Manchuria</del><add>Japan</add></head>
+236531.xml:                <list>
+236531.xml-                    <item>(1) Lower the standard of living like China and India.
+236531.xml-                            <add>will try to <emph rend="underline">avoid</emph></add>
+236531.xml-                    </item>
+236531.xml-                    <item>(2) Encourage and adopt the general practice of Birth
+236531.xml-                        Control and sterilization, rapidly and generally for
+--
+236531.xml-                            <emph rend="underline">become the cause</emph> of
+236531.xml-                        suffering no one can predict a future of internal and
+236531.xml-                        external peace</q>.</p>
+236531.xml-                <p><emph rend="underline">Four remedies suggested</emph> <add>by liberal statesmen in
+236531.xml-                            Japan</add></p>
+236531.xml:                <list>
+236531.xml-                    <item>(1) Reorganization of economic system</item>
+236531.xml-                    <item>(2) Expansion of export industries</item>
+236531.xml-                    <item>(3) Emigration to own territory</item>
+236531.xml-                    <item>(4) Slow down birth rate through Birth Control and
+236531.xml-                        sterilization -- for Culture and Peace</item>
+--
+236531.xml-                    nations.</p>
+236531.xml-            </div>
+236531.xml-            <div type="section">
+236531.xml-                <head type="sub" rend="underline">Way Out for “Low Pressure” Nations</head>
+236531.xml-                <p>For immediate action:</p>
+236531.xml:                <list>
+236531.xml-                    <item>1. Open gates of “low pressure” countries for selected
+236531.xml-                        quotas. U.S.A. Russia South America New Zealand Canada
+236531.xml-                        Australia</item>
+236531.xml-                    <item>2. <add>Allow</add> the purchase of unused lands by
+236531.xml-                        “high pressure” countries for surplus, not only land but
+--
+236586.xml-        <p>21 boys.</p>
+236586.xml-        <p>raise age of parenthood 20 23.</p>
+236586.xml-        <p>Indian women are demanding that their interest be safeguarded by representation enabling
+236586.xml-            them to be associated in the administration of the provinces in departments of health,
+236586.xml-            Education, Civic &amp; Social interests &amp; activities</p>
+236586.xml:        <p><list>
+236586.xml-                <item>1 Transmissible disease.</item>
+236586.xml-                <item>2 temporary <supplied resp="MSPP">diseases</supplied>> gonnorhea</item>
+236586.xml-                <item>3 Children defective healthy parents</item>
+236586.xml-                <item>4 Space children.</item>
+236586.xml-                <item>5 Adolescent parents</item>

@@ -2,7 +2,7 @@
 // MySQL layer
 if (!isset($conid)){
 function dbconnect (){
-$mysql=mysql_connect("localhost", "sanger_user2", "sanger2t3st3r!");
+$mysql=mysql_connect("localhost", "sanger_user2", "sanger2t3st3r!") or die("Woe is me! Can't connect to mySQL server!"); 
 mysql_select_db("sanger");
 return $mysql;
 }

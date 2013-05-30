@@ -1,4 +1,10 @@
 <?php
+
+//enable error reports for debugging
+error_reporting(E_ALL);
+ini_set('display_errors', '1');
+debug_print_backtrace();
+
 /*$filepointer;
 */
 /****************

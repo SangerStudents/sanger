@@ -2,6 +2,10 @@
 session_start();
 include("../includes/header.php");
 
+//debugging
+error_reporting(E_ALL);
+ini_set('display_errors', '1');
+
 $host="localhost";
 $database="sanger";
 $connection = @mysql_connect($host, "sanger_user", "sangert3st3r!")
@@ -9,12 +13,12 @@ $connection = @mysql_connect($host, "sanger_user", "sangert3st3r!")
 $db = @mysql_select_db($database, $connection)
 	or die ("couldn't select database - please report this problem to <a href='mailto:humanities.computing@nyu.edu'>the administrator</a> immediately.");
 
-if(!$_POST[submit1] && !$_POST[submit2] && !isset($_GET[num_pages])) {
+if(!$_POST[submit1] && !$_POST[submit2] && !isset($_GET[num_pages]) && !isset($_GET[journal]) && !isset($_GET[subject])) { //this is the input page 
 	session_unset();
 	$query2a="SELECT `id` FROM `categories`";
 	$result2a= mysql_query($query2a)
 		or die ("could not execute query # 2a");
-	$query3a="SELECT `id`, `title` FROM `journals` order by `title`";
+	$query3a="SELECT `id`, `title` FROM `journals` order by trim(leading 'The ' from trim(leading 'A ' from `title`))"; //reorders
 	$result3a= mysql_query($query3a)
 		or die ("could not execute query # 3a");
 
@@ -364,10 +368,16 @@ if(!$_POST[submit1] && !$_POST[submit2] && !isset($_GET[num_pages])) {
 							<option value=''></option>\n
 ";
 				  
-	 while ($row3a = mysql_fetch_array($result3a))
+	 while ($row3a = mysql_fetch_array($result3a)) //this is the part that populates the journal titles list
 
 	{
 		extract($row3a);
+		$splitTitle = explode(' ',$title); // split by spaces
+		if ($splitTitle[0] == "The" || $splitTitle[0] == "A") { 
+			$the_or_a=$splitTitle[0]; 
+			unset($splitTitle[0]); // take off "The" 
+			$title = join(' ',$splitTitle).", ".$the_or_a; //now add it to the end of the title
+		} 
 		echo "							<option value='$id'>$title</option>\n";
 
 	}
@@ -436,7 +446,7 @@ else {
 	$display_number = 40;
 	echo "<h2>Search Results:</h2>\n";
 
-	if($_POST[submit1] || $_POST[submit2]) {
+	if($_POST[submit1] || $_POST[submit2] || isset($_GET['subject']) || isset($_GET['journal'])) { //this is the output page
 		$_SESSION['search_values'] = "<div>You searched using the following values:\n<ul>";
 	
 		$query="";
@@ -700,8 +710,8 @@ else {
 		if(!isset($_GET[num_pages])) {
 	
 			//$query = "select * from 'categories'";
-			//print $query;
-			$result = mysql_query($query)
+			print 'here is the query: '.$query;
+			$result = mysql_query($query) //this is the actual query
 
 			or die ("Query failed.  Please contact <a href='mailto:humanities.computing@nyu.edu'>the administrator</a> immediately.");
 			$num_results = @mysql_num_rows ($result);
@@ -761,7 +771,7 @@ else {
 		echo "<OL>";
 		$tempDate = "";
 		$resultCounter = $start;
-		while ($row = mysql_fetch_array($result2))
+		while ($row = mysql_fetch_array($result2)) //here is where the results actually start displaying
 		{	
 			$resultCounter++;
 			extract($row);

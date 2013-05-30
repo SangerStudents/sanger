@@ -3877,3 +3877,29 @@ Unpublished Speech is not a valid document type.</li>
 <li>
 Unpublished Speech is not a valid document type.</li>
 </ol><p>Please edit the file and try again or, if necessary, contact the administrator.</p>
+<a name="1369779323"></a><hr />
+<h3>May 28, 2013, 6:15 pm</h3>
+<p>********<br /><b>Attempting file 236609.xml.</b><br /><a name="1369779379"></a><hr />
+<h3>May 28, 2013, 6:16 pm</h3>
+<p>********<br /><b>Attempting file 236609.xml.</b><br /><a name="1369779585"></a><hr />
+<h3>May 28, 2013, 6:19 pm</h3>
+<p>********<br /><b>Attempting file 236609.xml.</b><br /><a name="1369779759"></a><hr />
+<h3>May 28, 2013, 6:22 pm</h3>
+<p>********<br /><b>Attempting file 236609.xml.</b><br /><i>Validated</i>: 236609.xml.<br />Proceeding with further processing and insertion into database . . . 
+</p><ol>
+</ol></p><b>Success</b4>: processed and moved file 236609.xml</p>
+<a name="1369780777"></a><hr />
+<h3>May 28, 2013, 6:39 pm</h3>
+<p>********<br /><b>Attempting file 302494.xml.</b><br /><i>Validated</i>: 302494.xml.<br />Proceeding with further processing and insertion into database . . . 
+</p><ol>
+</ol></p><b>Success</b4>: processed and moved file 302494.xml</p>
+<a name="1369780844"></a><hr />
+<h3>May 28, 2013, 6:40 pm</h3>
+<p>********<br /><b>Attempting file 321960.xml.</b><br /><i>Validated</i>: 321960.xml.<br />Proceeding with further processing and insertion into database . . . 
+</p><ol>
+</ol></p><b>Success</b4>: processed and moved file 321960.xml</p>
+<a name="1369943670"></a><hr />
+<h3>May 30, 2013, 3:54 pm</h3>
+<p>********<br /><b>Attempting file 206332.xml.</b><br /><i>Validated</i>: 206332.xml.<br />Proceeding with further processing and insertion into database . . . 
+</p><ol>
+</ol></p><b>Success</b4>: processed and moved file 206332.xml</p>

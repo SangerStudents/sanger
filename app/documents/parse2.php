@@ -127,6 +127,9 @@ function processFile($Files,$filepointer) {
 		if ($value) { 
 			if (is_array($value)) { //if it's an array, it's probably a list of extracted places or names
 				//actually don't do anthing to this yet 
+				foreach ($value as $valuePiece) { 
+					$valuePiece = preg_replace( '/\s+/', ' ', $valuePiece ); //cleans up interior whitespace				
+				} 
 			} else {  
 			$value=addslashes($value); 
 			$value=ereg_replace("\n", " ", $value);
@@ -317,9 +320,10 @@ function processFile($Files,$filepointer) {
 
       /* Now stuff to handle mentioned people, places, titles, etc! -JR */ 
 
+      /******* Parse People Mentioned in Text *********/
       //make sure the database is there first
       $personTableQuery="CREATE TABLE IF NOT EXISTS `mentioned_people` 
-	      (name VARCHAR(100), in_document VARCHAR(20), CONSTRAINT UNIQUE (name, in_document));"; //data structure for mentioned people prevents duplicates
+	      (name VARCHAR(100), in_document VARCHAR(20), CONSTRAINT UNIQUE (name, in_document));"; //data structure for mentioned people
       $myResult = @mysql_query($personTableQuery); 
       //standard error stuff
       $erra=mysql_error();
@@ -338,7 +342,7 @@ function processFile($Files,$filepointer) {
 		      $personQuery = "INSERT INTO mentioned_people (name, in_document) VALUES ('$person', '$filename')
 			      ON DUPLICATE KEY UPDATE name='$person',in_document='$filename'; "; 
 		      //FIXME: use document ID instead of filename? 
-		      //$personQueries.=$personQuery; //adds to string
+		      //FIXME: it's still not happy with duplicate entries
 		      $myInsertResult = @mysql_query($personQuery);
 		      /* see if there was an error inserting */
 		      $erra=mysql_error();
@@ -353,8 +357,41 @@ function processFile($Files,$filepointer) {
       echo "<br/>Personqueries: "; //debugging
       print_r($personQueries); //debugging 
 
-      //now run the queries
- 
+      /*********** Parse Places Mentioned in Text ***********/
+       //make sure the database is there first
+      $placeTableQuery="CREATE TABLE IF NOT EXISTS `mentioned_places` 
+	      (name VARCHAR(100), in_document VARCHAR(20), CONSTRAINT UNIQUE (name, in_document));"; //data structure for mentioned people
+      $myResult = @mysql_query($placeTableQuery); 
+      //standard error stuff
+      $erra=mysql_error();
+      if($erra) {
+	$line="<li>On create place table: ".$erra.".<br />Please contact the administrator immediately.</li></ol>";
+	echo $line;
+	fwrite($filepointer, $line);
+	return;					
+      }
+
+      $placeQueries=""; //create an empty string container
+      print_r($filename); 
+      if ($mentionedPlace) { 
+	      foreach ($mentionedPlace as $place) { 
+		      $placeQuery = "INSERT INTO mentioned_places (name, in_document) VALUES ('$place', '$filename')
+			      ON DUPLICATE KEY UPDATE name='$person',in_document='$filename'; "; 
+		      //FIXME: use document ID instead of filename? 
+		      //$personQueries.=$personQuery; //adds to string
+		      $myInsertResult = @mysql_query($placeQuery);
+		      /* see if there was an error inserting */
+		      $erra=mysql_error();
+		      if($erra) {
+			      $line="<li>On insert place: ".$erra.".<br />Please contact the administrator immediately.</li></ol>";
+			      echo $line;
+			      fwrite($filepointer, $line);
+			      return;					
+		      }
+	      } 
+      } 
+      echo "<br/>Placequeries: "; //debugging
+      print_r($placeQueries); //debugging 
       
       
       /* carry out the insert query */

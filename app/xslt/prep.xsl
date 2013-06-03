@@ -93,7 +93,7 @@
 					<xsl:value-of select="./@reg"/> <!-- use regularized name when possible --> 
 				</xsl:when>
 				<xsl:otherwise>
-					<xsl:apply-templates/> <!-- otherwise just get name in org tags --> 
+					<xsl:apply-templates/> <!-- otherwise just get name in person tags --> 
 				</xsl:otherwise>
 			</xsl:choose>
 		</mentionedOrganization>> 
@@ -101,7 +101,14 @@
 
 	<xsl:template match="place"> 
 		<mentionedPlace>
-			<xsl:apply-templates/> 
+			<xsl:choose>
+				<xsl:when test="./@reg">
+					<xsl:value-of select="./@reg"/> <!-- use regularized name when possible --> 
+				</xsl:when>
+				<xsl:otherwise>
+					<xsl:apply-templates/> <!-- otherwise just get name in place tags --> 
+				</xsl:otherwise>
+			</xsl:choose>
 		</mentionedPlace> 
 	</xsl:template> 
 	

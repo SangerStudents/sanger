@@ -114,7 +114,6 @@ function processFile($Files,$filepointer) {
       $journal= addslashes($journal);
     }
     $mentionedOrganization = addslashes($mentionedOrganization); 
-    $mentionedPerson = addslashes($mentionedPerson); 
     $mentionedPlace = addslashes($mentionedPlace); 
     $mentionedTitle = addslashes($mentionedTitle); 
 
@@ -127,10 +126,10 @@ function processFile($Files,$filepointer) {
     if($journal) {
       $journal= ereg_replace("\n", " ", $journal);
     }			
-    $mentionedOrganization = ereg_replace("\n", " ", $mentionedPlace);
-    $mentionedPerson = ereg_replace("\n", " ", $mentionedPlace);
+    $mentionedOrganization = ereg_replace("\n", " ", $mentionedOrganization);
+    $mentionedPerson = ereg_replace("\n", " ", $mentionedPerson);
     $mentionedPlace = ereg_replace("\n", " ", $mentionedPlace);
-    $mentionedTitle = ereg_replace("\n", " ", $mentionedPlace);
+    $mentionedTitle = ereg_replace("\n", " ", $mentionedTitle);
     
     /* trim the elements.  commenting on the obvious, anybody? */
     $type= trim($type);
@@ -140,6 +139,11 @@ function processFile($Files,$filepointer) {
     if ($journal) {
       $journal= trim($journal);
     }			
+    // Argh! So much typing! -JR
+    $mentionedOrganization = trim($mentionedPlace);
+    $mentionedPerson = trim($mentionedPerson);
+    $mentionedPlace = trim($mentionedPlace);
+    $mentionedTitle = trim($mentionedTitle);
     
     /* if date is empty or improperly formatted, add an error */
     if (empty($date)) {

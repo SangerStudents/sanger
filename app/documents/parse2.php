@@ -109,7 +109,7 @@ function processFile($Files,$filepointer) {
 
     /* add slashes to the data */
     //refactoring this
-    //$filename= addslashes($Files);
+    $filename= addslashes($Files); //this one needs to be done separately
     //$type= addslashes($type);
     //$date= addslashes($date);
     //$title= addslashes($title);
@@ -122,17 +122,19 @@ function processFile($Files,$filepointer) {
     //$mentionedTitle = addslashes($mentionedTitle); 
 
 	foreach ($metadata as $key => $value) { 
-		echo "<br/>old value:"; 
-		print_r($value); 
+		echo "<br/>old value:";  //debugging
+		print_r($value); //debugging  
 		if ($value) { 
 			$value=addslashes($value); 
 			$value=ereg_replace("\n", " ", $value);
 			$value=trim($value);
 		} 
-		echo "<br/>new value:"; 
-		print_r($value); 
+		echo "<br/>new value:"; //debugging  
+		print_r($value); //debugging  
 	} 
+	extract($metadata); //the array needs to become variables now so it can be accessed below
 
+    
     /* replace newline chars with spaces */			
     //$type= ereg_replace("\n", " ", $type);
     //$date= ereg_replace("\n", " ", $date);
@@ -308,6 +310,23 @@ function processFile($Files,$filepointer) {
         $query2 = $query2 . " ON DUPLICATE KEY UPDATE `filename` = '$filename', `title` = '$title', `date` = '$date', `doctype` = '$doctype_id', `body` = '$body'";
         /************************************************************************************/
     }
+
+      /* Now stuff to handle mentioned people, places, titles, etc! -JR */ 
+
+      //make sure the database is there first
+      $personTableQuery="CREATE IF NOT EXISTS `mentioned_people` (name VARCHAR(100), in_document VARCHAR(20));"; 
+
+      
+      $personQueries=array(); //create an empty array
+      if ($mentionedPerson) { 
+	      foreach ($mentionedPerson as $person) { 
+		      $personQuery = "INSERT INTO `mentioned_people` (`name`,`in_document`) VALUES ('$person', '$filename')"; 
+		      $personQueries[]=$personQuery; //adds to array
+	      } 
+      } 
+      echo "<br/>Personqueries: "; 
+      print_r($personQueries); 
+      
       
       /* carry out the insert query */
       $result2 = @mysql_query($query2);

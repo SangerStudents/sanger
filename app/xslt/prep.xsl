@@ -83,6 +83,15 @@
 		</mentionedPlace> 
 	</xsl:template> 
 
+	<xsl:template match="docBody//person"> 
+		<!-- Gets the regularized form of the people 
+		     mentioned in the body of the document 
+		     This will be tricky. person/@reg doesn't seem to work
+		     TODO: Figure out another way to get the regularized form. --> 
+		<mentionedPerson> 
+			<xsl:apply-templates/> 
+		</mentionedPerson> 
+	</xsl:template> 
 	
 <!-- End of stylesheet -->
 	

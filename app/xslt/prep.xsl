@@ -73,16 +73,23 @@
 		<xsl:apply-templates select="*"/> 
 	</xsl:template>
 
-	<xsl:template match="person"> 
+	<xsl:template match="person">  <!-- find people mentioned in text --> 
 		<mentionedPerson>
-			<xsl:apply-templates/> 
+			<xsl:choose>
+				<xsl:when test="./@reg">
+					<xsl:value-of select="./@reg"/> <!-- use regularized name when possible --> 
+				</xsl:when>
+				<xsl:otherwise>
+					<xsl:apply-templates/> <!-- otherwise just get name in person tags --> 
+				</xsl:otherwise>
+			</xsl:choose>
 		</mentionedPerson>> 
 	</xsl:template> 
 	
 	<xsl:template match="org"> 
 		<mentionedOrganization>
 			<xsl:apply-templates/> 
-		</mentionedOrganization> 
+		</mentionedOrganization>> 
 	</xsl:template> 
 
 	<xsl:template match="place"> 

@@ -64,44 +64,38 @@
 	<xsl:template match="headNote">
 		<xsl:copy-of select="."/>
 	</xsl:template>
-	
+
+
 	<xsl:template match="docBody">
 	<docBody>
-		<xsl:apply-templates/>
+		<xsl:value-of select="string(.)"/>
 	</docBody>
+		<xsl:apply-templates select="*"/> 
 	</xsl:template>
 
-	<xsl:template match="docBody//title"> <!-- Gets titles of works mentioned in the body of the document --> 
- 		<mentionedTitle> 
+	<xsl:template match="person"> 
+		<mentionedPerson>
 			<xsl:apply-templates/> 
-		</mentionedTitle> 	
-	</xsl:template> 
-
-	<xsl:template match="docBody//place"> <!-- Gets places mentioned in the body of the document --> 
-		<mentionedPlace> 
-			<xsl:apply-templates/> 
-		</mentionedPlace> 
-	</xsl:template> 
-
-	<xsl:template match="docBody//person"> 
-		<!-- Gets the regularized form of the people 
-		     mentioned in the body of the document 
-		     This will be tricky. person/@reg doesn't seem to work
-		     TODO: Figure out another way to get the regularized form. --> 
-		<mentionedPerson> 
-			<xsl:copy-of select="."/> <!-- this maintains the attributes by copying instead of transforming-->  
-		</mentionedPerson> 
+		</mentionedPerson>> 
 	</xsl:template> 
 	
-	<xsl:template match="docBody//org"> 
-		<!-- Gets organizations mentioned in the body of the document.
-		     Regular forms are stored in <reg> so there needs to be a way
-		     to get those attributes and store them somewhere.  --> 
-		<mentionedOrganization> 
-			<xsl:copy-of select="."/> <!-- this maintains the attributes by copying instead of transforming-->  
+	<xsl:template match="org"> 
+		<mentionedOrganization>
+			<xsl:apply-templates/> 
 		</mentionedOrganization> 
 	</xsl:template> 
 
+	<xsl:template match="place"> 
+		<mentionedPlace>
+			<xsl:apply-templates/> 
+		</mentionedPlace> 
+	</xsl:template> 
+	
+	<xsl:template match="title"> 
+		<mentionedTitle>
+			<xsl:apply-templates/> 
+		</mentionedTitle> 
+	</xsl:template> 
 <!-- End of stylesheet -->
 	
 </xsl:stylesheet>

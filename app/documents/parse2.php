@@ -63,6 +63,10 @@ function processFile($Files,$filepointer) {
     $title=null;
     $body=null;
     $journal=null;
+    $mentionedTitle=null; 
+    $mentionedPerson=null; 
+    $mentionedPlace=null; 
+    $mentionedOrganization=null; 
 	$indices[]=array();
 
 	$type=$xml['type'];
@@ -73,6 +77,21 @@ function processFile($Files,$filepointer) {
 	}
 	$body=$xml->docBody;
 	$title=$xml->docTitle;
+	$mentionedTitle=$xml->mentionedTitle; 
+	$mentionedPerson=$xml->mentionedPerson; 
+	$mentionedPlace=$xml->mentionedPlace; 
+	$mentionedOrganization=$xml->mentionedOrganization; 
+ 	
+	//debugging. Remove this. 
+ 	echo "<br/>stream is: ".$stream."<br/>"; 
+	echo "<br/>xml is: "; 
+	print_r($xml); 
+	echo "<br/>mentionedPlace is: "; 
+	print_r($mentionedPlace); 
+	echo "<br/>mentionedPerson is: "; 
+	print_r($mentionedPerson); 
+	echo "<br/>mentionedTitle is: "; 
+	print_r($mentionedTitle); 
 	
     $indexCounter=1;
 	foreach($xml->headNote->index AS $xml_index) {
@@ -94,6 +113,11 @@ function processFile($Files,$filepointer) {
     if ($journal) {
       $journal= addslashes($journal);
     }
+    $mentionedPlace = addslashes($mentionedPlace); 
+    $mentionedPerson = addslashes($mentionedPerson); 
+    $mentionedOrganization = addslashes($mentionedOrganization); 
+    $mentionedTitle = addslashes($mentionedPlace); 
+
     
     /* replace newline chars with spaces */			
     $type= ereg_replace("\n", " ", $type);

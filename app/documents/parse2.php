@@ -128,6 +128,7 @@ function processFile($Files,$filepointer) {
 			$value=addslashes($value); 
 			$value=ereg_replace("\n", " ", $value);
 			$value=trim($value);
+			//FIXME some of these are arrays and so this won't work!
 		} 
 		echo "<br/>new value:"; //debugging  
 		print_r($value); //debugging  
@@ -314,9 +315,18 @@ function processFile($Files,$filepointer) {
       /* Now stuff to handle mentioned people, places, titles, etc! -JR */ 
 
       //make sure the database is there first
-      $personTableQuery="CREATE IF NOT EXISTS `mentioned_people` (name VARCHAR(100), in_document VARCHAR(20));"; 
+      $personTableQuery="CREATE TABLE IF NOT EXISTS `mentioned_people` (name VARCHAR(100), in_document VARCHAR(20));"; 
+      $myResult = @mysql_query($personTableQuery); 
+      //standard error stuff
+      $erra=mysql_error();
+      if($erra) {
+	$line="<li>On insert: ".$erra.".<br />Please contact the administrator immediately.</li></ol>";
+	echo $line;
+	fwrite($filepointer, $line);
+	return;					
+      }
 
-      
+
       $personQueries=array(); //create an empty array
       if ($mentionedPerson) { 
 	      foreach ($mentionedPerson as $person) { 

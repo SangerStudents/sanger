@@ -342,7 +342,7 @@ function processFile($Files,$filepointer) {
 		      $personQuery = "INSERT INTO mentioned_people (name, in_document) VALUES ('$person', '$filename')
 			      ON DUPLICATE KEY UPDATE name='$person',in_document='$filename'; "; 
 		      //FIXME: use document ID instead of filename? 
-		      //FIXME: it's still not happy with duplicate entries
+		      //FIXME: it's still not happy with duplicate entres
 		      $myInsertResult = @mysql_query($personQuery);
 		      /* see if there was an error inserting */
 		      $erra=mysql_error();

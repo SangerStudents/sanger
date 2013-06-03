@@ -125,10 +125,13 @@ function processFile($Files,$filepointer) {
 		echo "<br/>old value:";  //debugging
 		print_r($value); //debugging  
 		if ($value) { 
+			if (is_array($value)) { //if it's an array, it's probably a list of extracted places or names
+				//actually don't do anthing to this yet 
+			} else {  
 			$value=addslashes($value); 
 			$value=ereg_replace("\n", " ", $value);
 			$value=trim($value);
-			//FIXME some of these are arrays and so this won't work!
+			} 
 		} 
 		echo "<br/>new value:"; //debugging  
 		print_r($value); //debugging  
@@ -315,12 +318,13 @@ function processFile($Files,$filepointer) {
       /* Now stuff to handle mentioned people, places, titles, etc! -JR */ 
 
       //make sure the database is there first
-      $personTableQuery="CREATE TABLE IF NOT EXISTS `mentioned_people` (name VARCHAR(100), in_document VARCHAR(20));"; 
+      $personTableQuery="CREATE TABLE IF NOT EXISTS `mentioned_people` 
+	      (name VARCHAR(100), in_document VARCHAR(20), CONSTRAINT UNIQUE (name, in_document));"; //data structure for mentioned people prevents duplicates
       $myResult = @mysql_query($personTableQuery); 
       //standard error stuff
       $erra=mysql_error();
       if($erra) {
-	$line="<li>On insert: ".$erra.".<br />Please contact the administrator immediately.</li></ol>";
+	$line="<li>On create table: ".$erra.".<br />Please contact the administrator immediately.</li></ol>";
 	echo $line;
 	fwrite($filepointer, $line);
 	return;					
@@ -331,9 +335,9 @@ function processFile($Files,$filepointer) {
       print_r($filename); 
       if ($mentionedPerson) { 
 	      foreach ($mentionedPerson as $person) { 
-		      $personQuery = "INSERT INTO mentioned_people (name, in_document) VALUES ('$person', '$filename'); "; 
+		      $personQuery = "INSERT INTO mentioned_people (name, in_document) VALUES ('$person', '$filename')
+			      ON DUPLICATE KEY UPDATE name='$person',in_document='$filename'; "; 
 		      //FIXME: use document ID instead of filename? 
-		      //FIXME: find some way to disable duplicates 
 		      //$personQueries.=$personQuery; //adds to string
 		      $myInsertResult = @mysql_query($personQuery);
 		      /* see if there was an error inserting */

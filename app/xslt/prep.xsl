@@ -77,6 +77,13 @@
 		</mentionedTitle> 	
 	</xsl:template> 
 
+	<xsl:template match="docBody//place"> <!-- Gets places mentioned in the body of the document --> 
+		<mentionedPlace> 
+			<xsl:apply-templates/> 
+		</mentionedPlace> 
+	</xsl:template> 
+
+	
 <!-- End of stylesheet -->
 	
 </xsl:stylesheet>

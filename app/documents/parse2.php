@@ -81,8 +81,11 @@ function processFile($Files,$filepointer) {
 	$mentionedPerson=$xml->mentionedPerson; 
 	$mentionedPlace=$xml->mentionedPlace; 
 	$mentionedOrganization=$xml->mentionedOrganization; 
+	    $metadata=array('type'=>$type,'date'=>$date,'title'=>$title,'body'=>$body,'journal'=>$journal,'mentionedTitle'=>$mentionedTitle,'mentionedPerson'=>$mentionedPerson,'mentionedPlace'=>$mentionedPlace,'mentionedOrganization'=>$mentionedOrganization); 
  	
 	//debugging. Remove this. 
+	echo "<br/>metadata is: "; 
+	print_r($metadata); 
  	echo "<br/>stream is: ".$stream."<br/>"; 
 	echo "<br/>xml is: "; 
 	print_r($xml); 
@@ -105,46 +108,58 @@ function processFile($Files,$filepointer) {
 	
 
     /* add slashes to the data */
-    $filename= addslashes($Files);
-    $type= addslashes($type);
-    $date= addslashes($date);
-    $title= addslashes($title);
-    $body= addslashes($body);
-    if ($journal) {
-      $journal= addslashes($journal);
-    }
-    $mentionedOrganization = addslashes($mentionedOrganization); 
-    $mentionedPlace = addslashes($mentionedPlace); 
-    $mentionedTitle = addslashes($mentionedTitle); 
+    //refactoring this
+    //$filename= addslashes($Files);
+    //$type= addslashes($type);
+    //$date= addslashes($date);
+    //$title= addslashes($title);
+    //$body= addslashes($body);
+    //if ($journal) {
+    //  $journal= addslashes($journal);
+    //}
+    //$mentionedOrganization = addslashes($mentionedOrganization); 
+    //$mentionedPlace = addslashes($mentionedPlace); 
+    //$mentionedTitle = addslashes($mentionedTitle); 
 
-    
+	foreach ($metadata as $key => $value) { 
+		echo "<br/>old value:"; 
+		print_r($value); 
+		if ($value) { 
+			$value=addslashes($value); 
+			$value=ereg_replace("\n", " ", $value);
+			$value=trim($value);
+		} 
+		echo "<br/>new value:"; 
+		print_r($value); 
+	} 
+
     /* replace newline chars with spaces */			
-    $type= ereg_replace("\n", " ", $type);
-    $date= ereg_replace("\n", " ", $date);
-    $title= ereg_replace("\n", " ", $title);
-    $body= ereg_replace("\n", " ", $body);
-    if($journal) {
-      $journal= ereg_replace("\n", " ", $journal);
-    }			
-    $mentionedOrganization = ereg_replace("\n", " ", $mentionedOrganization);
-    $mentionedPerson = ereg_replace("\n", " ", $mentionedPerson);
-    $mentionedPlace = ereg_replace("\n", " ", $mentionedPlace);
-    $mentionedTitle = ereg_replace("\n", " ", $mentionedTitle);
-    
-    /* trim the elements.  commenting on the obvious, anybody? */
-    $type= trim($type);
-    $date= trim($date);
-    $title= trim($title);
-    $body= trim($body);
-    if ($journal) {
-      $journal= trim($journal);
-    }			
-    // Argh! So much typing! -JR
-    $mentionedOrganization = trim($mentionedPlace);
-    $mentionedPerson = trim($mentionedPerson);
-    $mentionedPlace = trim($mentionedPlace);
-    $mentionedTitle = trim($mentionedTitle);
-    
+    //$type= ereg_replace("\n", " ", $type);
+    //$date= ereg_replace("\n", " ", $date);
+    //$title= ereg_replace("\n", " ", $title);
+    //$body= ereg_replace("\n", " ", $body);
+    //if($journal) {
+    //  $journal= ereg_replace("\n", " ", $journal);
+    //}			
+    //$mentionedOrganization = ereg_replace("\n", " ", $mentionedOrganization);
+    //$mentionedPerson = ereg_replace("\n", " ", $mentionedPerson);
+    //$mentionedPlace = ereg_replace("\n", " ", $mentionedPlace);
+    //$mentionedTitle = ereg_replace("\n", " ", $mentionedTitle);
+  //  
+  //  /* trim the elements.  commenting on the obvious, anybody? */
+  //  $type= trim($type);
+  //  $date= trim($date);
+  //  $title= trim($title);
+  //  $body= trim($body);
+  //  if ($journal) {
+  //    $journal= trim($journal);
+  //  }			
+  //  // Argh! So much typing! -JR
+  //  $mentionedOrganization = trim($mentionedPlace);
+  //  $mentionedPerson = trim($mentionedPerson);
+  //  $mentionedPlace = trim($mentionedPlace);
+  //  $mentionedTitle = trim($mentionedTitle);
+
     /* if date is empty or improperly formatted, add an error */
     if (empty($date)) {
       $error[]="No document date in &gt;docdate value=\"\"&gt;";

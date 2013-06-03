@@ -89,10 +89,19 @@
 		     This will be tricky. person/@reg doesn't seem to work
 		     TODO: Figure out another way to get the regularized form. --> 
 		<mentionedPerson> 
-			<xsl:apply-templates/> 
+			<xsl:copy-of select="."/> <!-- this maintains the attributes by copying instead of transforming-->  
 		</mentionedPerson> 
 	</xsl:template> 
 	
+	<xsl:template match="docBody//org"> 
+		<!-- Gets organizations mentioned in the body of the document.
+		     Regular forms are stored in <reg> so there needs to be a way
+		     to get those attributes and store them somewhere.  --> 
+		<mentionedOrganization> 
+			<xsl:copy-of select="."/> <!-- this maintains the attributes by copying instead of transforming-->  
+		</mentionedOrganization> 
+	</xsl:template> 
+
 <!-- End of stylesheet -->
 	
 </xsl:stylesheet>

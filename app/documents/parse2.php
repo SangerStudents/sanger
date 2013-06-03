@@ -113,10 +113,10 @@ function processFile($Files,$filepointer) {
     if ($journal) {
       $journal= addslashes($journal);
     }
-    $mentionedPlace = addslashes($mentionedPlace); 
-    $mentionedPerson = addslashes($mentionedPerson); 
     $mentionedOrganization = addslashes($mentionedOrganization); 
-    $mentionedTitle = addslashes($mentionedPlace); 
+    $mentionedPerson = addslashes($mentionedPerson); 
+    $mentionedPlace = addslashes($mentionedPlace); 
+    $mentionedTitle = addslashes($mentionedTitle); 
 
     
     /* replace newline chars with spaces */			
@@ -127,6 +127,10 @@ function processFile($Files,$filepointer) {
     if($journal) {
       $journal= ereg_replace("\n", " ", $journal);
     }			
+    $mentionedOrganization = ereg_replace("\n", " ", $mentionedPlace);
+    $mentionedPerson = ereg_replace("\n", " ", $mentionedPlace);
+    $mentionedPlace = ereg_replace("\n", " ", $mentionedPlace);
+    $mentionedTitle = ereg_replace("\n", " ", $mentionedPlace);
     
     /* trim the elements.  commenting on the obvious, anybody? */
     $type= trim($type);

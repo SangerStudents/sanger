@@ -326,16 +326,31 @@ function processFile($Files,$filepointer) {
 	return;					
       }
 
-
-      $personQueries=array(); //create an empty array
+      $personQueries=""; //create an empty string container
+      echo "<br/>FILENAME!!!!!!!!!!: "; 
+      print_r($filename); 
       if ($mentionedPerson) { 
 	      foreach ($mentionedPerson as $person) { 
-		      $personQuery = "INSERT INTO `mentioned_people` (`name`,`in_document`) VALUES ('$person', '$filename')"; 
-		      $personQueries[]=$personQuery; //adds to array
+		      $personQuery = "INSERT INTO mentioned_people (name, in_document) VALUES ('$person', '$filename'); "; 
+		      //FIXME: use document ID instead of filename? 
+		      //FIXME: find some way to disable duplicates 
+		      //$personQueries.=$personQuery; //adds to string
+		      $myInsertResult = @mysql_query($personQuery);
+		      /* see if there was an error inserting */
+		      $erra=mysql_error();
+		      if($erra) {
+			      $line="<li>On insert: ".$erra.".<br />Please contact the administrator immediately.</li></ol>";
+			      echo $line;
+			      fwrite($filepointer, $line);
+			      return;					
+		      }
 	      } 
       } 
-      echo "<br/>Personqueries: "; 
-      print_r($personQueries); 
+      echo "<br/>Personqueries: "; //debugging
+      print_r($personQueries); //debugging 
+
+      //now run the queries
+ 
       
       
       /* carry out the insert query */

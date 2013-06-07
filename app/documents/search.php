@@ -444,7 +444,11 @@ echo "					</td>
 							<option value=''></option>\n"; 
 	//php here
 	while ($row4a = mysql_fetch_array($result4a)) { 
+<<<<<<< HEAD
 		echo " 					<option value="$id">$name</option> 
+=======
+		echo " 					<option value="$id">$name</option> "; 
+>>>>>>> 1a563319d3371ef9d6e90c0169fdeb4ead6d546b
 	} 
 	echo " 
 							<!--loop over mentioned places here-->  

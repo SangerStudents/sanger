@@ -370,8 +370,9 @@ if(!$_POST[submit1] && !$_POST[submit2] && !isset($_GET[num_pages]) && !isset($_
 				  
 	 while ($row3a = mysql_fetch_array($result3a)) //this is the part that populates the journal titles list
 
-	{
-		extract($row3a);
+	 {       // this part moves "the" or "a" to the ends of titles. 
+		 // they've already been sorted this way in the mysql command above. 
+		extract($row3a); //break apart the array into variables 
 		$splitTitle = explode(' ',$title); // split by spaces
 		if ($splitTitle[0] == "The" || $splitTitle[0] == "A") { 
 			$the_or_a=$splitTitle[0]; 
@@ -428,6 +429,72 @@ echo "					</td>
 							&nbsp;
 						</td>
 				</tr>
+				<tr> <!-- mentioned places -JR --> 
+					<td class=\"searchLabelCell\"> 
+						<b>mentioned place:</b> 
+					</td> 
+					<td> 
+						<select name=\"mentionedPlace\" style=\"width: 400px;\"> 
+							<option value=''></option>\n
+							<!--loop over mentioned places here-->  
+						</select> 
+					</td> 
+				</tr>  
+				<tr>
+					<td>
+						&nbsp; 
+					</td>
+				</tr>
+				<tr> <!-- mentioned person -JR --> 
+					<td class=\"searchLabelCell\"> 
+						<b>mentioned person:</b> 
+					</td> 
+					<td> 
+						<select name=\"mentionedPerson\" style=\"width: 400px;\"> 
+							<option value=''></option>\n
+							<!--loop over mentioned people here-->  
+						</select> 
+					</td> 
+				</tr>  
+				<tr>
+					<td>
+						&nbsp; 
+					</td>
+				</tr>
+				<tr> <!-- mentioned organization -JR --> 
+					<td class=\"searchLabelCell\"> 
+						<b>mentioned organization:</b> 
+					</td> 
+					<td> 
+						<select name=\"mentionedOrganization\" style=\"width: 400px;\"> 
+							<option value=''></option>\n
+							<!--loop over mentioned organization here-->  
+						</select> 
+					</td> 
+				</tr>  
+				<tr>
+					<td>
+						&nbsp; 
+					</td>
+				</tr>
+				<tr> <!-- mentioned title -JR --> 
+					<td class=\"searchLabelCell\"> 
+						<b>mentioned title:</b> 
+					</td> 
+					<td> 
+						<select name=\"mentionedTitle\" style=\"width: 400px;\"> 
+							<option value=''></option>\n
+							<!--loop over mentioned titles here-->  
+						</select> 
+					</td> 
+				</tr>  
+				<tr>
+					<td>
+						&nbsp; 
+					</td>
+				</tr>
+
+
 				<tr>
 						<td class=\"searchLabelCell\">
 							&nbsp;

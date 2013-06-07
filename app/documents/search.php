@@ -2,6 +2,8 @@
 session_start();
 include("../includes/header.php");
 
+//include("dblayer3.php"); //include my db layer --JR
+
 //debugging
 error_reporting(E_ALL);
 ini_set('display_errors', '1');

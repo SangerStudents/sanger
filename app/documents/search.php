@@ -445,9 +445,9 @@ echo "					</td>
 						<select name=\"mentionedPlace\" style=\"width: 400px;\"> 
 							<option value=''></option>\n"; 
 	//php here
-	while ($row4a = mysql_fetch_array($result4a)) { 
-		echo " 					<option value="$id">$name</option> "; 
-	} 
+	//while ($row4a = mysql_fetch_array($result4a)) { 
+//		echo " 					<option value="$id">$name</option> "; 
+//	} 
 	echo " 
 							<!--loop over mentioned places here-->  
 						</select> 

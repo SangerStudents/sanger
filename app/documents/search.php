@@ -22,6 +22,12 @@ if(!$_POST[submit1] && !$_POST[submit2] && !isset($_GET[num_pages]) && !isset($_
 	$result3a= mysql_query($query3a)
 		or die ("could not execute query # 3a");
 
+	//get mentioned places list from database
+	$query4a="SELECT DISTINCT `name` from `mentioned_places`"; 
+	$result4a= mysql_query($query4a) 
+		or die ("could not execute query # 4a"); 
+
+
 
         echo "<br />                                                                                                                                                                                        
                 <div style=\"font-size: 16px; font-weight: bold\">Search the Web Edition</div>                                                                                                              
@@ -435,7 +441,12 @@ echo "					</td>
 					</td> 
 					<td> 
 						<select name=\"mentionedPlace\" style=\"width: 400px;\"> 
-							<option value=''></option>\n
+							<option value=''></option>\n"; 
+	//php here
+	while ($row4a = mysql_fetch_array($result4a)) { 
+		echo " 					<option value="$id">$name</option>";  
+	} 
+	echo " 
 							<!--loop over mentioned places here-->  
 						</select> 
 					</td> 
@@ -452,7 +463,7 @@ echo "					</td>
 					<td> 
 						<select name=\"mentionedPerson\" style=\"width: 400px;\"> 
 							<option value=''></option>\n
-							<!--loop over mentioned people here-->  
+							<!--loop over mentioned places here-->  
 						</select> 
 					</td> 
 				</tr>  

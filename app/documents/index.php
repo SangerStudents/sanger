@@ -2,13 +2,7 @@
 session_start();
 include("../includes/header.php");
 
-$host="localhost";
-$database="sanger";
-$connection = @mysql_connect($host, "sanger_user", "sangert3st3r!")
-	or die ("couldn't connect to the server - please report this problem to <a href='mailto:humanities.computing@nyu.edu'>the administrator</a> immediately.");
-$db = @mysql_select_db($database, $connection)
-	or die ("couldn't select database - please report this problem to <a href='mailto:humanities.computing@nyu.edu'>the administrator</a> immediately.");
-		
+include("dblayer3.php");  	
 
 if(!$_POST[submit1] && !$_POST[submit2] && !isset($_GET[num_pages])) {
 	session_unset();

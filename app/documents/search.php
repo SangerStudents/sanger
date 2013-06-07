@@ -2,18 +2,11 @@
 session_start();
 include("../includes/header.php");
 
-//include("dblayer3.php"); //include my db layer --JR
+include("dblayer3.php"); //include my db layer --JR
 
 //debugging
 error_reporting(E_ALL);
 ini_set('display_errors', '1');
-
-$host="localhost";
-$database="sanger";
-$connection = @mysql_connect($host, "sanger_user", "sangert3st3r!")
-	or die ("couldn't connect to the server - please report this problem to <a href='mailto:humanities.computing@nyu.edu'>the administrator</a> immediately.");
-$db = @mysql_select_db($database, $connection)
-	or die ("couldn't select database - please report this problem to <a href='mailto:humanities.computing@nyu.edu'>the administrator</a> immediately.");
 
 if(!$_POST[submit1] && !$_POST[submit2] && !isset($_GET[num_pages]) && !isset($_GET[journal]) && !isset($_GET[subject])) { //this is the input page 
 	session_unset();

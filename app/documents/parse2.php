@@ -631,13 +631,7 @@ function remUnusedIndices() {
 *****************/
 if($_POST['parse']) {
 /* connect to database */
-$host="localhost";
-$database="sanger";
-$connection = @mysql_connect($host, "sanger_user2", "sanger2t3st3r!");
-if (!$connection) {
-  fwrite ($filepointer, "\n<p>couldn't connect to the mysql server - please report this problem to <a href='mailto:humanities.computing@nyu.edu'> the administrator</a> immediately.</p>\n");
-  fclose ($filepointer);
-  die();
+	include("dblayer4.php"); 
 }
 
 $db = @mysql_select_db($database, $connection)

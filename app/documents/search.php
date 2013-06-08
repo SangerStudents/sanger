@@ -697,13 +697,14 @@ else {
 			/* Finally, add the doctype to the query string */
 			$query .= "journal=$journal ";
 		}
-		/* If the user specified a mentioned place, then include that in the query */ 
+		/* If the user specified a mentioned place, then include that in the query -JR */ 
 		if($mentionedPlace) { 
 			$mpQuery = "SELECT `in_document` as in_document FROM `mentioned_places` WHERE name=$mentionedPlace"; 
 			$result=mysql_query($mpQuery) or die("Mentioned place query failed.");
 			$row=mysql_fetch_array($result);
 			extract($row);
-			$_SESSION['search_values'].="<li>mentioned place=\"$mentioned_place\"</li>"; 
+
+			$_SESSION['search_values'].="<li>mentioned place=\"$mentionedPlace\"</li>"; 
 
 //			/* If a title preceeded the doctype set, then add "and" to the query */
 //			if($title || $body || $doctype_set) {
@@ -829,6 +830,20 @@ else {
 				$query .= "docs_cat".$i.".cat_id=\"$category[$i]\" and docs_cat".$i.".doc_id=documents.id ";
 			}
 		}
+
+		//Handle subject search from URL parameters
+		if($_GET['subject']) { 
+			$subjectID = $_GET['subject']; 
+			echo "<p>I see you've passed a subject parameter. Well done, old chap!</p>"; 
+			echo "<p>Using $subjectID as subject ID.</p>"; 
+			$catNameQuery = "SELECT name AS cat_name FROM test_cat WHERE id=$subjectID";
+			$result=mysql_query($catNameQuery)
+				or die("Subject name URL parameter query failed.");
+			$row=mysql_fetch_array($result);
+			extract($row);
+			$_SESSION['search_values'].="<li>subject index ".($i+1)."=\"$cat_name\"</li>"; 
+			$query .= ", documents_category AS docs_cat0 where docs_cat0.cat_id=\"$subjectID\" and docs_cat0.doc_id=documents.id "; //I don't know why this works but it does
+		} 
 		$query .= " and documents.doctype=doctypes.id ";
 		
 		// Handle Basic Search
@@ -864,7 +879,7 @@ else {
 			}
 			$result = mysql_query($query) //this is the actual query
 
-			or die ("Query failed.  Please contact <a href='mailto:humanities.computing@nyu.edu'>the administrator</a> immediately.");
+			or die ("<p>Query failed.  Please contact <a href='mailto:humanities.computing@nyu.edu'>the administrator</a> immediately.</p>");
 			$num_results = @mysql_num_rows ($result);
 
 			if($num_results>$display_number) {

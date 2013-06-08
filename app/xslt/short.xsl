@@ -142,10 +142,13 @@
 	
 	<xsl:template match="index">
 		<li>
-			<a href=""><!--links here!--><xsl:apply-templates select="@level1"/>
+			<a>
+				<xsl:attribute name="href">?subject="<xsl:value-of select="@level1"/>"</xsl:attribute> 
+				<xsl:apply-templates select="@level1"/>
+			</a>
 			<xsl:apply-templates select="@level2"/>
 			<xsl:apply-templates select="@level3"/>
-			<xsl:apply-templates select="@level4"/></a> 
+			<xsl:apply-templates select="@level4"/>
 		</li>
 	</xsl:template>
 	

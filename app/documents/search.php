@@ -19,13 +19,19 @@ if(!$_POST[submit1] && !$_POST[submit2] && !isset($_GET[num_pages]) && !isset($_
 
 	//get mentioned places list from database
 	$query4a="SELECT DISTINCT `name` from `mentioned_places`"; 
-	$result4a= mysql_query($query4a) 
-		or die ("could not execute query # 4a"); 
-//	while ($row4a = mysql_fetch_array($result4a)) {  /* debugging */ 
-//		extract($row4a); 
-//		echo $name ; 
-//	} 
+	$result4a= mysql_query($query4a);  // won't die if there are no mentioned places yet
 
+	//get mentioned people
+	$query5a="SELECT DISTINCT `name` from `mentioned_people`"; 
+	$result5a= mysql_query($query5a); 
+
+	//get mentioned organizations
+	$query6a="SELECT DISTINCT `name` from `mentioned_organizations`"; 
+	$result6a= mysql_query($query6a); 
+
+	//get mentioned titles
+	$query7a="SELECT DISTINCT `name` from `mentioned_titles`"; 
+	$result7a= mysql_query($query7a); 
 
         echo "<br />                                                                                                                                                                                        
                 <div style=\"font-size: 16px; font-weight: bold\">Search the Web Edition</div>                                                                                                              
@@ -440,7 +446,6 @@ echo "					</td>
 					<td> 
 						<select name=\"mentionedPlace\" style=\"width: 400px;\"> 
 							<option value=''></option>\n"; 
-	//php here
 	while ($row4a = mysql_fetch_array($result4a)) { 
 		extract($row4a); 
 		echo "                                  <option value='$name'>$name</option> "; 
@@ -460,8 +465,12 @@ echo "					</td>
 					</td> 
 					<td> 
 						<select name=\"mentionedPerson\" style=\"width: 400px;\"> 
-							<option value=''></option>\n
-							<!--loop over mentioned places here-->  
+							<option value=''></option>\n"; 
+	while ($row5a = mysql_fetch_array($result5a)) { 
+		extract($row5a); 
+		echo "                                  <option value='$name'>$name</option> "; 
+	} 
+	echo " 
 						</select> 
 					</td> 
 				</tr>  
@@ -476,8 +485,12 @@ echo "					</td>
 					</td> 
 					<td> 
 						<select name=\"mentionedOrganization\" style=\"width: 400px;\"> 
-							<option value=''></option>\n
-							<!--loop over mentioned organization here-->  
+							<option value=''></option>\n"; 
+	while ($row6a = mysql_fetch_array($result6a)) { 
+		extract($row6a); 
+		echo "                                  <option value='$name'>$name</option> "; 
+	} 
+	echo " 
 						</select> 
 					</td> 
 				</tr>  
@@ -492,8 +505,12 @@ echo "					</td>
 					</td> 
 					<td> 
 						<select name=\"mentionedTitle\" style=\"width: 400px;\"> 
-							<option value=''></option>\n
-							<!--loop over mentioned titles here-->  
+							<option value=''></option>\n"; 
+	while ($row7a = mysql_fetch_array($result7a)) { 
+		extract($row7a); 
+		echo "                                  <option value='$name'>$name</option> "; 
+	} 
+	echo " 
 						</select> 
 					</td> 
 				</tr>  

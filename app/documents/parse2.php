@@ -342,7 +342,7 @@ function processFile($Files,$filepointer) {
 
       if ($mentionedPerson) { 
 	      foreach ($mentionedPerson as $person) { 
-		      $person=trim($person); 
+		      $person=trim($person); //this cleaning doesn't help because the trouble is in the database, and the sorting happens on the database query
 		      $person=preg_replace( '/\s+/', ' ', $person); //remove interior whitespace
 		      $personQuery = "INSERT INTO mentioned_people (name, in_document) VALUES ('$person', '$filename')
 			      ON DUPLICATE KEY UPDATE name='$person',in_document='$filename'; "; 

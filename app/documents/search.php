@@ -18,19 +18,19 @@ if(!$_POST[submit1] && !$_POST[submit2] && !isset($_GET[num_pages]) && !isset($_
 		or die ("could not execute query # 3a");
 
 	//get mentioned places list from database
-	$query4a="SELECT DISTINCT `name` from `mentioned_places`"; 
+	$query4a="SELECT DISTINCT `name` from `mentioned_places` ORDER BY `name`"; 
 	$result4a= mysql_query($query4a);  // won't die if there are no mentioned places yet
 
 	//get mentioned people
-	$query5a="SELECT DISTINCT `name` from `mentioned_people`"; 
+	$query5a="SELECT DISTINCT `name` from `mentioned_people` ORDER BY `name`"; 
 	$result5a= mysql_query($query5a); 
 
 	//get mentioned organizations
-	$query6a="SELECT DISTINCT `name` from `mentioned_organizations`"; 
+	$query6a="SELECT DISTINCT `name` from `mentioned_organizations` ORDER BY `name`"; 
 	$result6a= mysql_query($query6a); 
 
 	//get mentioned titles
-	$query7a="SELECT DISTINCT `name` from `mentioned_titles`"; 
+	$query7a="SELECT DISTINCT `name` from `mentioned_titles` ORDER BY `name`"; 
 	$result7a= mysql_query($query7a); 
 
         echo "<br />                                                                                                                                                                                        
@@ -507,7 +507,7 @@ echo "					</td>
 						<select name=\"mentionedTitle\" style=\"width: 400px;\"> 
 							<option value=''></option>\n"; 
 	while ($row7a = mysql_fetch_array($result7a)) { 
-		extract($row7a); 
+		extract($row6a); 
 		echo "                                  <option value='$name'>$name</option> "; 
 	} 
 	echo " 

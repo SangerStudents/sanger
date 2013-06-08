@@ -634,7 +634,29 @@ else {
 				$doctype_set .= ")";
 			}
 		}
-	
+
+		//check for URL subject search parameters and plug them in 
+		if($_GET['subject']) { 
+			$category=array(); //empty out category first. URL params override POST
+			$subject=$_GET['subject']; 
+			$subjectLookupQuery="SELECT id AS subjectID FROM test_cat WHERE parent_id=0 and name=$subject;"; //look up subject ID using subject name
+			$subjectLookupResult=mysql_query($subjectLookupQuery) or die("<p>Couldn't find subject name in database.</p>");  
+			$myResult=mysql_fetch_array($subjectLookupResult); 
+			$subjectID=$myResult[0]; 
+			echo "Subject ID is: ".$subjectID; 
+			$category[]=$subjectID; //add or push to array
+			if($_GET['subject2']) { 
+				$parentSubjectID=$subjectID; //assign previous $subject to new variable parentSubject
+				$subject=$_GET['subject2']; 
+				$subjectLookupQuery="SELECT id AS subjectID FROM test_cat WHERE parent_id=$parentSubjectID and name=$subject;"; //look up subject ID using subject name
+				$subjectLookupResult=mysql_query($subjectLookupQuery) or die("<p>Couldn't find subject 2 name in database.</p>");  
+				$myResult=mysql_fetch_array($subjectLookupResult); 
+				$subjectID=$myResult[0]; 
+				echo "Subject ID is: ".$subjectID; 
+				$category[]=$subjectID; //add or push to array
+			} 
+		}
+
 		$query .= "select distinct filename, title, date, type from documents, doctypes";
 		if(sizeof($category)>0) {
 			for($i=0;$i<sizeof($category);$i++) {
@@ -810,6 +832,9 @@ else {
 			
 			}
 		}
+		 
+			echo "Category is: "; 
+			print_r($category); 
 		if(sizeof($category)>0) {
 			if($date1 || $doctype_set || $title || $body || $journal) {
 				$query .= "and ";
@@ -832,21 +857,32 @@ else {
 		}
 
 		//Handle subject search from URL parameters
-		if($_GET['subject']) { 
-			$subject = $_GET['subject']; 
-			$subjectLookupQuery="SELECT id AS subjectID FROM test_cat WHERE parent_id=0 and name=$subject;"; //look up subject ID using subject name
-			$subjectLookupResult=mysql_query($subjectLookupQuery) or die("<p>Couldn't find subject name in database.</p>");  
-			$myResult=mysql_fetch_array($subjectLookupResult); 
-			$subjectID=$myResult[0]; 
-
-			$catNameQuery = "SELECT name AS cat_name FROM test_cat WHERE id=$subjectID";
-			$result=mysql_query($catNameQuery)
-				or die("Subject name URL parameter query failed.");
-			$row=mysql_fetch_array($result);
-			extract($row);
-			$_SESSION['search_values'].="<li>subject index ".($i+1)."=\"$cat_name\"</li>"; 
-			$query .= ", documents_category AS docs_cat0 where docs_cat0.cat_id=\"$subjectID\" and docs_cat0.doc_id=documents.id "; //I don't know why this works but it does
-		} 
+		//so much code going to waste
+//		if($_GET['subject']) { 
+//			$subject = $_GET['subject']; 
+//			$subjectLookupQuery="SELECT id AS subjectID FROM test_cat WHERE parent_id=0 and name=$subject;"; //look up subject ID using subject name
+//			$subjectLookupResult=mysql_query($subjectLookupQuery) or die("<p>Couldn't find subject name in database.</p>");  
+//			$myResult=mysql_fetch_array($subjectLookupResult); 
+//			$subjectID=$myResult[0]; 
+//// aaaah! factor this into a loop like the code above!
+//			if($_GET['subject2']) { 
+//				$subject2 = $_GET['subject2']; 
+//				//make sure the second subject is in the database
+//				$subject2LookupQuery="SELECT id AS subjectID FROM test_cat WHERE parent_id=$subjectID and name=$subject2;"; //look up subject ID using subject name
+//				$subject2LookupResult=mysql_query($subject2LookupQuery) or die("<p>Couldn't find subject 2 name in database.</p>");  
+//				$myResult=mysql_fetch_array($subject2LookupResult); 
+//				$subject2ID=$myResult[0]; 
+//				
+//				//now get the ID of the second subject and return associated documents
+//				$_SESSION['search_values'].="<li>subject index ".($i+1)."=\"$cat_name\"</li>"; 
+//			} 
+//			$catNameQuery = "SELECT name AS cat_name FROM test_cat WHERE id=$subjectID";
+//			$result=mysql_query($catNameQuery)
+//				or die("Subject name URL parameter query failed.");
+//			$row=mysql_fetch_array($result);
+//			extract($row);
+//			$query .= ", documents_category AS docs_cat0 where docs_cat0.cat_id=\"$subjectID\" and docs_cat0.doc_id=documents.id "; //I don't know why this works but it does
+//		} 
 		$query .= " and documents.doctype=doctypes.id ";
 		
 		// Handle Basic Search

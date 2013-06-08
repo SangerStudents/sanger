@@ -1,9 +1,9 @@
 <?php
 
 //enable error reports for debugging
-error_reporting(E_ALL);
-ini_set('display_errors', '1');
-debug_print_backtrace();
+//error_reporting(E_ALL);
+//ini_set('display_errors', '1');
+//debug_print_backtrace();
 
 /*$filepointer;
 */
@@ -81,7 +81,9 @@ function processFile($Files,$filepointer) {
 	$mentionedPerson=$xml->mentionedPerson; 
 	$mentionedPlace=$xml->mentionedPlace; 
 	$mentionedOrganization=$xml->mentionedOrganization; 
-	    $metadata=array('type'=>$type,'date'=>$date,'title'=>$title,'body'=>$body,'journal'=>$journal,'mentionedTitle'=>$mentionedTitle,'mentionedPerson'=>$mentionedPerson,'mentionedPlace'=>$mentionedPlace,'mentionedOrganization'=>$mentionedOrganization); 
+	$metadata=array('type'=>$type,'date'=>$date,'title'=>$title,'body'=>$body,'journal'=>$journal);
+	//	disabling cleaning of mentions because it seems to be causing problems with the database processing
+       //	,'mentionedTitle'=>$mentionedTitle,'mentionedPerson'=>$mentionedPerson,'mentionedPlace'=>$mentionedPlace,'mentionedOrganization'=>$mentionedOrganization); 
  	
 	//debugging. Remove this. 
 	echo "<br/>metadata is: "; 
@@ -126,7 +128,6 @@ function processFile($Files,$filepointer) {
 		print_r($value); //debugging  
 		if ($value) { 
 			if (is_array($value)) { //if it's an array, it's probably a list of extracted places or names
-				//actually don't do anthing to this yet 
 				foreach ($value as $valuePiece) { 
 					$valuePiece = preg_replace( '/\s+/', ' ', $valuePiece ); //cleans up interior whitespace				
 				} 
@@ -138,6 +139,7 @@ function processFile($Files,$filepointer) {
 		} 
 		echo "<br/>new value:"; //debugging  
 		print_r($value); //debugging  
+		$metadata[$key]=$value; //store the new value back in the array 
 	} 
 	extract($metadata); //the array needs to become variables now so it can be accessed below
 
@@ -343,6 +345,7 @@ function processFile($Files,$filepointer) {
 			      ON DUPLICATE KEY UPDATE name='$person',in_document='$filename'; "; 
 		      //FIXME: use document ID instead of filename? 
 		      //FIXME: it's still not happy with duplicate entres
+		      echo "Person query is: ".$personQuery; 
 		      $myInsertResult = @mysql_query($personQuery);
 		      /* see if there was an error inserting */
 		      $erra=mysql_error();
@@ -354,8 +357,8 @@ function processFile($Files,$filepointer) {
 		      }
 	      } 
       } 
-      echo "<br/>Personqueries: "; //debugging
-      print_r($personQueries); //debugging 
+//      echo "<br/>Personqueries: "; //debugging
+//      print_r($personQueries); //debugging 
 
       /*********** Parse Places Mentioned in Text ***********/
        //make sure the database is there first
@@ -557,7 +560,7 @@ function processFile($Files,$filepointer) {
           $destination = "../../xml_added/".$Files;
           $move_file_err = rename($source,$destination);
 	  if($move_file_err) {
-	    $line="</ol></p><b>Success</b4>: processed and moved file " . $Files . "</p>\n";
+	    $line="</ol></p><b>Success</b>: processed and moved file " . $Files . "</p>\n";
 	    echo $line;
 	    fwrite ($filepointer, $line);
 	  }

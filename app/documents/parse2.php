@@ -376,14 +376,15 @@ function processFile($Files,$filepointer) {
       if ($mentionedPlace) { 
 	      foreach ($mentionedPlace as $place) { 
 		      $placeQuery = "INSERT INTO mentioned_places (name, in_document) VALUES ('$place', '$filename')
-			      ON DUPLICATE KEY UPDATE name='$person',in_document='$filename'; "; 
+			      ON DUPLICATE KEY UPDATE name='$place',in_document='$filename'; "; 
 		      //FIXME: use document ID instead of filename? 
 		      //$personQueries.=$personQuery; //adds to string
 		      $myInsertResult = @mysql_query($placeQuery);
 		      /* see if there was an error inserting */
 		      $erra=mysql_error();
 		      if($erra) {
-			      $line="<li>On insert place: ".$erra.".<br />Please contact the administrator immediately.</li></ol>";
+			      $line="<li>On insert place: ".$erra.".<br />Please contact the administrator immediately.</li>";
+			      $line.="<li>Query was: ".$placeQuery." </li></ol>"; 
 			      echo $line;
 			      fwrite($filepointer, $line);
 			      return;					
@@ -399,7 +400,8 @@ function processFile($Files,$filepointer) {
       /* see if there was an error inserting */
       $erra=mysql_error();
       if($erra) {
-	$line="<li>On insert: ".$erra.".<br />Please contact the administrator immediately.</li></ol>";
+	$line="<li>On insert document: ".$erra.".<br />Please contact the administrator immediately.</li>";
+	$line.="<li>Query: ".$query2." </li></ol>"; 
 	echo $line;
 	fwrite($filepointer, $line);
 	return;					
@@ -632,7 +634,7 @@ function remUnusedIndices() {
 if($_POST['parse']) {
 /* connect to database */
 	include("dblayer4.php"); 
-}
+//} see 678
 
 $db = @mysql_select_db($database, $connection)
      or die ("couldn't select database - please report this problem to <a href='mailto:humanities.computing@nyu.edu'>the administrator</a>immediately.");
@@ -675,7 +677,7 @@ $db = @mysql_select_db($database, $connection)
 	fclose ($filepointer);
 	include("../includes/footer.php");
 	
-}
+} //something here is causing problems. What is this attached to? 
 else {
 	$dir_path="../../xml_queue/";
 	if($_POST[view]) {

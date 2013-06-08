@@ -5,10 +5,12 @@ include("../includes/header.php");
 include("dblayer3.php"); //include my db layer --JR
 
 //debugging
-error_reporting(E_ALL);
-ini_set('display_errors', '1');
+if ($_GET['verbose']) { //to enable debugging messages, add ?verbose=TRUE to the URL, after search.php
+	error_reporting(E_ALL);
+	ini_set('display_errors', '1');
+}
 
-if(!$_POST[submit1] && !$_POST[submit2] && !isset($_GET[num_pages]) && !isset($_GET[journal]) && !isset($_GET[subject])) { //this is the input page 
+if(!$_POST['submit1'] && !$_POST['submit2'] && !isset($_GET['num_pages']) && !isset($_GET['journal']) && !isset($_GET['subject'])) { //this is the input page 
 	session_unset();
 	$query2a="SELECT `id` FROM `categories`";
 	$result2a= mysql_query($query2a)
@@ -439,9 +441,14 @@ echo "					</td>
 							&nbsp;
 						</td>
 				</tr>
+				<tr> 
+					<td> 
+						<h3>Mentions:</h3> 
+					</td> 
+				</tr> 
 				<tr> <!-- mentioned places -JR --> 
 					<td class=\"searchLabelCell\"> 
-						<b>mentioned place: &nbsp;</b> 
+						<b>place: &nbsp;</b> 
 					</td> 
 					<td> 
 						<select name=\"mentionedPlace\" style=\"width: 400px;\"> 
@@ -454,6 +461,12 @@ echo "					</td>
 						</select> 
 					</td> 
 				</tr>  
+				<tr> 
+					<td></td> 
+					<td> 
+						<i>(find documents that mention a particular place)</i>
+					</td> 
+				</tr>
 				<tr>
 					<td>
 						&nbsp; 
@@ -461,7 +474,7 @@ echo "					</td>
 				</tr>
 				<tr> <!-- mentioned person -JR --> 
 					<td class=\"searchLabelCell\"> 
-						<b>mentioned person: &nbsp;</b> 
+						<b>person: &nbsp;</b> 
 					</td> 
 					<td> 
 						<select name=\"mentionedPerson\" style=\"width: 400px;\"> 
@@ -474,6 +487,12 @@ echo "					</td>
 						</select> 
 					</td> 
 				</tr>  
+				<tr> 
+					<td></td> 
+					<td> 
+						<i>(find documents that mention a particular place)</i>
+					</td> 
+				</tr>
 				<tr>
 					<td>
 						&nbsp; 
@@ -481,7 +500,7 @@ echo "					</td>
 				</tr>
 				<tr> <!-- mentioned organization -JR --> 
 					<td class=\"searchLabelCell\"> 
-						<b>mentioned organization: &nbsp;</b> 
+						<b>organization: &nbsp;</b> 
 					</td> 
 					<td> 
 						<select name=\"mentionedOrganization\" style=\"width: 400px;\"> 
@@ -494,6 +513,12 @@ echo "					</td>
 						</select> 
 					</td> 
 				</tr>  
+				<tr> 
+					<td></td> 
+					<td> 
+						<i>(find documents that mention a particular organization)</i>
+					</td> 
+				</tr>
 				<tr>
 					<td>
 						&nbsp; 
@@ -501,19 +526,30 @@ echo "					</td>
 				</tr>
 				<tr> <!-- mentioned title -JR --> 
 					<td class=\"searchLabelCell\"> 
-						<b>mentioned title &nbsp;:</b> 
+						<b>title: &nbsp;</b> 
 					</td> 
 					<td> 
 						<select name=\"mentionedTitle\" style=\"width: 400px;\"> 
 							<option value=''></option>\n"; 
 	while ($row7a = mysql_fetch_array($result7a)) { 
-		extract($row6a); 
+		extract($row7a); 
 		echo "                                  <option value='$name'>$name</option> "; 
 	} 
 	echo " 
 						</select> 
 					</td> 
 				</tr>  
+				<tr> 
+					<td></td> 
+					<td> 
+						<i>(find documents that mention the title of a work)</i>
+					</td> 
+				</tr>
+				<tr>
+					<td>
+						&nbsp; 
+					</td>
+				</tr>
 				<tr>
 					<td>
 						&nbsp; 
@@ -539,30 +575,30 @@ else {
 	$display_number = 40;
 	echo "<h2>Search Results:</h2>\n";
 
-	if($_POST[submit1] || $_POST[submit2] || isset($_GET['subject']) || isset($_GET['journal'])) { //this is the output page
+	if(isset($_POST['submit1']) || isset($_POST['submit2']) || isset($_GET['subject']) || isset($_GET['journal'])) { //this is the output page
 		$_SESSION['search_values'] = "<div>You searched using the following values:\n<ul>";
 	
 		$query="";
 		
 		/* Query database */
 		
-		if($_POST[submit1]) {
+		if(isset($_POST['submit1'])) {
 		  $body = trim($_POST[body1]);
 		}
 		else {
-		  $body = trim($_POST[body2]);
-		  $title = trim($_POST[title]);	
-		  $doctype1 = trim($_POST[doctype1]);
-		  $doctype2 = trim($_POST[doctype2]);
+		  $body = trim($_POST['body2']);
+		  $title = trim($_POST['title']);	
+		  $doctype1 = trim($_POST['doctype1']);
+		  $doctype2 = trim($_POST['doctype2']);
 		  $doctype_test = trim($doctype1 . " " . $doctype2);
-		  $journal = trim($_POST[journal]);
-		  $category = $_POST[category];
-		  $year1 = $_POST[year1];
-		  $month1 = $_POST[month1];
-		  $day1 = $_POST[day1];
-		  $year2 = $_POST[year2];
-		  $month2 = $_POST[month2];
-		  $day2 = $_POST[day2];
+		  $journal = trim($_POST['journal']);
+		  $category = $_POST['category'];
+		  $year1 = $_POST['year1'];
+		  $month1 = $_POST['month1'];
+		  $day1 = $_POST['day1'];
+		  $year2 = $_POST['year2'];
+		  $month2 = $_POST['month2'];
+		  $day2 = $_POST['day2'];
 		}		
 		
 		//Query the doctype database
@@ -661,6 +697,26 @@ else {
 			/* Finally, add the doctype to the query string */
 			$query .= "journal=$journal ";
 		}
+		/* If the user specified a mentioned place, then include that in the query */ 
+		if($mentionedPlace) { 
+			$mpQuery = "SELECT `in_document` as in_document FROM `mentioned_places` WHERE name=$mentionedPlace"; 
+			$result=mysql_query($mpQuery) or die("Mentioned place query failed.");
+			$row=mysql_fetch_array($result);
+			extract($row);
+			$_SESSION['search_values'].="<li>mentioned place=\"$mentioned_place\"</li>"; 
+
+//			/* If a title preceeded the doctype set, then add "and" to the query */
+//			if($title || $body || $doctype_set) {
+//				$query .= "and ";
+//			}
+			/* If doctype is first in the query, then we need to start it off with 
+			"where" */
+//			else {
+//				$query .= "where ";
+//			}
+			/* Finally, add the doctype to the query string */
+//			$query .= "journal=$journal "; // this is wrong
+		} 
 		/* If the user entered a year in either date field, then we must
 		consider dates */
 		if($year1 || $year2) {
@@ -800,10 +856,12 @@ else {
 	}
 	else {
 	
-		if(!isset($_GET[num_pages])) {
+		if(!isset($_GET['num_pages'])) {
 	
 			//$query = "select * from 'categories'";
-			print 'here is the query: '.$query;
+			if ($_GET['verbose']) { 
+				print 'Here is the raw mySQL query: <br/>'.$query; //debugging
+			}
 			$result = mysql_query($query) //this is the actual query
 
 			or die ("Query failed.  Please contact <a href='mailto:humanities.computing@nyu.edu'>the administrator</a> immediately.");

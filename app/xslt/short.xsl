@@ -146,7 +146,10 @@
 				<xsl:attribute name="href">search.php?subject="<xsl:value-of select="@level1"/>"</xsl:attribute> 
 				<xsl:apply-templates select="@level1"/>
 			</a>
+			<a>
+				<xsl:attribute name="href">search.php?subject="<xsl:value-of select="@level1"/>"&amp;subject2="<xsl:value-of select="@level2"/>"</xsl:attribute> 
 			<xsl:apply-templates select="@level2"/>
+			</a>
 			<xsl:apply-templates select="@level3"/>
 			<xsl:apply-templates select="@level4"/>
 		</li>

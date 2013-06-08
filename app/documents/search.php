@@ -21,7 +21,10 @@ if(!$_POST[submit1] && !$_POST[submit2] && !isset($_GET[num_pages]) && !isset($_
 	$query4a="SELECT DISTINCT `name` from `mentioned_places`"; 
 	$result4a= mysql_query($query4a) 
 		or die ("could not execute query # 4a"); 
-
+//	while ($row4a = mysql_fetch_array($result4a)) {  /* debugging */ 
+//		extract($row4a); 
+//		echo $name ; 
+//	} 
 
 
         echo "<br />                                                                                                                                                                                        
@@ -432,17 +435,17 @@ echo "					</td>
 				</tr>
 				<tr> <!-- mentioned places -JR --> 
 					<td class=\"searchLabelCell\"> 
-						<b>mentioned place:</b> 
+						<b>mentioned place: &nbsp;</b> 
 					</td> 
 					<td> 
 						<select name=\"mentionedPlace\" style=\"width: 400px;\"> 
 							<option value=''></option>\n"; 
 	//php here
-	//while ($row4a = mysql_fetch_array($result4a)) { 
-//		echo " 					<option value="$id">$name</option> "; 
-//	} 
+	while ($row4a = mysql_fetch_array($result4a)) { 
+		extract($row4a); 
+		echo "                                  <option value='$name'>$name</option> "; 
+	} 
 	echo " 
-							<!--loop over mentioned places here-->  
 						</select> 
 					</td> 
 				</tr>  
@@ -453,7 +456,7 @@ echo "					</td>
 				</tr>
 				<tr> <!-- mentioned person -JR --> 
 					<td class=\"searchLabelCell\"> 
-						<b>mentioned person:</b> 
+						<b>mentioned person: &nbsp;</b> 
 					</td> 
 					<td> 
 						<select name=\"mentionedPerson\" style=\"width: 400px;\"> 
@@ -469,7 +472,7 @@ echo "					</td>
 				</tr>
 				<tr> <!-- mentioned organization -JR --> 
 					<td class=\"searchLabelCell\"> 
-						<b>mentioned organization:</b> 
+						<b>mentioned organization: &nbsp;</b> 
 					</td> 
 					<td> 
 						<select name=\"mentionedOrganization\" style=\"width: 400px;\"> 
@@ -485,7 +488,7 @@ echo "					</td>
 				</tr>
 				<tr> <!-- mentioned title -JR --> 
 					<td class=\"searchLabelCell\"> 
-						<b>mentioned title:</b> 
+						<b>mentioned title &nbsp;:</b> 
 					</td> 
 					<td> 
 						<select name=\"mentionedTitle\" style=\"width: 400px;\"> 

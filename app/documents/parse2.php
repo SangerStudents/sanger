@@ -374,9 +374,8 @@ function processFile($Files,$filepointer) {
 	return;					
       }
 
-      $placeQueries=""; //create an empty string container
-      print_r($filename); 
       if ($mentionedPlace) { 
+	      echo "<p>Now attempting to add places mentioned in ".$filename." to database.</p>"; 
 	      foreach ($mentionedPlace as $place) { 
 		      $placeQuery = "INSERT INTO mentioned_places (name, in_document) VALUES ('$place', '$filename')
 			      ON DUPLICATE KEY UPDATE name='$place',in_document='$filename'; "; 
@@ -393,11 +392,43 @@ function processFile($Files,$filepointer) {
 			      return;					
 		      }
 	      } 
+	      echo "<p>Successfully entered mentioned places to database.</p>"; 
       } 
-      echo "<br/>Placequeries: "; //debugging
-      print_r($placeQueries); //debugging 
       
-      
+        /*********** Parse Organizations Mentioned in Text ***********/
+       //make sure the database is there first
+      $orgTableQuery="CREATE TABLE IF NOT EXISTS `mentioned_organizations` 
+	      (name VARCHAR(100), in_document VARCHAR(20), CONSTRAINT UNIQUE (name, in_document));"; //data structure for mentioned people
+      $myResult = @mysql_query($orgTableQuery); 
+      //standard error stuff
+      $erra=mysql_error();
+      if($erra) {
+	$line="<li>Error while attempting to create database table for mentioned organizations: ".$erra." Please contact the administrator immediately.</li></ol>";
+	echo $line;
+	fwrite($filepointer, $line);
+	return;					
+      }
+
+      if ($mentionedOrganization) { 
+	      echo "<p>Now attempting to add mentioned organizations to database.</p>"; 
+	      foreach ($mentionedOrganization as $org) { 
+		      $orgQuery = "INSERT INTO mentioned_organizations (name, in_document) VALUES ('$org', '$filename')
+			      ON DUPLICATE KEY UPDATE name='$org',in_document='$filename'; "; 
+		      //FIXME: use document ID instead of filename? 
+		      $myInsertResult = @mysql_query($orgQuery);
+		      /* see if there was an error inserting */
+		      $erra=mysql_error();
+		      if($erra) {
+			      $line="<li>On insert organization: ".$erra.".<br />Please contact the administrator immediately.</li>";
+			      $line.="<li>Query was: ".$orgQuery." </li></ol>"; 
+			      echo $line;
+			      fwrite($filepointer, $line);
+			      return;					
+		      }
+	      } 
+	      echo "<p>Successfully entered mentioned organizations to database.</p>"; 
+      } 
+
       /* carry out the insert query */
       $result2 = @mysql_query($query2);
       /* see if there was an error inserting */

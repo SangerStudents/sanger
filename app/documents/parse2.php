@@ -82,8 +82,7 @@ function processFile($Files,$filepointer) {
 	$mentionedPlace=$xml->mentionedPlace; 
 	$mentionedOrganization=$xml->mentionedOrganization; 
 	$metadata=array('type'=>$type,'date'=>$date,'title'=>$title,'body'=>$body,'journal'=>$journal);
-	//	disabling cleaning of mentions because it seems to be causing problems with the database processing
-       //	,'mentionedTitle'=>$mentionedTitle,'mentionedPerson'=>$mentionedPerson,'mentionedPlace'=>$mentionedPlace,'mentionedOrganization'=>$mentionedOrganization); 
+	//,'mentionedTitle'=>$mentionedTitle,'mentionedPerson'=>$mentionedPerson,'mentionedPlace'=>$mentionedPlace,'mentionedOrganization'=>$mentionedOrganization); 
  	
 	//debugging. Remove this. 
 	echo "<br/>metadata is: "; 
@@ -128,9 +127,12 @@ function processFile($Files,$filepointer) {
 		print_r($value); //debugging  
 		if ($value) { 
 			if (is_array($value)) { //if it's an array, it's probably a list of extracted places or names
-				foreach ($value as $valuePiece) { 
-					$valuePiece = preg_replace( '/\s+/', ' ', $valuePiece ); //cleans up interior whitespace				
-				} 
+//				foreach ($value as $valuePiece) { 
+					//this cleaning isn't working; it changes arrays to their first items for some reason
+//					$valuePiece = preg_replace( '/\s+/', ' ', $valuePiece ); //cleans up interior whitespace				
+//					$valuePiece = addslashes($valuePiece); 
+//					$value[$valuePiece]=$valuePiece; //readd it to the array
+//				} 
 			} else {  
 			$value=addslashes($value); 
 			$value=ereg_replace("\n", " ", $value);
@@ -336,9 +338,6 @@ function processFile($Files,$filepointer) {
 	return;					
       }
 
-      $personQueries=""; //create an empty string container
-      echo "<br/>FILENAME!!!!!!!!!!: "; 
-      print_r($filename); 
       if ($mentionedPerson) { 
 	      foreach ($mentionedPerson as $person) { 
 		      $personQuery = "INSERT INTO mentioned_people (name, in_document) VALUES ('$person', '$filename')
@@ -357,8 +356,6 @@ function processFile($Files,$filepointer) {
 		      }
 	      } 
       } 
-//      echo "<br/>Personqueries: "; //debugging
-//      print_r($personQueries); //debugging 
 
       /*********** Parse Places Mentioned in Text ***********/
        //make sure the database is there first
@@ -366,6 +363,7 @@ function processFile($Files,$filepointer) {
 	      (name VARCHAR(100), in_document VARCHAR(20), CONSTRAINT UNIQUE (name, in_document));"; //data structure for mentioned people
       $myResult = @mysql_query($placeTableQuery); 
       //standard error stuff
+      //FIXME factor these out into functions
       $erra=mysql_error();
       if($erra) {
 	$line="<li>On create place table: ".$erra.".<br />Please contact the administrator immediately.</li></ol>";
@@ -392,7 +390,7 @@ function processFile($Files,$filepointer) {
 			      return;					
 		      }
 	      } 
-	      echo "<p>Successfully entered mentioned places to database.</p>"; 
+	      echo "<p>Successfully entered organizations to database.</p>"; 
       } 
       
         /*********** Parse Organizations Mentioned in Text ***********/
@@ -428,6 +426,47 @@ function processFile($Files,$filepointer) {
 	      } 
 	      echo "<p>Successfully entered mentioned organizations to database.</p>"; 
       } 
+
+      /*********** Parse Titles Mentioned in Text ***********/
+       //make sure the database is there first
+      $titleTableQuery="CREATE TABLE IF NOT EXISTS `mentioned_titles` 
+	      (name VARCHAR(100), in_document VARCHAR(20), CONSTRAINT UNIQUE (name, in_document));"; //data structure for mentioned people
+      $myResult = @mysql_query($titleTableQuery); 
+      //standard error stuff
+      $erra=mysql_error();
+      if($erra) {
+	$line="<li>Error while attempting to create database table for mentioned titles: ".$erra." Please contact the administrator immediately.</li></ol>";
+	echo $line;
+	fwrite($filepointer, $line);
+	return;					
+      }
+
+      if ($mentionedTitle) { 
+	      echo "<p>Now attempting to add mentioned titles to database.</p>"; 
+	      echo "<p>Using titles: ".print_r($mentionedTitle)."</p>"; 
+	      foreach ($mentionedTitle as $mTitle) { 
+		      //clean up title
+		      $mTitle=addslashes($mTitle); 
+		      $mTitle=preg_replace( '/\s+/', ' ', $mTitle); //replace interior whitespace with single space 
+		      echo "<p>Processing title: ".$mTitle." </p>"; 
+		      $titleQuery = "INSERT INTO mentioned_titles (name, in_document) VALUES ('$mTitle', '$filename')
+			      ON DUPLICATE KEY UPDATE name='$mTitle',in_document='$filename'; "; 
+		      //FIXME: use document ID instead of filename? 
+		      $myInsertResult = @mysql_query($titleQuery);
+		      /* see if there was an error inserting */
+		      $erra=mysql_error();
+		      if($erra) {
+			      $line="<li>On insert title: ".$erra.".<br />Please contact the administrator immediately.</li>";
+			      $line.="<li>Query was: ".$titleQuery." </li></ol>"; 
+			      echo $line;
+			      fwrite($filepointer, $line);
+			      return;					
+		      }
+	      } 
+	      echo "<p>Successfully entered mentioned titles to database.</p>"; 
+      } 
+      /* End section of parsing mentioned items from texts */ 
+
 
       /* carry out the insert query */
       $result2 = @mysql_query($query2);

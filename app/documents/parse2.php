@@ -84,18 +84,20 @@ function processFile($Files,$filepointer) {
 	$metadata=array('type'=>$type,'date'=>$date,'title'=>$title,'body'=>$body,'journal'=>$journal);
 	//,'mentionedTitle'=>$mentionedTitle,'mentionedPerson'=>$mentionedPerson,'mentionedPlace'=>$mentionedPlace,'mentionedOrganization'=>$mentionedOrganization); 
  	
-	//debugging. Remove this. 
-	echo "<br/>metadata is: "; 
-	print_r($metadata); 
- 	echo "<br/>stream is: ".$stream."<br/>"; 
-	echo "<br/>xml is: "; 
-	print_r($xml); 
-	echo "<br/>mentionedPlace is: "; 
-	print_r($mentionedPlace); 
-	echo "<br/>mentionedPerson is: "; 
-	print_r($mentionedPerson); 
-	echo "<br/>mentionedTitle is: "; 
-	print_r($mentionedTitle); 
+	//debugging. Remove this. Actually maybe make these an option with $_GET verbose switch  
+	if ($_GET["verbose"]) { 
+		echo "<br/>metadata is: "; 
+		print_r($metadata); 
+		echo "<br/>stream is: ".$stream."<br/>"; 
+		echo "<br/>xml is: "; 
+		print_r($xml); 
+		echo "<br/>mentionedPlace is: "; 
+		print_r($mentionedPlace); 
+		echo "<br/>mentionedPerson is: "; 
+		print_r($mentionedPerson); 
+		echo "<br/>mentionedTitle is: "; 
+		print_r($mentionedTitle); 
+	} 
 	
     $indexCounter=1;
 	foreach($xml->headNote->index AS $xml_index) {
@@ -123,8 +125,8 @@ function processFile($Files,$filepointer) {
     //$mentionedTitle = addslashes($mentionedTitle); 
 
 	foreach ($metadata as $key => $value) { 
-		echo "<br/>old value:";  //debugging
-		print_r($value); //debugging  
+		//echo "<br/>old value:";  //debugging
+		//print_r($value); //debugging  
 		if ($value) { 
 			if (is_array($value)) { //if it's an array, it's probably a list of extracted places or names
 //				foreach ($value as $valuePiece) { 
@@ -139,8 +141,8 @@ function processFile($Files,$filepointer) {
 			$value=trim($value);
 			} 
 		} 
-		echo "<br/>new value:"; //debugging  
-		print_r($value); //debugging  
+		//echo "<br/>new value:"; //debugging  
+		//print_r($value); //debugging  
 		$metadata[$key]=$value; //store the new value back in the array 
 	} 
 	extract($metadata); //the array needs to become variables now so it can be accessed below
@@ -340,6 +342,7 @@ function processFile($Files,$filepointer) {
 
       if ($mentionedPerson) { 
 	      foreach ($mentionedPerson as $person) { 
+		      $person=trim($person); 
 		      $person=preg_replace( '/\s+/', ' ', $person); //remove interior whitespace
 		      $personQuery = "INSERT INTO mentioned_people (name, in_document) VALUES ('$person', '$filename')
 			      ON DUPLICATE KEY UPDATE name='$person',in_document='$filename'; "; 
@@ -378,6 +381,7 @@ function processFile($Files,$filepointer) {
 	      foreach ($mentionedPlace as $place) { 
 		      //clean up place names
 		      $place=addslashes($place); 
+		      $place=trim($place); 
 		      $place=preg_replace( '/\s+/', ' ', $place); //remove interior whitespace
 		      $placeQuery = "INSERT INTO mentioned_places (name, in_document) VALUES ('$place', '$filename')
 			      ON DUPLICATE KEY UPDATE name='$place',in_document='$filename'; "; 
@@ -414,7 +418,8 @@ function processFile($Files,$filepointer) {
       if ($mentionedOrganization) { 
 	      echo "<p>Now attempting to add mentioned organizations to database.</p>"; 
 	      foreach ($mentionedOrganization as $org) { 
-		      $org=preg_replace( '/\s+/', ' ', $org); //remove interior whitespace
+		      $org=trim($org); //remove initial and final whitespace 
+		      $org=preg_replace( '/\s+/', ' ', $person); //remove interior whitespace
 		      $orgQuery = "INSERT INTO mentioned_organizations (name, in_document) VALUES ('$org', '$filename')
 			      ON DUPLICATE KEY UPDATE name='$org',in_document='$filename'; "; 
 		      //FIXME: use document ID instead of filename? 
@@ -452,6 +457,7 @@ function processFile($Files,$filepointer) {
 	      foreach ($mentionedTitle as $mTitle) { 
 		      //clean up title
 		      $mTitle=addslashes($mTitle); 
+		      $mTitle=trim($mTitle); 
 		      $mTitle=preg_replace( '/\s+/', ' ', $mTitle); 
 		      echo "<p>Processing title: ".$mTitle." </p>"; 
 		      $titleQuery = "INSERT INTO mentioned_titles (name, in_document) VALUES ('$mTitle', '$filename')

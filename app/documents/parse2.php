@@ -340,6 +340,7 @@ function processFile($Files,$filepointer) {
 
       if ($mentionedPerson) { 
 	      foreach ($mentionedPerson as $person) { 
+		      $person=preg_replace( '/\s+/', ' ', $person); //remove interior whitespace
 		      $personQuery = "INSERT INTO mentioned_people (name, in_document) VALUES ('$person', '$filename')
 			      ON DUPLICATE KEY UPDATE name='$person',in_document='$filename'; "; 
 		      //FIXME: use document ID instead of filename? 
@@ -375,6 +376,9 @@ function processFile($Files,$filepointer) {
       if ($mentionedPlace) { 
 	      echo "<p>Now attempting to add places mentioned in ".$filename." to database.</p>"; 
 	      foreach ($mentionedPlace as $place) { 
+		      //clean up place names
+		      $place=addslashes($place); 
+		      $place=preg_replace( '/\s+/', ' ', $place); //remove interior whitespace
 		      $placeQuery = "INSERT INTO mentioned_places (name, in_document) VALUES ('$place', '$filename')
 			      ON DUPLICATE KEY UPDATE name='$place',in_document='$filename'; "; 
 		      //FIXME: use document ID instead of filename? 
@@ -410,6 +414,7 @@ function processFile($Files,$filepointer) {
       if ($mentionedOrganization) { 
 	      echo "<p>Now attempting to add mentioned organizations to database.</p>"; 
 	      foreach ($mentionedOrganization as $org) { 
+		      $org=preg_replace( '/\s+/', ' ', $org); //remove interior whitespace
 		      $orgQuery = "INSERT INTO mentioned_organizations (name, in_document) VALUES ('$org', '$filename')
 			      ON DUPLICATE KEY UPDATE name='$org',in_document='$filename'; "; 
 		      //FIXME: use document ID instead of filename? 
@@ -447,7 +452,7 @@ function processFile($Files,$filepointer) {
 	      foreach ($mentionedTitle as $mTitle) { 
 		      //clean up title
 		      $mTitle=addslashes($mTitle); 
-		      $mTitle=preg_replace( '/\s+/', ' ', $mTitle); //replace interior whitespace with single space 
+		      $mTitle=preg_replace( '/\s+/', ' ', $mTitle); 
 		      echo "<p>Processing title: ".$mTitle." </p>"; 
 		      $titleQuery = "INSERT INTO mentioned_titles (name, in_document) VALUES ('$mTitle', '$filename')
 			      ON DUPLICATE KEY UPDATE name='$mTitle',in_document='$filename'; "; 

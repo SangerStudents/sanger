@@ -833,9 +833,12 @@ else {
 
 		//Handle subject search from URL parameters
 		if($_GET['subject']) { 
-			$subjectID = $_GET['subject']; 
-			echo "<p>I see you've passed a subject parameter. Well done, old chap!</p>"; 
-			echo "<p>Using $subjectID as subject ID.</p>"; 
+			$subject = $_GET['subject']; 
+			$subjectLookupQuery="SELECT id AS subjectID FROM test_cat WHERE parent_id=0 and name=$subject;"; //look up subject ID using subject name
+			$subjectLookupResult=mysql_query($subjectLookupQuery) or die("<p>Couldn't find subject name in database.</p>");  
+			$myResult=mysql_fetch_array($subjectLookupResult); 
+			$subjectID=$myResult[0]; 
+
 			$catNameQuery = "SELECT name AS cat_name FROM test_cat WHERE id=$subjectID";
 			$result=mysql_query($catNameQuery)
 				or die("Subject name URL parameter query failed.");

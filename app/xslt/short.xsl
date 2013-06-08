@@ -143,7 +143,7 @@
 	<xsl:template match="index">
 		<li>
 			<a>
-				<xsl:attribute name="href">?subject="<xsl:value-of select="@level1"/>"</xsl:attribute> 
+				<xsl:attribute name="href">search.php?subject="<xsl:value-of select="@level1"/>"</xsl:attribute> 
 				<xsl:apply-templates select="@level1"/>
 			</a>
 			<xsl:apply-templates select="@level2"/>

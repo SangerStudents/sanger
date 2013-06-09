@@ -4,6 +4,8 @@ include("../includes/header.php");
 
 include("dblayer3.php"); //include my db layer --JR
 
+header('Cache-Control: max-age=900'); //will this make the 'document expired' problem go away? 
+
 //debugging
 if ($_GET['verbose']) { //to enable debugging messages, add ?verbose=TRUE to the URL, after search.php
 	error_reporting(E_ALL);

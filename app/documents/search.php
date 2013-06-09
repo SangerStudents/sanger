@@ -843,8 +843,6 @@ else {
 			}
 		}
 		 
-			echo "Category is: "; 
-			print_r($category); 
 		if(sizeof($category)>0) {
 			if($date1 || $doctype_set || $title || $body || $journal) {
 				$query .= "and ";

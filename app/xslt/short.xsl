@@ -150,8 +150,14 @@
 				<xsl:attribute name="href">search.php?subject="<xsl:value-of select="@level1"/>"&amp;subject2="<xsl:value-of select="@level2"/>"</xsl:attribute> 
 			<xsl:apply-templates select="@level2"/>
 			</a>
+			<a>
+				<xsl:attribute name="href">search.php?subject="<xsl:value-of select="@level1"/>"&amp;subject2="<xsl:value-of select="@level2"/>"&amp;subject3="<xsl:value-of select="@level3"/>"</xsl:attribute> 
 			<xsl:apply-templates select="@level3"/>
+			</a>
+			<a>
+				<xsl:attribute name="href">search.php?subject="<xsl:value-of select="@level1"/>"&amp;subject2="<xsl:value-of select="@level2"/>"&amp;subject3="<xsl:value-of select="@level3"/>"&amp;subject4="<xsl:value-of select="@level4"/>"</xsl:attribute> 
 			<xsl:apply-templates select="@level4"/>
+			</a>
 		</li>
 	</xsl:template>
 	

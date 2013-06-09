@@ -634,42 +634,35 @@ else {
 				$doctype_set .= ")";
 			}
 		}
-	
+		function look_up_subjectID($subjectParamName, $parentSubjectID=0) { 
+			//this function accepts the URL parameter name for the raw subject, and looks up its raw subject heading in the database to get its ID. 
+			//this is not really all that helpful of a function, but it saves a little bit of space. 
+			$subject=$_GET[$subjectParamName]; 
+			$subjectLookupQuery="SELECT id AS subjectID FROM test_cat WHERE parent_id=$parentSubjectID and name=$subject;"; //look up subject ID using subject name
+			$subjectLookupResult=mysql_query($subjectLookupQuery) or die("<p>Couldn't find subject name in database.</p>");  
+			$myResult=mysql_fetch_array($subjectLookupResult); 
+			$subjectID=$myResult[0]; 
+			return $subjectID; 
+		} 	
 		//check for URL subject search parameters and plug them in 
 		// aaaah so much repeition. FIXME: refactor this
 		if($_GET['subject']) { 
 			$category=array(); //empty out category first. URL params override POST
-			$subject=$_GET['subject']; 
-			$subjectLookupQuery="SELECT id AS subjectID FROM test_cat WHERE parent_id=0 and name=$subject;"; //look up subject ID using subject name
-			$subjectLookupResult=mysql_query($subjectLookupQuery) or die("<p>Couldn't find subject name in database.</p>");  
-			$myResult=mysql_fetch_array($subjectLookupResult); 
-			$subjectID=$myResult[0]; 
+			$subjectID=look_up_subjectID('subject'); 
 			$category[]=$subjectID; //add or push to array
 			if($_GET['subject2']) { 
 				$parentSubjectID=$subjectID; //assign previous $subject to new variable parentSubject
-				$subject=$_GET['subject2']; 
-				$subjectLookupQuery="SELECT id AS subjectID FROM test_cat WHERE parent_id=$parentSubjectID and name=$subject;"; //look up subject ID using subject name
-				$subjectLookupResult=mysql_query($subjectLookupQuery) or die("<p>Couldn't find subject 2 name in database.</p>");  
-				$myResult=mysql_fetch_array($subjectLookupResult); 
-				$subjectID=$myResult[0]; 
+				$subjectID=look_up_subjectID('subject2', $parentSubjectID); 
 				$category[]=$subjectID; //add or push to array
 			} 
 			if($_GET['subject3']) { 
 				$parentSubjectID=$subjectID; //this should now be the ID from subject2
-				$subject=$_GET['subject3']; 
-				$subjectLookupQuery="SELECT id AS subjectID FROM test_cat WHERE parent_id=$parentSubjectID and name=$subject;"; //look up subject ID using subject name
-				$subjectLookupResult=mysql_query($subjectLookupQuery) or die("<p>Couldn't find subject 2 name in database.</p>");  
-				$myResult=mysql_fetch_array($subjectLookupResult); 
-				$subjectID=$myResult[0]; 
+				$subjectID=look_up_subjectID('subject3', $parentSubjectID); 
 				$category[]=$subjectID; //add or push to array
 			}
 			if($_GET['subject4']) { 
-				$parentSubjectID=$subjectID; //this should now be the ID from subject2
-				$subject=$_GET['subject4']; 
-				$subjectLookupQuery="SELECT id AS subjectID FROM test_cat WHERE parent_id=$parentSubjectID and name=$subject;"; //look up subject ID using subject name
-				$subjectLookupResult=mysql_query($subjectLookupQuery) or die("<p>Couldn't find subject 3 name in database.</p>");  
-				$myResult=mysql_fetch_array($subjectLookupResult); 
-				$subjectID=$myResult[0]; 
+				$parentSubjectID=$subjectID; //this should now be the ID from subject3
+				$subjectID=look_up_subjectID('subject4', $parentSubjectID); 
 				$category[]=$subjectID; //add or push to array
 			}
 		}

@@ -3,9 +3,8 @@
 	<xsl:output method="html" omit-xml-declaration="yes" encoding="ISO-8859-1"/>
 	
 	<!-- This stylesheet does output a full HTML Document. The beginning and end of the document can be found in docheader.php and footer.php -->
-	
+
 	<!--Template for root Element-->
-	
 	<xsl:template match="/">
 		
 		<p class="title_heading">
@@ -141,18 +140,20 @@
 	</xsl:template>
 	
 	<xsl:template match="index">
-		<li>
-			<a>
-				<xsl:attribute name="href">search.php?subject="<xsl:value-of select="@level1"/>"</xsl:attribute> 
+		<li> 
+			<a> <!--This rather convoluted code makes subject headings clickable--> 
+				<xsl:variable name="level1" select="translate(@level1,'&quot;','^')"/> 
+
+				<xsl:attribute name="href">search.php?subject="<xsl:value-of select="$level1"/>"</xsl:attribute> 
 				<xsl:apply-templates select="@level1"/>
 			</a>
 			<a>
 				<xsl:attribute name="href">search.php?subject="<xsl:value-of select="@level1"/>"&amp;subject2="<xsl:value-of select="@level2"/>"</xsl:attribute> 
-			<xsl:apply-templates select="@level2"/>
+				<xsl:apply-templates select="@level2"/>
 			</a>
 			<a>
 				<xsl:attribute name="href">search.php?subject="<xsl:value-of select="@level1"/>"&amp;subject2="<xsl:value-of select="@level2"/>"&amp;subject3="<xsl:value-of select="@level3"/>"</xsl:attribute> 
-			<xsl:apply-templates select="@level3"/>
+				<xsl:apply-templates select="@level3"/>
 			</a>
 			<a>
 				<xsl:attribute name="href">search.php?subject="<xsl:value-of select="@level1"/>"&amp;subject2="<xsl:value-of select="@level2"/>"&amp;subject3="<xsl:value-of select="@level3"/>"&amp;subject4="<xsl:value-of select="@level4"/>"</xsl:attribute> 

@@ -144,7 +144,7 @@
 			<a> <!--This rather convoluted code makes subject headings clickable--> 
 				<xsl:variable name="level1" select="translate(@level1,'&quot;','^')"/> 
 
-				<xsl:attribute name="href">search.php?subject="<xsl:value-of select="$level1"/>"</xsl:attribute> 
+				<xsl:attribute name="href">search.php?subject=<xsl:value-of select="$level1"/></xsl:attribute> 
 				<xsl:apply-templates select="@level1"/>
 			</a>
 			<a>

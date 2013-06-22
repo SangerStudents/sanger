@@ -4,7 +4,7 @@ include("../includes/header.php");
 
 include("dblayer3.php"); //include my db layer --JR
 
-header('Cache-Control: max-age=900'); //will this make the 'document expired' problem go away? 
+//header('Cache-Control: max-age=900'); //will this make the 'document expired' problem go away? 
 
 //debugging
 if ($_GET['verbose']) { //to enable debugging messages, add ?verbose=TRUE to the URL, after search.php
@@ -593,7 +593,6 @@ else {
 		  $doctype1 = trim($_POST['doctype1']);
 		  $doctype2 = trim($_POST['doctype2']);
 		  $doctype_test = trim($doctype1 . " " . $doctype2);
-		  $journal = trim($_POST['journal']);
 		  $category = $_POST['category'];
 		  $year1 = $_POST['year1'];
 		  $month1 = $_POST['month1'];
@@ -602,6 +601,31 @@ else {
 		  $month2 = $_POST['month2'];
 		  $day2 = $_POST['day2'];
 		}		
+		function look_up_journalID($journalTitle) { 
+			//this should take the raw journal title, i.e. "Birth Control Review" and look up the ID in the database
+			if ($_GET['verbose']) { //debugging. FIXME refactor this to concatenate to a global variable? 
+				echo "Trying to look up journal ID now."; 
+			} 
+			$journaLookupQuery="SELECT id AS journalID FROM journals WHERE title=$journalTitle;"; //look up journal ID using subject name
+			$journalLookupResult=mysql_query($journalLookupQuery) or die("<p>Couldn't find journal name in database.</p>");  
+			$myResult=mysql_fetch_array($journalLookupResult); 
+			$journalID=$myResult[0]; 
+			return journalID; 
+		}
+		if($_GET['journal']!=NULL) { // get the journal name from the URL, useful for clickable journal links within documents
+			// drat! it's not as simple as this. Need to first look up the journal name like with subjects. 
+			if ($_GET['verbose']) {  // debugging
+				echo "You've specified a journal title via URL."; 
+			}
+			$journal = look_up_JournalID($_GET['journal']); 
+		} else {  //otherwise use the one specified in the form
+		  $journal = trim($_POST['journal']);
+			if ($_GET['verbose']) { 
+				echo "Using the value for journal specified in the form."; 
+				print $journal; 
+			}
+
+		} 
 		
 		//Query the doctype database
 		
@@ -640,7 +664,12 @@ else {
 			//this function accepts the URL parameter name for the raw subject, and looks up its raw subject heading in the database to get its ID. 
 			//this is not really all that helpful of a function, but it saves a little bit of space. 
 			$subject=$_GET[$subjectParamName]; 
-			$subjectLookupQuery="SELECT id AS subjectID FROM test_cat WHERE parent_id=$parentSubjectID and name=$subject;"; //look up subject ID using subject name
+			$subject=addslashes(strtr($subject,"^",'"')); // change all the ^ back into escaped quotes as per #23 
+			$subjectLookupQuery="SELECT id AS subjectID FROM test_cat WHERE parent_id=$parentSubjectID and name=\"$subject\";"; //look up subject ID using subject name
+			if ($_GET['verbose']) { //debugging
+				print "Using this subject as search term: ".$subject." <br/>"; 
+				print "Using this query: ".$subjectLookupQuery." <br/>"; 
+			} 
 			$subjectLookupResult=mysql_query($subjectLookupQuery) or die("<p>Couldn't find subject name in database.</p>");  
 			$myResult=mysql_fetch_array($subjectLookupResult); 
 			$subjectID=$myResult[0]; 

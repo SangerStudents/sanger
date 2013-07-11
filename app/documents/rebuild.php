@@ -22,13 +22,20 @@ Make sure to back it up first!</h1>
 if ($_POST['submit']) { 
       echo '<p>Here we go. Fingers crossed.</p>'; 
       echo '<p>Now emptying database.</p>'; 
-      $tables = ['test_cat', 'categories', 'journals', '']; 
+      $tables = array('categories', 'correspondence', 'doctypes', 'documents', 'documents_category', 'journals', 'materials', 'mentioned_people', 'mentioned_places', 'ricordi_correspondence', 'test_cat'); 
 	foreach $tables as $table { 
  		 //make a query that truncates each 
+	      $emptyQuery = "TRUNCATE TABLE ".$table." ;";  
+
+		if ($_GET['verbose']) { //to enable debugging messages, add ?verbose=TRUE to the URL, after search.php
+			echo '<p>Emptying table '.$table.' using query '.$emptyQuery.'.'; 
+		}
+	      $result=mysql_query($emptyQuery) 
+		      or die ("Could not empty database."); 
+
 	} 
-      $emptyQuery = "TRUNCATE TABLE" 
       
 } 
 
 include("../includes/footer.php");
-?>
+???

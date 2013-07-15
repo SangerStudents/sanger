@@ -179,7 +179,7 @@ function processFile($Files,$filepointer) {
     if (empty($date)) {
       $error[]="No document date in &gt;docdate value=\"\"&gt;";
     } 
-    else if (!eregi("[0-9]{4}-[0-9]{2}-[0-9]{2}", $date)) {
+    else if (!preg_match("/[0-9]{4}-[0-9]{2}-[0-9]{2}/", $date)) {
       $error[]= $date . " is not a valid date. It must follow the pattern yyyy-mm-dd.";
     }
     

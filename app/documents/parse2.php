@@ -421,9 +421,11 @@ function processFile($Files,$filepointer) {
 	      echo "<p>Now attempting to add mentioned organizations to database.</p>"; 
 	      foreach ($mentionedOrganization as $org) { 
 		      $org=trim($org); //remove initial and final whitespace 
-		      $org=preg_replace( '/\s+/', ' ', $person); //remove interior whitespace
+		      $org=preg_replace( '/\s+/', ' ', $org); //remove interior whitespace
 		      $orgQuery = "INSERT INTO mentioned_organizations (name, in_document) VALUES ('$org', '$filename')
 			      ON DUPLICATE KEY UPDATE name='$org',in_document='$filename'; "; 
+
+		      echo "Org query is: ".$orgQuery; //debugging
 		      //FIXME: use document ID instead of filename? 
 		      $myInsertResult = @mysql_query($orgQuery);
 		      /* see if there was an error inserting */

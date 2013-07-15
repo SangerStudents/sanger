@@ -344,11 +344,13 @@ function processFile($Files,$filepointer) {
 	      foreach ($mentionedPerson as $person) { 
 		      $person=trim($person); //this cleaning doesn't help because the trouble is in the database, and the sorting happens on the database query
 		      $person=preg_replace( '/\s+/', ' ', $person); //remove interior whitespace
-		      $personQuery = "INSERT INTO mentioned_people (name, in_document) VALUES ('$person', '$filename')
-			      ON DUPLICATE KEY UPDATE name='$person',in_document='$filename'; "; 
+		      $personQuery = 'INSERT INTO mentioned_people (name, in_document) VALUES ("$person", "$filename")
+			      ON DUPLICATE KEY UPDATE name="$person",in_document="$filename"; '; 
 		      //FIXME: use document ID instead of filename? 
 		      //FIXME: it's still not happy with duplicate entres
-		      echo "Person query is: ".$personQuery; 
+		      if ($_GET["verbose"]) { 
+			      echo "Person query is: ".$personQuery; 
+		      } 
 		      $myInsertResult = @mysql_query($personQuery);
 		      /* see if there was an error inserting */
 		      $erra=mysql_error();

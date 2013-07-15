@@ -137,7 +137,7 @@ function processFile($Files,$filepointer) {
 //				} 
 			} else {  
 			$value=addslashes($value); 
-			$value=ereg_replace("\n", " ", $value);
+			$value=preg_replace("/\n/", " ", $value);
 			$value=trim($value);
 			} 
 		} 
@@ -538,7 +538,7 @@ function processFile($Files,$filepointer) {
        		  then get the id of that entry */
 		
 		    $indices[$currentIndex]['level'.$levelCounter]=addslashes($indices[$currentIndex]['level'.$levelCounter]);
-		    $indices[$currentIndex]['level'.$levelCounter]= ereg_replace("\n", " ", $indices[$currentIndex]['level'.$levelCounter]);    
+		    $indices[$currentIndex]['level'.$levelCounter]= preg_replace("/\n/", " ", $indices[$currentIndex]['level'.$levelCounter]);    
 		    $indices[$currentIndex]['level'.$levelCounter]=trim($indices[$currentIndex]['level'.$levelCounter]);
 		$query = "SELECT id AS cat_id FROM test_cat WHERE name=\"" . $indices[$currentIndex]['level' . $levelCounter] . "\" AND parent_id=".$parentID;	
 		$result = @mysql_query($query);

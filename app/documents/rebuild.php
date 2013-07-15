@@ -61,6 +61,7 @@ if ($_POST['submit']) {
 	    foreach ($delete as $file) {
 	      unlink($file);
 	    } 
+      echo '<p>That seems to have worked. If everything looks OK, <a href="parse2.php">proceed to the parse page to reparse the XML files.</a></p>';  
 } 
 
 include("../includes/footer.php");

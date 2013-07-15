@@ -30,11 +30,11 @@ if(!$_POST['submit1'] && !$_POST['submit2'] && !isset($_GET['num_pages']) && !is
 	$result5a= mysql_query($query5a); 
 
 	//get mentioned organizations
-	$query6a="SELECT DISTINCT `name` from `mentioned_organizations` ORDER BY `name`"; 
+	$query6a="SELECT DISTINCT `name` from `mentioned_organizations` ORDER BY TRIM(LEADING 'The ' from TRIM(LEADING 'A ' from TRIM(LEADING 'An ' FROM `name`)))"; 
 	$result6a= mysql_query($query6a); 
 
 	//get mentioned titles
-	$query7a="SELECT DISTINCT `name` from `mentioned_titles` ORDER BY `name`"; 
+	$query7a="SELECT DISTINCT `name` from `mentioned_titles` ORDER BY TRIM(LEADING 'The ' from TRIM(LEADING 'A ' from TRIM(LEADING 'An ' FROM `name`)))"; 
 	$result7a= mysql_query($query7a); 
 
         echo "<br />                                                                                                                                                                                        
@@ -667,8 +667,6 @@ else {
 			$subject=addslashes(strtr($subject,"^",'"')); // change all the ^ back into escaped quotes as per #23 
 			$subjectLookupQuery="SELECT id AS subjectID FROM test_cat WHERE parent_id=$parentSubjectID and name=\"$subject\";"; //look up subject ID using subject name
 			if ($_GET['verbose']) { //debugging
-				print "Using this subject as search term: ".$subject." <br/>"; 
-				print "Using this query: ".$subjectLookupQuery." <br/>"; 
 			} 
 			$subjectLookupResult=mysql_query($subjectLookupQuery) or die("<p>Couldn't find subject name in database.</p>");  
 			$myResult=mysql_fetch_array($subjectLookupResult); 
@@ -763,6 +761,9 @@ else {
 		/* If the user specified a mentioned place, then include that in the query -JR */ 
 		if($mentionedPlace) { 
 			$mpQuery = "SELECT `in_document` as in_document FROM `mentioned_places` WHERE name=$mentionedPlace"; 
+			if ($_GET['verbose']) { //debugging
+				echo "Mpquery is: $mpQuery"; 
+			} 
 			$result=mysql_query($mpQuery) or die("Mentioned place query failed.");
 			$row=mysql_fetch_array($result);
 			extract($row);

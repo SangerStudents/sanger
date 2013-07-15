@@ -400,7 +400,7 @@ function processFile($Files,$filepointer) {
 			      return;					
 		      }
 	      } 
-	      echo "<p>Successfully entered organizations to database.</p>"; 
+	      echo "<p>Successfully entered mentioned places to database.</p>"; 
       } 
       
         /*********** Parse Organizations Mentioned in Text ***********/

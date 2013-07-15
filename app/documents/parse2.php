@@ -744,7 +744,7 @@ $db = @mysql_select_db($database, $connection)
 		$Open = opendir ($filePath);
 		
 		while ($Files = readdir ($Open)) {
-			if (!(eregi("^\.", $Files))) {
+			if (!(preg_match("/^\./", $Files))) {
 			  processFile($Files,$filepointer);
 			}
 		}
@@ -820,7 +820,7 @@ echo "	<p>The following files are on queue to be processed:
 	
 
 	while ($Files = readdir ($Open)) {
-		if (!(eregi("^\.", $Files))) {
+		if (!(preg_match("/^\./", $Files))) {
 			$fileCount++;
 			print "<option value=\"".$Files."\">";
 			print "$Files"."</option>\n";

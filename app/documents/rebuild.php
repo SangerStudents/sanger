@@ -1,4 +1,7 @@
 <?php
+
+//script for completely rebuilding the database. 
+
 session_start();
 include("../includes/header.php");
 include("dblayer3.php"); //include my db layer --JR

@@ -14,7 +14,7 @@ if ($_GET['verbose']) { //to enable debugging messages, add ?verbose=TRUE to the
 ?>
 
 <h1>This script will completely erase and rebuild the database.<br/> 
-Make sure to back it up first!</h1>
+Make sure to back it up first! For verbose output try rebuild.php?verbose=TRUE</h1>
 <p> </p> 
 <form action="<?php $PHP_SELF ?>" method="post" id="search1">  
 <input type="submit" name="submit" value="Rebuild!"/>

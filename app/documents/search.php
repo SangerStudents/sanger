@@ -607,6 +607,7 @@ else {
 		  $year2 = $_POST['year2'];
 		  $month2 = $_POST['month2'];
 		  $day2 = $_POST['day2'];
+		  $mentionedPlace = $_POST['mentionedPlace']; 
 		}		
 		function look_up_journalID($journalTitle) { 
 			//this should take the raw journal title, i.e. "Birth Control Review" and look up the ID in the database
@@ -767,9 +768,9 @@ else {
 		}
 		/* If the user specified a mentioned place, then include that in the query -JR */ 
 		if($mentionedPlace) { 
-			$mpQuery = "SELECT `in_document` as in_document FROM `mentioned_places` WHERE name=$mentionedPlace"; 
+			$mpQuery = 'SELECT in_document FROM `mentioned_places` WHERE name="'.$mentionedPlace.'";'; 
 			if ($_GET['verbose']) { //debugging
-				echo "Mpquery is: $mpQuery"; 
+				echo "<li>Mpquery is: $mpQuery </li>"; 
 			} 
 			$result=mysql_query($mpQuery) or die("Mentioned place query failed.");
 			$row=mysql_fetch_array($result);

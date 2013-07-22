@@ -6,6 +6,19 @@ include("dblayer3.php"); //include my db layer --JR
 
 //header('Cache-Control: max-age=900'); //will this make the 'document expired' problem go away? 
 
+function move_the($title) { 
+	// this function moves "the" or "a" to the ends of titles. 
+	// they've already been sorted this way in the mysql command. 
+		$splitTitle = explode(' ',$title); // split by spaces
+		$articles = array("A", "An", "The"); 
+		if (in_array($splitTitle[0],$articles)) { // check to see if the first word is in our list of articles
+			$the_or_a=$splitTitle[0]; 
+			unset($splitTitle[0]); // take off "The" 
+			$title = join(' ',$splitTitle).", ".strtolower($the_or_a); //now add it to the end of the title
+		} 
+		return $title; 
+	} 
+
 //debugging
 if ($_GET['verbose']) { //to enable debugging messages, add ?verbose=TRUE to the URL, after search.php
 	error_reporting(E_ALL);
@@ -382,20 +395,12 @@ if(!$_POST['submit1'] && !$_POST['submit2'] && !isset($_GET['num_pages']) && !is
 							<option value=''></option>\n
 ";
 				  
-	 while ($row3a = mysql_fetch_array($result3a)) //this is the part that populates the journal titles list
-
-	 {       // this part moves "the" or "a" to the ends of titles. 
-		 // they've already been sorted this way in the mysql command above. 
+while ($row3a = mysql_fetch_array($result3a)) //this is the part that populates the journal titles list 
+{      
 		extract($row3a); //break apart the array into variables 
-		$splitTitle = explode(' ',$title); // split by spaces
-		if ($splitTitle[0] == "The" || $splitTitle[0] == "A") { 
-			$the_or_a=$splitTitle[0]; 
-			unset($splitTitle[0]); // take off "The" 
-			$title = join(' ',$splitTitle).", ".strtolower($the_or_a); //now add it to the end of the title
-		} 
+		$title=move_the($title); 
 		echo "							<option value='$id'>$title</option>\n";
-
-	}
+}
 	
 	echo "
 						</select>
@@ -509,6 +514,7 @@ echo "					</td>
 							<option value=''></option>\n"; 
 	while ($row6a = mysql_fetch_array($result6a)) { 
 		extract($row6a); 
+		$name=move_the($name); 
 		echo "                                  <option value='$name'>$name</option> "; 
 	} 
 	echo " 
@@ -535,6 +541,7 @@ echo "					</td>
 							<option value=''></option>\n"; 
 	while ($row7a = mysql_fetch_array($result7a)) { 
 		extract($row7a); 
+		$name=move_the($name); 
 		echo "                                  <option value='$name'>$name</option> "; 
 	} 
 	echo " 

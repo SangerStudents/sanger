@@ -1,3 +1,7 @@
 #Hey git! Ignore vim swap files.
 *.swp
 *.swo
+
+#Also don't track db layers for security reasons. 
+dblayer*.php
+dblayer.php3

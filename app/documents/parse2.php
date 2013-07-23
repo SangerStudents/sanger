@@ -344,8 +344,8 @@ function processFile($Files,$filepointer) {
 	      foreach ($mentionedPerson as $person) { 
 		      $person=trim($person); //this cleaning doesn't help because the trouble is in the database, and the sorting happens on the database query
 		      $person=preg_replace( '/\s+/', ' ', $person); //remove interior whitespace
-		      $personQuery = 'INSERT INTO mentioned_people (name, in_document) VALUES ("$person", "$filename")
-			      ON DUPLICATE KEY UPDATE name="$person",in_document="$filename"; '; 
+		      $personQuery = "INSERT INTO mentioned_people (name, in_document) VALUES (\"$person\", \"$filename\")
+			      ON DUPLICATE KEY UPDATE name=\"$person\",in_document=\"$filename\"; "; 
 		      //FIXME: use document ID instead of filename? 
 		      //FIXME: it's still not happy with duplicate entres
 		      if ($_GET["verbose"]) { 
@@ -422,8 +422,7 @@ function processFile($Files,$filepointer) {
 	      foreach ($mentionedOrganization as $org) { 
 		      $org=trim($org); //remove initial and final whitespace 
 		      $org=preg_replace( '/\s+/', ' ', $org); //remove interior whitespace
-		      $orgQuery = "INSERT INTO mentioned_organizations (name, in_document) VALUES ('$org', '$filename')
-			      ON DUPLICATE KEY UPDATE name='$org', in_document=$filename; "; 
+		      $orgQuery = 'INSERT INTO mentioned_organizations (name, in_document) VALUES ("'.$org.'", "'.$filename.'") ON DUPLICATE KEY UPDATE name="'.$org.'", in_document="'.$filename.'"; '; 
 
 		      echo "Org query is: ".$orgQuery; //debugging
 		      //FIXME: use document ID instead of filename? 

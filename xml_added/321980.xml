@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<doc type="Published Article">
+    <mepHeader>
+        <prepDate>2011/06/06 CE</prepDate>
+        <prepDate>2011/06/20 CE</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1951-00-00">1951</docDate>
+        <docTitle>
+            <titlePart>Birth Control, 1950</titlePart>
+        </docTitle>
+        <idno>msp321980</idno>
+        <sourceDesc>
+            <bibl><title>Britannica Book of the Year</title>(1951), p.
+                110</bibl>
+        </sourceDesc>
+        <respStmt>
+            <name id="AMLF"> Albert D. and Mary Lasker Foundation Award</name>
+            <name id="PPFA">Planned Parenthood Federation of America</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>For other articles in the <title>Britannica Book of
+                the Year</title> series, see <xref from="320976.xml"
+                    ><title>Birth Control, 1944</title></xref>; <xref
+                from="320980.xml"><title>Birth Control, 1946</title></xref>;
+                <xref from="320979.xml"><title>Birth Control,
+                1947</title></xref>; <xref from="321981.xml"><title>Birth
+                    Control, 1948</title>, 1949</xref>;<xref from="320981.xml"
+                    ><title>Birth Control, 1949</title></xref>; <xref
+                from="320983.xml"><title>Birth Control, 1951</title></xref>;
+                <xref from="320984.xml"><title>Birth Control,
+                1952</title></xref>; <xref from="321984.xml"><title>Birth
+                    Control, 1953</title></xref>; <xref from="320985.xml"
+                    ><title>Birth Control, 1954</title></xref>; <xref
+                from="320986.xml"><title>Birth Control, 1955</title></xref>;
+                <xref from="none.xml"><title>Birth Control, 1956</title></xref>;
+                <xref from="320987.xml"><title>Birth Control,
+                1957</title></xref>; <xref from="320988.xml"><title>Birth
+                    Control, 1958</title></xref></p>
+        <p>For typed draft of the article, see MSM S72:610.</p>
+        <index level1="birth control" level2="access to"/>
+        <index level1="birth control" level2="access to"
+            level3="in remote places"/>
+        <index level1="birth control" level2="clinics and leagues"
+            level3="in US"/>
+        <index level1="birth control" level2="medical community and"/>
+        <index level1="birth control" level2="methods"/>
+        <index level1="birth control" level2="movement" level3="American"/>
+        <index level1="Planned Parenthood Federation of America"/>
+        <index level1="United States" level2="government"
+            level3="public health programs"/>
+    </headNote>
+    <docBody>
+        <head>Birth Control.</head>
+        <div type="section">
+            <p>During 1950 the Planned Parenthood movement began a long-range
+                education, service and research program. This program, adopted
+                the previous year by the <org>Planned Parenthood Federation of
+                    America</org> was: “<q who="PPFA">To provide leadership
+                    toward universal acceptance of family planning as an
+                    essential element of responsible parenthood and stable
+                    family life</q>.” Intensified field work was carried on,
+                especially on the Pacific coast. A program of work with
+                minority-group families whose economic status denied them
+                private medical care was expanded to educate them as to
+                contraceptive clinic services available. Work was carried on
+                with ten leading Negro organizations with the objective of
+                encouraging their leaders to co-operate with national, state and
+                local Planned Parenthood programs and to stimulate their
+                interest in this health measure. Consultants also took part in
+                courses or in family institutes under federation sponsorship in
+                23 Negro colleges as a method of interpreting the program to
+                students who would one day take their places as community
+                leaders.</p>
+            <p>The federation produced its first film <title>A Planned
+                    Parenthood Story</title>, designed to reach married couples
+                in need of accurate information on how conception control could
+                strengthen their family life.</p>
+        </div>
+        <div type="section">
+            <head type="sub">Awards.–</head>
+            <p>The sixth annual <org>Albert D. and Mary Lasker Foundation
+                    Awards</org> in Planned Parenthood went to <person
+                    reg="Sanger, Margaret">Margaret Sanger</person>, founder of
+                the birth control movement and <person
+                    reg="Moses, Bessie Louise">Bessie L. Moses</person>, M.D.,
+                of <place reg="Baltimore, Maryland">Baltimore</place>. Mrs.
+                Sanger’s citation read: “<q who="AMLF">To Margaret Sanger,
+                    foremost in teaching families wise planning in birth
+                    control: Leader in influencing nations towards balanced
+                    population; living to see her beginnings in city slums grow
+                    into plans for a planet</q>.” Dr. Moses, obstetrician and
+                instructor in obstetrics, <org>Johns Hopkins university</org>,
+                was recognized for “her brilliant record of forwarding the cause
+                of Planned Parenthood among the public and medical
+                profession.”</p>
+        </div>
+        <div type="section">
+            <head type="sub">Research.–</head>
+            <p>During the year the federation established its own research
+                program in human reproduction and three studies in fertility and
+                infertility were carried over from a previous research project
+                that had been sponsored with the <org>National Research
+                    council’s Committee on Human Reproduction</org> and the
+                    <org>National Committee on Maternal Health</org>.</p>
+            <p>The final goal of research in this field was to develop a
+                contraceptive method sufficiently simple, safe and effective to
+                be used by families living in overpopulated world areas where
+                existing methods cannot be widely disseminated because cost and
+                complexity prohibit their use among illiterate submerged
+                peoples.</p>
+            <p>Clinical and laboratory research in contraception and other
+                phases of human fertility were also carried on during the year
+                at the <org>Margaret Sanger Research bureau</org>.</p>
+            <p>The Planned Parenthood federation was in 1950 the national agency
+                and clearinghouse for 15 state leagues and 98 local committees.
+                Birth control clinics numbered 522. These services were in 252
+                public health departments, 52 hospitals and 190 extramural
+                clinics and there were 28 referral services. Of the 162,377
+                yearly total of patients visiting birth control clinics in 1949,
+                the majority or 150,693 were served in the extramural clinics,
+                sponsored by federation affiliates. Of the 67 infertility
+                clinics, 16 were under Planned Parenthood auspices.</p>
+            <byline>(M.SR.)</byline>
+        </div>
+    </docBody>
+</doc>

@@ -704,12 +704,15 @@ else {
 			}
 		}
 
-		$query .= "SELECT DISTINCT filename, title, date, type FROM documents AS d"; // removing "doctypes" temporarily 
+		$query .= "SELECT DISTINCT filename, title, date, type FROM documents AS d, doctypes AS t"; 
 		if(sizeof($category)>0) {
 			for($i=0;$i<sizeof($category);$i++) {
 				$query .= ", documents_category AS docs_cat".$i;
 			}
 		}
+		if($mentionedPlace) { 
+			$query .= ", mentioned_places AS p"; 
+		} 
 	
 		$query.=" ";
 	
@@ -771,16 +774,16 @@ else {
 			$_SESSION['search_values'].="<li>mentioned place=\"$mentionedPlace\"</li>"; 
 
 			/* If a title preceeded the doctype set, then add "and" to the query */
-			//if($title || $body || $doctype_set) {
-			//	$query .= "and ";
-			//}
+			if($title || $body || $doctype_set) {
+				$query .= "and ";
+			}
 			/* If doctype is first in the query, then we need to start it off with 
 			"where" */
-			//else {
-		//		$query .= "where ";
-		//	}
+			else {
+				$query .= "where ";
+			}
 			/* Finally, add the doctype to the query string */
-			$query .= "JOIN mentioned_places AS p ON d.filename = p.in_document JOIN doctypes AS t ON d.doctype = t.id WHERE p.name =\"$mentionedPlace\"  "; 
+			$query .= "p.name =\"$mentionedPlace\"  "; 
 		} 
 		/* If the user entered a year in either date field, then we must
 		consider dates */
@@ -923,7 +926,10 @@ else {
 //			extract($row);
 //			$query .= ", documents_category AS docs_cat0 where docs_cat0.cat_id=\"$subjectID\" and docs_cat0.doc_id=documents.id "; //I don't know why this works but it does
 //		} 
-		//$query .= " and documents.doctype=doctypes.id "; // disabling temporarily 
+		$query .= " and d.doctype = t.id "; 
+		if($mentionedPlace) { 
+			$query .= " AND d.filename = p.in_document "; 
+		} 
 		
 		// Handle Basic Search
 		// will check body, type, title & categories
@@ -956,6 +962,11 @@ else {
 			if ($_GET['verbose']) { 
 				echo "<p>Here is the raw mySQL query: </p>
 				      <p>$query</p>"; //debugging
+				$error = mysql_error();
+				if($error) { 
+					echo "<p>Here is the mySQL error: </p> 
+					<p>$error</p>"; 
+				} 
 			}
 			$result = mysql_query($query) //this is the actual query
 

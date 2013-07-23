@@ -704,7 +704,7 @@ else {
 			}
 		}
 
-		$query .= "select distinct filename, title, date, type from documents, doctypes";
+		$query .= "SELECT DISTINCT filename, title, date, type FROM documents AS d"; // removing "doctypes" temporarily 
 		if(sizeof($category)>0) {
 			for($i=0;$i<sizeof($category);$i++) {
 				$query .= ", documents_category AS docs_cat".$i;
@@ -768,27 +768,19 @@ else {
 		}
 		/* If the user specified a mentioned place, then include that in the query -JR */ 
 		if($mentionedPlace) { 
-			$mpQuery = 'SELECT in_document FROM `mentioned_places` WHERE name="'.$mentionedPlace.'";'; 
-			if ($_GET['verbose']) { //debugging
-				echo "<li>Mpquery is: $mpQuery </li>"; 
-			} 
-			$result=mysql_query($mpQuery) or die("Mentioned place query failed.");
-			$row=mysql_fetch_array($result);
-			extract($row);
-
 			$_SESSION['search_values'].="<li>mentioned place=\"$mentionedPlace\"</li>"; 
 
-//			/* If a title preceeded the doctype set, then add "and" to the query */
-//			if($title || $body || $doctype_set) {
-//				$query .= "and ";
-//			}
+			/* If a title preceeded the doctype set, then add "and" to the query */
+			//if($title || $body || $doctype_set) {
+			//	$query .= "and ";
+			//}
 			/* If doctype is first in the query, then we need to start it off with 
 			"where" */
-//			else {
-//				$query .= "where ";
-//			}
+			//else {
+		//		$query .= "where ";
+		//	}
 			/* Finally, add the doctype to the query string */
-//			$query .= "journal=$journal "; // this is wrong
+			$query .= "JOIN mentioned_places AS p ON d.filename = p.in_document JOIN doctypes AS t ON d.doctype = t.id WHERE p.name =\"$mentionedPlace\"  "; 
 		} 
 		/* If the user entered a year in either date field, then we must
 		consider dates */
@@ -931,7 +923,7 @@ else {
 //			extract($row);
 //			$query .= ", documents_category AS docs_cat0 where docs_cat0.cat_id=\"$subjectID\" and docs_cat0.doc_id=documents.id "; //I don't know why this works but it does
 //		} 
-		$query .= " and documents.doctype=doctypes.id ";
+		//$query .= " and documents.doctype=doctypes.id "; // disabling temporarily 
 		
 		// Handle Basic Search
 		// will check body, type, title & categories
@@ -946,7 +938,7 @@ else {
 			
 		}
 	
-		$query .= "order by date";
+		$query .= "ORDER BY DATE ";
 		$_SESSION['current_query']=$query;
 		$_SESSION['search_values'].="</ul></div>";
 	}
@@ -962,7 +954,8 @@ else {
 	
 			//$query = "select * from 'categories'";
 			if ($_GET['verbose']) { 
-				print 'Here is the raw mySQL query: <br/>'.$query; //debugging
+				echo "<p>Here is the raw mySQL query: </p>
+				      <p>$query</p>"; //debugging
 			}
 			$result = mysql_query($query) //this is the actual query
 

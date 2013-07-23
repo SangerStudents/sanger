@@ -817,8 +817,8 @@ else {
 			$_SESSION['search_values'].="<li>mentioned organization=\"$mentionedOrganization\"</li>"; 
 
 			/* If a title preceeded the doctype set, then add "and" to the query */
-			if($title || $body || $doctype_set) {
-				$query .= "and ";
+			if($title || $body || $doctype_set || $mentionedPerson || $mentionedPlace ) {
+				$query .= "AND ";
 			}
 			/* If doctype is first in the query, then we need to start it off with 
 			"where" */
@@ -832,8 +832,8 @@ else {
 			$_SESSION['search_values'].="<li>mentioned title=\"$mentionedTitle\"</li>"; 
 
 			/* If a title preceeded the doctype set, then add "and" to the query */
-			if($title || $body || $doctype_set) {
-				$query .= "and ";
+			if($title || $body || $doctype_set || $mentionedPerson || $mentionedPlace || $mentionedOrganization) {
+				$query .= "AND ";
 			}
 			/* If doctype is first in the query, then we need to start it off with 
 			"where" */
@@ -937,7 +937,7 @@ else {
 		}
 		 
 		if(sizeof($category)>0) {
-			if($date1 || $doctype_set || $title || $body || $journal) {
+			if($date1 || $doctype_set || $title || $body || $journal || $mentionedPerson || $mentionedPlace || $mentionedOrganization || $mentionedTitle) {
 				$query .= "AND ";
 			}
 			else {

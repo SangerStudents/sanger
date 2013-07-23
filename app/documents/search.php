@@ -945,15 +945,18 @@ else {
 			}
 			for($i=0;$i<sizeof($category);$i++) {
 				$catNameQuery = "SELECT name AS cat_name FROM test_cat WHERE id=$category[$i]";
+				if ($_GET['verbose']) { //debugging
+					echo "<p>Category name query is: $catNameQuery</p>"; 
+				} 
 				$result=mysql_query($catNameQuery)
-				or die("Category name query failed.");
+				or die("<p>Category name query failed.</p>");
 				$row=mysql_fetch_array($result);
 				extract($row);
 				$_SESSION['search_values'].="<li>subject index ".($i+1)."=\"$cat_name\"</li>"; 
 				if($i>0) {
 					$query .= "and ";
 				}
-				$query .= "docs_cat".$i.".cat_id=\"$category[$i]\" and docs_cat".$i.".doc_id=documents.id ";
+				$query .= "docs_cat".$i.".cat_id=\"$category[$i]\" AND docs_cat".$i.".doc_id = d.id ";
 			}
 		}
 
@@ -1030,10 +1033,8 @@ else {
 				echo "<p>Here is the raw mySQL query: </p>
 				      <p>$query</p>"; //debugging
 				$error = mysql_error();
-				if($error) { 
 					echo "<p>Here is the mySQL error: </p> 
 					<p>$error</p>"; 
-				} 
 			}
 			$result = mysql_query($query) //this is the actual query
 

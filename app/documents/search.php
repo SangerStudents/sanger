@@ -608,6 +608,9 @@ else {
 		  $month2 = $_POST['month2'];
 		  $day2 = $_POST['day2'];
 		  $mentionedPlace = $_POST['mentionedPlace']; 
+		  $mentionedPerson = $_POST['mentionedPerson']; 
+		  $mentionedOrganization = $_POST['mentionedOrganization']; 
+		  $mentionedTitle = $_POST['mentionedTitle']; 
 		}		
 		function look_up_journalID($journalTitle) { 
 			//this should take the raw journal title, i.e. "Birth Control Review" and look up the ID in the database
@@ -711,7 +714,16 @@ else {
 			}
 		}
 		if($mentionedPlace) { 
-			$query .= ", mentioned_places AS p"; 
+			$query .= ", mentioned_places AS mpl"; 
+		} 
+		if($mentionedPerson) { 
+			$query .= ", mentioned_people AS mppl"; 
+		} 
+		if($mentionedOrganization) { 
+			$query .= ", mentioned_organizations AS morg"; 
+		} 
+		if($mentionedTitle) { 
+			$query .= ", mentioned_titles AS mtitle"; 
 		} 
 	
 		$query.=" ";
@@ -720,16 +732,16 @@ else {
 		if($title) {
 			$_SESSION['search_values'].="<li>title=\"$title\"</li>"; 
 	
-			$query .= "where title like \"%$title%\" ";
+			$query .= "WHERE TITLE LIKE \"%$title%\" ";
 		}
 		if($body) {
 			$_SESSION['search_values'].="<li>full text=\"$body\"</li>"; 
 	
 			if($title) {
-				$query .= "and ";
+				$query .= "AND ";
 			}
 			else {
-				$query .= "where ";
+				$query .= "WHERE ";
 			}
 			$query .= "MATCH (title, body) AGAINST ('$body' IN BOOLEAN MODE) ";
 		}
@@ -737,12 +749,12 @@ else {
 		if($doctype_set) {
 			/* If a title preceeded the doctype set, then add "and" to the query */
 			if($title || $body) {
-				$query .= "and ";
+				$query .= "AND ";
 			}
 			/* If doctype is first in the query, then we need to start it off with 
 			"where" */
 			else {
-				$query .= "where ";
+				$query .= "WHERE ";
 			}
 			/* Finally, add the doctype to the query string */
 			$query .= "doctype in $doctype_set ";
@@ -764,7 +776,7 @@ else {
 			/* If doctype is first in the query, then we need to start it off with 
 			"where" */
 			else {
-				$query .= "where ";
+				$query .= "WHERE ";
 			}
 			/* Finally, add the doctype to the query string */
 			$query .= "journal=$journal ";
@@ -780,10 +792,56 @@ else {
 			/* If doctype is first in the query, then we need to start it off with 
 			"where" */
 			else {
-				$query .= "where ";
+				$query .= "WHERE ";
 			}
 			/* Finally, add the doctype to the query string */
-			$query .= "p.name =\"$mentionedPlace\"  "; 
+			$query .= "mpl.name =\"$mentionedPlace\"  "; 
+		} 
+		/* If the user specified a mentioned person, then include that in the query -JR */ 
+		if($mentionedPerson) { 
+			$_SESSION['search_values'].="<li>mentioned person=\"$mentionedPerson\"</li>"; 
+
+			/* If a title preceeded the doctype set, then add "and" to the query */
+			if($title || $body || $doctype_set) {
+				$query .= "and ";
+			}
+			/* If doctype is first in the query, then we need to start it off with 
+			"where" */
+			else {
+				$query .= "WHERE ";
+			}
+			/* Finally, add the doctype to the query string */
+			$query .= "mppl.name =\"$mentionedPerson\"  "; 
+		} 
+		if($mentionedOrganization) { 
+			$_SESSION['search_values'].="<li>mentioned organization=\"$mentionedOrganization\"</li>"; 
+
+			/* If a title preceeded the doctype set, then add "and" to the query */
+			if($title || $body || $doctype_set) {
+				$query .= "and ";
+			}
+			/* If doctype is first in the query, then we need to start it off with 
+			"where" */
+			else {
+				$query .= "WHERE ";
+			}
+			/* Finally, add the doctype to the query string */
+			$query .= "morg.name =\"$mentionedOrganization\"  "; 
+		} 
+		if($mentionedTitle) { 
+			$_SESSION['search_values'].="<li>mentioned title=\"$mentionedTitle\"</li>"; 
+
+			/* If a title preceeded the doctype set, then add "and" to the query */
+			if($title || $body || $doctype_set) {
+				$query .= "and ";
+			}
+			/* If doctype is first in the query, then we need to start it off with 
+			"where" */
+			else {
+				$query .= "WHERE ";
+			}
+			/* Finally, add the doctype to the query string */
+			$query .= "mtitle.name =\"$mentionedTitle\"  "; 
 		} 
 		/* If the user entered a year in either date field, then we must
 		consider dates */
@@ -821,7 +879,7 @@ else {
 					$query .= "and ";
 				}
 				else {
-					$query .= "where ";
+					$query .= "WHERE ";
 				}
 				if($month1 == "00") {
 					$query .= "date like \"%$year1%\" ";
@@ -844,10 +902,10 @@ else {
 				$date1 = "1900-00-00";
 				$date2 = $year2 . "-" . $month2 . "-" . $day2;
 				if($doctype_set || $title || $body || $journal) {
-					$query .= "and ";
+					$query .= "AND ";
 				}
 				else {
-					$query .= "where ";
+					$query .= "WHERE ";
 				}
 		
 				$query .= "date BETWEEN \"$date1\" and \"$date2\" ";
@@ -866,10 +924,10 @@ else {
 				$date1 = $year1 . "-" . $month1 . "-" . $day1;
 				$date2 = $year2 . "-" . $month2 . "-" . $day2;
 				if($doctype_set || $title || $body || $journal) {
-					$query .= "and ";
+					$query .= "AND ";
 				}
 				else {
-					$query .= "where ";
+					$query .= "WHERE ";
 				}
 		
 				$query .= "date BETWEEN \"$date1\" and \"$date2\" ";
@@ -880,10 +938,10 @@ else {
 		 
 		if(sizeof($category)>0) {
 			if($date1 || $doctype_set || $title || $body || $journal) {
-				$query .= "and ";
+				$query .= "AND ";
 			}
 			else {
-				$query .= "where ";
+				$query .= "WHERE ";
 			}
 			for($i=0;$i<sizeof($category);$i++) {
 				$catNameQuery = "SELECT name AS cat_name FROM test_cat WHERE id=$category[$i]";
@@ -928,7 +986,16 @@ else {
 //		} 
 		$query .= " and d.doctype = t.id "; 
 		if($mentionedPlace) { 
-			$query .= " AND d.filename = p.in_document "; 
+			$query .= " AND d.filename = mpl.in_document "; 
+		} 
+		if($mentionedPerson) { 
+			$query .= " AND d.filename = mppl.in_document "; 
+		} 
+		if($mentionedOrganization) { 
+			$query .= " AND d.filename = morg.in_document "; 
+		} 
+		if($mentionedTitle) { 
+			$query .= " AND d.filename = mtitle.in_document "; 
 		} 
 		
 		// Handle Basic Search

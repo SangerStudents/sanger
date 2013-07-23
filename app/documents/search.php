@@ -787,7 +787,7 @@ else {
 
 			/* If a title preceeded the doctype set, then add "and" to the query */
 			if($title || $body || $doctype_set) {
-				$query .= "and ";
+				$query .= "AND ";
 			}
 			/* If doctype is first in the query, then we need to start it off with 
 			"where" */
@@ -802,7 +802,7 @@ else {
 			$_SESSION['search_values'].="<li>mentioned person=\"$mentionedPerson\"</li>"; 
 
 			/* If a title preceeded the doctype set, then add "and" to the query */
-			if($title || $body || $doctype_set) {
+			if($title || $body || $doctype_set || $mentionedPlace) {
 				$query .= "and ";
 			}
 			/* If doctype is first in the query, then we need to start it off with 
@@ -817,7 +817,7 @@ else {
 			$_SESSION['search_values'].="<li>mentioned organization=\"$mentionedOrganization\"</li>"; 
 
 			/* If a title preceeded the doctype set, then add "and" to the query */
-			if($title || $body || $doctype_set || $mentionedPerson || $mentionedPlace ) {
+			if($title || $body || $doctype_set || $mentionedPerson || $mentionedPlace) {
 				$query .= "AND ";
 			}
 			/* If doctype is first in the query, then we need to start it off with 

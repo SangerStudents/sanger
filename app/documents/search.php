@@ -4,6 +4,8 @@ include("../includes/header.php");
 
 include("dblayer3.php"); //include my db layer --JR
 
+//this is the beginning
+
 //header('Cache-Control: max-age=900'); //will this make the 'document expired' problem go away? 
 
 function move_the($title) { 
@@ -678,7 +680,6 @@ else {
 		}
 		function look_up_subjectID($subjectParamName, $parentSubjectID=0) { 
 			//this function accepts the URL parameter name for the raw subject, and looks up its raw subject heading in the database to get its ID. 
-			//this is not really all that helpful of a function, but it saves a little bit of space. 
 			$subject=$_GET[$subjectParamName]; 
 			$subject=addslashes(strtr($subject,"^",'"')); // change all the ^ back into escaped quotes as per #23 
 			$subjectLookupQuery="SELECT id AS subjectID FROM test_cat WHERE parent_id=$parentSubjectID and name=\"$subject\";"; //look up subject ID using subject name
@@ -1101,7 +1102,7 @@ else {
 		echo "<OL>";
 		$tempDate = "";
 		$resultCounter = $start;
-		while ($row = mysql_fetch_array($result2)) //here is where the results actually start displaying
+		while ($row = mysql_fetch_array($result2)) //this is where the results actually start displaying 
 		{	
 			$resultCounter++;
 			extract($row);
@@ -1111,7 +1112,11 @@ else {
 			}
 			echo "<LI VALUE=\"$resultCounter\"><b><a href='show.php?sangerDoc=$filename'>$title</a></b></LI>\n";
 			echo "<span class=\"resultSubLine\">";
-			echo $date;
+			if ($date=="0000-00-00") { 
+				echo "n.d."; 
+			} else {  
+				echo $date;
+			} 
 			//				echo date ("F d, Y",$tempDate);
 			echo " &nbsp;($type)";
 			echo "</span>\n";

@@ -136,18 +136,18 @@
 	<xsl:template match="mepHeader/sourceDesc/bibl/title">
 		<xsl:variable name="title" select="." /> 
 		<xsl:choose> 
-		<xsl:when test="$title != ('Margaret Sanger Microfilm' or 'MSM')"> 
-			<a href='search.php?journal="{$title}"'> 
-			<span class="italics">
-				<xsl:apply-templates/>
-			</span>
-			</a> 
-		</xsl:when> 
-		<xsl:otherwise> 
-			<span class="italics">
-				<xsl:apply-templates/>
-			</span>
-		</xsl:otherwise> 
+			<xsl:when test="$title = 'Margaret Sanger Microfilm' or $title = 'MSM'"> 
+				<span class="italics">
+					<xsl:apply-templates/>
+				</span>
+			</xsl:when> 
+			<xsl:otherwise> 
+				<a href='search.php?journal="{$title}"'> 
+				<span class="italics">
+					<xsl:apply-templates/>
+				</span>
+				</a> 
+			</xsl:otherwise> 
 		</xsl:choose> 
 	</xsl:template>
 	

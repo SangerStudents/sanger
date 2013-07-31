@@ -136,7 +136,7 @@
 	<xsl:template match="mepHeader/sourceDesc/bibl/title">
 		<xsl:variable name="title" select="." /> 
 		<xsl:choose> 
-			<xsl:when test="$title = 'Margaret Sanger Microfilm' or $title = 'MSM'"> 
+			<xsl:when test="$title = 'Margaret Sanger Microfilm' or $title = 'MSM' or $title = 'LCM'"> 
 				<span class="italics">
 					<xsl:apply-templates/>
 				</span>

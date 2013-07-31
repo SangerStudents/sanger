@@ -16,4 +16,10 @@
 	<a href="project.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c1','','../images/header_r2_c1_f2.gif',1);"><img id="header_r2_c1" src="../images/header_r2_c1.gif" width="104" height="20" alt="" /></a><a href="edition.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c2','','../images/header_r2_c2_f2.gif',1);"><img id="header_r2_c2" src="../images/header_r2_c2.gif" width="104" height="20" alt="" /></a><a href="search.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c3','','../images/header_r2_c3_f2.gif',1);"><img id="header_r2_c3" src="../images/header_r2_c3.gif" width="104" height="20" alt="" /></a><a href="http://www.nyu.edu/projects/sanger/" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c4','','../images/header_r2_c4_f2.gif',1);"><img id="header_r2_c4" src="../images/header_r2_c4.gif" width="104" height="20" alt="" /></a><a href="contact.php" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('header_r2_c5','','../images/header_r2_c5_f2.gif',1);"><img id="header_r2_c5" src="../images/header_r2_c5.gif" width="104" height="20" alt="" /></a><img id="header_r2_c6" src="../images/header_r2_c6.jpg" width="105" height="20" alt="" /><img src="../images/spacer.gif" width="1" height="20" alt="" /> 
 </p>
 <div class="outBox">
-	<div class="docBox">
+<?php if ($_GET[editmode]) { 
+	echo '<div class="docBox" style="line-height: 2em;">'; 
+} else { 
+	echo '<div class="docBox">';
+} ?>
+
+

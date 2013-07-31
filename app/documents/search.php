@@ -614,17 +614,22 @@ else {
 		}		
 		function look_up_journalID($journalTitle) { 
 			//this should take the raw journal title, i.e. "Birth Control Review" and look up the ID in the database
+			$journalLookupQuery="SELECT id FROM journals WHERE title=$journalTitle;"; //look up journal ID using subject name
 			if ($_GET['verbose']) { //debugging. FIXME refactor this to concatenate to a global variable? 
-				echo "Trying to look up journal ID now."; 
+				echo "<p>Trying to look up journal ID now.</p>"; 
+				echo "<p>Here is the raw mySQL query for looking up the journal ID in the database: $journalLookupQuery</p>"; //debugging
+				$error = mysql_error();
+				if ($error) { 
+					echo "<p>Here is the mySQL error: </p> 
+					<p>$error</p>"; 
+				} 
 			} 
-			$journaLookupQuery="SELECT id AS journalID FROM journals WHERE title=$journalTitle;"; //look up journal ID using subject name
 			$journalLookupResult=mysql_query($journalLookupQuery) or die("<p>Couldn't find journal name in database.</p>");  
 			$myResult=mysql_fetch_array($journalLookupResult); 
 			$journalID=$myResult[0]; 
-			return journalID; 
+			return $journalID; 
 		}
 		if($_GET['journal']!=NULL) { // get the journal name from the URL, useful for clickable journal links within documents
-			// drat! it's not as simple as this. Need to first look up the journal name like with subjects. 
 			if ($_GET['verbose']) {  // debugging
 				echo "You've specified a journal title via URL."; 
 			}

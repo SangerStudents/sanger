@@ -18,7 +18,14 @@ if ($_GET['verbose']) { //to enable debugging messages, add ?verbose=TRUE to the
 
 <?php 
 $placesQuery = "SELECT * FROM mentioned_places"; 
+$placesResult = mysql_query($placesQuery); 
+echo "<table>"; 
+while ($row = mysql_fetch_array($placesResult)) { 
+	extract($row); 
+	echo "<tr><td>$name</td><td>$in_document</td></tr>"; 
+	} 
 
+echo "</table>"; 
 
 
 include("../includes/footer.php"); ?>

@@ -621,14 +621,16 @@ else {
 		 */ 
 		function look_up_parent_subjects($subjectID) { 
 			$subjectParentLookupQuery = "SELECT parent_id FROM test_cat WHERE id=$subjectID"; 
-			echo "<p>Subject parent lookup query is: $subjectParentLookupQuery</p>"; 
+			if ($_GET['verbose']) {  // debugging
+				echo "<p>Subject parent lookup query is: $subjectParentLookupQuery</p>"; 
+			} 
 			$subjectParentLookupResult = mysql_query($subjectParentLookupQuery) or die ("Couldn't look up subject parent(s)."); 
 			$resultArray=mysql_fetch_array($subjectParentLookupResult); 
 			$parentID=$resultArray[0]; //FIXME there must be an easier way to do this
 			return $parentID; 
 		} 
 		if (isset($category)) { 
-			$category=$category[0]; // all we have is one value, anyway. 
+			$category=$category[0]; // all we have is one value from POST, anyway. 
 			$categories[]=$category; // initialize new array
 			while (look_up_parent_subjects($category)!=0) { 
 				$category=look_up_parent_subjects($category); 

@@ -27,11 +27,20 @@ function processFile($Files,$filepointer) {
   	
   	if ($dupeCheckHits > 0) {
   		//file is already in system - remove it so it can be replaced
+		echo "<p>File is already in system. Removing old entries and reparsing file.</p>"; 
   		$row = mysql_fetch_assoc($dupeCheck);
   		$iIDtoDelete = $row['id'];
   		$sQuery = "DELETE FROM documents where id = ".$iIDtoDelete;
   		$resultX = @mysql_query($sQuery);
   		$sQuery = "DELETE FROM documents_category where doc_id = ".$iIDtoDelete;
+  		$resultX = @mysql_query($sQuery);
+  		$sQuery = "DELETE FROM mentioned_people where in_document = ".addslashes($Files);
+  		$resultX = @mysql_query($sQuery);
+  		$sQuery = "DELETE FROM mentioned_places where in_document = ".addslashes($Files);
+  		$resultX = @mysql_query($sQuery);
+  		$sQuery = "DELETE FROM mentioned_titles where in_document = ".addslashes($Files);
+  		$resultX = @mysql_query($sQuery);
+  		$sQuery = "DELETE FROM mentioned_organizations where in_document = ".addslashes($Files);
   		$resultX = @mysql_query($sQuery);
   	}
   	
@@ -379,7 +388,9 @@ function processFile($Files,$filepointer) {
       }
 
       if ($mentionedPlace) { 
-	      echo "<p>Now attempting to add places mentioned in ".$filename." to database.</p>"; 
+	      if ($_GET["verbose"]) { 
+		      echo "<p>Now attempting to add places mentioned in ".$filename." to database.</p>"; 
+	      }
 	      foreach ($mentionedPlace as $place) { 
 		      //clean up place names
 		      $place=addslashes($place); 
@@ -400,7 +411,9 @@ function processFile($Files,$filepointer) {
 			      return;					
 		      }
 	      } 
-	      echo "<p>Successfully entered mentioned places to database.</p>"; 
+	      if ($_GET["verbose"]) { 
+		      echo "<p>Successfully entered mentioned places to database.</p>"; 
+	      }
       } 
       
         /*********** Parse Organizations Mentioned in Text ***********/
@@ -418,7 +431,9 @@ function processFile($Files,$filepointer) {
       }
 
       if ($mentionedOrganization) { 
-	      echo "<p>Now attempting to add mentioned organizations to database.</p>"; 
+	      if ($_GET["verbose"]) { 
+		      echo "<p>Now attempting to add mentioned organizations to database.</p>"; 
+	      }
 	      foreach ($mentionedOrganization as $org) { 
 		      $org=trim($org); //remove initial and final whitespace 
 		      $org=preg_replace( '/\s+/', ' ', $org); //remove interior whitespace
@@ -455,8 +470,10 @@ function processFile($Files,$filepointer) {
       }
 
       if ($mentionedTitle) { 
-	      echo "<p>Now attempting to add mentioned titles to database.</p>"; 
-	      echo "<p>Using titles: ".print_r($mentionedTitle)."</p>"; 
+	      if ($_GET["verbose"]) { 
+		      echo "<p>Now attempting to add mentioned titles to database.</p>"; 
+		      echo "<p>Using titles: ".print_r($mentionedTitle)."</p>"; 
+	      }
 	      foreach ($mentionedTitle as $mTitle) { 
 		      //clean up title
 		      $mTitle=addslashes($mTitle); 
@@ -477,7 +494,9 @@ function processFile($Files,$filepointer) {
 			      return;					
 		      }
 	      } 
-	      echo "<p>Successfully entered mentioned titles to database.</p>"; 
+	      if ($_GET["verbose"]) { 
+		      echo "<p>Successfully entered mentioned titles to database.</p>"; 
+	      }
       } 
       /* End section of parsing mentioned items from texts */ 
 

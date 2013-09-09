@@ -614,6 +614,29 @@ else {
 		  $mentionedOrganization = $_POST['mentionedOrganization']; 
 		  $mentionedTitle = $_POST['mentionedTitle']; 
 		}		
+		//find parent subjects if they exist
+		/* 
+		 * Accepts as params a subject ID
+		 * returns parent subject ID
+		 */ 
+		function look_up_parent_subjects($subjectID) { 
+			$subjectParentLookupQuery = "SELECT parent_id FROM test_cat WHERE id=$subjectID"; 
+			echo "<p>Subject parent lookup query is: $subjectParentLookupQuery</p>"; 
+			$subjectParentLookupResult = mysql_query($subjectParentLookupQuery) or die ("Couldn't look up subject parent(s)."); 
+			$resultArray=mysql_fetch_array($subjectParentLookupResult); 
+			$parentID=$resultArray[0]; //FIXME there must be an easier way to do this
+			return $parentID; 
+		} 
+		if (isset($category)) { 
+			$category=$category[0]; // all we have is one value, anyway. 
+			$categories[]=$category; // initialize new array
+			while (look_up_parent_subjects($category)!=0) { 
+				$category=look_up_parent_subjects($category); 
+				$categories[]=$category; //add parent subject to array 
+			} 
+			$category=array_reverse($categories); // reassign this variable
+		} 
+
 		function look_up_journalID($journalTitle) { 
 			//this should take the raw journal title, i.e. "Birth Control Review" and look up the ID in the database
 			$journalLookupQuery="SELECT id FROM journals WHERE title=$journalTitle;"; //look up journal ID using subject name
@@ -949,6 +972,10 @@ else {
 			else {
 				$query .= "WHERE ";
 			}
+
+			if ($_GET['verbose']) { //debugging
+			}
+
 			for($i=0;$i<sizeof($category);$i++) {
 				$catNameQuery = "SELECT name AS cat_name FROM test_cat WHERE id=$category[$i]";
 				if ($_GET['verbose']) { //debugging

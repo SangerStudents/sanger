@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
 <mepHeader>
 <prepDate>2003/07/30 SR</prepDate>
 <prepDate>2004/07/01 CH</prepDate>
 <prepDate>2004/07/26 CH</prepDate>
+<prepDate>2014-03-04 CH correct regs</prepDate>
+<prepDate>2014-11-13 CH clean regs</prepDate>
 <docAuthor>Margaret Sanger</docAuthor>
 <docDate value="1924-03-00">Mar 1924</docDate>
 <docTitle>
@@ -11,38 +14,40 @@
 </docTitle>
 <idno>msp301463</idno>
 <sourceDesc>
-<bibl><title>The Birth Control Review</title>, Mar. 1924, 76</bibl>
-<bibl><title>Margaret Sanger Microfilm</title> C16:218</bibl>
+<bibl><title type="journal">Birth Control Review</title>, Mar. 1924, 76</bibl>
+<bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title> C16:218</bibl>
 </sourceDesc>
 <respStmt>
-<resp></resp>
+<resp/>
 <name id="UNK"> Unknown</name>
 </respStmt>
 </mepHeader>
-<headNote resp="MSPP">In this column, Sanger replies to some of the letters she
-received.  The original letters have not been located.<index level1="Catholic Church" level2="birth control and abortion and"/><index level1="Catholic Church" level2="MS on"/><index level1="client letters"/><index level1="family size" level2="MS on"/></headNote>
+<headNote resp="MSPP">
+<p>In this column, Sanger replies to some of the letters she received. The original letters have not
+been located.</p>
+<index level1="Catholic Church" level2="birth control and abortion and"/>
+<index level1="Catholic Church" level2="MS on"/>
+<index level1="client letters"/>
+<index level1="family size" level2="MS on"/>
+</headNote>
 <docBody>
-<head>Margaret Sanger's Own Corner</head>
-<p><person>M. S. L.</person>  The best person to advise you in regard
-to Birth Control is your doctor.  As you evidently need such advice,
-go to him and ask him.  If he is unable or unwilling to help you,
-write to me again, and send your address.</p>
-<p>	<person>G. B.</person> asks if two children are the right number
-for parents to have.  It is impossible to give a yes or no answer to
-this question.  The number in a family should be in accordance with
-the health of the mother, with the income and circumstances of the
-family, and with the desires of the parents.  Some women ought not to
-have children at all.  Others may welcome and care adequately for four
-or even more.</p>
-<p>Here are two questions about the opposition of the Roman Catholics
-to Birth Control:</p>
-<p><person>I. D. N.</person> asks:  "<q who="UNK">Have you a pamphlet
-answering the Catholics?</q>"</p>
-<p>My reply is that I have never been able to find out what there is
-to answer.  If I. D. N. will send me their objections, I will be glad
-to try to meet them.</p>
-<p><person>F. McM.</person> writes:  "<q who="UNK">Why do the Catholics
-object to Birth Control?</q>"</p>
-<p>All I can say is, I don't know.  I would like to find out.</p>
+<head><person reg="Sanger, Margaret">Margaret Sanger</person>'s Own Corner</head>
+<p><person reg="Anonymous">M. S. L.</person> The best person to advise you in regard to Birth
+Control is your doctor. As you evidently need such advice, go to him and ask him. If he is unable or
+unwilling to help you, write to me again, and send your address.</p>
+<p>
+<person reg="Anonymous">G. B.</person> asks if two children are the right number for parents to
+have. It is impossible to give a yes or no answer to this question. The number in a family should be
+in accordance with the health of the mother, with the income and circumstances of the family, and
+with the desires of the parents. Some women ought not to have children at all. Others may welcome
+and care adequately for four or even more.</p>
+<p>Here are two questions about the opposition of the Roman Catholics to Birth Control:</p>
+<p><person reg="Anonymous">I. D. N.</person> asks: "<q who="UNK">Have you a pamphlet answering the
+Catholics?</q>"</p>
+<p>My reply is that I have never been able to find out what there is to answer. If I. D. N. will
+send me their objections, I will be glad to try to meet them.</p>
+<p><person reg="Anonymous">F. McM.</person> writes: "<q who="UNK">Why do the Catholics object to
+Birth Control?</q>"</p>
+<p>All I can say is, I don't know. I would like to find out.</p>
 </docBody>
-</doc>  
+</doc>

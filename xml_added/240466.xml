@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Autograph Draft Speech">
     <mepHeader>
         <prepDate>2011-07-22 NC</prepDate>
-        <prepDate>2011-08-18 EK</prepDate><prepDate>2011-11-21 CH correct typo</prepDate>
+        <prepDate>2011-08-18 EK</prepDate>
+        <prepDate>2011-11-21 CH correct typo</prepDate>
+        <prepDate>2014-03-30 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1946-08-23"><supplied resp="MSPP">23-26 Aug 1946</supplied></docDate>
         <docTitle>
@@ -13,22 +15,23 @@
         <idno>msp240466</idno>
         <sourceDesc>
             <bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-            <bibl><title>MSM</title> S72:0533</bibl>
+            <bibl><title>Margaret Sanger Microfilm </title> S72:0533</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
             <name id="UNK">Unknown</name>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP">This is likely a draft of <person reg="Sanger, Margaret">Sanger's</person>
-        address at the <org>International Sex Education Conference</org> held in <place>Stockholm,
-            Sweden</place> from August 23 - 26. No published proceedings or a more finished version
-        have been found.
+    <headNote resp="MSPP"><p>This is likely a draft of <person reg="Sanger, Margaret"
+                >Sanger's</person> address at the <org>International Sex Education Conference</org>
+            held in <place>Stockholm, Sweden</place> from August 23 - 26. No published proceedings
+            or a more finished version have been found.</p>
         <index level1="birth control" level2="movement" level3="history of"/>
         <index level1="conferences" level2="International Sex Education Conference"
             level3="1946 (Stockholm)"/>
         <index level1="World War II" level2="MS on"/>
-        <index level1="birth control" level2="legal cases" level3="U.S. v. One Package of Japanese contraceptives"/>
+        <index level1="birth control" level2="legal cases"
+            level3="U.S. v. One Package of Japanese contraceptives"/>
         <index level1="Birth Control Federation of America"/>
         <index level1="Planned Parenthood Federation of America"/>
         <index level1="birth control" level2="clinics and leagues" level3="in US"/>
@@ -42,24 +45,24 @@
         <p>It is indeed an encouraging sign of the strength of your ideals to have called this
             Conference &amp; to help us tie up the loose threads after the devastating &amp;
             destructive war which destroyed so much of the creative effort of thousands of our
-            friends' labors throughout the world.</p>
+            friends’ labors throughout the world.</p>
         <p>It is a pleasure to be able to repeat that in the U.S. we have held to our goal fairly
             well during these years where our country was deep into World War II.</p>
         <p>The years from 1916 when the B.C. movement actually got under way to 1930 was a period of
             agitation and education.</p>
         <p>Many false ideas had to be uprooted. Puritanical minds had to be straightened out &amp;
             made to realize that contraception was not abortion. Perhaps the one contribution to
-                <add>clearing</add> the atmosphere was the definition of Birth Control. <q who="UNK"
-                >“The conscious control of the birth rate by means that prevent the conception of
-                life.”</q> We emphasized the two words <emph rend="underline">Prevent</emph> &amp;
-                <emph rend="underline">Control</emph>. This definition was repeated in every article
-            in every lecture over &amp; over again until at last even our opponents had to base
-            their objections on another line by claiming our method of contraception was unnatural
-            while the R.C.'s method was <emph rend="underline">natural</emph>.</p>
+                <add>clearing</add> the atmosphere was the definition of Birth Control. “The
+            conscious control of the birth rate by means that prevent the conception of life.” We
+            emphasized the two words <emph rend="underline">Prevent</emph> &amp; <emph
+                rend="underline">Control</emph>. This definition was repeated in every article in
+            every lecture over &amp; over again until at last even our opponents had to base their
+            objections on another line by claiming our method of contraception was unnatural while
+            the R.C.’s method was <emph rend="underline">natural</emph>.</p>
         <p>After 1930 we went <add>into</add> to the legislative side- to amend laws made &amp;
             passed by <org reg="United States Congress">Congress</org> over in 1878. We struggled in
-            Congress until 1937 when we finally had a Judicial <title
-                rend="U.S. V. 'One Package of Japanese contraceptives'">decision</title> of far
+            Congress until 1937 when we finally had a Judicial <name type="law"
+                reg="U.S. V. 'One Package of Japanese contraceptives'">decision</name> of far
             reaching importance to the effect that physicians could send articles and reports or
             supplies.</p>
         <p>Merger in 1938,</p>
@@ -77,11 +80,12 @@
             centers, many bewildered patients for B.C. advice. In 1938, <title>Fortune</title>
             magazine estimated that the sales of contraception in U.S.A. totaled close to
             250,000,000 a year.</p>
-        <p>Several magazines have polled “<q who="UNK">the opinions of their subscribers relating to
-                who should give and get B.C. information.</q>” In 1943, 84.9 per cent of women
-            answering Fortune's poll declared the <unclear>suscribers</unclear> in favor of making
-            knowledge of B.C. available to all married women. Ladies' Home Journal's readers gave
-            79% of women favored B.C. practice for married couples.</p>
+        <p>Several magazines have polled “the opinions of their subscribers relating to who should
+            give and get B.C. information.” In 1943, 84.9 per cent of women answering <title
+                type="journal">Fortune</title>’s poll declared the <unclear>subscribers</unclear> in
+            favor of making knowledge of B.C. available to all married women. <title type="journal"
+                >Ladies’ Home Journal</title>’s readers gave 79% of women favored B.C. practice for
+            married couples.</p>
         <p>The <org reg="Gallup">gallop</org> poll 1940 revealed 77% of those questioned favored
             B.C. information through government health centers. </p>
         <p>This is the goal of the <org reg="Planned Parenthood Federation of America">Planned
@@ -89,20 +93,20 @@
             whose conditions are not conducive to bearing or rearing children properly for
             citizenship. These parents should be able to get advice, instructions, &amp;
             supplies.</p>
-        <p><del><person reg="Catherine II, of Russia">Catherine Great</person> in
+        <p><del><person reg="Catherine II (Russia)">Catherine Great</person> in
                     <place>Russia</place></del></p>
         <p>Early attitude. Woman as a human being– Right to be a mother or not. But this could not
             be unless she had knowledge to prevent the conception of a new life.</p>
-        <p><person reg="Hugo, Victor">Victor Hugo</person>'s – her force in the world so great as
+        <p><person reg="Hugo, Victor">Victor Hugo</person>’s – her force in the world so great as
             that of an Idea- hour has struck.</p>
         <p>1914 &amp; <emph rend="underline">1916</emph> { Definition – Prevent. Control. Public
             ignorance, puritanical laws, medical ignorance, no supplies. Need to awaken public to
             need of women– maternal deaths, infant deaths, abortions. 1) Agitation, 2) Education, 3)
             Organization, 4) Legislation– clear up laws. Public health centers to give to all.
-                (<title>Birth Control Review</title>)– <place reg="Netherlands">Holland</place>'s
-            example– 56 clinics. <place>England</place>'s laws <person reg="Besant, Annie"
+                (<title type="journal">Birth Control Review</title>)– <place reg="Netherlands">Holland</place>’s
+            example– 56 clinics. <place>England</place>’s laws <person reg="Besant, Annie"
                 >Besant</person> &amp; <person reg="Bradlaugh, Charles">Bradlaugh</person>
-            <person reg="Knowlton, Charles">Knowlton</person>'s pamphlet. </p>
+            <person reg="Knowlton, Charles">Knowlton</person>’s pamphlet. </p>
         <p>Brooklyn clinic– arrests, jails, court, changed laws for <emph rend="underline"
                 >Drs</emph>.: 1920, <place>New York</place> State.</p>
         <p>Medical supplies– today. Dr. <person reg="Stone, Hannah Mayer">Hannah Stone</person>.
@@ -114,7 +118,7 @@
             against. Opponents are wrong– never deviated from that truth– give them no quarter.</p>
         <p>Rhythm method- Church approval,</p>
         <p>Finally court decisions ended our legal battle &amp; we closed up our <place
-                reg="Washington D.C.">Washington</place> offices– withdrew from agitating in
+                reg="Washington DC">Washington</place> offices– withdrew from agitating in
             field.</p>
         <p>1938</p>
         <p>Merged all into <org reg="Birth Control Federation of America">Birth Control

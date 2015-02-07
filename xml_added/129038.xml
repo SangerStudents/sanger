@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
-<doc type="Typed Article">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed article">
     <mepHeader>
         <prepDate>2011/07/07 NC</prepDate>
+        <prepDate>2014-03-21 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1940-07-00">July 1940</docDate>
         <docTitle>
@@ -11,19 +12,20 @@
         <idno>msp129038</idno>
         <sourceDesc>
             <bibl>Margaret Sanger Papers, Library of Congress</bibl>
-            <bibl><title>LCM</title>130:0203</bibl>
+            <bibl><title>Library of Congress Microfilm</title>, 130:0203</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
-            <name id="ROOFR">Roosevelt, Franklin Delano</name>
+            <name id="ROOFR">Roosevelt, Franklin D.</name>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><index level1="working classes" level2="war and"/>
-        <index level1="working classes" level2="women and girls"/><index level1="United States"
-            level2="government" level3="public health programs"/></headNote>
+    <headNote resp="MSPP">
+        <index level1="working classes" level2="war and"/>
+        <index level1="working classes" level2="women and girls"/>
+        <index level1="United States" level2="government" level3="public health programs"/>
+    </headNote>
     <docBody>
         <head>National Health Training Service for Girls</head>
-
         <p>National defense against the threat of total war requires that every factor in the
             national life be secured against breakdown. National security depends as much upon the
             health and vigor of the civilian population as upon that of men in the armed forces. The
@@ -36,20 +38,20 @@
             service in time of emergency.</p>
         <p>Moreover, in modern wars, the care of refugees creates an emergency of such titanic
             vastness that an increasing number of persons trained in medical care is a crying
-            present need. <person reg="Roosevelt, Franklin Delano">President Roosevelt</person>
+            present need. <person reg="Roosevelt, Franklin D.">President Roosevelt</person>
             recently declared that hundreds of thousands--millions perhaps--of refugees will have to
             be looked after at the end of the present conflict. This problem has been increased
             since his words were spoken, and the end is not in sight. In <place reg="United States"
                 >America</place>, the refugees of the depression are already a source of national
             weakness, which cannot safely be neglected in view of what may come later.</p>
         <p>The <org>American Health Service</org> would be organized to provide to thousands of
-            young girls a year's intensive training in medical and humane services. The girls, who
+            young girls a year’s intensive training in medical and humane services. The girls, who
             in general would be the sisters of the boys now working in the <org
-                reg="Civilian Conservation Corps">CCC</org> or in the <org reg="United States Army"
+                reg="United States Civilian Conservation Corps">CCC</org> or in the <org reg="United States Army"
                 >Army</org>, would be given a preparation for playing a valuable role for the
             benefit of the nation in war or peace.</p>
         <p>In every state, young girls applying for work would be referred to the <org
-                reg="National Youth Administration">NYA</org> for an opportunity to enlist in the
+                reg="United States National Youth Administration">NYA</org> for an opportunity to enlist in the
                 <org reg="American Health Service">Health Service corps</org>. Incidentally, they
             would be in this way removed from the labor market for a year, and returned a year later
             with a training that would have greatly increased their ability to enter useful

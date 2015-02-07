@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "file:/S:/TRANSCRIPTIONS/XML%20Drafts/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed Speech">
     <mepHeader>
         <prepDate>2009/07/16 JS</prepDate>
+        <prepDate>2014/03/10 EK cleanup</prepDate>
+
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1930-09-01">
             <supplied resp="MSPP">1 Sept 1930</supplied>
         </docDate>
         <docTitle>
             <titlePart>
-                <supplied resp="MSPP">Presidential Address to 7th International Birth Control
+                <supplied resp="MSPP">Presidential Address to Seventh International Birth Control
                     Conference</supplied>
             </titlePart>
         </docTitle>
@@ -18,10 +20,8 @@
             <bibl>Margaret Sanger Papers, Library of Congress</bibl>
             <bibl><title>LCM</title> L130:572</bibl>
         </sourceDesc>
-        <respStmt>
-            <name id="GER">German</name>
-            <resp/>
-            <name/>
+        <respStmt>               
+                  <resp/>
         </respStmt>
     </mepHeader>
     <headNote resp="MSPP">
@@ -38,7 +38,7 @@
         <index level1="physicians" level2="birth control and"/>
     </headNote>
     <docBody>
-        <head>President's Opening Address</head>
+        <head>President’s Opening Address</head>
         <p>Ladies and Gentlemen, Honored guests and Members of the Conference: -- </p>
         <p>I have the honor to welcome you to the <name type="conference">Seventh International
                 Birth Control Conference</name>. It is indeed an honor and a privilege which I
@@ -65,11 +65,11 @@
             souls carried high the ideals of this cause through those years when it severely tested
             courage and vision, and they never wavered but proved themselves tried and true. May
             their work live and may we carry their dreams into practical realization.</p>
-        <p>In 1925 there were outside of <place reg="Netherlands">Holland</place> only four birth
-            control clinics in the world, modeled mostly on the ideas I had obtained from my visit
-            to <place reg="The Hague, Netherlands">the Hague</place> in 1915, where I took a course
-            of contraception from Dr. Rutgers and outlined the organization of separate birth
-            control clinics.</p>
+        <p>In 1925 there were outside of <place reg="Netherlandsthe ">Holland</place> only four
+            birth control clinics in the world, modeled mostly on the ideas I had obtained from my
+            visit to <place reg="The Hague, Netherlands">the Hague</place> in 1915, where I took
+            a course of contraception from Dr. Rutgers and outlined the organization of separate
+            birth control clinics.</p>
         <p>Today we know of over 100 birth control clinics or centers where contraceptive
             information is being given by qualified members of the medical profession. We know of
             another fifty centers or departments of health or welfare work, where birth control
@@ -80,13 +80,13 @@
             seems predestined that with this start already made nothing can prevent its permeation
             to all corners of the earth, within the lifetime of those in this room.</p>
         <p>There may be some who wonder why we came to <place reg="Zurich, Switzerland"
-                >Zurich</place> to hold this conference, and I'd like to explain why--
+                >Zurich</place> to hold this conference, and I’d like to explain why--
                 <del>First</del>
             <add>Secondly</add>, because we knew of no organizations already here upon whose toes we
             might tread. <del>Secondly</del>
             <add>First</add>, because of the world wide reputation of the charms of
                 <place>Switzerland</place> and its hospitality. Thirdly because of its geographical
-            location which made it convenient for so many of our friends from 
+            location which made it convenient for so many of our friends from
             <place>Germany</place>. We had no idea of or desire to invade the precincts of this
             delightful country, nor to <del>spread</del>
             <add>broadcast</add> our ideas <del>among</del>

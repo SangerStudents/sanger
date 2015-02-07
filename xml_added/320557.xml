@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Article">
     <mepHeader>
         <prepDate>2011/05/31 CE</prepDate>
         <prepDate>2011/06/28 CE Corrections</prepDate>
         <prepDate>2011/08/18 EK</prepDate>
+        <prepDate>2014-03-26 clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1936-08-00">Aug 1936</docDate>
         <docTitle>
@@ -12,14 +13,15 @@
         </docTitle>
         <idno>msp320557</idno>
         <sourceDesc>
-            <bibl><title>The Clubwoman</title> (August 1936), pp. 6, 15</bibl>
-            <bibl><title>MSMC</title>??:??</bibl>
+            <bibl><title type="journal">The Clubwoman</title> Aug. 1936, pp. 6, 15</bibl>
+            <bibl>Library of Congress Microfilm 128:373</bibl>
         </sourceDesc>
         <respStmt>
             <name id="USCB">United States Children's Bureau</name>
             <name id="COMAC">Comstock Act, 1873</name>
-            <name id="CRA">Crane Decision</name>
-            <name id="NMCFSCL">National Medical Committee on Federal and State Contraceptive Legislation</name>
+            <name id="CRAFR">Crane, Frederick E.</name>
+            <name id="NMCFSCL">National Medical Committee on Federal and State Contraceptive
+                Legislation</name>
         </respStmt>
     </mepHeader>
     <headNote resp="MSPP"><p>For a draft version, see LCM 128:477; for a reprint issued by the
@@ -47,13 +49,12 @@
         <head>THE BIRTH CONTROL CRUSADE MARCHES ON</head>
         <byline>BY <person reg="Sanger, Margaret">MARGARET SANGER</person>, President of the
                 <org>National Committee on Federal Legislation for Birth Control</org></byline>
-        <p>Readers of <title>The Clubwoman <org reg="General Federation of Women's Clubs"
-                >GFWC</org></title> will recall that a year ago the <org>General Federation of
-                Women's Clubs</org> passed a resolution <q who="GFWC"> “endorsing the principles of
-                birth control legislation.”</q> By so doing, it took a stand which will affect for
-            good the welfare and lives of thousands upon thousands of women, the happiness of
-            millions of American families. It will especially help mothers in families on relief who
-            are denied information in public hospitals.</p>
+        <p>Readers of <title type="journal">The Clubwoman GFWC</title> will recall that a year ago
+            the <org>General Federation of Women’s Clubs</org> passed a resolution <q who="GFWC">
+                “endorsing the principles of birth control legislation.”</q> By so doing, it took a
+            stand which will affect for good the welfare and lives of thousands upon thousands of
+            women, the happiness of millions of American families. It will especially help mothers
+            in families on relief who are denied information in public hospitals.</p>
         <p>The general concept of birth control--conscious parenthood, planned families, wanted
             children--is simple. Children should be born as a result of thoughtful choice on the
             part of the parents, and that choice should be made in accordance with the health of the
@@ -80,12 +81,12 @@
         <p>Progress, wonderful and inspiring in the face of opposition, has been made. In 1916,
             convinced that birth control instruction was a basic factor in social work, I opened a
                 <org reg="Brownsville Clinic">clinic</org> in one of the poorest sections of <place
-                reg="Brooklyn, New York City, NY">Brooklyn, New York</place>. It was immediately
+                reg="Brooklyn, NY">Brooklyn, New York</place>. It was immediately
             closed by the police as a “public nuisance” and my co-workers and I were carted off to
-            jail. But seven years later, on the basis of a test <title rend="Crane Decision">case
-                decision</title> which permitted a doctor to give birth control instruction for <q
-                who="CRA">“the cure and prevention of disease”</q> in New York, we opened the
-                <org>Birth Control Clinical Research Bureau</org> in <place reg="New York City, NY"
+            jail. But seven years later, on the basis of a test case
+                decision which permitted a doctor to give birth control instruction for <q
+                who="CRAFR">“the cure and prevention of disease”</q> in New York, we opened the
+                <org>Birth Control Clinical Research Bureau</org> in <place reg="New York, NY"
                 >New York City</place>. It is today the oldest birth control clinic in America and
             the largest in the world, and has taken care of over 50,000 patients. There are now some
             250 clinics in thirty-nine states, the <place>District of Columbia</place>, and
@@ -95,7 +96,7 @@
             generally called) gave advice to 20,772 patients in 1935. Fine. . . splendid. . . we
             have gone a far way, and not an easy way, in a score of years.</p>
         <p><emph>But</emph>. . . alas, the “but” is large and tragic.</p>
-        <p>According to the most recent figures issued by the <org>United States Children's
+        <p>According to the most recent figures issued by the <org>United States Children’s
                 Bureau</org>, 16,000 women die each year from “<q who="USCB">causes associated with
                 pregnancy and childbirth</q>,” and our maternal mortality rate is higher than any
             other country boasting vital statistics, with the exception of <place>Scotland</place>,
@@ -134,9 +135,10 @@
             reliable birth control. The report strengthens my conviction that a law exempting the
             medical profession from the restrictions of the present Comstock statutes would rectify
             the conditions which the doctors deplore.</p>
-        <p><q who="NMCFSCL">“Voluntary limitation of conception may be necessary to safeguard the health of some
-            women,</q>” the doctors state. They also point out the inadequacy of present methods and
-            suggest that more complete education in this field be given to medical students.</p>
+        <p><q who="NMCFSCL">“Voluntary limitation of conception may be necessary to safeguard the
+                health of some women,</q>” the doctors state. They also point out the inadequacy of
+            present methods and suggest that more complete education in this field be given to
+            medical students.</p>
         <p>With a change in the law, with the removal of the confusion and taboos now existing,
             research will be stimulated and better methods, which we cannot at the present time even
             envisage, will undoubtedly be developed. Medical schools, freed from the restrictions

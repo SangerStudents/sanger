@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed Article">
     <mepHeader>
         <prepDate>2011/06/21 CE</prepDate>
-        <prepDate>2011/08/17 EK tags corrected</prepDate><prepDate>2011-11-21 CH correct typo</prepDate>
+        <prepDate>2011/08/17 EK tags corrected</prepDate>
+        <prepDate>2011-11-21 CH correct typo</prepDate>
+        <prepDate>2014-04-02 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1937-00-00">1937</docDate>
         <docTitle>
-            <titlePart>THE BIRTH CONTROL OF A NATION</titlePart>
+            <titlePart>The Birth Control of a Nation</titlePart>
         </docTitle>
         <idno>msp101878</idno>
         <sourceDesc>
             <bibl>Margaret Sanger Papers, Library of Congress</bibl>
-            <bibl><title>LCM</title> LC 128:520.</bibl>
+            <bibl>Library of Congress Microfilm 128:520.</bibl>
         </sourceDesc>
         <respStmt>
             <name id="AMA">American Medical Association</name>
@@ -40,7 +42,8 @@
         <index level1="birth control" level2="laws and legislation" level3="Oregon"/>
         <index level1="birth control" level2="laws and legislation" level3="Puerto Rico"/>
         <index level1="birth control" level2="laws and legislation" level3="State"/>
-        <index level1="birth control" level2="legal cases" level3="U.S. v. One Package of Japanese contraceptives"/>
+        <index level1="birth control" level2="legal cases"
+            level3="U.S. v. One Package of Japanese contraceptives"/>
         <index level1="birth control" level2="legal cases" level3="Crane Decision'"/>
         <index level1="birth control" level2="methods" level3="pessaries"/>
         <index level1="birth control" level2="legalization of"/>
@@ -84,17 +87,18 @@
                 Federal fetters placed upon birth control by <person reg="Comstock, Anthony">Anthony
                     Comstock</person> and a <org reg="New York Society for the Suppression of Vice"
                     >“reform” group</org> which induced a timid and over-awed <org
-                    reg="United States Congress">Congress</org> to pass the overreaching <name
-                    reg="Comstock Act of 1873">law</name>. That famous, or rather infamous,
-                law--Section 211 of the U.S. Penal Code--and supplementary laws, prevented the
-                dissemination of birth control information even by a physician, and barred anything
-                pertaining to the subject from the mails. Nor could supplies be sent by express or
-                other common carrier. Other sections were even more rigid, forbidding even the
-                permission of any article for preventing conception--<emph rend="underline">and
-                    there were no exceptions</emph>. While the original bill carried the exemption,
-                    “<q who="COMAC">except on a prescription of a physician in good standing, given
-                    in good faith</q>,” these words were omitted from the bill which firmly became
-                law. Violations of the law were punishable by fines of from $2,000 to $5,000, or
+                    reg="United States Congress">Congress</org> to pass the overreaching law. That
+                famous, or rather infamous, law--<name type="law"
+                    reg="United States Penal Code, Section 211">Section 211 of the U.S. Penal
+                    Code</name>--and supplementary laws, prevented the dissemination of birth
+                control information even by a physician, and barred anything pertaining to the
+                subject from the mails. Nor could supplies be sent by express or other common
+                carrier. Other sections were even more rigid, forbidding even the permission of any
+                article for preventing conception--<emph rend="underline">and there were no
+                    exceptions</emph>. While the original bill carried the exemption, “<q
+                    who="COMAC">except on a prescription of a physician in good standing, given in
+                    good faith</q>,” these words were omitted from the bill which firmly became law.
+                Violations of the law were punishable by fines of from $2,000 to $5,000, or
                 imprisonment for five years, or both.</p>
             <p>The laws made no distribution between contraception and abortion, though they are as
                 far apart as the poles. Birth control is the conscious control of the birth rate by
@@ -128,7 +132,7 @@
                 15,000 mothers <add>each year</add> who die from causes due to child-birth or
                 pregnancy, a large percentage are “poor maternity risks” from the start.</p>
             <p>As for infant mortality, statistics of the <org reg="United States Children's Bureau"
-                    >U.S. Children's Bureau</org> tell their elegant, but unheeded story. When the
+                    >U.S. Children’s Bureau</org> tell their elegant, but unheeded story. When the
                 interval between births is too shorts, death rates climb. Babies born one year apart
                 die at the rate of 147 per thousand; babies born two years apart have a mortality
                 rate of only <unclear>96</unclear> per thousand. These figures are a challenge to
@@ -162,13 +166,13 @@
                     reg="United States Government">U.S. Government</org>, through the <org
                     reg="United States Bureau of Customs">Bureau of Customs</org>, had seized a
                 package containing 120 pessaries to prevent conception, which the government alleged
-                had been imported contrary to Section 305 (a) of the <name type="law">Tariff Act of
-                    1930</name>, which originated from the Comstock law of 1873. These pessaries had
-                been sent to Dr. Stone by a physician in <place>Japan</place> for trial in her
-                practice, and she had been asked to give an opinion as to their usefulness for
-                contraceptive purposes. Dr. Stone testified at the trail that she prescribed the use
-                of pessaries in cases where it would not be desirable for a patient to undertake a
-                pregnancy.</p>
+                had been imported contrary to Section 305 (a) of the <name type="law"
+                    reg="United States Tariff Act of 1930">Tariff Act of 1930</name>, which
+                originated from the Comstock law of 1873. These pessaries had been sent to Dr. Stone
+                by a physician in <place>Japan</place> for trial in her practice, and she had been
+                asked to give an opinion as to their usefulness for contraceptive purposes. Dr.
+                Stone testified at the trail that she prescribed the use of pessaries in cases where
+                it would not be desirable for a patient to undertake a pregnancy.</p>
         </div>
         <div type="section">
             <head type="sub">EMANCIPATION DECISION</head>
@@ -189,16 +193,16 @@
         <div type="section">
             <head type="sub">A BILL OF RIGHTS</head>
             <p>The decision constitutes a Bill of Rights for the medical profession in the field of
-                contraception, <gap reason="illegible" extent="several words"/>. The nation owes a
+                contraception, <gap extent="several words" reason="illegible"/>. The nation owes a
                 debt of gratitude to the wisdom, the logic and the humanity of <person
                     reg="Hand, Augustus Noble">Justices Augustus N. Hand</person>, <person
                     reg="Swan, Thomas Walter">Thomas W. Swan</person>, and Learned Hand, whose
                 far-seeing interpretation of the Federal statues brought to an end the 53-year reign
                 of muddle and tyranny inaugurated by the Comstock legislation.</p>
             <p>It was on January 6, 1938, that <person reg="Moscowitz, Grover C.">Judge Grover
-                    Moscowitz</person>, of the <org>United States District Court, Southern District
-                    of New York</org>, in a very lucid decision, held that contraceptives imported
-                for a lawful purpose did not come within the restrictions of the statue.</p>
+                    Moscowitz</person>, of the United States District Court, Southern District of
+                New York, in a very lucid decision, held that contraceptives imported for a lawful
+                purpose did not come within the restrictions of the statue.</p>
             <p>The government appealed the case, but Justice Moscowitz's decision was affirmed by
                 the United States Circuit Court of Appeals for the Second Circuit, which held that
                 physicians importing such articles, in order to use them for the health of their
@@ -236,7 +240,7 @@
             <p>“. . .<q who="AMA"> it seems fair. . . to assume that the State Courts, if called
                     upon to construe the statues relating to the dissemination of contraceptive
                     information, will adopt lines of reasoning similar to these followed in the case
-                    cited (<name type="legal case"
+                    cited (<name type="case"
                         reg="United States vs. One Package of Japanese Contraceptives">U.S. vs. One
                         Package</name>) and in other cases decided by the United States Courts,
                     leaving physicians free to give information concerning contraception when
@@ -299,7 +303,7 @@
                     <org>Court of Appeals</org> in 1918 to be “<q who="NYCA">broad enough to protect
                     the physician who in goo faith gives such help or advice to a married person to
                     cure or prevent disease... the protection thus afforded the physician would also
-                    extend to the druggist, or vendor, acting upon the physicians' prescription or
+                    extend to the druggist, or vendor, acting upon the physicians’ prescription or
                     order</q>.” A similar ruling exists in Minnesota.</p>
             <p>Six States have statutes aimed at <del>against</del> advertising and the
                 indiscriminate distribution of material. They are <place>Arizona</place>,
@@ -336,10 +340,10 @@
             <head type="sub">LEGAL WITCHERY</head>
             <p>Contraceptives are forbidden in Massachusetts under a blue law entitled “<name
                     type="law">Crimes Against Chastity, Decency, and Good Order</name>.” Commenting
-                on the closing of the clinics in <place reg="Salem, Massachusetts">Salem</place>,
-                Dr. Hannah Stone said: “<q who="STOHA">The day of witch hunting has passed. It is no
-                    more possible to stem the flow of contraceptive knowledge then to stem the tides
-                    of the ocean that wash the shore of Massachusetts</q>.”</p>
+                on the closing of the clinics in <place reg="Salem, MA">Salem</place>, Dr. Hannah
+                Stone said: “<q who="STOHA">The day of witch hunting has passed. It is no more
+                    possible to stem the flow of contraceptive knowledge then to stem the tides of
+                    the ocean that wash the shore of Massachusetts</q>.”</p>
             <p>The reactionary step taken in Massachusetts is a warning to all who cherish liberty,
                 that while prohibitory laws of the type existing in that State remain on the statue
                 books, they constitute a continuing threat to the freedom of the medical profession
@@ -401,10 +405,11 @@
                 most poignant of all.</p>
         </div>
         <div type="section">
-            <note><p>*Footnote:</p><p>“<title>Federal and State laws Pertaining to Birth
+            <note><p>*Footnote:</p><p>“<title type="book">Federal and State laws Pertaining to Birth
                         Control</title>,” a pamphlet containing the complete State and Federal
-                    statutes may be obtained from the Birth Control Clinical Research Bureau. 17
-                    West 16th Street, New York City. [two words illegible].</p></note>
+                    statutes may be obtained from the <org>Birth Control Clinical Research
+                        Bureau</org>. 17 West 16th Street, New York City. <gap extent="two words"
+                        reason="illegible"/>.</p></note>
         </div>
     </docBody>
 </doc>

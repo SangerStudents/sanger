@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
     <mepHeader>
         <prepDate>2003/06/04 SB</prepDate>
         <prepDate>2004/07/26 CH</prepDate>
         <prepDate>2004/08/09 CH</prepDate>
-        <prepDate>2007/06/27 CH Oxygen update and table formatting</prepDate><prepDate>2011-11-30 CH typos</prepDate>
+        <prepDate>2007/06/27 CH Oxygen update and table formatting</prepDate>
+        <prepDate>2011-11-30 CH typos</prepDate>
+        <prepDate>2014-04-01 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1918-09-00">Sept 1918</docDate>
         <docTitle>
@@ -13,7 +15,7 @@
         </docTitle>
         <idno>msp206333</idno>
         <sourceDesc>
-            <bibl><title>The Birth Control Review</title>, Sept. 1918, 13</bibl>
+            <bibl><title type="journal">Birth Control Review</title>, Sept. 1918, 13</bibl>
             <bibl><title>Margaret Sanger Microfilm</title> S70:800</bibl>
         </sourceDesc>
     </mepHeader>
@@ -24,12 +26,12 @@
     </headNote>
     <docBody>
         <head>HOW NATURE GETS EVEN</head>
-        <byline rend="italics">By Margaret Sanger</byline>
+        <byline rend="italics">By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
         <p>When you have read this page, tear it out and put it into your handbag. Show it to the
-            next crank who denounces birth control as "<soCalled>criminal</soCalled>" or
-                "<soCalled>against nature</soCalled>."</p>
-        <p>Out of the <org>Queens County (<place>New York</place>) Penitentiary</org> comes a
-            startling reply to the constant question: What has Nature to say about birth control?</p>
+            next crank who denounces birth control as "criminal" or "against nature."</p>
+        <p>Out of the <org reg="Queens County Penitentiary">Queens County (<place>New York</place>)
+                Penitentiary</org> comes a startling reply to the constant question: What has Nature
+            to say about birth control?</p>
         <p>Natures answer is just this:</p>
         <p>Control your birth-rate in a sane, scientific way in this generation, or in the next I
             will control it no less effectively, but at an untold cost of money and misery.</p>
@@ -50,7 +52,7 @@
             second, while society would send at least one child of each family to the penitentiary
             in the process.</p>
         <p>That is Nature's answer to the argument that birth control is
-            "<soCalled>unnatural</soCalled>." Incidentally, the crime that society committed in
+                "unnatural." Incidentally, the crime that society committed in
             preventing the overburdened mothers from avoiding their load of misery, comes home hard
             to that same society in the cost of taking care of the unfortunate offspring in prisons
             and in hospitals for the insane. That sordid fact stands out like a frightful signpost

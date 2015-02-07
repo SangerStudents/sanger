@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed Article">
     <mepHeader>
         <prepDate>2011-07-28 NC</prepDate>
+        <prepDate>2014-03-26 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1952-08-00"><supplied resp="MSPP">Aug 1952</supplied></docDate>
         <docTitle>
@@ -12,19 +13,19 @@
         <idno>msp101826</idno>
         <sourceDesc>
             <bibl>Margaret Sanger Papers, Library of Congress</bibl>
-            <bibl><title>LCM</title>128:0349</bibl>
+            <bibl>Library of Congress Microfilm 28:349</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
             <name id="THA">Town Hall Association</name>
-            <name id="PIUXI">Pius XI, Pope</name>
+            <name id="PIUXI">Pius XI</name>
             <name id="UNK">Unknown</name>
             <name id="NYSCA">New York State Court of Appeals</name>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>No published version has been found.</p><p>For an earlier draft see MSM
-            S72:0653 and 0664. For a carbon copy see S72:0675.</p><index level1="birth control"
-            level2="movement" level3="history of"/></headNote>
+    <headNote resp="MSPP"><p>No published version has been found.</p><p>For an earlier draft see
+            Margaret Sanger Microfilm S72:0653 and 0664. For a carbon copy see S72:0675.</p><index
+            level1="birth control" level2="movement" level3="history of"/></headNote>
     <docBody>
         <head>EARLY YEARS OF <person reg="Sanger, Margaret">MARGARET SANGER</person>'S WORK IN THE
             BIRTH CONTROL MOVEMENT</head>
@@ -57,15 +58,16 @@
             able to go into the villages in France and get a great many formulas for suppositories,
             where some ingredients were considered better spermicidal agents that others. I learned
             all I possibly could in France, and later published this information in a pamphlet
-            called “<title>Family Limitation</title>” which was later translated into 45 languages. </p>
+            called “<title type="book">Family Limitation</title>” which was later translated into 45
+            languages. </p>
         <p>I returned to New York after a short time in France, quite determined to do something to
-            arouse the public to change the <name type="law" reg="U.S. Criminal Code, Section 211"
-                >Federal law, Section 211</name>, which was known as the <name type="law">Comstock
-                Law</name>, and which made it a crime for anyone to send any matter through the <org
-                reg="United States Postal Service">U.S. Mails</org> or by common carriers that was
-            intended to prevent conception. In this law there was no exemption made for scientific
-            literature, for medical cards or charts, or for the medical profession. I determined
-            that this law must be challenged.</p>
+            arouse the public to change the <name type="law"
+                reg="United States Criminal Code, Section 211">Federal law, Section 211</name>,
+            which was known as the <name type="law">Comstock Law</name>, and which made it a crime
+            for anyone to send any matter through the <org reg="United States Post Office">U.S.
+                Mails</org> or by common carriers that was intended to prevent conception. In this
+            law there was no exemption made for scientific literature, for medical cards or charts,
+            or for the medical profession. I determined that this law must be challenged.</p>
         <p>Gathering a few interested friends together in my apartment, I coined the term “Birth
             Control” and defined it as “conscious control of the birth rate by means that prevent
             conception.” This was the definition for the Birth Control Movement, emphasizing the
@@ -73,24 +75,25 @@
             campaign in the United States and elsewhere was centered on this definition of the
             meaning of “birth control.”</p>
         <p>In order to awaken a larger group of women, we then emerged from our domestic corners
-            into the arena of education, and I decided to publish a paper called “<title>The Woman
-                Rebel</title>”. This paper had, seemingly, a great attraction for people all over
-            the country, and while the issue each month was never more than 2000, there were
-            sometimes as many as 5000 willing subscribers clamoring for this unique, bold, and
-            fearless paper. However, since the reason for publishing the paper was to call attention
-            to the federal law, and to what birth control meant in the making of a happy family, and
-            the cruelty and wickedness of legislation that would deny people knowledge by which the
-            could attain health and happiness, each issue ran into conflict with the post office
-            authorities. Nearly every issue was challenged and intercepted, and finally an arrest
-            was ordered by the Post Office authorities. I was accused of sending “obscene
-            literature” through the United States mails. The fight was on! There had been no
-            contraceptive information given on the pages of “The Woman Rebel”, for I had kept
-            strictly within the law, discussing the question only on its educational level. </p>
+            into the arena of education, and I decided to publish a paper called “<title
+                type="journal">The Woman Rebel</title>”. This paper had, seemingly, a great
+            attraction for people all over the country, and while the issue each month was never
+            more than 2000, there were sometimes as many as 5000 willing subscribers clamoring for
+            this unique, bold, and fearless paper. However, since the reason for publishing the
+            paper was to call attention to the federal law, and to what birth control meant in the
+            making of a happy family, and the cruelty and wickedness of legislation that would deny
+            people knowledge by which the could attain health and happiness, each issue ran into
+            conflict with the post office authorities. Nearly every issue was challenged and
+            intercepted, and finally an arrest was ordered by the Post Office authorities. I was
+            accused of sending “obscene literature” through the United States mails. The fight was
+            on! There had been no contraceptive information given on the pages of “<title
+                type="journal">The Woman Rebel</title>”, for I had kept strictly within the law,
+            discussing the question only on its educational level. </p>
         <p>I was determined that this case would have to be fought and taken to the higher courts. I
             could feel, when I appeared before the <person reg="Hazel, John Raymond">Judge</person>,
-            that I was going to be “railroaded”. I asked for ten days' time to prepare my case -- it
-            was refused. I then requested one week's time -- this was also refused. I was sternly
-            ordered to return to the Court the following morning: just twenty hours' time in which
+            that I was going to be “railroaded”. I asked for ten days’ time to prepare my case -- it
+            was refused. I then requested one week’s time -- this was also refused. I was sternly
+            ordered to return to the Court the following morning: just twenty hours’ time in which
             to prepare to defend myself!</p>
         <p>After consulting lawyers and friends and a good many splendid advisors, I left New York
             that evening for <place>Canada</place>. From there I sailed for <place>England</place>
@@ -101,16 +104,16 @@
             in <place reg="United States">America</place> but in <place>Europe</place> as well. </p>
         <p>At the time I arrived in England, Europe was already involved in World War One. The
             overpopulation of many of the European countries had forced them to seek more elbow
-            room. A great deal of educational work had been done throughout the <place>British
-                Isles</place> as a result of the <person reg="Besant, Annie">Annie Besant</person>
-            and <person reg="Bradlaugh, Charles">Charles Bradlaw</person> trial in 1878. The
-            Malthusian Doctrine was widely discussed, pro and con, in conjunction with the Darwinian
-            Theory, so the English people were theoretically informed of the importance of
-            population control. But the name “Malthusian” struck terror in their hearts; it had no
-            meaning outside of theory. When the term “Birth Control” came to them in my lectures,
-            talks, and in pamphlets that we distributed, they at once recognized it as one of their
-            needs. “Birth Control” was the term used then, and still is used today, in the greatest
-            part of the world. </p>
+            room. A great deal of educational work had been done throughout the <place
+                reg="Great Britain">British Isles</place> as a result of the <person
+                reg="Besant, Annie">Annie Besant</person> and <person reg="Bradlaugh, Charles"
+                >Charles Bradlaw</person> trial in 1878. The Malthusian Doctrine was widely
+            discussed, pro and con, in conjunction with the Darwinian Theory, so the English people
+            were theoretically informed of the importance of population control. But the name
+            “Malthusian” struck terror in their hearts; it had no meaning outside of theory. When
+            the term “Birth Control” came to them in my lectures, talks, and in pamphlets that we
+            distributed, they at once recognized it as one of their needs. “Birth Control” was the
+            term used then, and still is used today, in the greatest part of the world. </p>
         <p>I spent 3 months in <place reg="Netherlands">Holland</place> in 1915, and while there I
             took a course of contraceptive technique under Dr. <person reg="Rutgers, Johannes"
                 >Johannes Rutgers</person> at the <place reg="Hague, Netherlands">Hague</place>. The
@@ -122,8 +125,8 @@
             to speak in <org>Fabian Hall</org>, where about 500 men and women came to learn about
             the work I was trying to do in the United States, and of the splendid organization of
             clinics I had found in Holland. It was here that I met <person reg="Stopes, Marie">Marie
-                Stopes</person>, whose book “<title>Married Love</title>” was to make a sensation.
-            Later she included birth control in its pages. I spent months studying in the
+                Stopes</person>, whose book “<title type="book">Married Love</title>” was to make a
+            sensation. Later she included birth control in its pages. I spent months studying in the
                 <org>British Museum</org> and writing several pamphlets. </p>
         <p>In the autumn of 1915 I returned to my home and my children. It was time to take up the
             federal fight and the Post Office challenge in the Federal Courts. The case against me
@@ -131,29 +134,31 @@
             no explanation to me except that the Government did not wish to pursue the case. Owing
             to the great and widespread publicity, thousands and thousands of letters were sent to
             the Judge and the District Attorney in my behalf. An amazing awakening among the people
-            throughout the country occurred, especially among those who had received “<title>Family
-                Limitation</title>” and had been, or wanted to be, subscribers to the monthly
-            publication “<title>The Woman Rebel</title>.” These letters came from working men and
-            women in all walks of life. It was their fight I was waging, and they knew it!</p>
+            throughout the country occurred, especially among those who had received “<title
+                type="book">Family Limitation</title>” and had been, or wanted to be, subscribers to
+            the monthly publication “<title type="journal">The Woman Rebel</title>.” These letters
+            came from working men and women in all walks of life. It was their fight I was waging,
+            and they knew it!</p>
         <p>After the Federal case against me was dismissed early in 1916 I started a lecture tour
             across the continent. There were public forums and public addresses. I visited more than
             19 cities and addressed thousands of people: over 250 groups were organized into Birth
             Control Educational Centers or Leagues. <place reg="Pitssburgh, PA">Pittsburg</place>,
                 <place reg="Cleveland, OH">Cleveland</place>, <place reg="Chicago, IL"
-                >Chicago</place>, <place reg="Minneapolis, MN">Minneapolis</place>,
-                <place>Indianapolis</place>, <place reg="Milwaukee, WI">Milwaukee</place>, <place
-                reg="Detroit, MI">Detroit</place> -- all responded by forming these leagues. In many
-            cities there were arrests and challenges; meetings sometimes could not be held, and many
-            said that a subject of this kind could not be discussed. Outside the doors of the
-                <org>Victoria Theatre</org> in <place reg="St. Louis, MO">St. Louis</place>, 2000
-            people clamored for admittance to the auditorium where a lecture on Birth Control was
-            scheduled. The contract for the rent of the auditorium for that evening had been signed,
-            but pressure from “higher-ups” had intimidated the manager of the theatre and he had
-            gone away for the week-end. However, the <org reg="Women's City Club of St. Louis"
-                >Women's City Club</org> and the <org reg="Men's City Club of St. Louis">Men's City
-                Club</org> of St. Louis promptly invited me to speak at their luncheons, under their
-            auspices, which I did. I received over a thousand letters within a week, protesting the
-            action and the arrogant behavior of the manager of the Victoria Theatre. </p>
+                >Chicago</place>, <place reg="Minneapolis, MN">Minneapolis</place>, <place
+                reg="Indianapolis, IN">Indianapolis</place>, <place reg="Milwaukee, WI"
+                >Milwaukee</place>, <place reg="Detroit, MI">Detroit</place> -- all responded by
+            forming these leagues. In many cities there were arrests and challenges; meetings
+            sometimes could not be held, and many said that a subject of this kind could not be
+            discussed. Outside the doors of the <org>Victoria Theatre</org> in <place
+                reg="St. Louis, MO">St. Louis</place>, 2000 people clamored for admittance to the
+            auditorium where a lecture on Birth Control was scheduled. The contract for the rent of
+            the auditorium for that evening had been signed, but pressure from “higher-ups” had
+            intimidated the manager of the theatre and he had gone away for the week-end. However,
+            the <org reg="St. Louis Women's City Club">Women’s City Club</org> and the <org
+                reg="St. Louis Men's City Club">Men’s City Club</org> of St. Louis promptly
+            invited me to speak at their luncheons, under their auspices, which I did. I received
+            over a thousand letters within a week, protesting the action and the arrogant behavior
+            of the manager of the <org>Victoria Theatre</org>. </p>
         <p>During my tour across the country more than 100,000 leaflets were distributed, telling in
             plain English what Birth Control was all about, and calling on the public to join the
             movement and to help change the Federal law. In 1919 there were over 25 Birth Control
@@ -173,19 +178,19 @@
             given only by those who had knowledge of anatomy and physiology, which was, of course,
             the medical profession. </p>
         <p>Upon my return form my speaking tour in the west, I announced my intention of opening the
-            first <org reg="Brownsville Birth Control Clinic">Birth Control Clinic</org> under
+            first <org reg="Brownsville Clinic">Birth Control Clinic</org> under
             medical auspices, as a demonstration of how this subject should be handled. this was
             also a challenge to the New York State Law, Section 1142. On October 16, 1916, this
-            first clinic was opened at 46 Amboy Street, <place reg="Brooklyn, New York"
+            first clinic was opened at 46 Amboy Street, <place reg="Brooklyn, NY"
                 >Brownsville</place>, Brooklyn. Leaflets were distributed in three languages --
             English, Italian, and Yiddish -- and were given out at meetings addressed to mothers.
             Our leaflets were identified as 1) “Can you afford to have a large family?” 2) “Do you
-            want any more children?” 3) “If not, why do you have them?” 4) “Don't kill, don't take
+            want any more children?” 3) “If not, why do you have them?” 4) “Don’t kill, don’t take
             life, but prevent. Safe and harmless information can be obtained from trained nurses at
             46 Amoy Street”. The date was given, the doors were opened, and women came in droves.
             They came with babies in their arms or pushing baby carriages; they swarmed into the
             little waiting room!</p>
-        <p>I had previously announced to the <person reg="unidentified">District Attorney</person>
+        <p>I had previously announced to the <person reg="Unknown">District Attorney</person>
             in Brooklyn that the Clinic was a challenge to the state law, and that I was willing to
             take it to the highest courts. After a period of 5 days the clinic was raided by the
             police; my two attendants (one, my <person reg="Byrne, Ethel Higgins">sister</person>
@@ -210,7 +215,7 @@
                 rend="underline">Section 1145</emph> allowed a physician, lawfully practising, to
             give information to prevent conception to anyone “<q who="NYSCA">for the cure or
                 prevention of disease</q>.” This was a considerable triumph, because the decision
-            was based on Webster's dictionary for the definition of “disease”, and it was found to
+            was based on Webster’s dictionary for the definition of “disease”, and it was found to
             be broad enough for a doctor to give proper information to any woman who needed it! This
             decision of the Court of Appeals of New York State settled the confusion regarding
             opening Birth Control Clinics in other states where it was not illegal to give birth
@@ -221,11 +226,11 @@
             mapped out plans for a National Education Campaign, to attack the Comstock Law. My plan
             was: 1) Agitation, to arouse interest. 2) Education and Organization. 3)Legislation.
             These were the steps by means of which we hoped to amend the federal law. </p>
-        <p>In February of 1917 I became the editor and publisher of “<title>Birth Control
+        <p>In February of 1917 I became the editor and publisher of “<title type="journal">Birth Control
                 Review</title>”. This monthly magazine continued to be published by me until 1928,
             at which time I turned it over to the <org>American Birth Control League</org>. </p>
         <p>In 1920 I again was abroad, and while spending several months in England and Scotland, I
-            gave 35 lectures to groups of the <org reg="Women's Cooperative Guild">Women's
+            gave 35 lectures to groups of the <org reg="Women's Cooperative Guild">Women’s
                 Guild</org> in London and the surrounding communities. On July 4th of that year,
             more than 2000 working men stood on the Glasgow Green, listening, and nodding their
             heads in agreement, for they knew what Birth Control could mean to them. I traveled
@@ -235,9 +240,9 @@
             devised the formula for the contraceptive jelly. This was the formula which I brought
             back to the United States, and which has been the basis for the contraceptive jelly,
             used in conjunction with the diaphragm, up to this time. </p>
-        <p>The <org>American Birth Control League</org> was formed November 10, 1921, incorporated
-            under the Membership Law of New York State. The <org>First National Birth Control
-                Conference</org> was held at the <org>Hotel Plaza</org> November 11th to 13th. One
+        <p>The American Birth Control League was formed November 10, 1921, incorporated
+            under the Membership Law of New York State. The First National Birth Control
+                Conference was held at the <org>Hotel Plaza</org> November 11th to 13th. One
             of the meetings, which was held at <org>Town Hall</org> on November 13th, was ordered
             closed by Cardinal <person reg="Hayes, Patrick">Hayes</person>. This was the first
             mistake of the Roman Catholic hierarchy in attempting to go over the heads of the police
@@ -246,7 +251,7 @@
             closing Town Hall, swept across the country in headlines. Thousands of letters and
             telegrams of protest poured in from all parts of the country, and there came a great
             arousing of public indignation across the continent. Three arrests were made at Town
-            Hall because we refused to obey the Cardinal's order. We stood our ground but were
+            Hall because we refused to obey the Cardinal’s order. We stood our ground but were
             hauled off to the police station. Hundreds of people followed to the Night Court, where
             the case was postponed until the following morning -- and then dismissed, as usual.
             Nevertheless, the meeting had been disrupted, and none of us was able to carry on a
@@ -257,20 +262,20 @@
             continued until 1928 when I resigned in order to do legislative work with the <org
                 reg="National Committee for Federal Legislation on Birth Control">Federal
                 Legislative Committee</org>, of which I was director, with headquarters in
-                <place>Washington, D.C</place>. <person reg="Hepburn, Katharine Houghton">Mrs.
+                <place reg="Washington, DC">Washington, D.C</place>. <person reg="Hepburn, Katharine Houghton">Mrs.
                 Thomas Hepburn</person> was my legislative Chairman. We sent workers into the field
             to get the endorsement of all civic and religious organizations; we had Congressional
             hearings every year of great educational value; we received the endorsement of over 1000
-            organizations : the <org>General Federation of Women's Clubs</org>, the <org>Federal
+            organizations : the <org>General Federation of Women’s Clubs</org>, the <org>Federal
                 Council of Churches of Christ in America</org>, and a long list of others. In the
                 <title>Encyclical of the Pope</title> in <supplied>1930</supplied>, he states that
-            the “<q who="PIUXI">natural method</q>” of birth control, the so-called “rhythm method”,
+            the “<q who="PIU">natural method</q>” of birth control, the so-called “rhythm method”,
             could now be practised in Catholic families. The <org>New York Academy of Medicine</org>
             came into the fold; and finally, in 1937, we ceased our legislative activities owing to
             the legal decision of the <org>United States Circuit Court of Appeals</org> that
             supplies and literature coming into the country could be sent to doctors and members of
             the medical profession. This was a test case: we asked one of the hospitals in
-                <place>Japan</place> to send, under a doctor's name, a box of diaphragms especially
+                <place>Japan</place> to send, under a doctor’s name, a box of diaphragms especially
             made in Japan, to our medical director, Dr. <person reg="Stone, Hannah Mayer">Hannah M.
                 Stone</person>. these were intercepted and confiscated by the customs authorities,
             so we took the case to the Circuit Court of Appeals, and thereby got a decision that
@@ -278,7 +283,7 @@
             to send through the mails and by common carriers, contraceptive literature and supplies. </p>
         <p>In February of 1922 I sailed for Japan, where I had been invited to give a series of
             eight lectures. I gave an address in <place reg="Honolulu, HI">Honolulu</place>, en
-            route, then went on to <place reg="Yokahama, Japan">Yokahama</place>, arriving there
+            route, then went on to <place reg="Yokohama, Japan">Yokahama</place>, arriving there
             March 10th. While there was some difficulty in obtaining a visa from the Imperial
             Military authorities, so much noise and discussion arose on the part of the Japanese
             people that I was allowed to enter and to fulfill my engagements. The largest meeting
@@ -328,7 +333,7 @@
             year I was made President of the <org
                 reg="Birth Control International Information Centre">Birth Control Information
                 Center</org> in London. </p>
-        <p>In 1931 I was given the American Women's Award for “integrity, vision and valor”. </p>
+        <p>In 1931 I was given the American Women’s Award for “integrity, vision and valor”. </p>
         <p>In 1934 I went to <place reg="Soviet Union">Russia</place>, to investigate the research
             on teh so-called “Spermatozin”. A report had been given to me that 20,000 women had been
             immune from pregnancy for two years with less than 2% failures. I interviewed two of the
@@ -337,7 +342,7 @@
                 reg="Mudd, Stuart">Stuart Mudd</person>. I was also able to obtain $25,000 for that
             institution to do research on this formula. I regret to say that nothing tangible
             emerged from this study. </p>
-        <p>In 1935-36 I was invited by the <org>All-India Women's Conference</org> to come to
+        <p>In 1935-36 I was invited by the <org>All-India Women’s Conference</org> to come to
                 <place>India</place>, and I made a tour throughout India, covering thousands of
             miles, setting up over 50 Birth Control Clinics under medical auspices; addressed the
             medical and civic organizations in India and <place>Burma</place>. I had a beautiful

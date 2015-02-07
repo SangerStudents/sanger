@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Article">
     <mepHeader>
         <prepDate>2011/06/06 CE</prepDate>
         <prepDate>2011/06/20 CE</prepDate>
+        <prepDate>2014-03-18 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1953-00-00">1953</docDate>
         <docTitle>
@@ -11,33 +12,27 @@
         </docTitle>
         <idno>msp320984</idno>
         <sourceDesc>
-            <bibl><title>Britannica Book of the Year</title>(1953), p.
-                106</bibl>
+            <bibl><title type="book">Britannica Book of the Year</title>(1953), p. 106</bibl>
         </sourceDesc>
     </mepHeader>
     <headNote resp="MSPP">
-        <p>For other articles in the <title>Britannica Book of the Year</title>
-            series, see <xref from="320976.xml"><title>Birth Control,
-                1944</title></xref>; <xref from="320980.xml"><title>Birth Control,
-                    1946</title></xref>; <xref from="320979.xml"><title>Birth
-                    Control, 1947</title></xref>; <xref from="321981.xml"
-                    ><title>Birth Control, 1948</title>, 1949</xref>;<xref
-                from="320981.xml"><title>Birth Control, 1949</title></xref>;
-                <xref from="321981.xml"><title>Birth Control,
-                1950</title></xref>; <xref from="320983.xml"><title>Birth
-                    Control, 1951</title></xref>; <xref from="320984.xml"
-                    ><title>Birth Control, 1952</title></xref>; <xref
-                from="321984.xml"><title>Birth Control, 1953</title></xref>;
-                <xref from="320985.xml"><title>Birth Control,
-                1954</title></xref>; <xref from="320986.xml"><title>Birth
-                    Control, 1955</title></xref>; <xref from="none.xml"
-                    ><title>Birth Control, 1956</title></xref>; <xref
-                from="320987.xml"><title>Birth Control, 1957</title></xref>;
-                <xref from="320988.xml"><title>Birth Control,
-                1958</title></xref></p>
+        <p>For other articles in the <title type="book">Britannica Book of the Year</title> series,
+            see <xref from="320976.xml"><title type="article">Birth Control, 1944</title></xref>;
+                <xref from="320980.xml"><title type="article">Birth Control, 1946</title></xref>;
+                <xref from="320979.xml"><title type="article">Birth Control, 1947</title></xref>;
+                <xref from="321981.xml"><title type="article">Birth Control, 1948</title>,
+                1949</xref>;<xref from="320981.xml"><title>Birth Control, 1949</title></xref>; <xref
+                from="321981.xml"><title type="article">Birth Control, 1950</title></xref>; <xref
+                from="320983.xml"><title type="article">Birth Control, 1951</title></xref>; <xref
+                from="320984.xml"><title type="article">Birth Control, 1952</title></xref>; <xref
+                from="321984.xml"><title type="article">Birth Control, 1953</title></xref>; <xref
+                from="320985.xml"><title type="article">Birth Control, 1954</title></xref>; <xref
+                from="320986.xml"><title type="article">Birth Control, 1955</title></xref>; <xref
+                from="none.xml"><title type="article">Birth Control, 1956</title></xref>; <xref
+                from="320987.xml"><title type="article">Birth Control, 1957</title></xref>; <xref
+                from="320988.xml"><title type="article">Birth Control, 1958</title></xref></p>
         <p>For typed draft of the article, see MSM S72:733</p>
-        <index level1="birth control" level2="clinics and leagues"
-            level3="in US"/>
+        <index level1="birth control" level2="clinics and leagues" level3="in US"/>
         <index level1="birth control" level2="international"/>
         <index level1="birth control" level2="international conferences on"/>
         <index level1="birth control" level2="methods" level3="research"/>
@@ -48,102 +43,82 @@
         <index level1="population" level2="food supply and"/>
         <index level1="population growth" level2="natural resources and"/>
         <index level1="Southern States"/>
-        <index level1="United States" level2="government"
-            level3="public health programs"/>
+        <index level1="United States" level2="government" level3="public health programs"/>
     </headNote>
     <docBody>
         <head>Birth Control.</head>
         <div type="section">
-            <p>Population increases, the result of marked and widespread
-                lowering of death rates since 1932, were reported by the
-                    <org>United Nations</org> in a population summary during
-                1952. The year also marked increasing acceptance on an
-                international level of the need to plan human birth in relation
-                to available supplies of food and other vital resources.</p>
+            <p>Population increases, the result of marked and widespread lowering of death rates
+                since 1932, were reported by the <org>United Nations</org> in a population summary
+                during 1952. The year also marked increasing acceptance on an international level of
+                the need to plan human birth in relation to available supplies of food and other
+                vital resources.</p>
         </div>
         <div type="section">
             <head type="sub">International.–</head>
-            <p><person reg="Stone, Abraham">Abraham Stone</person>,
-                vice-president of the <org>Planned Parenthood Federation of
-                    America</org>, returned during the year from
-                    <place>India</place> where he had established a pilot
-                project in the rhythm method of birth control under auspices of
-                the Indian government and <org>World Health organization</org>.
-                The clinical studies that Stone initiated in <place
-                    reg="New Delhi, India">New Delhi</place> and the states of
-                    <place reg="Mysore, India">Mysore</place>, <place
-                    reg="Madras, India">Madras</place> and <place
-                    reg="West Bengal, India">West Bengal</place> continued under
-                the supervision of two family-planning specialists, recommended
-                by the federation at the request of W.H.O.</p>
-            <p>The first <org
-                    reg="Third International Conference on Planned Parenthood"
-                    >World Conference on Planned Parenthood</org> to be held in
-                the far east took place in <place reg="Bombay, India"
-                    >Bombay</place>, India, Nov. 24-Dec. 1, 1952, initiated by
-                the <org>International Committee on Planned Parenthood</org>
-                whose headquarters were in <place reg="London, England"
-                    >London</place>. Physicians, demographers and scientists
-                from <place>Asia</place>, <place>Europe</place> and the <place
-                    reg="United States">U.S.</place> met to study social,
-                economic and cultural factors in relation to population
-                problems; to exchange information and views on planned
-                parenthood programs in different countries; to stimulate social
-                and biological research in human reproduction and to encourage
-                the formation of national planned parenthood organizations. The
-                conference, which was held under the auspices of the <org
-                    reg="Family Planning Association of India">Indian Family
-                    Planning Association</org>, had <person
-                    reg="Rama Rau, Dhanvanthi Handoo">Lady Rama Rau</person>,
-                association president, as its chairman. Mrs. <person
-                    reg="Sanger, Margaret">Margaret Sanger</person>, founder of
-                the birth control movement, who spearheaded the establishment of
-                the International committee in 1948, was director of the
-                American division of the conference.</p>
-            <p>The first international birth control publication, <title>News of
-                    Population and Birth Control</title>, was issued in January.
-                Published monthly in <place reg="New York City, NY">New
-                    York</place>, N.Y., at the request of the International
-                committee, its 9,000 readers included government officials and
-                key lay and professional leaders in 65 countries.</p>
+            <p><person reg="Stone, Abraham">Abraham Stone</person>, vice-president of the
+                    <org>Planned Parenthood Federation of America</org>, returned during the year
+                from <place>India</place> where he had established a pilot project in the rhythm
+                method of birth control under auspices of the <org>Indian government</org> and <org>World
+                    Health organization</org>. The clinical studies that Stone initiated in <place
+                    reg="New Delhi, India">New Delhi</place> and the states of <place
+                    reg="Mysore, India">Mysore</place>, <place reg="Madras, India">Madras</place>
+                and <place reg="West Bengal, India">West Bengal</place> continued under the
+                supervision of two family-planning specialists, recommended by the federation at the
+                request of W.H.O.</p>
+            <p>The first <org reg="International Conference on Planned Parenthood, 3rd">World
+                    Conference on Planned Parenthood</org> to be held in the far east took place in
+                    <place reg="Bombay, India">Bombay</place>, India, Nov. 24-Dec. 1, 1952,
+                initiated by the <org>International Committee on Planned Parenthood</org> whose
+                headquarters were in <place reg="London, England">London</place>. Physicians,
+                demographers and scientists from <place>Asia</place>, <place>Europe</place> and the
+                    <place reg="United States">U.S.</place> met to study social, economic and
+                cultural factors in relation to population problems; to exchange information and
+                views on planned parenthood programs in different countries; to stimulate social and
+                biological research in human reproduction and to encourage the formation of national
+                planned parenthood organizations. The conference, which was held under the auspices
+                of the <org reg="Family Planning Association of India">Indian Family Planning
+                    Association</org>, had <person reg="Rama Rau, Dhanvanthi">Lady Rama
+                    Rau</person>, association president, as its chairman. Mrs. <person
+                    reg="Sanger, Margaret">Margaret Sanger</person>, founder of the birth control
+                movement, who spearheaded the establishment of the International committee in 1948,
+                was director of the American division of the conference.</p>
+            <p>The first international birth control publication, <title type="journal">News of Population and
+                    Birth Control</title>, was issued in January. Published monthly in <place
+                    reg="New York, NY">New York</place>, N.Y., at the request of the
+                International committee, its 9,000 readers included government officials and key lay
+                and professional leaders in 65 countries.</p>
         </div>
         <div type="section">
             <head type="sub">Research.–</head>
-            <p>The urgent need for simpler and less expensive methods of
-                fertility control led to the federation's establishment of the
-                position of research director, and the appointment of <person
-                    reg="Henshaw, Paul Stewart">Paul Henshaw</person>, an
-                experimental biologist, to the post, in order to expedite,
-                co-ordinate, conduct and promote research in the field of
-                fertility and sterility. Henshaw carried out a survey on the
-                potentialities of the physiologic control of fertility, which
-                revealed that the principle of such control could be regarded as
-                established, based on the large amount of published literature
-                in the field. The study also showed that two types of further
-                research were needed: (1) practical studies to establish minimal
-                doses, the most effective methods of treatment and the
-                standardization of treatment materials at low cost; and (2)
-                basic studies to develop still more suitable methods.</p>
+            <p>The urgent need for simpler and less expensive methods of fertility control led to
+                the federation’s establishment of the position of research director, and the
+                appointment of <person reg="Henshaw, Paul Stewart">Paul Henshaw</person>, an
+                experimental biologist, to the post, in order to expedite, co-ordinate, conduct and
+                promote research in the field of fertility and sterility. Henshaw carried out a
+                survey on the potentialities of the physiologic control of fertility, which revealed
+                that the principle of such control could be regarded as established, based on the
+                large amount of published literature in the field. The study also showed that two
+                types of further research were needed: (1) practical studies to establish minimal
+                doses, the most effective methods of treatment and the standardization of treatment
+                materials at low cost; and (2) basic studies to develop still more suitable
+                methods.</p>
         </div>
         <div type="section">
             <head type="sub">U.S. Services.–</head>
-            <p>The Planned Parenthood Federation of America was, in 1952, the
-                national agency and clearing house for 11 state leagues and 91
-                local committees. Birth control clinics numbered 519. These
-                services were in 274 public health departments, 48 hospitals and
-                175 extramural clinics, and there were 22 referral services. Of
-                the 196,604 yearly total of patients visiting birth control
-                clinics in 1951, the majority, or 189,658, were served in
-                extramural clinics sponsored by federation affiliates. The seven
-                states which included birth control in their public health
-                programs were <place>Alabama</place>, <place>Florida</place>,
-                    <place>Georgia</place>, <place>Mississippi</place>,
-                    <place>North Carolina</place>, <place>South Carolina</place>
-                and <place>Virginia</place>. The known infertility clinics in
-                the country providing diagnosis and treatment of childless
-                couples were 66, of which 13 were under the auspices of the
-                Planned Parenthood federation.</p>
-            <byline>(<person reg="Sanger, Margaret">M.SR</person>.)</byline>
+            <p>The Planned Parenthood Federation of America was, in 1952, the national agency and
+                clearing house for 11 state leagues and 91 local committees. Birth control clinics
+                numbered 519. These services were in 274 public health departments, 48 hospitals and
+                175 extramural clinics, and there were 22 referral services. Of the 196,604 yearly
+                total of patients visiting birth control clinics in 1951, the majority, or 189,658,
+                were served in extramural clinics sponsored by federation affiliates. The seven
+                states which included birth control in their public health programs were
+                    <place>Alabama</place>, <place>Florida</place>, <place>Georgia</place>,
+                    <place>Mississippi</place>, <place>North Carolina</place>, <place>South
+                    Carolina</place> and <place>Virginia</place>. The known infertility clinics in
+                the country providing diagnosis and treatment of childless couples were 66, of which
+                13 were under the auspices of the Planned Parenthood federation.</p>
+            <byline>(M.SR.)</byline>
         </div>
     </docBody>
 </doc>

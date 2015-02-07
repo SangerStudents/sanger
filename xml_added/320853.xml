@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "file:/S:/TRANSCRIPTIONS/XML%20Drafts/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Article">
     <mepHeader>
         <prepDate>2007/07/16 AF</prepDate>
+        <prepDate>2014-03-05 CH cleaning regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1926-01-00 ">Jan 1926</docDate>
         <docTitle>
@@ -11,8 +12,7 @@
         <idno>msp320853</idno>
         <sourceDesc>
             <bibl>
-                <title>Holland Magazine</title>, Jan. 1926, pp. 7, 64, 67
-            </bibl>
+                <title type="journal">Holland Magazine</title>, Jan. 1926, pp. 7, 64, 67 </bibl>
         </sourceDesc>
         <respStmt>
             <resp>
@@ -23,38 +23,37 @@
         </respStmt>
     </mepHeader>
     <headNote>
-        <p>For incomplete typed draft versions, see <emph rend="MSM"></emph> S71:42 and S71:45 and S71:58.</p>
-        <index level1="women" level2="gender roles and"></index>
-        <index level1="birth control" level2="health benefits and risks"></index>
-        <index level1="eugenics" level2="birth control and"></index>
-        <index level1="women" level2="maternal feelings"></index>
-        <index level1="mortality rates" level2="infant"></index>
-        <index level1="child spacing"></index>
-        <index level1="birth control" level2="class-based"></index>
-        <index level1="family size" level2="MS on"></index>
-        <index level1="client letters"></index>\
-        <index level1="United States" level2="charitable relief in"></index>
-        <index level1="eugenics" level2="MS on"></index>
-        <index level1="women" level2="health of"></index>
-        <index level1="birth control" level2="economic benefits and risks of"></index>
-        <index level1="birth control" level2="laws and legislation" level3="Comstock act"></index>
-        <index level1="poverty" level2="family size and"></index>
-        <index level1="unfit to reproduce" level2="MS on"></index>
-        </headNote>
+        <p>For incomplete typed draft versions, see <emph rend="MSM"/> S71:42 and S71:45 and
+            S71:58.</p>
+        <index level1="women" level2="gender roles and"/>
+        <index level1="birth control" level2="health benefits and risks"/>
+        <index level1="eugenics" level2="birth control and"/>
+        <index level1="women" level2="maternal feelings"/>
+        <index level1="mortality rates" level2="infant"/>
+        <index level1="child spacing"/>
+        <index level1="birth control" level2="class-based"/>
+        <index level1="family size" level2="MS on"/>
+        <index level1="client letters"/>\ <index level1="United States"
+            level2="charitable relief in"/>
+        <index level1="eugenics" level2="MS on"/>
+        <index level1="women" level2="health of"/>
+        <index level1="birth control" level2="economic benefits and risks of"/>
+        <index level1="birth control" level2="laws and legislation" level3="Comstock act"/>
+        <index level1="poverty" level2="family size and"/>
+        <index level1="unfit to reproduce" level2="MS on"/>
+    </headNote>
     <docBody>
         <head>Fewer and Better Babies</head>
         <byline>By <person reg="Sanger, Margaret">MARGARET SANGER</person></byline>
-        <dateline>Add if needed, using <date value="YYYY-MM-DD "/>and <place/></dateline>
-        <p>We are becoming a nation of business women as well as business men. No--I don't mean
+        <p>We are becoming a nation of business women as well as business men. No--I don’t mean
             merely those women who are carving careers for themselves in the professional world, who
             are succeeding as shopkeepers, as artists, as doctors, as decorators, or as social
-            workers. I mean the humble "<soCalled>housewife</soCalled>" as well. Housekeeping
-            nowadays has been put on a business basis; and not even the most incorrigible
-            sentimentalist regrets the passing of the day when "<soCalled>woman's work was never
-                done.</soCalled>" To-day American women revel in the discipline of housekeeping on
-            the budget system. They delight in businesslike efficiency in the home. They have
-            declared war on waste, dirt, and slovenliness. They have gained more freedom, more
-            comfort and more happiness.</p>
+            workers. I mean the humble "housewife" as well. Housekeeping nowadays has been put on a
+            business basis; and not even the most incorrigible sentimentalist regrets the passing of
+            the day when "woman’s work was never done." To-day American women revel in the
+            discipline of housekeeping on the budget system. They delight in businesslike efficiency
+            in the home. They have declared war on waste, dirt, and slovenliness. They have gained
+            more freedom, more comfort and more happiness.</p>
         <p>And so a new generation of young American wives, a vast majority of whom have business
             experience before marriage, is beginning to approach the central problem in life--that
             of motherhood--in a new manner. In a word, these women are trying to put the business of
@@ -70,7 +69,7 @@
                 >Martin Luther</person>, who called to the bedside of a woman dying in childbirth is
             reported to have said: "<q who="LUTMA">If the woman grows weary and at last dies from
                 childbearing, it matters not. Let her only die from bearing. She is there to do
-            it.</q>" </p>
+                it.</q>" </p>
         <p>To-day we realize that this attitude is bad manners, worse morality, and thoughtlessly
             wasteful of the most precious possessions in the treasury of our vast natural
             resources--mother-power and child-life. To courageous, ambitious, young husbands and
@@ -80,10 +79,11 @@
         <p>No gallant, chivalrous, sane-minded husband to-day would willingly ask his wife to
             descend into the valley of the shadow of death without taking every precaution for the
             health and well-being of his beloved and the new arrival. But, as <person
-                rend="Albright, Ida">Ida Albright</person> recently pointed out in the
-                <title>Atlantic Monthly</title>, in an article entitled “<title>The High Cost of
-                Babies</title>,” a proper confinement either in a hospital or at home runs
-            ordinarily into hundreds of dollars, and very often into thousands. </p>
+                rend="Albright, Ida">Ida Albright</person> recently pointed out in the <title
+                type="journal">Atlantic Monthly</title>, in an article entitled “<title
+                type="article">The High Cost of Babies</title>,” a proper confinement either in a
+            hospital or at home runs ordinarily into hundreds of dollars, and very often into
+            thousands. </p>
         <p>A generation or so ago, it cost approximately ten dollars apiece to bring babies into
             this world. But nowadays because we women are placing an even higher value on child-life
             and mother-life and insist that our children shall have a proper start, and that mothers
@@ -103,7 +103,7 @@
             animals. It means that they shall be induced to exercise more and more intelligence,
             self-discipline and guidance of their own procreative powers. If means that they are
             given a practical means by which all well-born children, the stalwart, sturdy, beautiful
-            citizens of our America of tomorrow, may be conceived in love, born of the parent's
+            citizens of our America of tomorrow, may be conceived in love, born of the parent’s
             conscious desires, and begotten under conditions which insure the first right of every
             human being brought into this world--the heritage of health. </p>
         <p>Putting childbearing on a sound business basis--studying it, examining it, analyzing it,
@@ -111,16 +111,14 @@
             “overhead” and seeking to cut down waste and inefficiency--all this, I claim, does not
             mean that we mothers of the present generation are cold-blooded. It does not mean that
             we love babies less. It means that we love them more. We, too, can go into ecstasies
-            over adorable “<soCalled>rosebuds</soCalled>”--particularly our own. But we modern
-            mothers--and I have had some twenty years experience in this “<soCalled>baby
-            business</soCalled>”--realize that we are not merely producing “<soCalled>better
-            babies</soCalled>,” but the men and women of to-morrow--the Americans upon whom the
-            whole future of our civilization depends. Is it anything to wonder at, then, that the
-                “<soCalled>business</soCalled>” mother to-day is insisting in her whole particularly
-            inalienable field, on “<soCalled>safety first</soCalled>” in motherhood? Is it not
-            better for all concerned, the security of marriage itself, the health and economic
-            well-being of the family, and the start in life of our young Americans in the making,
-            that persons should stop, look and listen? </p>
+            over adorable “rosebuds”--particularly our own. But we modern mothers--and I have had
+            some twenty years experience in this “baby business”--realize that we are not merely
+            producing “better babies,” but the men and women of to-morrow--the Americans upon whom
+            the whole future of our civilization depends. Is it anything to wonder at, then, that
+            the “business” mother to-day is insisting in her whole particularly inalienable field,
+            on “safety first” in motherhood? Is it not better for all concerned, the security of
+            marriage itself, the health and economic well-being of the family, and the start in life
+            of our young Americans in the making, that persons should stop, look and listen? </p>
         <p>Of all sides, if we take trouble to use our eyes, we are confronted with the spectacle of
             motherhood and childhood wrecked and ruined, state and federal governments burdened with
             the support of the victims of reckless and irresponsible parenthood.</p>
@@ -128,12 +126,12 @@
             may be well to look into the costs of quantity production as opposed to quality
             production of children and to find out if we can, which is in the long run more wasteful
             in human life, and because it is more wasteful, therefore immoral. </p>
-        <p>On this point we have the evidence of impartial facts and figures. <org reg="U.S. Children's Bureau">The Children's
-                Bureau of the United States Department of Labor</org> has just completed a quiet and
-            thorough investigation of the real cause of the deaths of young babies--infants who had
-            not attained the age of one year. This report, which ought to be read by every American
-            citizen, is easily obtained. It deals with the “<soCalled>causal</soCalled>” factors of
-            infant mortality. </p>
+        <p>On this point we have the evidence of impartial facts and figures. <org
+                reg="United States Children's Bureau">The Children’s Bureau of the United States Department
+                of Labor</org> has just completed a quiet and thorough investigation of the real
+            cause of the deaths of young babies--infants who had not attained the age of one year.
+            This report, which ought to be read by every American citizen, is easily obtained. It
+            deals with the “causal” factors of infant mortality. </p>
         <p>Government investigators probed in to the intimate circumstances surrounding the deaths
             of no fewer than twenty-three thousand babies who died for one reason or another during
             the first twelve months of their sorry efforts to gain a foothold in this inhospitable
@@ -152,7 +150,7 @@
             congestion and overcrowding in the home. It is two and one-half times as great in
             families with two or more persons to the room than in those which average less than one
             person a room. </p>
-        <p>Where the father's wage is low the infant mortality rate is high. Where the father's
+        <p>Where the father’s wage is low the infant mortality rate is high. Where the father’s
             income is relatively high the death rate for babies is low. In other words: Poverty is
             the great enemy of baby life. Poverty means lack of proper food, lack of hygienic
             sanitation. Poverty means an overcrowded house. Poverty means more babies than the
@@ -166,13 +164,13 @@
             procreative faculties and incessantly flood society with numerous weakly defective and
             delinquent offspring. </p>
         <p>Many such cases have been brought to my attention. Undoubtedly many of my readers have
-            been asked to help such “<soCalled>needy cases</soCalled>,” and yet charity only seems
-            to aggravate the situation. I remember with a shudder the poignant case of an epileptic
-            mother recently brought to my notice. The poor woman had brought no less than sixteen
-            children into the world. The family was, of course, distressingly poor. The father was
-            blind. Sixteen children, and only three of these escaped the more disastrous aspects of
-            their hereditary blight. A volume might be written on the disorders of this ill-fated
-            family, showing how poverty, disease defect ally themselves with crime, delinquency, and
+            been asked to help such “needy cases,” and yet charity only seems to aggravate the
+            situation. I remember with a shudder the poignant case of an epileptic mother recently
+            brought to my notice. The poor woman had brought no less than sixteen children into the
+            world. The family was, of course, distressingly poor. The father was blind. Sixteen
+            children, and only three of these escaped the more disastrous aspects of their
+            hereditary blight. A volume might be written on the disorders of this ill-fated family,
+            showing how poverty, disease defect ally themselves with crime, delinquency, and
             feeble-mindedness. </p>
         <p>Every year, thousands of letters are sent to me by overburdened mothers asking for aid to
             relieve them from the incessant travail of too frequent childbearing. From every state
@@ -190,20 +188,20 @@
             through charity and institutional care, are absolutely futile in curing this racial
             canker which is a national disgrace. </p>
         <p>One must live in an vast overcrowded city like <place rend="New York, NY">New
-            York</place> to sense the tragedy of those wasted lives, these poor blighted babies and
-            children, of whom it could be truthfully said--said in the spirit of utmost
+                York</place> to sense the tragedy of those wasted lives, these poor blighted babies
+            and children, of whom it could be truthfully said--said in the spirit of utmost
             compassion--“It had been good for them if they had not been born.” Not only good for
             them, but good for the normal children upon whom they will at maturity become a heavy
             burden, and good for the future unfolding of American civilization. </p>
         <p>The efforts to meet the problem these blighted lives present has been met by organized
-            charity and sentimentality. But the warm heart of <place rend="" reg="United States of America">America</place> needs the balance of a cool
-            head. When I think of the millions--nay, billions--of dollars annually spent in public
-            and private charities, and of the failure of philanthropies to effect a cure. I am
-            always reminded of the words of <person rend="Thompson, Francis">Francis
-            Thompson</person>: “<q rend="THOFR">Before me stretched an immense, soundless,
-                bitter ocean. On its shore stood a string of benevolent children, equipped with
-                sugar bowls. What were they doing? They were throwing lumps of sugar into the sea to
-                sweeten the waves.</q>” </p>
+            charity and sentimentality. But the warm heart of <place rend="" reg="United States"
+                >America</place> needs the balance of a cool head. When I think of the
+            millions--nay, billions--of dollars annually spent in public and private charities, and
+            of the failure of philanthropies to effect a cure. I am always reminded of the words of
+                <person rend="Thompson, Francis">Francis Thompson</person>: “<q rend="THOFR">Before
+                me stretched an immense, soundless, bitter ocean. On its shore stood a string of
+                benevolent children, equipped with sugar bowls. What were they doing? They were
+                throwing lumps of sugar into the sea to sweeten the waves.</q>” </p>
         <p>I think of that sea of humanity, a sea concealing in its dark depths the inarticulate
             smothered suffering of women and children, of women suffering in the endless torture of
             undesired childbearing, and unwanted blighted children whose little lives are soon
@@ -247,21 +245,23 @@
             of the victims of irresponsible parenthood. More than one-quarter of the total incomes
             of our states is expended upon the upkeep of asylums, prisons, hospitals, poorhouses,
             and such institutions for the care of the defective and delinquent. According to
-            statistics gathered by the Federal Children's Bureau, we as a nation are
-            losing more mothers to childbirth to-day than we did ten years ago. Despite two years'
-            work in education under the federal act for the protection of maternity, and seven
-            years' progress in local public health work, the maternal mortality rate has steadily
-            and substantially increased. Almost every year in one of the thirty-one states of the
-            birth registration area there is an increasing number of fatalities due to the hazards
-            of maternity. The trend is steadily upward. Instead of making motherhood safe, as
-            Professor <person reg="East, Edward M."> Edward M. East</person> of <org reg="Harvard University">Harvard</org> asserts, it is constantly growing
-            more dangerous. </p>
+            statistics gathered by the Federal Children’s Bureau, we as a nation are losing more
+            mothers to childbirth to-day than we did ten years ago. Despite two years’ work in
+            education under the federal act for the protection of maternity, and seven years’
+            progress in local public health work, the maternal mortality rate has steadily and
+            substantially increased. Almost every year in one of the thirty-one states of the birth
+            registration area there is an increasing number of fatalities due to the hazards of
+            maternity. The trend is steadily upward. Instead of making motherhood safe, as Professor
+                <person reg="East, Edward M."> Edward M. East</person> of <org
+                reg="Harvard University">Harvard</org> asserts, it is constantly growing more
+            dangerous. </p>
         <p>And yet we allow our mothers to risk their lives in this way not once or twice or three
-            times in a lifetime, but again, and again by innumerable pregnancies year after year.</p>
-        <p>Such, briefly, is the “<soCalled>overhead</soCalled>” expense in this business of bearing
-            babies. Such is the woeful waste to our great nation, the extravagant throwing away of
-            precious mother-power and child-life of the policy of leaving the most important task of
-            human life to chance and instinct. </p>
+            times in a lifetime, but again, and again by innumerable pregnancies year after
+            year.</p>
+        <p>Such, briefly, is the “overhead” expense in this business of bearing babies. Such is the
+            woeful waste to our great nation, the extravagant throwing away of precious mother-power
+            and child-life of the policy of leaving the most important task of human life to chance
+            and instinct. </p>
         <p>No business in the world, whether it be farming of stock-breeding, or fruit-growing, or
             merchandising or keeping a house or a store, could be conducted with this blind
             carelessness without driving the corporation into bankruptcy and disaster.</p>
@@ -276,25 +276,25 @@
             laws to protect wild game and shell fish. We have a huge movement to protect forests and
             conserve water power, and every day the awakening conviction that we must as a
             world-community protect our vast natural resources, becomes stronger and stronger. </p>
-        <p>And yet, towards the conservation of our two greatest and most important
-                “<soCalled>natural resources</soCalled>”--mother-power and child-life--figures prove
-            that these United States of America are becoming less and less careful. We are every
-            year losing more mothers in childbirth. And while the infant mortality rate may be
-            decreasing, we are still confronted by the widespread evils of Child Labor and a vastly
-            increasing problem of juvenile delinquency. </p>
+        <p>And yet, towards the conservation of our two greatest and most important “natural
+            resources”--mother-power and child-life--figures prove that these United States of
+            America are becoming less and less careful. We are every year losing more mothers in
+            childbirth. And while the infant mortality rate may be decreasing, we are still
+            confronted by the widespread evils of Child Labor and a vastly increasing problem of
+            juvenile delinquency. </p>
         <p>It is high time that we begin, with all the energy and efficiency at our command, to
             cultivate our human garden, to apply the lessons we have learned in business and
             agriculture to our human livestock. At the end of his long career at his working his
-            beneficent miracles for the good of America and humanity at large, <person reg="Burbank, Luther">Luther
-                Burbank</person>, the wonder worker of plant life, is driven to the conclusion that
-            something must be done immediately to save humanity from recklessly breeding itself to
-            destruction. “<q who="BURLU">America.</q>” said this genius recently, “<q who="BURLU">is
-                like a garden in which the gardener pays no attention to the weeds. . . .We have
-                multiplied without scientific control, and to-day our criminals are reproducing
-                their kind faster than any other class in the nation. Our criminals are our weeds,
-                and weeds breed fast and are intensely hardy. They must be eliminated. . . . Nature
-                eliminates the weeds, but we turn them into parasites and allow them to
-            reproduce.</q>” </p>
+            beneficent miracles for the good of America and humanity at large, <person
+                reg="Burbank, Luther">Luther Burbank</person>, the wonder worker of plant life, is
+            driven to the conclusion that something must be done immediately to save humanity from
+            recklessly breeding itself to destruction. “<q who="BURLU">America.</q>” said this
+            genius recently, “<q who="BURLU">is like a garden in which the gardener pays no
+                attention to the weeds. . . .We have multiplied without scientific control, and
+                to-day our criminals are reproducing their kind faster than any other class in the
+                nation. Our criminals are our weeds, and weeds breed fast and are intensely hardy.
+                They must be eliminated. . . . Nature eliminates the weeds, but we turn them into
+                parasites and allow them to reproduce.</q>” </p>
         <p>Here then, is the situation: As I have said, and as everyone will agree, the bulk of the
             wealthy, educated, and intellectual classes--practically all the college-bred and
             business-bred representatives of the rising generation--are now using contraceptive
@@ -302,12 +302,12 @@
             start in life. Nevertheless the poor, irresponsible, more improvident classes are adding
             to the financial burden of every American citizen and taxpayer, by flooding society with
             increasing numbers of defective children. </p>
-        <p>If the birth rate of the “<soCalled>fit</soCalled>” is decreasing, and the birth rate of the “<soCalled>unfit</soCalled>” is
-        increasing, will not the latter soon dominate? </p>
-        <p>Here is one of the great problems America must face and solve.
-        </p>
-        <p>Is Birth Control an immoral, unnatural practice which is driving this country to destruction, as our enemies assert, or is it an avenue of racial salvation?
-            How can education in Birth Control be brought to those who need it most?
-            These questions I shall seek to answer in my next article.</p>
+        <p>If the birth rate of the “fit” is decreasing, and the birth rate of the “unfit” is
+            increasing, will not the latter soon dominate? </p>
+        <p>Here is one of the great problems America must face and solve. </p>
+        <p>Is Birth Control an immoral, unnatural practice which is driving this country to
+            destruction, as our enemies assert, or is it an avenue of racial salvation? How can
+            education in Birth Control be brought to those who need it most? These questions I shall
+            seek to answer in my next article.</p>
     </docBody>
 </doc>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Article">
     <mepHeader>
         <prepDate>2011-07-22 NC</prepDate>
         <prepDate>2011/08/18 EK</prepDate>
+        <prepDate>2014-03-26 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1949-10-00">Oct 1949</docDate>
         <docTitle>
@@ -11,19 +12,15 @@
         </docTitle>
         <idno>msp320519</idno>
         <sourceDesc>
-            <bibl><title>Women United</title>, Oct. 1949, pp. 6-8.</bibl>
+            <bibl><title type="journal">Women United</title>, Oct. 1949, pp. 6-8.</bibl>
         </sourceDesc>
-        <respStmt>
-            <resp/>
-            <name/>
-        </respStmt>
     </mepHeader>
     <headNote resp="MSPP"><p>For a draft version see MSM S72:585.</p>
         <index level1="family planning"/>
         <index level1="population growth" level2="natural resources and"/>
         <index level1="parenthood"/>
         <index level1="birth control" level2="movement" level3="MS on"/>
-        <index level1="Brownsville Clinic"/>        
+        <index level1="Brownsville Clinic"/>
         <index level1="African-Americans" level2="maternal mortality rates among"/>
         <index level1="African-Americans" level2="infant mortality rates among"/>
         <index level1="Puerto Rico" level2="maternal mortality rates in"/>
@@ -32,7 +29,7 @@
     </headNote>
     <docBody>
         <head>A Question of Privilege</head>
-        <byline>By Margaret Sanger</byline>
+        <byline>By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
         <p>Philosophers have often commented on the fact that mankind seems to be so constituted
             that we destroy those things which we most cherish. Certainly it is true of the ideal of
             parenthood. Hardly anyone would deny that the bringing of new life into the world and
@@ -61,10 +58,10 @@
                 were able to exercise this privilege. But this was not true of their poorer and less
                 fortunate sisters.</p>
             <p>The birth control movement was an effort to extend this privilege to all. Since my
-                    <person reg="Byrne, Ethel">sister</person> and I founded our first clinic in a
-                    <place reg="Brooklyn, NY">Brooklyn</place> slum in 1916, the idea has spread
-                until now there are more than 500 clinics, and many of them are maintained by public
-                health services.</p>
+                    <person reg="Byrne, Ethel Higgins">sister</person> and I founded our <org
+                    reg="Brownsville Clinic">first clinic</org> in a <place reg="Brooklyn, NY"
+                    >Brooklyn</place> slum in 1916, the idea has spread until now there are more
+                than 500 clinics, and many of them are maintained by public health services.</p>
         </div>
         <div>
             <head type="sub">Tragic Statistics</head>
@@ -74,9 +71,9 @@
                 rates of Negro mothers and babies in this country to see that this is true.</p>
             <p>The death rate of Negro mothers is three times as high as that of whites. The
                 stillbirth ratio is twice as high among Negroes. Nor are Negroes the only
-                underprivileged people in our society. In <place>Puerto Rico</place>, the maternal death rate is
-                nearly twice that of the continental <place>United States</place>, the infant death rate more than
-                double.</p>
+                underprivileged people in our society. In <place>Puerto Rico</place>, the maternal
+                death rate is nearly twice that of the continental <place>United States</place>, the
+                infant death rate more than double.</p>
         </div>
         <div>
             <head type="sub">Not Birth Control Alone...</head>
@@ -98,49 +95,49 @@
             <head rend="subhead">What To Do About It</head>
             <p>Everyone, especially through organizations, churches, clubs, can help. Here, for
                 example, is the kind of a program that should be established in every community:</p>
-            <p>1. <emph rend="italics">Control of conception</emph> as an essential feature of maternal and child
-                health should be part of every public health clinic and every hospital that has a
-                delivery room. Such services will be established only when the public, the mothers
-                and the fathers, the organizations and the people generally demand it. The basic
-                battles have been won; the <org>United States Public Health Service</org> now gives
-                State requests for funds to establish conception control programs the same
-                consideration as any other health need.</p>
-            <p>2. <emph rend="italics">Civic minded groups</emph> of every community should include in their
-                programs the education of their members and the public in the importance of birth
-                control to the family, to the nation and to the world. Through them we would win not
-                only education for those who need it now but the next generation would grow up
-                better prepared for the responsibilities and the joys of marriage and parenthood.
+            <p>1. <emph rend="italics">Control of conception</emph> as an essential feature of
+                maternal and child health should be part of every public health clinic and every
+                hospital that has a delivery room. Such services will be established only when the
+                public, the mothers and the fathers, the organizations and the people generally
+                demand it. The basic battles have been won; the <org>United States Public Health
+                    Service</org> now gives State requests for funds to establish conception control
+                programs the same consideration as any other health need.</p>
+            <p>2. <emph rend="italics">Civic minded groups</emph> of every community should include
+                in their programs the education of their members and the public in the importance of
+                birth control to the family, to the nation and to the world. Through them we would
+                win not only education for those who need it now but the next generation would grow
+                up better prepared for the responsibilities and the joys of marriage and parenthood.
                 Preparation for family life begins in the cradle. The home, the school and the
-                church all have a share in developing the individual's attitude toward marriage.
+                church all have a share in developing the individual’s attitude toward marriage.
                 When the preparation is well done, we have young couples who are keenly aware of
                 their duties as well as their privileges.</p>
-            <p>3. <emph rend="italics">Medical and nursing professions</emph>, social workers, welfare departments
-                should give their workers training in the basic facts of Planned Parenthood. Through
-                the doctors, the public health workers and the others, we can achieve a far better
-                service to the married couples of the community and a better understanding of
-                parenthood.</p>
-            <p>4. <emph rend="italics">Intelligent and generous support</emph> of research of this field is needed.
-                Unfortunately, the physiology and the psychology of human procreation are almost
-                unexplored territory. We know a great deal more about the facts of reproduction in
-                race horses and white mice, hybrid corn and orchids than we do about ourselves.
-                    <person reg="Vogt, William">William Vogt</person>, in this brilliant book
-                    “<title>The Road to Survival</title>” says that the discovery of a completely
-                reliable, simple and inexpensive contraceptive is as important as atomic energy and
-                would be well wroth the two billion dollars spent to develop the atom bomb. This is
-                almost as true within our own country as it is of the world at large. The
-                international problem of population is more acute than that of the United States.
-                But it is a question of degree. Furthermore, our own country can hardly be either
-                safe or prosperous for very long in a world where population in most places has
-                outstripped the resources to support that population. Yet, while there are peoples
-                who need this ideal contraceptive more than we do, that does not minimize the
-                importance of it to those millions of our own who are in the same family predicament
-                as the Chinese or the Indians.</p>
+            <p>3. <emph rend="italics">Medical and nursing professions</emph>, social workers,
+                welfare departments should give their workers training in the basic facts of Planned
+                Parenthood. Through the doctors, the public health workers and the others, we can
+                achieve a far better service to the married couples of the community and a better
+                understanding of parenthood.</p>
+            <p>4. <emph rend="italics">Intelligent and generous support</emph> of research of this
+                field is needed. Unfortunately, the physiology and the psychology of human
+                procreation are almost unexplored territory. We know a great deal more about the
+                facts of reproduction in race horses and white mice, hybrid corn and orchids than we
+                do about ourselves. <person reg="Vogt, William">William Vogt</person>, in this
+                brilliant book “<title type="book">The Road to Survival</title>” says that the discovery of a
+                completely reliable, simple and inexpensive contraceptive is as important as atomic
+                energy and would be well wroth the two billion dollars spent to develop the atom
+                bomb. This is almost as true within our own country as it is of the world at large.
+                The international problem of population is more acute than that of the United
+                States. But it is a question of degree. Furthermore, our own country can hardly be
+                either safe or prosperous for very long in a world where population in most places
+                has outstripped the resources to support that population. Yet, while there are
+                peoples who need this ideal contraceptive more than we do, that does not minimize
+                the importance of it to those millions of our own who are in the same family
+                predicament as the Chinese or the Indians.</p>
         </div>
         <div>
             <head type="sub">Experience and Observations</head>
             <p>In seeking to put such a program into effect, the individual and the group can do
                 more than they think, when they first measure their own puny strength against the
-                magnitude of the problem. Furthermore, there is no civic progress to which women's
+                magnitude of the problem. Furthermore, there is no civic progress to which women’s
                 organizations can contribute with more satisfaction to themselves or benefit to
                 their fellows. From my own experience and observations of the long fight for birth
                 control and family happiness, I have reached these conclusions:</p>

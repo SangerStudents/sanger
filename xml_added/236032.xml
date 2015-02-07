@@ -1,81 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed Speech">
     <mepHeader>
         <prepDate>2011/07/08 NC</prepDate>
         <prepDate>200/07/13 NC</prepDate>
         <prepDate>2011/07/13 CH final edit</prepDate>
+        <prepDate>2014-03-21 CH </prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1940-09-28">28 Sep 1940</docDate>
         <docTitle>
             <titlePart><supplied resp="MSPP">New Bedford Massachusetts Radio
-                    Speech</supplied></titlePart>
+                Speech</supplied></titlePart>
         </docTitle>
         <idno>msp236032</idno>
         <sourceDesc>
             <bibl>Margaret Sanger Papers, Smith Collection</bibl>
-            <bibl><title>MSM</title>S72:0173</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S72:0173</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
-            <name id="SCMAS">Supreme Court of Massachusetts</name>
+            <name id="SCMAS">Massachussetts Supreme Court</name>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>Margaret Sanger gave a radio speech in <place>New
-                Bedford, Massachusetts</place> from 6:00 - 6:15 p.m. The
-            following press release preceded the talk.</p><p>Interlineations and
-            corrections made by Margaret Sanger. For draft versions see MSM
-            S72:0155, 0161, 0167, and LCM 130:0103.</p><index level1="women"
-            level2="reproductive choices and decisions"/><index
-            level1="United States" level2="government"
-            level3="birth control and"/><index level1="population"
-            level2="birth control and"/><index level1="men"
-            level2="birth control and"/><index level1="family planning"/>
-        <index level1="family size"/><index level1="birth control"
-            level2="laws and legislation" level3="Massachusetts"/><index
-            level1="birth control" level2="American opinion on"/>
+    <headNote resp="MSPP"><p><person reg="Sanger, Margaret">Margaret Sanger</person> gave a radio
+            speech in <place reg="New Bedford, MA">New Bedford, Massachusetts</place> from 6:00 -
+            6:15 p.m. The following press release preceded the talk.</p><p>Interlineations and
+            corrections made by Margaret Sanger. For draft versions see Margaret Sanger Microfilm
+            S72:0155, 0161, 0167, and Library of Congress Microfilm 130:0103.</p>
+        <index level1="women" level2="reproductive choices and decisions"/>
+        <index level1="United States" level2="government" level3="birth control and"/>
+        <index level1="population" level2="birth control and"/>
+        <index level1="men" level2="birth control and"/>
+        <index level1="family planning"/>
+        <index level1="family size"/>
+        <index level1="birth control" level2="laws and legislation" level3="Massachusetts"/>
+        <index level1="birth control" level2="American opinion on"/>
     </headNote>
     <docBody>
-        <p>A few years ago the people of the world, for the first time in the
-            history of man, were <emph rend="underline">confident</emph> that
-                <add>at last</add> an enduring peace could be achieved. But
-            today the world is swept by the most brutal war that man has <emph
-                rend="underline">ever</emph> known. Even during those years when
-            nations were planning for peace, there were forces
-                <add>already</add> at work that made this <add>Second
-                World</add> war inevitable.</p>
-        <p>This war is really, but one phase of a struggle which has been in
-            progress throughout <del>all of</del>
-            <add>the</add> history <add>of mankind</add>. Actually those same
-            forces of <emph rend="underline">destruction</emph> which are now
-            sweeping <place>Europe</place> like a fire<add>,</add>
-            <emph rend="underline">yearly</emph> take the lives of millions
-            throughout the world--of thousands even in our <add>own</add>
-            <emph rend="underline">country</emph>. <add>For</add> As long as
-            people are born into the world by <emph rend="underline"
-                >chance</emph> rather than by the intelligent choice of parents,
-            they will die by the thousands, some even before they have begun to
-            live <add>at all</add>, others before they have lived out <del>a
-                normal life</del>
+        <p>A few years ago the people of the world, for the first time in the history of man, were
+                <emph rend="underline">confident</emph> that <add>at last</add> an enduring peace
+            could be achieved. But today the world is swept by the most brutal war that man has
+                <emph rend="underline">ever</emph> known. Even during those years when nations were
+            planning for peace, there were forces <add>already</add> at work that made this
+                <add>Second World</add> war inevitable.</p>
+        <p>This war is really, but one phase of a struggle which has been in progress throughout
+                <del>all of</del>
+            <add>the</add> history <add>of mankind</add>. Actually those same forces of <emph
+                rend="underline">destruction</emph> which are now sweeping <place>Europe</place>
+            like a fire<add>,</add>
+            <emph rend="underline">yearly</emph> take the lives of millions throughout the world--of
+            thousands even in our <add>own</add>
+            <emph rend="underline">country</emph>. <add>For</add> As long as people are born into
+            the world by <emph rend="underline">chance</emph> rather than by the intelligent choice
+            of parents, they will die by the thousands, some even before they have begun to live
+                <add>at all</add>, others before they have lived out <del>a normal life</del>
             <add>their First 5 years</add>.</p>
-        <p>We are horrified because in the present world war so much suffering
-            has fallen on innocent women and children. In the desperate struggle
-            for survival which continues even in years of peace, it is the <emph
-                rend="underline">children</emph>, and the <emph rend="underline"
-                >women</emph> who bear <del>them</del>
+        <p>We are horrified because in the present world war so much suffering has fallen on
+            innocent women and children. In the desperate struggle for survival which continues even
+            in years of peace, it is the <emph rend="underline">children</emph>, and the <emph
+                rend="underline">women</emph> who bear <del>them</del>
             <add>the children</add>, that suffer the heaviest toll.</p>
         <p rend="blockquote">Fourteen thousand mothers lost in childbirth!</p>
         <p rend="blockquote">Seventy-five thousand babies born dead!</p>
-        <p rend="blockquote">Seventy thousand babies lost in the first month of
-            life!</p>
-        <p rend="blockquote"><emph rend="underline">These</emph> are the
-            casualties in our <emph rend="underline">own</emph> country during
-                <emph rend="underline">one year of peace</emph>. Or <emph
-                rend="underline">is</emph> this peace? The war in Europe has
-                <emph rend="underline">not</emph> killed more innocents than
-            these. <emph rend="underline">But these are only the dead.</emph>
-            What of those who survive? <add>What of the living?</add> Let us
-            consider <del>the</del>
+        <p rend="blockquote">Seventy thousand babies lost in the first month of life!</p>
+        <p rend="blockquote"><emph rend="underline">These</emph> are the casualties in our <emph
+                rend="underline">own</emph> country during <emph rend="underline">one year of
+                peace</emph>. Or <emph rend="underline">is</emph> this peace? The war in Europe has
+                <emph rend="underline">not</emph> killed more innocents than these. <emph
+                rend="underline">But these are only the dead.</emph> What of those who survive?
+                <add>What of the living?</add> Let us consider <del>the</del>
             <add>our own American</add> children.</p>
         <p rend="blockquote">Six million are improperly nourished.</p>
         <p rend="blockquote">A million have weak or damaged hearts</p>
@@ -86,135 +79,108 @@
         <p rend="blockquote">400,000, Tubercular</p>
         <p rend="blockquote">50,000, partially blind</p>
         <p>And the cause of this?</p>
-        <p>Mothers dying needlessly, in giving birth to children who might
-            better not have been born; <del>fighters</del>
-            <add>men</add> fighting a hopeless fight to provide for their
-            families the necessities of decent living; young men and young women
-            forced by need or neglect into lawlessness, nations vying with one
-            another for land with which to support their surplus
-            population--these all spring from the same cause, the heedless,
-            unplanned <emph rend="underline">reproduction</emph> of
-                <add>the</add> human <del>beings</del>
+        <p>Mothers dying needlessly, in giving birth to children who might better not have been
+            born; <del>fighters</del>
+            <add>men</add> fighting a hopeless fight to provide for their families the necessities
+            of decent living; young men and young women forced by need or neglect into lawlessness,
+            nations vying with one another for land with which to support their surplus
+            population--these all spring from the same cause, the heedless, unplanned <emph
+                rend="underline">reproduction</emph> of <add>the</add> human <del>beings</del>
             <add>race</add>.</p>
-        <p>But <emph rend="underline">these</emph> are the conditions of the
-            jungle. We take it for granted that in the jungle thousands will die
-            by violent death or by starvation for every <emph rend="underline"
-                >one</emph> that survives. But among human being<add>s</add>
+        <p>But <emph rend="underline">these</emph> are the conditions of the jungle. We take it for
+            granted that in the jungle thousands will die by violent death or by starvation for
+            every <emph rend="underline">one</emph> that survives. But among human being<add>s</add>
             this is the very abdication of reason.</p>
-        <p>It is said that the ability to <emph rend="underline">laugh</emph>
-            distinguishes <del>men</del>
-            <add>man</add> from the lower animals. Another characteristics of
-            man alone is the ability to <emph rend="underline">plan</emph> the
-            birth of his young. This is the foundation upon which he can build a
-            way of life which offers to every individual the full promise of his
-            in-born potentialities. Planned parenthood, Children born <emph
-                rend="underline">because</emph> they are wanted, because their
-            parents can provide for them the environment of a wholesome life;
-            the family-basic unit of any civilized society--strong in its
-            loyalties, cheerful in its outlook, self-sustaining and
+        <p>It is said that the ability to <emph rend="underline">laugh</emph> distinguishes
+                <del>men</del>
+            <add>man</add> from the lower animals. Another characteristics of man alone is the
+            ability to <emph rend="underline">plan</emph> the birth of his young. This is the
+            foundation upon which he can build a way of life which offers to every individual the
+            full promise of his in-born potentialities. Planned parenthood, Children born <emph
+                rend="underline">because</emph> they are wanted, because their parents can provide
+            for them the environment of a wholesome life; the family-basic unit of any civilized
+            society--strong in its loyalties, cheerful in its outlook, self-sustaining and
             self-respecting.</p>
-        <p>Science has given us the means of planned parenthood. Contraception,
-            or the evidence of unintended conception, is possible to every
-            couple. The methods are simple, reliable--made so by years of
-            patient research. This knowledge is, or should be, a part of the
-            working equipment of every practising physician.</p>
-        <p>Why, then, are children still born unwanted, to live in neglect, and
-            to become charges of society?</p>
-        <p>It is not because of the indifference of women. This is certain. It
-            is not because of the callousness of men. Men as well as women
-            benefit by planned parenthood, and they too are seeking the means to
-            achieve it.</p>
-        <p>It is not because of the inability or the unwillingness of doctors to
-            advise their patients. A few valiant leaders of the medical
-            profession have fought <emph rend="underline">for years</emph> to
-            make planned parenthood a reality.</p>
-        <p>Planned parenthood is <emph rend="underline">not now</emph> a reality
-                <emph rend="underline">because</emph> of the shame with which
-            so-called reformers of an older generation invested any matter
-            related to the love of men and women, <add>idea</add>
-            <del>and because one religious body has tried to impose upon <emph
-                    rend="underline">all</emph> the people its won conception of
-                the proper marriage relationship</del>. <del>These two</del>
-            <add>This</add> attitude, by tactics unworthy of a democracy,
-                <del>were</del>
-            <add>was</add> written into laws which restricted the information
-            which the medical profession could give to a patient, even though
-            life itself were at stake. A more enlightened age has restored to
-            the medical profession its <emph rend="underline">inalienable</emph>
-            right to use the full resources of science for the health and
-            welfare of patients. <place>Massachusetts</place>, however, remains
-            as a dark area.</p>
-        <p>Massachusetts well may be proud of its record of caring for its
-            mothers and children, of the schools it has built, of its health
-            services and of its care of the old and the dependent. But of what
-            avail are these in meeting the greatest need of any family if the
-            law in Massachusetts <emph rend="underline">so curbs</emph> the
-            rights of the medical profession<add>,</add> that a <emph
-                rend="underline">doctor cannot tell</emph> a patient how she can
-                <del>avoid a pregnancy?</del>
+        <p>Science has given us the means of planned parenthood. Contraception, or the evidence of
+            unintended conception, is possible to every couple. The methods are simple,
+            reliable--made so by years of patient research. This knowledge is, or should be, a part
+            of the working equipment of every practising physician.</p>
+        <p>Why, then, are children still born unwanted, to live in neglect, and to become charges of
+            society?</p>
+        <p>It is not because of the indifference of women. This is certain. It is not because of the
+            callousness of men. Men as well as women benefit by planned parenthood, and they too are
+            seeking the means to achieve it.</p>
+        <p>It is not because of the inability or the unwillingness of doctors to advise their
+            patients. A few valiant leaders of the medical profession have fought <emph
+                rend="underline">for years</emph> to make planned parenthood a reality.</p>
+        <p>Planned parenthood is <emph rend="underline">not now</emph> a reality <emph
+                rend="underline">because</emph> of the shame with which so-called reformers of an
+            older generation invested any matter related to the love of men and women,
+                <add>idea</add>
+            <del>and because one religious body has tried to impose upon <emph rend="underline"
+                    >all</emph> the people its won conception of the proper marriage
+                relationship</del>. <del>These two</del>
+            <add>This</add> attitude, by tactics unworthy of a democracy, <del>were</del>
+            <add>was</add> written into laws which restricted the information which the medical
+            profession could give to a patient, even though life itself were at stake. A more
+            enlightened age has restored to the medical profession its <emph rend="underline"
+                >inalienable</emph> right to use the full resources of science for the health and
+            welfare of patients. <place>Massachusetts</place>, however, remains as a dark area.</p>
+        <p>Massachusetts well may be proud of its record of caring for its mothers and children, of
+            the schools it has built, of its health services and of its care of the old and the
+            dependent. But of what avail are these in meeting the greatest need of any family if the
+            law in Massachusetts <emph rend="underline">so curbs</emph> the rights of the medical
+                profession<add>,</add> that a <emph rend="underline">doctor cannot tell</emph> a
+            patient how she can <del>avoid a pregnancy?</del>
             <del>[illegible]</del>
             <add>plan a family.</add></p>
-        <p>In five years, from 1934 to 1938, in this rich state, 6,702 infants
-            under one year of age <emph rend="underline">died</emph> in six of
-            its largest cities, 14,207 died throughout the state. There were
-            9,092 still births. One thousand, five hundred and twenty-nine
-            mothers died in child birth. Most of these were needless deaths. The
-            waste and the human suffering they caused could so easily have been
-            avoided. There was the knowledge and there was the eagerness to
-            learn. But <emph rend="underline">ignorance</emph>, with a brutality
-            as great as war's, brought death at the point of life's beginning,
-            or its highest achievement.</p>
-        <p>What does the law in Massachusetts say? It says that <emph
-                rend="underline">anyone</emph> giving information regarding
-                <emph rend="underline">any means</emph> whatever of
+        <p>In five years, from 1934 to 1938, in this rich state, 6,702 infants under one year of age
+                <emph rend="underline">died</emph> in six of its largest cities, 14,207 died
+            throughout the state. There were 9,092 still births. One thousand, five hundred and
+            twenty-nine mothers died in child birth. Most of these were needless deaths. The waste
+            and the human suffering they caused could so easily have been avoided. There was the
+            knowledge and there was the eagerness to learn. But <emph rend="underline"
+                >ignorance</emph>, with a brutality as great as war’s, brought death at the point of
+            life’s beginning, or its highest achievement.</p>
+        <p>What does the law in Massachusetts say? It says that <emph rend="underline">anyone</emph>
+            giving information regarding <emph rend="underline">any means</emph> whatever of
                 <del>preventing pregnancy</del>
-            <add>contraception</add> is guilty of a crime<add>,</add> and shall
-            be punished by imprisonment in a state prison or be fined. In 1938,
-            the highest court of this state held that the law is “<q who="SCMAS"
-                >sweeping, <emph rend="underline">absolute</emph>, and devoid of
-                    <emph rend="underline">ambiguity</emph></q>” and “<q
-                who="SCMAS">contains no <emph rend="underline"
-                >exceptions</emph></q>”.!!</p>
-        <p>Well, this law is not going to stay on the statute books. It is in
-            conflict with the rights of the medical profession, and with the
-            interests of the people. It runs counter to the basic liberties
-            guaranteed to us in the bill of rights. It has no place among the
+            <add>contraception</add> is guilty of a crime<add>,</add> and shall be punished by
+            imprisonment in a state prison or be fined. In 1938, the highest court of this state
+            held that the law is “<q who="SCMAS">sweeping, <emph rend="underline">absolute</emph>,
+                and devoid of <emph rend="underline">ambiguity</emph></q>” and “<q who="SCMAS"
+                >contains no <emph rend="underline">exceptions</emph></q>”.!!</p>
+        <p>Well, this law is not going to stay on the statute books. It is in conflict with the
+            rights of the medical profession, and with the interests of the people. It runs counter
+            to the basic liberties guaranteed to us in the bill of rights. It has no place among the
             laws of any democracy.</p>
-        <p>Throughout the nations the great movement for planned parenthood is
-            gaining momentum. Leaders in every walk of life are represented in
-            the national sponsoring committee. In two states information about
-            child spacing is regularly given through the public health services.
-            Local public health units in hundreds of communities in other states
-            are doing the same. Educators, scientists, clergymen, see planned
-            parenthood as a way to strengthen our human resources in a time of
-            great national need. Most important of all, in the heart of every
-            woman, is the conviction that women should have the right to decide
-            when they shall bring children into the world.</p>
-        <p>Only in Massachusetts and her sister-state <place>Connecticut</place>
-            does the law stand as an obstacle to this movement. Only here has
-            ignorance gained a victory over science, shame over the dignity of
-            human life. This is <emph rend="underline">not of the choosing
+        <p>Throughout the nations the great movement for planned parenthood is gaining momentum.
+            Leaders in every walk of life are represented in the national sponsoring committee. In
+            two states information about child spacing is regularly given through the public health
+            services. Local public health units in hundreds of communities in other states are doing
+            the same. Educators, scientists, clergymen, see planned parenthood as a way to
+            strengthen our human resources in a time of great national need. Most important of all,
+            in the heart of every woman, is the conviction that women should have the right to
+            decide when they shall bring children into the world.</p>
+        <p>Only in Massachusetts and her sister-state <place>Connecticut</place> does the law stand
+            as an obstacle to this movement. Only here has ignorance gained a victory over science,
+            shame over the dignity of human life. This is <emph rend="underline">not of the choosing
             </emph>of the people of this state today.</p>
-        <p>The people of Massachusetts want this law changed. In a recent poll
-            by an impartial agency, 82 per cent of the people of this state
-                <emph rend="underline">declared</emph> that they would vote for
-            legislation which would free doctors to prescribe
+        <p>The people of Massachusetts want this law changed. In a recent poll by an impartial
+            agency, 82 per cent of the people of this state <emph rend="underline">declared</emph>
+            that they would vote for legislation which would free doctors to prescribe
                 contraception<add>,</add>
-            <emph>for their patients</emph>. The medical profession itself is
-            taking leadership in a campaign at <del>thi</del> this time to see
-            that the wishes of the people, thus expressed, result in a change in
-            this outmoded law.</p>
-        <p>You will want to help in this campaign, and in saying that I know
-            that I am speaking to the great majority of those who are
-            listening.</p>
-        <p>All that you need do is to register your will. Write to the <org>
-                Massachusetts Mother's Health Council</org>, 143 Newbury Street,
-                <place reg="Boston, MA">Boston</place>, or in care of this
-            station, and say that you want to sign the petition to the
-            legislature for restoration of medical rights in Massachusetts. You
-            will be sent a blank. Your signature on that blank will be a blow to
-            the bigotry and ignorance which now keeps motherhood in bondage in
-            Massachusetts.</p>
+            <emph>for their patients</emph>. The medical profession itself is taking leadership in a
+            campaign at <del>thi</del> this time to see that the wishes of the people, thus
+            expressed, result in a change in this outmoded law.</p>
+        <p>You will want to help in this campaign, and in saying that I know that I am speaking to
+            the great majority of those who are listening.</p>
+        <p>All that you need do is to register your will. Write to the <org> Massachusetts Mother’s
+                Health Council</org>, 143 Newbury Street, <place reg="Boston, MA">Boston</place>, or
+            in care of this station, and say that you want to sign the petition to the legislature
+            for restoration of medical rights in Massachusetts. You will be sent a blank. Your
+            signature on that blank will be a blow to the bigotry and ignorance which now keeps
+            motherhood in bondage in Massachusetts.</p>
 
 
     </docBody>

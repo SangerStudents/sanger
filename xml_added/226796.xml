@@ -1,137 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
  <mepHeader>
   <prepDate>2003/10/29 amc</prepDate>
   <prepDate>2012/03/03 CH cleanup</prepDate>
   <prepDate>2012/03/21 CH error in Headnote</prepDate>
+  <prepDate>2014-04-10 CH clean regs</prepDate>
   <docAuthor>Margaret Sanger</docAuthor>
   <docDate value="1925-06-00">June 1925</docDate>
   <docTitle>
    <titlePart>Editorial</titlePart>
   </docTitle>
-  <idno>msp 226796</idno>
+  <idno>msp226796</idno>
   <sourceDesc>
-   <bibl><title>The Birth Control Review</title>, June 1925, 163-64</bibl>
-   <bibl><title>MSM</title> S71:28</bibl>
+   <bibl><title type="journal">Birth Control Review</title>, June 1925, 163-64</bibl>
+   <bibl><title>Margaret Sanger Microfilm</title> S71:28</bibl>
   </sourceDesc>
+  <respStmt>
+   <name id="JOHRO">Johnson, Roswell H.</name>
+  </respStmt>
  </mepHeader>
- <headNote resp="MSPP"><p>For MS's original draft see "Editorial" May 13, 1925,
-   (<title>MSM</title> C16:794) Sanger elicited comments from others before
-  producing this version for publication.</p><index level1="eugenics"
-   level2="MS on"/><index level1="eugenics" level2="positive"/><index
-   level1="conferences"
-   level2="International Neo-Malthusian and birth Control Conference"
-   level3="1925 (6th)"/><index level1="family size" level2="class-based"/><index
-   level1="family size" level2="MS on"/></headNote>
+ <headNote resp="MSPP">
+  <p>For MS's original draft see "<title type="article">Editorial</title>" May 13, 1925,
+    (<title>Margaret Sanger Microfilm</title> C16:794) <person reg="Sanger, Margaret"
+    >Sanger</person> elicited comments from others before producing this version for
+   publication.</p>
+  <index level1="eugenics" level2="MS on"/>
+  <index level1="eugenics" level2="positive"/>
+  <index level1="conferences" level2="International Neo-Malthusian and birth Control Conference"
+   level3="1925 (6th)"/>
+  <index level1="family size" level2="class-based"/>
+  <index level1="family size" level2="MS on"/>
+ </headNote>
  <docBody>
   <head>Editorial</head>
-  <p>To all who are familiar with the aims and principles of the <org>American
-    Birth Control League</org>, it is quite unnecessary to reiterate that one of
-   our basic tenets includes the racial perpetuation of health, intelligence,
-   talent and all human traits and values of benefit to the community. As I have
-   pointed out elsewhere and repeated many times, the key-word of our program is
-    <emph rend="italics">control</emph>. If our critics would take the trouble
-   of looking up the definition of control in any standard dictionary, it would
-   become evident to them that this word means intelligence, mastery and
-   guidance of an activity. Therefore the control of the procreative faculty
-   means, fundamentally, the application of intelligent direction and guidance
-   of this function, with complete consideration of the factors and the lives
-   involved. </p>
-  <p>Despite our indefatigable efforts, confusion still persists in the public
-   mind. It is imperative that we should aim always for clarity in the
-   definition of our program, and bend all our efforts toward dispelling this
-   confusion, instead of adding to it. To influence the public mind we must
-   present clear cut, sharply accentuated images of our ideal, and unconfused
-   lucid statements of our aims.</p>
-  <p>It is my belief that the so-called "eugenic"
-   resolution, passed at the final session of the <org>Sixth International
-    Neo-Malthusian and Birth Control Conference</org>, has created a lamentable
-   confusion. Instead of directing public opinion toward a better understanding
-   of our program, it was interpreted by the press as indicating that we
-   believed we could actually increase the size of families among the
-    "superior" classes by passing resolutions recommending
-   larger families. An explanation of our fundamental position thus becomes
-   necessary. </p>
-  <p>After the conference had been practically adjourned, and during a sparsely
-   attended meeting on March 31st, held simply to adjust certain minor details,
-   the courtesy of the floor was extended to Dr. <person>Roswell H.
-    Johnson</person>, who had been unable to attend the regular sessions. Dr.
-   Johnson introduced the following resolution:</p><p><q rend="blockquote">"<emph
-     rend="italics">Resolved</emph>, that this Conference believes that persons
-    whose progeny give promise of being of decided value to the community should
-    be encouraged to bear as large families, properly spaced, as they feel they
-    feasibly can."</q> </p><p>Under the rules of the conference, the resolution was out
-   of order, and if it had been introduced at the fully attended Eugenics
-   session, it is very doubtful if it would have passed. But it was passed. And
-   it was seized upon immediately for editorial comment and criticism, the press
-   re-echoing the questions that had been asked by opponents of the resolution
-   who voiced their opposition when it was first presented at that final
-   session.</p>
-  <p>In the first place, it would seem impossible to predetermine those
-    "superior" persons whose progeny would for certain give
-   such promise, or to deny the possibility of such promise to many who might
-   from all external standards be deemed "inferior." In the
-   next place we doubt seriously that those qualities desirable for racial
-   perpetuation can be effectively transmitted from generation to generation by
-   the simple expedient of merely increasing the size of the family, an increase
-    "encouraged" by the passing of resolutions directed
-   toward prospective parents quite able to make their own decisions and to
-   manage their own affairs. Such words and such resolutions, it is obvious, are
-   wasted and irrelevant, especially when coming from a body of avowed advocates
-   of Birth Control.</p>
-  <p>Surely it is not within the province of our program to offer gratuitous
-   advice to intelligent adults who have achieved control and direction of their
-   parental function as to the number of additional children they shall bring
-   into the world. This is precisely the problem they must solve for themselves.
-   It is not only presumptuous but impertinent for any outsider or body of
-   outsiders to assume that such parents <emph rend="italics">have not already
-    decided for themselves</emph> the proper size and spacing and feasibility of
-   increasing their family.</p>
-  <p>If we sought as an organization to increase and extend our program to
-   encourage larger families among the biologically superior classes, instead of
-   concentrating upon the more important task of educating those vast sections
-   of the human family to which the beneficent instrument of contraception has
-   been denied, our efforts would be lamentably scattered and weakened.</p>
-  <p>The so-called "eugenic" resolution has been of decided
-   value in the immediate and lively criticism it has stimulated, not only in
-   the daily press of this country, but in <place>England</place> as well.
-   Analyzed and dissected, it reveals its lack of precise clarity and rigorous
-   thinking. It is open to the same refutation that have been evoked by many of
-   the orthodox proposals of the Eugenics school -- their tendency to place too
-   much faith in external direction and quasi-paternal direction of breeding,
-   combined with a bland indifference to the importance of liberated
-   self-direction. As opposed to this attitude, the program of Birth Control is
-   more constructive and more concrete.</p>
-  <p>We assume that potentially at least all normal children who are brought
-   into the world give promise of being of value to the community; that if the
-   potential child promises to be the contrary, a burden, a menace to the
-   community and the race, its coming must be prevented; that the promise of the
-   promising child is often over-balanced and destroyed by the preponderance of
-   unwanted children; and that our fundamental and central task is to clear away
-   those obstructions which now prohibit diseased, overburdened and
-   poverty-stricken mothers from the control of the procreative function.
-   Experience teaches us that these women are crying aloud for liberation from
-   the slavery and bondage in which they find themselves. Until we give them the
-   opportunity of properly spacing and determining for themselves the number of
-   children they might <emph rend="italics">choose</emph> to bear, we cannot
-   determine what promise lies buried in this vast submerged enslaved mass of
+  <p>To all who are familiar with the aims and principles of the <org>American Birth Control
+    League</org>, it is quite unnecessary to reiterate that one of our basic tenets includes the
+   racial perpetuation of health, intelligence, talent and all human traits and values of benefit to
+   the community. As I have pointed out elsewhere and repeated many times, the key-word of our
+   program is <emph rend="italics">control</emph>. If our critics would take the trouble of looking
+   up the definition of control in any standard dictionary, it would become evident to them that
+   this word means intelligence, mastery and guidance of an activity. Therefore the control of the
+   procreative faculty means, fundamentally, the application of intelligent direction and guidance
+   of this function, with complete consideration of the factors and the lives involved. </p>
+  <p>Despite our indefatigable efforts, confusion still persists in the public mind. It is
+   imperative that we should aim always for clarity in the definition of our program, and bend all
+   our efforts toward dispelling this confusion, instead of adding to it. To influence the public
+   mind we must present clear cut, sharply accentuated images of our ideal, and unconfused lucid
+   statements of our aims.</p>
+  <p>It is my belief that the so-called "eugenic" resolution, passed at the final session of the
+    <org reg="International Neo-Malthusian and Birth Control Conference, 6th">Sixth International
+    Neo-Malthusian and Birth Control Conference</org>, has created a lamentable confusion. Instead
+   of directing public opinion toward a better understanding of our program, it was interpreted by
+   the press as indicating that we believed we could actually increase the size of families among
+   the "superior" classes by passing resolutions recommending larger families. An explanation of our
+   fundamental position thus becomes necessary. </p>
+  <p>After the conference had been practically adjourned, and during a sparsely attended meeting on
+   March 31st, held simply to adjust certain minor details, the courtesy of the floor was extended
+   to Dr. <person reg="Johnson, Roswell H.">Roswell H. Johnson</person>, who had been unable to
+   attend the regular sessions. Dr. Johnson introduced the following resolution:</p>
+  <p><q rend="blockquote" who="JOHRO">"<emph rend="italics">Resolved</emph>, that this Conference
+    believes that persons whose progeny give promise of being of decided value to the community
+    should be encouraged to bear as large families, properly spaced, as they feel they feasibly
+    can."</q>
+  </p>
+  <p>Under the rules of the conference, the resolution was out of order, and if it had been
+   introduced at the fully attended Eugenics session, it is very doubtful if it would have passed.
+   But it was passed. And it was seized upon immediately for editorial comment and criticism, the
+   press re-echoing the questions that had been asked by opponents of the resolution who voiced
+   their opposition when it was first presented at that final session.</p>
+  <p>In the first place, it would seem impossible to predetermine those "superior" persons whose
+   progeny would for certain give such promise, or to deny the possibility of such promise to many
+   who might from all external standards be deemed "inferior." In the next place we doubt seriously
+   that those qualities desirable for racial perpetuation can be effectively transmitted from
+   generation to generation by the simple expedient of merely increasing the size of the family, an
+   increase "encouraged" by the passing of resolutions directed toward prospective parents quite
+   able to make their own decisions and to manage their own affairs. Such words and such
+   resolutions, it is obvious, are wasted and irrelevant, especially when coming from a body of
+   avowed advocates of Birth Control.</p>
+  <p>Surely it is not within the province of our program to offer gratuitous advice to intelligent
+   adults who have achieved control and direction of their parental function as to the number of
+   additional children they shall bring into the world. This is precisely the problem they must
+   solve for themselves. It is not only presumptuous but impertinent for any outsider or body of
+   outsiders to assume that such parents <emph rend="italics">have not already decided for
+    themselves</emph> the proper size and spacing and feasibility of increasing their family.</p>
+  <p>If we sought as an organization to increase and extend our program to encourage larger families
+   among the biologically superior classes, instead of concentrating upon the more important task of
+   educating those vast sections of the human family to which the beneficent instrument of
+   contraception has been denied, our efforts would be lamentably scattered and weakened.</p>
+  <p>The so-called "eugenic" resolution has been of decided value in the immediate and lively
+   criticism it has stimulated, not only in the daily press of this country, but in
+    <place>England</place> as well. Analyzed and dissected, it reveals its lack of precise clarity
+   and rigorous thinking. It is open to the same refutation that have been evoked by many of the
+   orthodox proposals of the Eugenics school -- their tendency to place too much faith in external
+   direction and quasi-paternal direction of breeding, combined with a bland indifference to the
+   importance of liberated self-direction. As opposed to this attitude, the program of Birth Control
+   is more constructive and more concrete.</p>
+  <p>We assume that potentially at least all normal children who are brought into the world give
+   promise of being of value to the community; that if the potential child promises to be the
+   contrary, a burden, a menace to the community and the race, its coming must be prevented; that
+   the promise of the promising child is often over-balanced and destroyed by the preponderance of
+   unwanted children; and that our fundamental and central task is to clear away those obstructions
+   which now prohibit diseased, overburdened and poverty-stricken mothers from the control of the
+   procreative function. Experience teaches us that these women are crying aloud for liberation from
+   the slavery and bondage in which they find themselves. Until we give them the opportunity of
+   properly spacing and determining for themselves the number of children they might <emph
+    rend="italics">choose</emph> to bear, we cannot determine what promise lies buried in this vast
+   submerged enslaved mass of humanity.</p>
+  <p>Birth Control in itself, we claim, is thus a constructive, creative power for human
+   regeneration. Birth Control in itself, urging not larger families but smaller families by the
+   instrument of qualitative control, offers an instrument of liberation to overburdened
    humanity.</p>
-  <p>Birth Control in itself, we claim, is thus a constructive, creative power
-   for human regeneration. Birth Control in itself, urging not larger families
-   but smaller families by the instrument of qualitative control, offers an
-   instrument of liberation to overburdened humanity.</p>
-  <p>With such tremendous tasks confronting us, and while our opponents, the
-   militarists and the reactionaries, are incessantly urging the procreation of
-   larger and larger families upon the fit and the unfit alike, we should beware
-   the danger of confusing our own program with that of our opponents. We have
-   sufficient faith in the fit to look out for themselves and their children.
-   Our program on the other hand must remain sharp, distinct, crystallized,
-   clear cut, aiming first and last for the release, from the vast deep
-   reservoir of human potentiality, of the hidden treasure of talent and beauty
-   and genius that lies untouched and unminted in the unprobed depths of the
-   common race. Birth control, -- this is our undaunted challenge -- is the
-   instrument by which these latent traits may be bred into radiant reality.</p>
+  <p>With such tremendous tasks confronting us, and while our opponents, the militarists and the
+   reactionaries, are incessantly urging the procreation of larger and larger families upon the fit
+   and the unfit alike, we should beware the danger of confusing our own program with that of our
+   opponents. We have sufficient faith in the fit to look out for themselves and their children. Our
+   program on the other hand must remain sharp, distinct, crystallized, clear cut, aiming first and
+   last for the release, from the vast deep reservoir of human potentiality, of the hidden treasure
+   of talent and beauty and genius that lies untouched and unminted in the unprobed depths of the
+   common race. Birth control, -- this is our undaunted challenge -- is the instrument by which
+   these latent traits may be bred into radiant reality.</p>
   <byline>Margaret Sanger.</byline>
  </docBody>
 </doc>

@@ -1,185 +1,135 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE doc SYSTEM "s:\dtds\mep\meptei3x.dtd">
-
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
 <mepHeader>
 <prepDate>2003/07/15 SR</prepDate>
 <prepDate>2003/07/23 SR</prepDate>
 <prepDate>2004/06/30 CH</prepDate>
 <prepDate>2004/08/09 CH</prepDate>
+<prepDate>2014-03-07 CH clean regs</prepDate>
 <docAuthor>Margaret Sanger</docAuthor>
 <docDate value="1923-02-00">Feb 1923</docDate>
 <docTitle>
-<titlePart>Birthday of the <title>Birth Control Review</title>
-and of Havelock Ellis</titlePart>
+<titlePart>Birthday of the <title type="journal">Birth Control Review</title> and of Havelock
+Ellis</titlePart>
 </docTitle>
 <idno>msp210688</idno>
 <sourceDesc>
-<bibl><title>The Birth Control Review</title>, Feb. 1923,
-27-28.</bibl>
+<bibl><title>Birth Control Review</title>, Feb. 1923, 27-28.</bibl>
 <bibl><title>Margaret Sanger Microfilm</title> S70:990.</bibl>
 </sourceDesc>
 <respStmt>
-<resp></resp>
+<resp/>
 <name id="ELLHA">Havelock Ellis</name>
 </respStmt>
 </mepHeader>
-<headNote resp="MSPP"> <index level1="Birth Control Review, The"/><index level1="Ellis, Havelock"/></headNote>
+<headNote resp="MSPP">
+<index level1="Birth Control Review, The"/>
+<index level1="Ellis, Havelock"/>
+</headNote>
 <docBody>
-<head>Birthday of the Review and of Havelock
-Ellis</head>
-<p>With this issue of the <title>BIRTH CONTROL REVIEW</title>, we
-pass our sixth birthday, and with our own anniversary we also
-celebrate the birth day of the great benefactor of women and of
-the human race, <person>Havelock Ellis</person>.  The first number
-of the <title>Birth Control ReviewREVIEW</title> was published in
-February, 1917.  Considering the high infant mortality rate among
-American publications devoted to the spread of an idea, we feel
-that we have every reason to congratulate ourselves.  In these
-days it is indeed a difficult task, almost an impossible task, to
-find supporters for any length of time for a fundamental cause. 
-It is even more difficult to increase the number of faithful
-readers of a monthly unflinchingly devoted to a single idea.  Due
-to the fine spirit of self-sacrifice and loyalty which
-characterizes our work in all departments, the <title>BIRTH
-CONTROL REVIEW</title> not only survived, during its early infancy,
-the troubled years of the War (1917-18), when so many
-non-commercial publications were snuffed ignominiously out of
-existence, but our circulation actually jumped from 2,000 the
-first year to 10,000 in the year 1922.  We have "<soCalled>carried
-on</soCalled>"-–in spite of all sorts of difficulties which blocked
-our path–-some of the obstacles deliberately placed in our way by
-enemies aiming to destroy our movement and our magazine.  But
-these obstructions seem to have inspired our workers and our
-friends to even greater courage and bravery.  We have not merely
-won out in this sharp struggle for existence, but most of our
-readers tell us that there has been a constant and easily
-recognized improvement both in the quality and importance of our
-contributions, as well as in the dignified appearance of our
-pages.  It is gratifying to report that our circulation is no
-longer confined to the <place>United States of America</place>. 
-Copies of the <title>BIRTH CONTROL REVIEW</title> are sent every
-month to all the important civilized countries of the globe. 
-Bundle orders are sent to <place>South America</place>, to <place>Mexico</place>, to <place>Cuba</place>, to <place>Egypt</place>, to <place>India</place>, to <place>Great Britain</place>, to <place>Germany</place>, to <place>Japan</place> and to <place>China</place>. 
-This achievement will seem the greater in view of the fact that
-the <title>Birth Control ReviewREVIEW</title> is kept alive mainly by
-people who are interested in the worldwide promulgation of the
-principle of Birth Control.  The <title>BIRTH CONTROL REVIEW</title>
-is not only the voice of the movement here but it is the only
-magazine in the country devoted to the scientific exposition of
-the population question in its many and various aspects.  The
-circulation of the <title>BIRTH CONTROL REVIEW</title> presages in a
-word, the universal practice of Birth Control.  Join us in this
-great work! M.S.</p>
+<head>Birthday of the Review and of Havelock Ellis</head>
+<p>With this issue of the <title type="journal">BIRTH CONTROL REVIEW</title>, we pass our sixth
+birthday, and with our own anniversary we also celebrate the birth day of the great benefactor of
+women and of the human race, <person reg="Ellis, Havelock">Havelock Ellis</person>. The first number
+of the <title type="journal">REVIEW</title> was published in February, 1917. Considering the high
+infant mortality rate among American publications devoted to the spread of an idea, we feel that we
+have every reason to congratulate ourselves. In these days it is indeed a difficult task, almost an
+impossible task, to find supporters for any length of time for a fundamental cause. It is even more
+difficult to increase the number of faithful readers of a monthly unflinchingly devoted to a single
+idea. Due to the fine spirit of self-sacrifice and loyalty which characterizes our work in all
+departments, the <title type="journal">BIRTH CONTROL REVIEW</title> not only survived, during its
+early infancy, the troubled years of the War (1917-18), when so many non-commercial publications
+were snuffed ignominiously out of existence, but our circulation actually jumped from 2,000 the
+first year to 10,000 in the year 1922. We have "carried on"-–in spite of all sorts of difficulties
+which blocked our path–-some of the obstacles deliberately placed in our way by enemies aiming to
+destroy our movement and our magazine. But these obstructions seem to have inspired our workers and
+our friends to even greater courage and bravery. We have not merely won out in this sharp struggle
+for existence, but most of our readers tell us that there has been a constant and easily recognized
+improvement both in the quality and importance of our contributions, as well as in the dignified
+appearance of our pages. It is gratifying to report that our circulation is no longer confined to
+the <place>United States</place>. Copies of the <title type="journal">BIRTH CONTROL REVIEW</title>
+are sent every month to all the important civilized countries of the globe. Bundle orders are sent
+to <place>South America</place>, to <place>Mexico</place>, to <place>Cuba</place>, to
+<place>Egypt</place>, to <place>India</place>, to <place>Great Britain</place>, to
+<place>Germany</place>, to <place>Japan</place> and to <place>China</place>. This achievement will
+seem the greater in view of the fact that the <title type="journal">Birth Control
+ReviewREVIEW</title> is kept alive mainly by people who are interested in the worldwide promulgation
+of the principle of Birth Control. The <title type="journal">BIRTH CONTROL REVIEW</title> is not
+only the voice of the movement here but it is the only magazine in the country devoted to the
+scientific exposition of the population question in its many and various aspects. The circulation of
+the <title type="journal">BIRTH CONTROL REVIEW</title> presages in a word, the universal practice of
+Birth Control. Join us in this great work! M.S.</p>
 <div>
-<p>There is no man living to day to whom humanity is more
-indebted than <person>Havelock Ellis</person>.  There are other
-voices, louder, harsher, noisier voices than his, voices making
-themselves heard above the sound and fury of the chaos of these
-days.  In the last three decades many leaders have
-arisen–-soldiers, politicians, statesmen–-all blind leaders of
-the blind!  Some of these leaders have caught the ear of nations
-and of crowds.  There have been poets, dramatists, philosophers,
-who have been acclaimed by the press, who have won for themselves
-tremendous reputations almost overnight.  For a day or so they
-have been surrounded by a blaze of glory; and then pathetically
-the light has been extinguished.  In the meanwhile, this great
-prophet has lived on almost in obscurity, far from the shouting
-and the tumult.  The gaudy rewards of fame and popular acclaim
-could mean nothing to such a man.  And with the passing of the
-years there has been no aging of this divinely radiant spirit. 
-His wisdom has deepened; his vision has retained its calm and
-serenity; there has been no senescence, no growing old in this
-spirit.  The reward of this life of inspired and unceasing
-service to humanity has been the gift of eternal youth.  For is
-it not the chief characteristic of youth to look out upon the
-world not as entering the gloom and darkness of eternal night,
-but as emerging into the roseate dawn of a new day?  This has
-been the vision of Havelock Ellis, and this vision he has, with
-his inexhaustible resources of erudition, of science, of art and
-superhuman inspiration, awakened in the younger generation of the
-world.</p>
-<p>It would be an easy thing to say that the world has beaten a
-path to his door.  But it would be nearer the truth I think, to
-realize the radiant quality of his work.  Ignored, suppressed,
-condemned by the ever-vigilant powers of darkness, the books of
-Havelock Ellis have, nevertheless, wrought the great miracle. 
-They have found their way overseas, to far countries, across
-deserts, over barriers set up by ignorance and official
-stupidity, into lonely cottages.  They have kindled the spark of
-life.  They have turned darkness into light; cowardice into
-courage, dismal doubting into self-reliance.  It has been, first
-of all, this luminous radiation of a great spirit that has evoked
-the response of gratitude, that has inspired young men and women
-the world over to express their eternal indebtedness to Havelock
-Ellis.</p>
-<p>The younger generation owes yet a greater debt to the wisdom
-of Havelock Ellis.  For this wisdom is not confined merely to the
-theme of love in its various manifestations.  It penetrates into
-every field of life.  In an age that has been characterized by
-the violence and pugnacity of so many small minds, by the
-calamitous activity of so many little men, stridently and
-egotistically asserting their superiority, and ruthlessly leading
-suffering and imperilled humanity into disaster and social
-shipwreck, here is one man, great enough and far-seeing enough to
-point the way to a real civilization.  He has never exhibited
-that ignoble passion for immediate recognition that corrupts so
-many minds of the present day.  He has never descended into the
-market-place, nor beaten a drum to attract attention to his
-books.  He has not indulged in controversy or dispute.  His mind
-possesses a fine plasticity; it has never ceased growing. 
-Havelock Ellis is interested in ideas new and old.  He tests
-these ideas not by their modernity nor by their weight of
-tradition; but by their inherent validity.  He possesses an
-almost miraculous power of separating the wheat from the chaff. 
-He bridges countries and centuries.  He can awaken us to the
-ageless wisdom of <person>Lao-Tse;</person> and he can enjoy the
-literary heresies of a <person>James Joyce</person>.  That the
-world might learn of comprehensiveness from him!</p>
-<p>Sanity and Health are the fine ideals upheld by Havelock
-Ellis from the very beginning of his career as a scientist and
-writer.  By sanity and health–-we must be careful to qualify–-he
-has never meant that narrow, constrained or hysterical outlook on
-life that has too long masked itself under the defensive name of
-"<soCalled>normality</soCalled>."  There can be no true sanity, no
-true health either in mind or body without an invigorating
-freedom of outlook.  Moreover without the radiant, resolute
-vitality that is the finest fruit of freedom and health, men and
-women can never develop the courage and self-reliance to create
-the real civilization of the future.</p>
-<p>Who more eloquently, more spiritually, and, in the truest
-sense, more poetically than Havelock Ellis has realized the power
-and the eternal strength of woman?  In this field he is the
-prophet as well as the pioneer.  To his pages both men and women
-must inevitably and finally turn to gain a full understanding of
-themselves and of each other.  In the years to come, indeed
-throughout the whole of this long, century, men–-not merely the
-writing men, the literati, the intellectuals; but men of every
-age and every class-–must be taught, at least to some small
-extent, to know Woman, as Havelock Ellis with his divine
-intuition and wisdom so thoroughly knows her today.  The benefits
-of such a revelation cannot be calculated.  Upon this knowledge
-will be built the new civilization.  But Man cannot know Woman
-until Woman begins to know herself, and women no less than men
-must turn to Havelock Ellis to aid them in their quest of
-self-revelation.</p>
-<p>This strange, lost, wandering world of ours, worshiping
-false gods, led by evil shepherds into almost bottomless pits,
-straying like lost sheep in the dark, or stampeding insanely
-after miraged rewards must somehow be brought back to the
-realization that the real secret of life cannot be found outside
-of ourselves.  We must give up our romantic dreams and, as
-Havelock Ellis has so often told us, create with our own humble
-powers our own future.  This new world will not be brought nearer
-to realization by subscribing to grandiose social or political
-schemes; but by the attainment of sanity and health in our
-individual lives.  For among the latest words of his published in
-this country, we read: "<q who="ELLHA">Every well-directed step, while
-it brings us ever so little nearer to the far goal around which
-our dreams may play, is at once a beautiful process and an
-invigorating effort, and thereby becomes in itself a desirable
-end.  It is the little things of life which give us most
-satisfaction and the smallest things in our path that may seem
-most worth while</q>."</p>
+<p>There is no man living to day to whom humanity is more indebted than Havelock Ellis. There are
+other voices, louder, harsher, noisier voices than his, voices making themselves heard above the
+sound and fury of the chaos of these days. In the last three decades many leaders have
+arisen–-soldiers, politicians, statesmen–-all blind leaders of the blind! Some of these leaders have
+caught the ear of nations and of crowds. There have been poets, dramatists, philosophers, who have
+been acclaimed by the press, who have won for themselves tremendous reputations almost overnight.
+For a day or so they have been surrounded by a blaze of glory; and then pathetically the light has
+been extinguished. In the meanwhile, this great prophet has lived on almost in obscurity, far from
+the shouting and the tumult. The gaudy rewards of fame and popular acclaim could mean nothing to
+such a man. And with the passing of the years there has been no aging of this divinely radiant
+spirit. His wisdom has deepened; his vision has retained its calm and serenity; there has been no
+senescence, no growing old in this spirit. The reward of this life of inspired and unceasing service
+to humanity has been the gift of eternal youth. For is it not the chief characteristic of youth to
+look out upon the world not as entering the gloom and darkness of eternal night, but as emerging
+into the roseate dawn of a new day? This has been the vision of Havelock Ellis, and this vision he
+has, with his inexhaustible resources of erudition, of science, of art and superhuman inspiration,
+awakened in the younger generation of the world.</p>
+<p>It would be an easy thing to say that the world has beaten a path to his door. But it would be
+nearer the truth I think, to realize the radiant quality of his work. Ignored, suppressed, condemned
+by the ever-vigilant powers of darkness, the books of Havelock Ellis have, nevertheless, wrought the
+great miracle. They have found their way overseas, to far countries, across deserts, over barriers
+set up by ignorance and official stupidity, into lonely cottages. They have kindled the spark of
+life. They have turned darkness into light; cowardice into courage, dismal doubting into
+self-reliance. It has been, first of all, this luminous radiation of a great spirit that has evoked
+the response of gratitude, that has inspired young men and women the world over to express their
+eternal indebtedness to Havelock Ellis.</p>
+<p>The younger generation owes yet a greater debt to the wisdom of Havelock Ellis. For this wisdom
+is not confined merely to the theme of love in its various manifestations. It penetrates into every
+field of life. In an age that has been characterized by the violence and pugnacity of so many small
+minds, by the calamitous activity of so many little men, stridently and egotistically asserting
+their superiority, and ruthlessly leading suffering and imperilled humanity into disaster and social
+shipwreck, here is one man, great enough and far-seeing enough to point the way to a real
+civilization. He has never exhibited that ignoble passion for immediate recognition that corrupts so
+many minds of the present day. He has never descended into the market-place, nor beaten a drum to
+attract attention to his books. He has not indulged in controversy or dispute. His mind possesses a
+fine plasticity; it has never ceased growing. Havelock Ellis is interested in ideas new and old. He
+tests these ideas not by their modernity nor by their weight of tradition; but by their inherent
+validity. He possesses an almost miraculous power of separating the wheat from the chaff. He bridges
+countries and centuries. He can awaken us to the ageless wisdom of <person>Lao-Tse;</person> and he
+can enjoy the literary heresies of a <person reg="Joyce, James">James Joyce</person>. That the world
+might learn of comprehensiveness from him!</p>
+<p>Sanity and Health are the fine ideals upheld by Havelock Ellis from the very beginning of his
+career as a scientist and writer. By sanity and health–-we must be careful to qualify–-he has never
+meant that narrow, constrained or hysterical outlook on life that has too long masked itself under
+the defensive name of "normality." There can be no true sanity, no true health either in mind or
+body without an invigorating freedom of outlook. Moreover without the radiant, resolute vitality
+that is the finest fruit of freedom and health, men and women can never develop the courage and
+self-reliance to create the real civilization of the future.</p>
+<p>Who more eloquently, more spiritually, and, in the truest sense, more poetically than Havelock
+Ellis has realized the power and the eternal strength of woman? In this field he is the prophet as
+well as the pioneer. To his pages both men and women must inevitably and finally turn to gain a full
+understanding of themselves and of each other. In the years to come, indeed throughout the whole of
+this long, century, men–-not merely the writing men, the literati, the intellectuals; but men of
+every age and every class-–must be taught, at least to some small extent, to know Woman, as Havelock
+Ellis with his divine intuition and wisdom so thoroughly knows her today. The benefits of such a
+revelation cannot be calculated. Upon this knowledge will be built the new civilization. But Man
+cannot know Woman until Woman begins to know herself, and women no less than men must turn to
+Havelock Ellis to aid them in their quest of self-revelation.</p>
+<p>This strange, lost, wandering world of ours, worshiping false gods, led by evil shepherds into
+almost bottomless pits, straying like lost sheep in the dark, or stampeding insanely after miraged
+rewards must somehow be brought back to the realization that the real secret of life cannot be found
+outside of ourselves. We must give up our romantic dreams and, as Havelock Ellis has so often told
+us, create with our own humble powers our own future. This new world will not be brought nearer to
+realization by subscribing to grandiose social or political schemes; but by the attainment of sanity
+and health in our individual lives. For among the latest words of his published in this country, we
+read: "<q who="ELLHA">Every well-directed step, while it brings us ever so little nearer to the far
+goal around which our dreams may play, is at once a beautiful process and an invigorating effort,
+and thereby becomes in itself a desirable end. It is the little things of life which give us most
+satisfaction and the smallest things in our path that may seem most worth while</q>."</p>
 </div>
 <byline>M. S.</byline>
 </docBody>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
-<doc type="Published Article">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
     <mepHeader>
         <prepDate>2011/06/24 RT initial tag</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
@@ -11,7 +11,7 @@
         <idno>msp301425</idno>
         <sourceDesc>
             <bibl>Alice Park Papers, Henry Huntington Library</bibl>
-            <bibl>LCM C16:408</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> C16:408</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
@@ -22,74 +22,61 @@
         <index level1="birth control" level2="clinics and leagues" level3="in US"/>
         <index level1="birth control" level2="legalization of"/>
         <index level1="birth control" level2="movement" level3="goals and strategies"/>
-        
     </headNote>
     <docBody>
-        <p>Now that Attorney General <person reg="Cummings, Homer S.">Homer S.
-                Cummings</person> has announced that the Government will rest
-            its case and not carry it to the <org
-                reg="United States Supreme Court">U.S. Supreme Court</org>, the
-            decision of the <org reg="United States Circuit Court of Appeals"
-                >U.S. Circuit Court of Appeals</org> becomes, in effect, the law
-            of the land. We are deeply grateful to Mr. <person
-                reg="Ernst, Morris L.">Morris L. Ernst</person> for his gallant and
-            successful fight, to Judge <person reg="Moscowitz, Grover M.">Grover M.
-                Moscowitz</person> of the lower Court for his wise stand and to
-            Judges <person reg="Hand, Learned S.">Learned S. Hand</person>, <person
-                reg="Swan, Thomas W.">Thomas W. Swan</person> and <person
-                reg="Hand, Augustus N.">Augustus N. Hand</person> of the Circuit
-            Court for unanimously upholding his far-sighted decision. There is
-            no further question as to the rights of the medical profession in
-            regard to contraception. The birth control movement is free.</p>
-        <p>What lies ahead? I call upon every one of you, who have so loyally
-            supported the National Committee's work, to push steadily forward
-            with double energy. For a constructive and inspiring program is now
-            possible.</p>
-        <p>Make known to hospitals, relief agencies, philanthropic and public
-            health officials, that the decision of the Circuit Court of Appeals
-            frees their hands; that the federal statutes are no longer a
-            stumbling block. Call on public health officials and ask that birth
-            control instruction be included in their services. Establish
-            clinics. There are today approximately 320 birth control centers in
-                <place reg="United States of America">America</place>. I look
-            forward to seeing not twice that number, but ten times that number
-            at the close of 1937. Let this be our immediate objective.</p>
-        <p>Beyond this, other, more far-reaching things wait to be done. Some
-            means must be provided for testing contraceptive products and
-            standardizing those offered for sale. Research looking toward
-            simpler and cheaper methods must go forward, and experimental
-            methods must be carefully and scientifically studied. Birth control
-            must be understood by the public at large; it must be removed from
-            the realm of propaganda and argument, and accepted as a way of life.
-            Let your neighbors and your friends, your doctors, hospital boards,
-            newspaper editors, social workers, lawyers, everyone with whom you
-            come in contact -- understand clearly what birth control can do for
-            the individual family, for the nation and for the world.</p>
-        <p>While educational work in the birth control movement has been going
-            on for twenty years, public opinion crystallized in the drive to
-            amend the Federal laws. During the past seven years, since the
-            formation of the <org reg="National Committe on Federal Legislation for Birth Control">National Committee</org> in 1929, a thousand organizations,
-            representing an aggregate membership of many millions, have given
-            their support and approzimately tow hundred thousand individuals
-            have personally enrolled as endorsers. This is truly a magnificent
+        <p>Now that Attorney General <person reg="Cummings, Homer S.">Homer S. Cummings</person> has
+            announced that the Government will rest its case and not carry it to the <org
+                reg="United States Supreme Court">U.S. Supreme Court</org>, the decision of the <org
+                reg="United States Circuit Court of Appeals">U.S. Circuit Court of Appeals</org>
+            becomes, in effect, the law of the land. We are deeply grateful to Mr. <person
+                reg="Ernst, Morris L.">Morris L. Ernst</person> for his gallant and successful
+            fight, to Judge <person reg="Moscowitz, Grover M.">Grover M. Moscowitz</person> of the
+            lower Court for his wise stand and to Judges <person reg="Hand, Learned S.">Learned S.
+                Hand</person>, <person reg="Swan, Thomas W.">Thomas W. Swan</person> and <person
+                reg="Hand, Augustus N.">Augustus N. Hand</person> of the Circuit Court for
+            unanimously upholding his far-sighted decision. There is no further question as to the
+            rights of the medical profession in regard to contraception. The birth control movement
+            is free.</p>
+        <p>What lies ahead? I call upon every one of you, who have so loyally supported the <org
+                reg="National Committee on Federal Legislation for Birth Control">National
+                Committee</org>’s work, to push steadily forward with double energy. For a
+            constructive and inspiring program is now possible.</p>
+        <p>Make known to hospitals, relief agencies, philanthropic and public health officials, that
+            the decision of the Circuit Court of Appeals frees their hands; that the federal
+            statutes are no longer a stumbling block. Call on public health officials and ask that
+            birth control instruction be included in their services. Establish clinics. There are
+            today approximately 320 birth control centers in <place reg="United States"
+                >America</place>. I look forward to seeing not twice that number, but ten times that
+            number at the close of 1937. Let this be our immediate objective.</p>
+        <p>Beyond this, other, more far-reaching things wait to be done. Some means must be provided
+            for testing contraceptive products and standardizing those offered for sale. Research
+            looking toward simpler and cheaper methods must go forward, and experimental methods
+            must be carefully and scientifically studied. Birth control must be understood by the
+            public at large; it must be removed from the realm of propaganda and argument, and
+            accepted as a way of life. Let your neighbors and your friends, your doctors, hospital
+            boards, newspaper editors, social workers, lawyers, everyone with whom you come in
+            contact -- understand clearly what birth control can do for the individual family, for
+            the nation and for the world.</p>
+        <p>While educational work in the birth control movement has been going on for twenty years,
+            public opinion crystallized in the drive to amend the Federal laws. During the past
+            seven years, since the formation of the <org
+                reg="National Committe on Federal Legislation for Birth Control">National
+                Committee</org> in 1929, a thousand organizations, representing an aggregate
+            membership of many millions, have given their support and approzimately tow hundred
+            thousand individuals have personally enrolled as endorsers. This is truly a magnificent
             record and an achievement of which we can all be justly proud.</p>
-        <p>But this interest, which has been so splendidly focused on birth
-            control legislation, is only the prelude. The National Committee on
-            Federal Legislation for Birth Control has done what it set out to
-            do; it has fought a good fight and won. Wider activities are before
-            us. The younger men and women, whose energies have only just been
-            aroused, and who are “all set to go,” must be organized for action,
-            younger leaders must pass from the task of clearing away obstacles
-            to the concrete program of founding clinics and establishing birth
-            control as a public health service.</p>
-        <p>In <place>India</place> I heard the proverb: “<q who="UNK">Knowledge is to know what to do,
-            skill is knowing how to do it, virtue is doing it.</q>” Our future
-            activities will, with your help, bring to the birth control
-            movement, not only knowledge and skill, but virtue as well.</p>
-        <p>The next issue of the NEWS will contain more definite details about
-            these activities.</p>
-        <byline>MARGARET SANGER</byline>
-
-
+        <p>But this interest, which has been so splendidly focused on birth control legislation, is
+            only the prelude. The National Committee on Federal Legislation for Birth Control has
+            done what it set out to do; it has fought a good fight and won. Wider activities are
+            before us. The younger men and women, whose energies have only just been aroused, and
+            who are “all set to go,” must be organized for action, younger leaders must pass from
+            the task of clearing away obstacles to the concrete program of founding clinics and
+            establishing birth control as a public health service.</p>
+        <p>In <place>India</place> I heard the proverb: “<q who="UNK">Knowledge is to know what to
+                do, skill is knowing how to do it, virtue is doing it.</q>” Our future activities
+            will, with your help, bring to the birth control movement, not only knowledge and skill,
+            but virtue as well.</p>
+        <p>The next issue of the NEWS will contain more definite details about these activities.</p>
+        <byline><person reg="Sanger, Margaret">MARGARET SANGER</person></byline>
     </docBody>
 </doc>

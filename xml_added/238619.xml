@@ -1,84 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
-<doc type="Autograph Draft Article">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed draft article">
     <mepHeader>
-        <prepDate>2011/07/07 NC</prepDate><prepDate>CH 7/22/2011 one correction</prepDate><prepDate>2011-11-30 CH correct typo</prepDate>
+        <prepDate>2011/07/07 NC</prepDate>
+        <prepDate>CH 7/22/2011 one correction</prepDate>
+        <prepDate>2011-11-30 CH correct typo</prepDate>
+        <prepDate>2014-04-01 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
-        <docDate value="0000-00-00">n.d.</docDate>
+        <docDate value="1939-00-00"><supplied resp="MSPP">ca. 1939</supplied></docDate>
         <docTitle>
             <titlePart><supplied resp="MSPP">Standards of Living</supplied></titlePart>
         </docTitle>
         <idno>msp238619</idno>
         <sourceDesc>
-            <bibl><title>SSC</title>S73:0232</bibl>
+            <bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S73:0232</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
             <name id="UNK">Unknown</name>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>This draft was likely written in the late 1930's or early 1940's.</p><index level1="birth control"/><index
-            level1="birth control" level2="economic benefits and risks of"
-            /><index level1="birth control" level2="socio-economic benefits of"
-            /><index level1="birth rate" level2="efforts to reduce"/>
-        <index level1="birth rate" level2="population growth and"/><index
-            level1="family planning"/>
+    <headNote resp="MSPP"><p>This draft was likely written in the late 1930's or early 1940's.</p>
+        <index level1="birth control"/>
+        <index level1="birth control" level2="economic benefits and risks of"/>
+        <index level1="birth control" level2="socio-economic benefits of"/>
+        <index level1="birth rate" level2="efforts to reduce"/>
+        <index level1="birth rate" level2="population growth and"/>
+        <index level1="family planning"/>
         <index level1="family size"/>
-        <index level1="family size" level2="class-based"/><index
-            level1="population" level2="birth control and"/><index
-            level1="population growth" level2="standard of living and"
-        /></headNote>
+        <index level1="family size" level2="class-based"/>
+        <index level1="population" level2="birth control and"/>
+        <index level1="population growth" level2="standard of living and"/>
+    </headNote>
     <docBody>
         <p>If the people of the <del>world</del>
-            <add><place reg="United States">USA</place></add> will accept
-            Asiatic level of living in order to keep the promises of our
-            <person reg="Unidentified">President</person> well &amp; good-- a most noble sacrifice(??) But let us
-            accept it consciously &amp; know that not we alone but other Nations
-            with our food standards must share our noble sentiments so that
-            three billion of the <place>Earth</place>'s inhabitants may live on
-            a survival quota.-- </p>
-        <p>Perhaps this suggestion will arouse <del>the</del> our opponents'
-            curiosity let us see how willing they are to tighten their belts to
-            see an <add>world</add> increased population decrease our own
-            standards of living within the life time of those in this room.</p>
-        <p>In other words we ask a people with reserve &amp; resources
-            sufficient to yield a permanent basis for a healthy population to
-            live joyfully &amp; prosper to sacrifice that condition for
-            themselves &amp; their unborn children in exchange for a large
-            recklessly concerned population of illiterate miserable, people
-            constantly threatened by <add>large</add> families, malnutrition
-            &amp; ever increasing poverty.</p>
-        <p>USA &amp; <org reg="United Nations">UN</org> should have a Population
-            &amp; Eugenic Policy with two experts in the President's Cabinet and
-            policy established that there are certain eugenic qualifications for
-            reproduction &amp; definitely lay down the law--that these couples
-            who cannot meet those qualifications <emph rend="underline">must not
+            <add><place reg="United States">USA</place></add> will accept Asiatic level of living in
+            order to keep the promises of our <person reg="Roosevelt, Franklin D."
+                >President</person> well &amp; good-- a most noble sacrifice(??) But let us accept
+            it consciously &amp; know that not we alone but other Nations with our food standards
+            must share our noble sentiments so that three billion of the <place>Earth</place>’s
+            inhabitants may live on a survival quota.-- </p>
+        <p>Perhaps this suggestion will arouse <del>the</del> our opponents’ curiosity let us see
+            how willing they are to tighten their belts to see an <add>world</add> increased
+            population decrease our own standards of living within the life time of those in this
+            room.</p>
+        <p>In other words we ask a people with reserve &amp; resources sufficient to yield a
+            permanent basis for a healthy population to live joyfully &amp; prosper to sacrifice
+            that condition for themselves &amp; their unborn children in exchange for a large
+            recklessly concerned population of illiterate miserable, people constantly threatened by
+                <add>large</add> families, malnutrition &amp; ever increasing poverty.</p>
+        <p>USA &amp; <org reg="United Nations">UN</org> should have a Population &amp; Eugenic
+            Policy with two experts in the President’s Cabinet and policy established that there are
+            certain eugenic qualifications for reproduction &amp; definitely lay down the law--that
+            these couples who cannot meet those qualifications <emph rend="underline">must not
                 reproduce</emph>.</p>
-        <p>Such qualifications &amp; requirements for reproducing will make the
-            children born symbols of honor to our civilization.--</p>
-        <p>Another suggestion I once made at a Social tea in the
-                <unclear>drawing</unclear> room of <person
-                reg="Mesta, Perle Skirvin">Mrs. Mesta</person> in <place reg="Newport, RI">Newport</place>--when
-                <person reg="Blank, Mrs.">Mrs. Blank</person> said she objected
-            to BC because her lovely niece &amp; brilliant nephew each had only
-            one child while all the “<q who="UNK">riff raff</q>” were having dozens--</p>
-        <p>I made the gentle suggestion to Mrs. Blank that perhaps her brilliant
-            &amp; lovely relatives were also endowed with natural qualities of
-                <emph rend="underline">Responsibility</emph> toward educating
-            &amp; rearing children they were not able financially to rear
-            adequately--Then I said suppose Mrs. Blank instead of your
-            contributing large sums of money every year to the community chest
-            to orphanages, Red Cross &amp; other charities &amp; Philanthropies
-            but gave that total divided equally to your two relatives you might
-            find they would be happy to launch a few more babes in this world if
-            you agreed that the added offspring, maintenance was secured--</p>
-        <p>She said “<q who="UNK">That is a New Idea</q>”-- while a few
-            Medical Schools, a very few have classes &amp; lectures on
-            contraception. No college or university has a Population Department
-            as they have departments of History department a or <add>Dept.</add>
-            <unclear>Mar</unclear> etc. yet Population conditions pressure &amp;
-            rate of growth are the basis of today's world miseries &amp;
-            problems &amp; threaten to grow worse.</p>
+        <p>Such qualifications &amp; requirements for reproducing will make the children born
+            symbols of honor to our civilization.--</p>
+        <p>Another suggestion I once made at a Social tea in the <unclear>drawing</unclear> room of
+                <person reg="Mesta, Perle Skirvin">Mrs. Mesta</person> in <place reg="Newport, RI"
+                >Newport</place>--when <person reg="Blank, Mrs.">Mrs. Blank</person> said she
+            objected to BC because her lovely niece &amp; brilliant nephew each had only one child
+            while all the “<q who="UNK">riff raff</q>” were having dozens--</p>
+        <p>I made the gentle suggestion to Mrs. Blank that perhaps her brilliant &amp; lovely
+            relatives were also endowed with natural qualities of <emph rend="underline"
+                >Responsibility</emph> toward educating &amp; rearing children they were not able
+            financially to rear adequately--Then I said suppose Mrs. Blank instead of your
+            contributing large sums of money every year to the community chest to orphanages,
+                <org>Red Cross</org> &amp; other charities &amp; Philanthropies but gave that total
+            divided equally to your two relatives you might find they would be happy to launch a few
+            more babes in this world if you agreed that the added offspring, maintenance was
+            secured--</p>
+        <p>She said “<q who="UNK">That is a New Idea</q>”-- while a few Medical Schools, a very few
+            have classes &amp; lectures on contraception. No college or university has a Population
+            Department as they have departments of History department a or <add>Dept.</add>
+            <unclear>Mar</unclear> etc. yet Population conditions pressure &amp; rate of growth are
+            the basis of today’s world miseries &amp; problems &amp; threaten to grow worse.</p>
 
 
     </docBody>

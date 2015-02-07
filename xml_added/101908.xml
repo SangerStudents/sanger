@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed Speech">
     <mepHeader>
         <prepDate>2011/06/01 CE</prepDate>
         <prepDate>2011/06/07 CE</prepDate>
         <prepDate>2011/06/20 CE</prepDate>
+        <prepDate>2014-04-02 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1936-11-24">24 Nov 1936</docDate>
         <docTitle>
@@ -13,85 +14,66 @@
         <idno>msp101908</idno>
         <sourceDesc>
             <bibl>Margaret Sanger Papers, Library of Congress</bibl>
-            <bibl><title>LCM</title>L128:641</bibl>
+            <bibl><title>Library of Congress Microfilm</title> 128:641</bibl>
         </sourceDesc>
-        <respStmt>
-            <resp/>
-            <name/>
-        </respStmt>
     </mepHeader>
     <headNote>
-        <p><person reg="Sanger, Margaret">Margaret Sanger</person> delivered the
-            speech at the Schenley Hotel in <place
-                reg="Pittsburgh, PA, United States">Pittsburgh</place> at a
-            meeting sponsored by the <org>Allegheny Birth Control League</org>.
-            No complete version of the speech has been found.</p>
+        <p><person reg="Sanger, Margaret">Margaret Sanger</person> delivered the speech at the
+            Schenley Hotel in <place reg="Pittsburgh, PA">Pittsburgh</place> at a meeting sponsored
+            by the <org reg="Allegheney County Birth Control League">Allegheny Birth Control
+                League</org>. No complete version of the speech has been found.</p>
         <index level1="birth control" level2="access to"/>
-        <index level1="birth control" level2="clinics and leagues"
-            level3="in US"/>
+        <index level1="birth control" level2="clinics and leagues" level3="in US"/>
         <index level1="birth control" level2="health benefits and risks"/>
-        <index level1="birth control" level2="laws and legislation"
-            level3="Federal"/>
+        <index level1="birth control" level2="laws and legislation" level3="Federal"/>
         <index level1="birth control" level2="legalization of"/>
         <index level1="birth control" level2="medical community and"/>
         <index level1="birth control" level2="movement" level3="American"/>
         <index level1="mortality rates" level2="maternal"/>
         <index level1="physicians" level2="birth control and"/>
         <index level1="quackery"/>
-        <index level1="United States" level2="government"
-            level3="birth control and"/>
+        <index level1="United States" level2="government" level3="birth control and"/>
         <index level1="women" level2="birth control and"/>
         <index level1="women" level2="reproductive choices and decisions"/>
     </headNote>
     <docBody>
-        <head>EXCEPRTS FROM MRS. MARGARET SANGER'S ADDRESS</head>
-        <p>“I urge the immediate amendment of the present federal laws which tie
-            the hands of the physician and obstruct an adequate and scientific
-            national birth control program. More than 1,000 organizations, with
-            millions of members, have endorsed our efforts to change these
-            obsolete federal laws, and 200,000 individuals have pledged their
-            support over their personal signatures.”</p>
-        <p>“It is easy to boast about birth control clinics, and point with
-            pride to their growth since I opened the first clinic in
-                <place>America</place> in the slums of <place
-                reg="Brooklyn, New York, United States">Brooklyn</place> in
-            1916. This clinic, as you know, was closed as a 'public nuisance,'
-            and I and my co-workers were sent to jail. Two hundred and fifty
-            clinics in forty-three states are functioning today. But for every
-            woman who goes to a clinic or to a private doctor and gets birth
-            control information, there are hundreds of thousands who apply to
-            hospitals and doctors and are denied instruction which they need to
-            preserve health and life itself. Quack nostrums, ineffectual and
-            often harmful contraceptive supplies may be bought at any drug
-            store, and when these fail, women can in desperation submit to
-            abortions. But scientific and reliable birth control instruction is
-            the privilege of the few. The great mass of American mothers ask for
-            it in vain.”</p>
-        <p>“Private charity can never effectively take care of this situation.
-            As a part of preventive medicine and public health, it is work which
-            the <org reg="United States government">Government</org> can no
-            longer ignore. Let us clear away the legal obstructions which retard
-            birth control work--now, at once, without further dallying. Then we
-            can go forward to the inspiring and constructive program of giving
-            to every mother the information which she needs, and which is her
-            constitutional right.”</p>
-        <p>“Statistics from <place reg="Pennsylvania, United States"
-                >Pennsylvania</place> show how great is the need in your State
-            for scientific and reliable birth control. Maternal deaths from all
-            causes decreased from 1136 in 1930 to 931 in 1934. Deaths from
-            abortion, however, increased, and of those the number caused by
-            septic poisoning also increased. Of every 100 women who die during
-            maternity, 95 die from abortion, and of these 25, 20 die from septic
-            poisoning which generally follows abortions performed without the
-            proper medical safeguards. Give women birth control information and
-            they will not have to submit to abortions.”</p>
-        <p>“Turning to the relief question, <org
-                reg="Works Progress Administration">W.P.A.</org> figures show
-            that 147,375 families in Pennsylvania were on relief in May, 1936.
-            This figure is estimated to represent nearly 700,000 people--men,
-            women, and children in your State. The cost of relief in <place
-                reg="Pennsylvania, United States">Pennsylvania</place> for this
-            month was $5,305,000, and the total cost for the <place>United
-                States</place> for the month of May was $41,800,000.”</p>
+        <head>EXCERPTS FROM MRS. MARGARET SANGER'S ADDRESS</head>
+        <p>“I urge the immediate amendment of the present federal laws which tie the hands of the
+            physician and obstruct an adequate and scientific national birth control program. More
+            than 1,000 organizations, with millions of members, have endorsed our efforts to change
+            these obsolete federal laws, and 200,000 individuals have pledged their support over
+            their personal signatures.”</p>
+        <p>“It is easy to boast about birth control clinics, and point with pride to their growth
+            since I opened the first clinic in <place reg="United States">America</place> in the
+            slums of <place reg="Brooklyn, NY">Brooklyn</place> in 1916. This clinic, as you know,
+            was closed as a ‘public nuisance,’ and I and my co-workers were sent to jail. Two
+            hundred and fifty clinics in forty-three states are functioning today. But for every
+            woman who goes to a clinic or to a private doctor and gets birth control information,
+            there are hundreds of thousands who apply to hospitals and doctors and are denied
+            instruction which they need to preserve health and life itself. Quack nostrums,
+            ineffectual and often harmful contraceptive supplies may be bought at any drug store,
+            and when these fail, women can in desperation submit to abortions. But scientific and
+            reliable birth control instruction is the privilege of the few. The great mass of
+            American mothers ask for it in vain.”</p>
+        <p>“Private charity can never effectively take care of this situation. As a part of
+            preventive medicine and public health, it is work which the <org
+                reg="United States Government">Government</org> can no longer ignore. Let us clear
+            away the legal obstructions which retard birth control work--now, at once, without
+            further dallying. Then we can go forward to the inspiring and constructive program of
+            giving to every mother the information which she needs, and which is her constitutional
+            right.”</p>
+        <p>“Statistics from <place>Pennsylvania</place> show how great is the need in your State for
+            scientific and reliable birth control. Maternal deaths from all causes decreased from
+            1136 in 1930 to 931 in 1934. Deaths from abortion, however, increased, and of those the
+            number caused by septic poisoning also increased. Of every 100 women who die during
+            maternity, 95 die from abortion, and of these 25, 20 die from septic poisoning which
+            generally follows abortions performed without the proper medical safeguards. Give women
+            birth control information and they will not have to submit to abortions.”</p>
+        <p>“Turning to the relief question, <org reg="United States Works Progress Administration"
+                >W.P.A.</org> figures show that 147,375 families in Pennsylvania were on relief in
+            May, 1936. This figure is estimated to represent nearly 700,000 people--men, women, and
+            children in your State. The cost of relief in Pennsylvania for this month was
+            $5,305,000, and the total cost for the United States for the month of May was
+            $41,800,000.”</p>
     </docBody>
 </doc>

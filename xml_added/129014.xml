@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "file:/S:/TRANSCRIPTIONS/XML%20Drafts/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Article">
     <mepHeader>
-        <prepDate>2007/06/14 CH--need to add xrefs for English methods and add these docs; deal with
-            the list format at the end and the inclusion of images to edition.</prepDate>
+        <prepDate>2007/06/14 CH--need to deal with the inclusion of images to edition.</prepDate>
         <prepDate>2007/06/26 CH added xref for Dutch methods</prepDate>
         <prepDate>2007-09-05 CH corrected doctype </prepDate>
+        <prepDate>2014/04/03 EK clean regs; added xref for English Methods</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1915-08-00">
-            <supplied resp="MSPP">Aug 1915</supplied>
+            <supplied resp="MSPP">Aug. 1915</supplied>
         </docDate>
         <docTitle>
             <titlePart>Magnetation Methods of Birth Control</titlePart>
         </docTitle>
         <idno>msp129014</idno>
         <sourceDesc>
-            <bibl>Margaret Sanger Papers, Library of Congress</bibl>
+            <bibl>Margaret Sanger Papers, Library of Congress,</bibl>
             <bibl>LCM 3:740</bibl>
         </sourceDesc>
         <respStmt>
@@ -28,102 +28,108 @@
         </respStmt>
     </mepHeader>
     <headNote resp="MSPP">
-        <p>This pamphlet was the third in a series, including "<xref from="">English Methods of
-                Birth Control</xref>," 1915 and "<xref from="101920.xml">Dutch Methods of Birth
-                Control</xref>," 1915. </p>
+        <p>This pamphlet was the third in a series, including "<xref from="128063.xml">English
+                Methods of Birth Control</xref>," 1915 and "<xref from="101920.xml">Dutch Methods of
+                Birth Control</xref>," 1915. </p><p>For illustrations appearing on pages 16 and 17 of the pamphlet, see <xref from="http://www.nyu.edu/projects/sanger/webedition/xml_a">figure 1</xref> and figure 2</p>
         <index level1="birth control" level2="health benefits and risks"/>
         <index level1="birth control" level2="lack of knowledge of"/>
-        <index level1="birth control" level2="methods" level3="continence"/>
-        <index level1="birth control" level2="methods" level3="male"/>
+        <index level1="birth control methods" level2="continence"/>
+        <index level1="birth control methods" level2="withdrawal"/>
         <index level1="birth control" level2="religion and"/>
         <index level1="France" level2="birth control in"/>
         <index level1="sex education"/>
-        <index level1="sexuality" level2="men's"/>
-        <index level1="sexuality" level2="women's"/>
+        <index level1="sexuality" level2="MS on"/>
+        <index level1="birth control" level2="sexuality and"/>
+        <index level1="Oneida Community"/>
     </headNote>
     <docBody>
         <head>MAGNETATION METHODS OF BIRTH CONTROL</head>
         <byline>By <person reg="Sanger, Margaret">MARGARET H. SANGER</person></byline>
         <div type="section">
-            <head type="sub">INTRODUCTION</head>
+            <head>INTRODUCTION.</head>
             <p>In the previous pamphlets, “<title>English Methods of Birth Control</title>” and
-                    “<title>Dutch Methods of Birth Control</title>,” one finds a duplication of the
-                methods given in the first pamphlet, “<title>Family Limitation</title>.” The French
-                methods of Birth Control are so nearly the same that I have decided not to duplicate
-                these again, but to give instead a list of the books and pamphlets issued by the<org
-                    reg="Generation Consciente"> French League</org>, and also cuts or pictures of
-                some of the articles they have for sale at their headquarters, 27 Rue de la Duée,
-                    <place reg="Paris, France">Paris</place>. These will be found at the end of this
-                pamphlet. </p>
+                    “<title type="book">Dutch Methods of Birth Control</title>,” one finds a
+                duplication of the methods given in the first pamphlet, “<title type="book">Family
+                    Limitation</title>.” The French methods of Birth Control are so nearly the same
+                that I have decided not to duplicate these again, but to give instead a list of the
+                books and pamphlets issued by the <org reg="Generation Consciente">French
+                    League</org>, and, also cuts or pictures of some of the articles they have for
+                sale at their headquarters, 27 Rue de la Duée, <place reg="Paris, France"
+                    >Paris</place>. These will be found at the end of this pamphlet. </p>
             <p>I also find that the methods used to control births in <place>Germany</place>,
                     <place>Italy</place>, <place>Spain</place>, <place>Belgium</place>,
                     <place>Norway</place>, <place>Sweden</place>,<place> India</place>, <place
                     reg="Union of Soviet Socialist Republics">Russia</place>, and
-                <place>Japan</place> all have been greatly influenced by the <org
+                    <place>Japan</place> have all been greatly influenced by the <org
                     reg="Malthusian League">English</org> and <org reg="Nieuw Malthuiaansche Bond"
                     >Dutch Neo-Malthusian League</org> (the two oldest Leagues). To give further
                 national methods would be only a waste of time and material, and would add nothing
                 to what has already been given. This does not mean that there are not many other
                 mechanical devices. There are numerous ones; but I still find that there is nothing
-                better, safer, cheaper, or more convenient than the pessary mentioned in
-                    “<title>Family Limitation</title>.” </p>
+                better, safer, cheaper, or more convenient than the pessary mentioned in “<title
+                    type="book">Family Limitation</title>.” </p>
             <p>In France, Germany, Spain, Italy, Belgium, and Sweden there are strong Neo-Malthusian
                 movements advancing the Birth Control theories by lectures, literature, and
-                practical means. In Russia, Japan, India, and <place reg="United States of America"
-                    >United States</place> there have been recently feeble attempts to establish
-                Birth Control movements; but as you they have remained embryonic.</p>
+                practical means. In Russia, Japan, India, and <place reg="United States">United
+                    States</place> there have been recently feeble attempts to establish Birth
+                Control movements; but as yet they have remained embryonic.</p>
             <p>I have decided to close this series of pamphlets with the following explanation of
                 the Magnetation method, and feel that I have said all that I can say of interest on
                 Birth Control methods. I have gladly donated my mite toward what I consider to
-                women's economic, social, and sexual freedom.</p>
+                women’s economic, social, and sexual freedom.</p>
         </div>
         <div type="section">
-            <head type="sub">Magnetation Methods of Birth Control.</head>
+            <head type="sub">Magnetation Method of Birth Control.</head>
             <p>Before closing this series of pamphlets on the practical methods of Birth Control, I
-                feel in justice to the many readers and subscribers of the <title>Woman
-                Rebel</title> who inquired about the theories of Magnetation, Male Continence,
-                Sedular Absorption, Karezza, and Zugassent's Discovery, that this series would not
-                be complete without giving at least a general idea of these theories and their
-                practice.</p>
+                feel in justice to the many readers and subscribers of the <title type="journal"
+                    >Woman Rebel</title> who inquired about the theories of Magnetation, Male
+                Continence, Sedular Absorption, Karezza, and <title type="book">Zugassent’s
+                    Discovery</title>, that this series would not be complete without giving at
+                least a general idea of these theories and their practice.</p>
             <p>It is interesting to note that the magnetation theory had its best and longest
                 practice, as well as its beginning, in America, under the title Male Continence.
-                This method was practised for over forty years by a group averaging 130 men and 150
+                This method was practiced for over forty years by a group averaging 130 men and 150
                 women known as the <org>Oneida Community</org>. They occupied a part of the old
                 reservation of the Oneida Indians in <place>New York State</place>, and lived in a
-                harmonious and prosperous form of Communistic society. <person>John Humphrey
-                Noyes</person> was the head and founder of the group. Through personal experience
-                and prolonged study, he discovered the theory of male continence. Since that time
-                many others have come forward with the same theory under various names. Almost
-                without exception, each advocate has injected some kind of religion into it. The
-                Oneida Community was particularly a religious sect, and <person>Alice B.
-                Stockham</person>, the author of <title>Karezza</title>, was a fervent religionist.
-                However, aside from this, there are fundamental truths in the theory which bear
-                thinking about and should not be discarded without some consideration. In view of
-                the thousands of testimonials of the healthful results of the practise of these
-                theories, I present these methods like that of the others, and for convenience shall
-                classify them all under one head, “Magnetation.”</p>
+                harmonious and prosperous form of Communistic society. <person
+                    reg="Noyes, John Humphrey">John Humphrey Noyes</person> was the head and founder
+                of the group. Through personal experience and prolonged study, he discovered the
+                theory of male continence. Since that time many others have come forward with the
+                    <emph rend="italics">same theory</emph> under various names. Almost without
+                exception, each advocate has injected some kind of religion into it. The Oneida
+                Community was particularly a religious sect, and <person reg="Stockham, Alice B."
+                    >Alice B. Stockham</person>, the author of <title type="book">Karezza</title>,
+                was a fervent religionist. However, aside from this, there are fundamental truths in
+                the theory which bear thinking about and should not be discarded without some
+                consideration. In view of the thousands of testimonials of the healthful results of
+                the practice of these theories, I present these methods like that of the others, and
+                for convenience shall classify them all under one head, “Magnetation.”</p>
             <p>There are thousands of men and women who object to the practical and mechanical means
                 of Birth Control, who feel that the pessary, condom, and douche are gross and
                 sordid, and take away the artistic and spiritual beauty of the act. It is those whom
                 the magnetation method will interest most. There are others who will claim that this
-                method is “not satisfying,” and can find no enjoyment in its practice. But so there
-                are thousands of men and women who can pass a beautiful painting and receive no
+                method is “not satisfying,” and can find no enjoyment in its practice. But so are
+                there thousands of men and women who can pass a beautiful painting and receive no
                 inspiration from it, or listen to a charming selection on a musical instrument and
                 receive no emotion from it. So are there many whose natures are not so constructed
                 that they can enjoy or benefit by this method. There is no doubt that the successful
-                attainment of this method is dependable upon a free spiritual bond between the two
+                attainment of this method is dependable upon a fine spiritual bond between the two
                 who enjoy its practice. </p>
         </div>
         <div type="section">
             <head type="sub">THE THEORY</head>
             <p>The advocates of the magnetation method ask you to first analyse sexual intercourse.
-                They claim that you will recognise in it two distinct acts, i.e., the social (or
-                amative) and the propagative. Those who practise the magnetation method content
-                themselves with and prefer the social act, unless the procreative act is desired. It
-                is usually held that the sexual organs have two distinct functions, viz., urinary,
-                propagative, and amative, i.e., they are conductors firstly of urine, secondly of
-                semen, and thirdly of social magnetism. Each one separate and distinct in itself. </p>
-            <p> The organs of propagation are physiologically different from the organs of union in
+                They claim that you will recognise in it two distinct acts, <emph rend="ital"
+                    >i.e.</emph>, the social (or amative) and the propagative. Those who practice
+                the magnetation method content themselves with and prefer the social act, unless the
+                procreative act is desired. It is usually held that the sexual organs have <emph
+                    rend="ital">two</emph> distinct functions, viz., the urinary and the
+                propagative. The advocates of the magnetation theory claim that the sexual organs
+                have <emph rend="italics">three distinct functions</emph>, viz., urinary,
+                propagative, and amative -- <emph rend="italics">i.e.</emph>, they are conductors
+                firstly of urine, secondly of semen, and thirdly of social magnetism. Each one
+                separate and distinct in itself. </p>
+            <p> The organs of propagation are physiologically distinct from the organs of union in
                 both sexes. The testicles are the principal organs of reproduction in the male, and
                 the uterus in the female. Sexual conjunction of male and female no more involves the
                 discharge of semen than of the urine. The discharge of semen, instead of being the
@@ -133,21 +139,24 @@
                 discharge can be voluntarily withheld in sexual intercourse, or it can be produced
                 without sexual intercourse, as in masturbation, which demonstrates the fact that the
                 discharge of the semen, and the pleasure associated with its discharge, is not
-                social, since it can be produced in solitude: it is a personal and not a social act.</p>
+                social, since it can be produced in solitude: it is a personal and not a social
+                act.</p>
             <p>The physiological analysis of the procreative act shows that the pleasure of the act
                 is not produced by contact and interchange of life with the female, but by the
                 action of the seminal fluid on the internal nerves of the male organ. The desire and
                 that which satisfies it are both within the man, and may be obtained without sexual
                 intercourse. The amative function, or the simple union of two persons, is a distinct
-                and independent function, giving a medium of magnetic interchange superior to the
-                ox, and it is the stimulating, retaining, and absorbing the semen in the man, and
-                directing it into other creative channels, which make the amative act of greater
-                benefit and more healthful and vitalising than the procreative act. </p>
+                and independent function, giving a medium of magnetic interchange superior to that
+                gain through reproductive function. it is the presence of the seed abd not the
+                absence of it that makes the bull superior to the ox, and it is the stimulating,
+                retaining, and absorbing the semen in the man, and directing it into other creative
+                channels, which make the amative act of greater benefit and more healthful and
+                vitalising than the procreative act. </p>
             <p>Most of us know that creative energy expressed through the sexual nature is an
                 instinct to perpetuate life; that it has its origin in and is co-existent with life
                 itself; that it is the power back of all purposes and plans; that it is the
                 self-pushing force that gives the individual the ability and desire to do and to
-                perform; that it is the impelling factor and inventive genius in all man's
+                perform; that it is the impelling factor and inventive genius in all man’s
                 handiwork. That this force operates in the multiplication of atoms and molecules, in
                 the attraction of germ to sperm cells. The process of growth and fulfilment of
                 functions is propelled by this energy, which is operative throughout all Nature. It
@@ -155,14 +164,14 @@
                 animal.</p>
             <p>Atoms, cells, and plants are unconscious of this force, and animals are conscious of
                 it only in a slight degree. But man is conscious of this energy, and is capable of
-                developing a greater consciousness of it all and of its operations and utilisation
-                to a remarkable degree. Like the engineer who masters the engine by his knowledge of
-                its construction and the force that runs it, so can man master this creative energy
-                and direct it where he wills. Creative life can be expressed in other ways besides
+                developing a greater consciousness of it and of its operation and utilization to a
+                remarkable degree. Like the engineer who masters the engine by his knowledge of its
+                construction and the force that runs it, so can man master this creative energy and
+                direct it where he wills. Creative life can be expressed in other ways beside
                 parenthood.</p>
             <p><person reg="Emerson, Ralph Waldo">Emerson</person> says, “<q who="EMERA">Work your
-                    passion into poetry.</q>” Passion is the sign of creative power; it is the voice
-                of creative life. If it were understood and its powers realised, it would be
+                    passion up into poetry.</q>” Passion is the sign of creative power; it is the
+                voice of creative life. If it were understood and its powers realized, it would be
                 elevated and worshipped instead of lowered and debased, as the Comstocks would have
                 us do. As creative energy becomes understood and applied, men and women will grow in
                 strength of character and in strength of love, and will naturally devote these
@@ -173,43 +182,44 @@
             <p>Each of these theories involves sedular absorption through intercourse without
                 culmination. No discharge is allowed, but by a superior control is retained, thereby
                 making the act an amative (love) act, and uplifting it from an exhaustive, abrupt
-                fertilising function into a quiet magnetic charm, producing health and increased
+                fertilizing function into a quiet magnetic charm, producing health and increased
                 happiness.</p>
             <p>The act of sexual intercourse has a beginning, a middle, and an end. Its beginning or
                 first stage is simply the presence of the male organ in the female. The middle or
                 second stage is a series of reciprocal motions. The end or third stage is the
                 ejaculatory crisis, or the termination of the act. The advocates of male continence,
-                Zugassent's discovery, sedular absorption, and magnetation claim that the whole
+                Zugassent’s discovery, sedular absorption, and magnetation claim that the whole
                 process up to the third stage is entirely voluntary and can be stopped at any point.
                 It is compared to a stream in the three conditions of a fall, a course of rapids
                 above the fall, and still water above the rapids. The boatman may decide if he will
                 remain in still water or venture down the rapids, or run his boat over the fall.
                 They contend that experience will teach him the wisdom of remaining where the rowing
                 is easy, unless the object is worthy of going over the falls. Karezza advises to
-                content onself with the simple presence in the first stage until the magnetic thrill
+                content onself with simple presence in the first stage until the magnetic thrill
                 passes off. They are all similar and all aim at the same result. I head them under
-                one method - “magnetation.”</p>
-            <p>Those who practise it claim the highest possible enjoyment, with no loss of vitality
-                and a perfect control of the fecundating power. Its practice greatly involves the
-                art of love by a prolonged intercourse preventing that which puts an end to
-                intercourse - the ejaculation. The seminal fluid, it is claimed, has an immense
-                immanent value; and if kept in the system and magnetised, and reabsorbed by the
-                blood, adds enormously to a man's mental and magnetic force, which through the
-                ordinary sexual act is constantly being expended. That its practice by some men will
-                be difficult there can be no doubt; but it can be no more difficult or need a
-                greater power of control than that required of the man in the act of “coitus
-                interruptus” (withdrawal). Those who practise magnetation claim that it is far
-                removed from “repelling asceticism”; that it gives ample exercise to the affections,
-                and opportunity for the exchange of sexual magnetism; but that its greatest benefit
-                is that its practise conduces to a higher love development. It is the attainment of
+                one method - "<q>magnetation.</q>”</p>
+            <p>Those who practice claim the highest possible enjoyment, with no loss of vitality and
+                a perfect control of the fecundating power. Its practice greatly involves the art of
+                love by a prolonged intercourse preventing that which puts an end to intercourse -
+                the ejaculation. The seminal fluid, it is claimed, has an immense immanent value;
+                and if kept in the system and magnetized, and reabsorbed by the blood, adds
+                enormously to a man’s mental and magnetic force, which through the ordinary sexual
+                act is constantly being expended. That its practice by some men will be difficult
+                there can be no doubt; but it can be no more difficult or need a greater power of
+                control than that required of the man in the act of “<q>coitus interruptus</q>”
+                (withdrawal). Those who practice magnetation claim that it is far removed from
+                “repelling asceticism”; that it gives ample exercise to the affections, and
+                opportunity for the exchange of sexual magnetism; but that its greatest benefit is
+                that its practice conduces to a higher love development. It is the attainment of
                 this control that raises the sexual passion in man and woman to its proper place by
                 the side of music and poetry. </p>
             <p>The strongest objection which is put forth against its practice is that it is
-                “unnatural”; that it is unauthorized by the examples of other creatures of the
-                animal kingdom, and therefore must be wrong. But the answer comes that cooking,
-                wearing clothes, and all modern life is far removed form natural living; and were we
-                to remain in close adherence to Nature, we would go on all fours and remain dumb. </p>
-            <p>When we realise we are living in an age when nearly all departments of life have been
+                    “<q>unnatural</q>”; that it is unauthorized by the examples of other creatures
+                of the animal kingdom, and therefore must be wrong. But the answer comes that
+                cooking, wearing clothes, and all modern life is far removed form natural living;
+                and were we to remain in close adherence to Nature, we would go on all fours and
+                remain dumb. </p>
+            <p>When we realize we are living in an age when nearly all departments of life have been
                 greatly modified and advanced by recent discoveries of steam, electricity, the
                 telephone, telegraphy, the microscope, and other agents of enlightenment, is it not
                 surprising that there has been almost no discovery or improvement in the vital
@@ -224,10 +234,11 @@
                 especially when the loved one is accessible and some demonstration of sexual feeling
                 allowed, as in the restrained yet ardent caresses of an affianced pair. Here we
                 often see not only the happiest but the most productive and healthful period of a
-                man's life. It is said this is particularly true of man's intellectual activities.</p>
+                man’s life. It is said this is particularly true of man’s intellectual
+                activities.</p>
             <p>We see a year later this same happy pair experience a great falling off in their
                 affection. Women have experienced this so often that they begin to hate the sexual
-                relation, and look upon the act either with a fear of pregnancy or with an
+                relation, and look upon the act either with fear of pregnancy or with an
                 unconquerable loathing. Of course, a great deal of this aversion which women
                 experience is the result of their former training. The girl is taught before
                 marriage that the act is a most degrading thing, and is told that it is the
@@ -244,366 +255,57 @@
                 intercourse (mainly the fear of pregnancy). </p>
             <p>Surely this is something to be squarely faced by every intelligent man and woman, and
                 serious enough to deserve our untiring interest. Something must be wrong. What is
-                it? Does this theory offer a solution to any? It may. Nearly all women who practise
-                it testify to its benefits, while few men complain of it. Those who do, sat that to
+                it? Does this theory offer a solution to any? It may. Nearly all women who practice
+                it testify to its benefits, while few men complain of it. Those who do, say that to
                 control the ejaculation to-day means a seminal loss later during sleep. The
                 advocates, however, say this will occur at first, but after the organs become
                 accustomed to their new functions this will wear off, and there will be no seminal
                 loss. </p>
-            <p>All men in the Oneida community realised that this control was a necessary attainment
+            <p>All men in the Oneida community realized that this control was a necessary attainment
                 if they would be regarded with favor by the women in the group. Its accomplishment
                 was necessary to their mutual happiness, and they had to learn it. If there is a
-                method which in practice expresses the highest mutual affection and reveals one's
+                method which in practice expresses the highest mutual affection and reveals one’s
                 own strength and power, then by all means let mankind know it.</p>
             <p>There is no earthly reason why men and women should not study the laws of sex
                 expression as any other science is studied, and it should be a study not only
                 intellectual, but of experience and adjustment. If, as is claimed, the experience of
-                this method must be practised on a higher plane of thought than the purely physical,
+                this method must be practiced on a higher plane of thought than the purely physical,
                 then certainly it must tend toward a finer companionship and understanding between
                 men and women than the fleeting physical gratification prevailing at present. If
                 there is anything which controverts the traditional uncleanliness previously
                 attached to the sex relation, if there is anything which brings a blending of body
                 and spirit or an ennoblement of the character of the individual, then by all means
                 let us have it in its fullest detail, and let this revolting ignorance and prudery
-                holding sway over men and women's minds so long be swept away for all time. Let us
+                holding sway over men and women’s minds so long be swept away for all time. Let us
                 have light, through discussion, experience, and adjustment. </p>
             <p>There are few men who desire to expose the object of their affection to the burden of
-                bearing children faster than her health will permit. They realise a women's strength
+                bearing children faster than her health will permit. They realize a woman’s strength
                 is greatly undermined and her beauty and grace fast ebbing away; but ignorance and
                 tradition have him in their grip. He knows nothing about the means to prevent it,
                 and allows the one he loves best to wither and fade before his eyes.</p>
             <p>It is especially necessary for the woman to be free from the mental dread of
                 pregnancy. There is nothing so productive of nervous disorders or so likely to
                 decrease the sexual attraction or magnetation as fear and anxious thought. Perfect
-                confidence in the man's ability to control himself is essential to the perfection
-                and desired results of these methods. Just as one beings, so can one develop. Young
+                confidence in the man’s ability to control himself is essential to the perfection
+                and desired results of these methods. Just as one begins, so can one develop. Young
                 men and women about to enter alliances and desirous to establish a lasting affection
                 and higher bond between themselves can easily put this method into practice and
                 control the sex functions. The more magnetic the individual, the greater the sex
                 attractions between those two who love, and the stronger the bond will grow between
-                them, through this “magnetation” method.</p>
+                them, through this “<q>magnetation</q>” method.</p>
             <p>The expression and adjustment of all theories is so largely personal that special
                 regulations can scarcely be given. The road to science and the great natural laws
                 are discovered through experience: there is no education but that of experience.
             </p>
         </div>
         <div type="section">
-            <head type="sub">TESTED THEORIES AND PRACTICAL TRUTHS. </head>
-            <head type="sub">FROM THOSE WHO HAVE PRACTISED THIS METHOD</head>
-            <p>
-                <q who="UNK">I am a young man twenty-four years of age, enjoying the most vigorous
-                    health. For two years after becoming engaged I delayed marriage, simply because
-                    I did not think my income sufficient to support a wife and the children which I
-                    regarded as an inevitable consequence. Happily for me, a friend who knew my
-                    circumstances wrote me about male continence. The ideas contained in this
-                    discovery were so different from all my preconceived ideas of what constituted
-                    martial happiness that I was inclined to reject them as utterly impracticable
-                    and absurd. But the more I thought of the matter, the more clearly I saw that if
-                    there was a possibility of these new ideas being true, they were exactly adapted
-                    to a man in my circumstances, and that they made my marriage immediately
-                    practicable.</q>
-            </p>
-            <p><q who="UNK">The wholly new thought, that retaining the vital seminal secretion in
-                    the body, instead of spending it recklessly, might make a man stronger, cleaner,
-                    and better, also seemed to me not irrational. With some misgivings, therefore, I
-                    ventured upon marriage; and, thanks to this practice, it has been found a
-                    complete success. I have has a continuous honeymoon for four years, besides
-                    having the daily use of my wife's invaluable services in my business, and have
-                    never been conscious of any irksome constraint or ascetism in my sexual
-                    experience, and my self-control and strength, mental and physical, have greatly
-                    increased since my marriage. In the light of my own experience, I regard the
-                    idea that seminal fluid is a secretion that must be got rid of as being the most
-                    pernicious and fatal one that can possibly be taught to young people. </q>F. G</p>
-            <div type="section">
-                <head type="sub">FROM A MAN OF SEVENTY</head>
-                <p>
-                    <q who="UNK">My age is seventy years, and, thanks to male continence, my health
-                        is good and I am as vigorous sexually as I ever was. My only regret is that
-                        I was not informed of it earlier in life. It is not only a splendid sanitary
-                        measure, but is a promoter of pleasure and the greatest harmoniser of
-                        domestic life that I know. It is my decided opinion that where this practice
-                        is adhered to, except where reproduction is desired, strife and contention,
-                        separation and divorce would never occur. It seems to me that no one who is
-                        seeking improvement would, after experiencing this practice, ever wish to go
-                        back to the crude sensual practice in whose wake follow satiety, exhaustion,
-                        disgust, and remorse.</q>
-                </p>
-                <p><q>The waste of vital and nerve force attending the usual custom of intercourse
-                        is, in my opinion, a leading cause of the craving for alcohol and tobacco;
-                        while in this new practice both parties, if magnetism exists, experience a
-                        renewal of life force that is in the highest degree wholesome. If young men
-                        would abide by this practice they would find that their self-control would
-                        be immensely enhanced in every department of life, and that they would
-                        retain the vigor and enjoyment of their sexual nature long after the
-                        generality of men have become impotent.</q> W. S. F. </p>
-            </div>
-            <div type="section">
-                <head type="UNK">FROM A WOMAN</head>
-                <p>
-                    <q who="UNK">Since my husband became acquainted with this new theory he has
-                        endeared himself to me a hundredfold; and although our so-called “honeymoon”
-                        was passed five years ago, it was no more real and far less lasting than the
-                        ecstatic, the unspeakable happiness which is now continually mine. My
-                        prosaic and sometimes indifferent husband has changed by a heavenly magic
-                        into an ardent and entrancing lover, for whose coming I wish with all the
-                        tender raptures of a schoolgirl. His very step sends a thrill through me,
-                        for I know that my beloved will clasp me in his arms and cover me with
-                        kisses, such as only the most enthusiastic lover could give. And through the
-                        years lapse, I cannot see or feel any change in the way he cherishes me. To
-                        each other we are continually objects of the deepest reverence and the most
-                        sacred mystery. Our affection deepens, our romance seems as sure and as
-                        enduring as the stars. I date my marriage from the time that he became a
-                        student of Zugassent, for that was the beginning of out assured happiness.
-                    </q>
-                </p>
-                <p><q who="UNK">But it is not alone as a cherishing lover that my husband has become
-                        the crown of my happiness. He has grown perceptibly nobler in character, in
-                        purpose, and in strength; so that besides a lover I have a strong friend, a
-                        wise councillor, and my happiness is complete. </q>L. S. T. </p>
-            </div>
+            <p><emph rend="italics">The Editors have omitted the section titled TESTED THEORIES AND
+                    PRACTICAL TRUTHS. FROM THOSE WHO HAVE PRACTICED THIS METHOD as it comprises
+                    testimony of individuals who have used the methods. also omitted is the
+                    catalogue of the French Malthsian League's catalogue.</emph></p>
 
-            <div type="section">
-                <head type="sub">A HUSBAND OF FIFTEEN YEARS.</head>
-                <p><q who="UNK">It gives me happiness to testify to the beneficial effects of this
-                        method, because I am earnestly convinced that no other discovery in physical
-                        science has ever been made which is of such importance to the welfare of the
-                        human race. In proportion as I have followed this method life has become
-                        wholesome and happy. It avoids the opposite evils of ascetism and
-                        self-indulgence, and does more than <emph rend="italics">any other single
-                            thing</emph> to make the marriage relation a perpetual courtship. I am a
-                        husband of fifteen years, and speak of matters that I know.</q> F. </p>
-            </div>
-            <div type="section">
-                <head type="sub">A LETTER TO J. H. NOYES.</head>
-                <p><q who="UNK">This Yankee nation claims to be a nation of inventors, but the
-                        discovery of male continence puts you, in my mind, at the head of all
-                        inventors. There has been no higher conservation of force than that realised
-                        by this method, and I am confident that the blessings which will flow from
-                        it cannot be measured by those which have followed the steam engine and the
-                        electric telegraph. Your truly</q>, – – – – </p>
-            </div>
         </div>
-        <div type="section">
-            <head type="sub">A FRIEND.</head>
-            <p>
-                <q who="UNK">A school friend of mine who lived in a large manufacturing town in New
-                    York State, and has been married five years, had learned during the first months
-                    of marriage this method of birth control. She was radiant with happiness; did
-                    not desire a child until they had made provision for the future. Husband worked
-                    ten hours in the electrical works, after which he played a cornet in a concert,
-                    which kept him until after midnight every night. Such long hours of labor would
-                    deplete and exhaust the average man, but this fellow was a s radiant and as
-                    strong as one could picture. Both claimed it is the practice of this method to
-                    which they owe their health, strength, and happiness.</q>
-            </p>
-        </div>
-        <div type="section">
-            <head type="sub">A GRANDMOTHER.</head>
-            <p>A grandmother came from <place reg="San Francisco, California, USA">San
-                Francisco</place> to assist at the birth of a grandchild. Had been married
-                thirty-five years, but looked like a girl of twenty-eight in figure and color. I was
-                amazed at the vivacity and eagerness and joyous health of this woman. Every day she
-                received one or two letters from her husband, who had remained in San Francisco; and
-                form part of them which she read to me one would think he was some ardent and
-                forlorn lover of eighteen. She claimed she had always practised this method, and
-                knew of a few others who practised it, and found its practice superior to any other.
-                She was the most beautiful sexually alive woman I have ever known, and the most
-                modest. “<q who="ONEIDA">True modesty is a sentiment which springs, not from
-                    indifference or aversion to the sexual offices, but from a delicate and reverent
-                    appreciation of their value.</q>” </p>
-        </div>
-        <div type="section">
-            <head type="sub" rend="bold"><foreign lang="FRE">CATALOGUE DE LIBRAIRIE</foreign>.</head>
-            <p rend="center"><person>EUGENE HUMBERT</person>, DIRECTEUR.<lb/> 27 Rue de la Duee,
-                Paris.<lb/>
-            </p>
-            <p rend="center">BROCHURES.<lb/> (1 fr. = 20 cents; 10 c. = 2 cents. Postage is extra.)</p>
-            <p>
-                <foreign lang="FRE"><title>Essai sur la vasectomie</title> (Sterilisation de
-                    l'homme), par <person reg="Hardy, G.">G. HARDY</person>. – 0 fr. 10 c.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title> Le mal de vivre</title>, par <person rend="Huot, Marie"
-                        >MARIE HUOT</person>. – 0 fr. 10 c.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title>Le mariage, l'amour libre et la libre maternite</title>,
-                    par <person rend="Marestan, Jean">JEAN MARESTAN</person>. – 0 fr. 10
-                c.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE">
-                    <title>La societe mourante et le neo-malthusisme</title>, par <person
-                        reg="Kolney, Fernand">FERNAND KOLNEY</person>. – 0 fr. 10 c.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title>La greve des ventres</title>, par FERNAND KOLNEY. – 0 fr.
-                    10 c.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE">La chair a canon, par MANUEL DEVALDES. – 0 fr. 15 c.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title>Le probleme de la population</title>, allocution de Mme.
-                        <person reg="Roussel, Nelly">NELLY ROUSSEL</person> et conference faite par
-                        <person reg="Faure, Sebastian">SEBASTIEN FAURE</person>. – 0 fr. 15
-                c.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title>Le probleme sexuel</title>, par <person
-                        reg="Meric, Victor">VICTOR MERIC</person>. – 0 fr. 15 c.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title>Entre proletaires</title>, par <person reg="Dixelles, ?"
-                        >DIXELLES</person>. – 0 fr. 15 c.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE">
-                    <title>Le neo-malthusisme est-il moral?</title> – 0 fr. 20 c.</foreign>
-            </p>
-            <p>
-                <foreign>
-                    <title>Defendons-nous! Pour le neo-malthusisme; contre l'immoralite des
-                        moralistes</title>. – 0 fr. 20 c.</foreign>
-            </p>
-            <p>
-                <foreign>
-                    <title>Neo-malthusisme et socialsme</title>, par <person reg="Naquet, Alfred"
-                        >ALFRED NAQUET</person> et G. HARDY. – 0 fr. 20 c.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE">
-                    <title>La grande utopie: l'impuissance de la repopulation</title>, par <person
-                        reg="Lericolais, Eugene">EUGENE LERICOLAIS</person>. – 0 fr. 25 c.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title>Socialisme et population</title>, par <person
-                        reg="Marinont, Leon">LEON MARINONT</person>. – 0 fr. 40 c.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title>Socialisme et malthusisme</title>, par <person
-                        reg="Ernest, Victor">VICTOR ERNEST</person>. – 0 fr. 60 c.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title>Malthus et ses disciples</title>, par G. HARDY. – 0 fr.
-                    50 c.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title>La loi de Malthus</title>, par G. HARDY. – 0 fr. 75
-                c.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE">
-                    <title>Population et subsistances</title>, par <person reg="Hardy, G.">G.
-                    GIROUD</person>. – 1 fr.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE">
-                    <title>Aux jeunes hommes, aux jeunes filles. Ce qu'ils dovient apprendre sur la
-                        vie sexuelle</title>, par <person reg="Grandjean, Valentin">VALENTIN
-                        GRANDJEAN</person>. – 1 fr.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title>Valeur scientifique du malthusianisme</title>, par le
-                        <person reg="Gottschlak, Dr.">Dr. GOTTSCHALK</person>. Deux brochures (1 re
-                    et 2e parties). Ensemble, 1 fr. 50 c.</foreign>
-            </p>
-            <p rend="bold">
-                <foreign lang="FRE">POUR EVITER LA CONCEPTION</foreign>.</p>
-            <p>
-                <foreign lang="FRE">
-                    <title>Ayons peu d'enfans! Pourquoi? Comment? </title> par <person
-                        reg="Chapelier, Emile">EMILE CHAPELIER</person>. – 0 fr. 20 c.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title>Moyens d'eviter les grandes families, par les docteurs</title>
-                    <person reg="Rutgers, Johannes">J. RUTGERS</person> et <person
-                        reg="Mascaux, Fernand">F. MASCAUX</person>. – 0 fr. 30 c.</foreign>
-            </p>
-            <p>
-                <foreign><title>Generation consciente</title>, par <person reg="Sutor, Franck"
-                        >FRANCK SUTOR</person> – 0 fr. 75 c.</foreign>
-            </p>
-            <p rend="bold">VOLUMES.</p>
-            <p>
-                <foreign lang="FRE">
-                    <title>Moyens d'eviter la grossesse</title>, par G. HARDY. – 1 fr. 25
-                c.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE">
-                    <title>L'education sexuelle</title>, par JEAN MARESTAN. – 2 fr. 50 c.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE">
-                    <title>Peu d'enfants. Porquoi? Comment?</title> par EUGENE LERICOLAIS. – 3
-                fr.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title> Le breviaire de la femme enceinte</title>. – 4
-                fr.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE">
-                    <title>La pauvrete. Sa seule cause, son seule remede, par le Dr. <person
-                            reg="Drysdale, George">GEORGE DRYSDALE</person></title>. – 1
-                fr.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title> La procreation volontaire</title>, par le Dr. <person
-                        reg="Klotz-Forest, Dr.">KLOTZ-FOREST</person>. – 2 fr.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE">
-                    <title>Elements de science sociale, par le Dr. G. DRYSDALE</title>. – 3
-                fr.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title>L'initiation sexuelle</title>, par <person
-                        reg="Bessede, G.">G. BESSEDE</person>. – 3 fr.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE">
-                    <title>La vie sexuelle et ses lois</title>, par le Dr. <person
-                        reg="Nystrom, Anton">ANTON NYSTROM</person>. – 6 fr.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title>Notions d'hygiene feminine populaire:
-                    l'Adolescente</title>, par le Dr. <person reg="Martial, Rene">RENE
-                    MARTIAL</person>. – 2 fr.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE">
-                    <title>La fonction sexualle</title>, par le Dr. <person
-                        reg="De Plauzoles, Sicard">SICARD DE PLAUZOLES</person>. – 6 fr. </foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title>La generation humaine</title>, par le Dr. <person
-                        reg="Witkowski, G. J.">G. J. WITKOWSKI</person>. – 8 fr.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title>La question sexuelle</title>, par <person
-                        reg="Forel, Auguste">AUGUSTE FOREL</person>. – 10 fr.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title>De l'avortement. Est-ce un crime?</title> par le Dr.
-                    KLOTZ-FOREST. – 3 fr 50 c.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title>De l'amour physique</title>, par <person
-                        reg="Mauclair, Camille">CAMILLE MAUCLAIR</person>. – 3 fr.</foreign>
-            </p>
-            <p>
-                <foreign lang="FRE"><title>La physique, de l'amour</title>, par <person
-                        reg="De Gourmont, Remy">REMY DE GOURMONT</person>. – 3 fr</foreign>.</p>
-        </div>
-        <div type="section">
-            <p>
-                <foreign lang="FRE">Generation Consciente.<lb/> Organe de propagande pour la
-                    limitation volontaire<lb/> des naissances. Neo-malthusisme. Eugenisme.<lb/>
-                    EUGENE HUMBERT, Directeur.<lb/> ADMINISTRATION: 27 rue de la Duée, Paris
-                (XX.).</foreign>
-            </p>
-        </div>
+
     </docBody>
+
 </doc>

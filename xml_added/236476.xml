@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "file:/S:/TRANSCRIPTIONS/XML%20Drafts/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
     <mepHeader>
         <prepDate>2003/05/27 SB</prepDate>
         <prepDate>2004/07/26 CH</prepDate>
         <prepDate>2004/08/09 CH</prepDate>
         <prepDate>2007/06/27 CH Oxygen update</prepDate>
+        <prepDate>2014-03-05 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1918-04-00">Apr 1918</docDate>
         <docTitle>
@@ -13,8 +14,8 @@
         </docTitle>
         <idno>msp236476</idno>
         <sourceDesc>
-            <bibl><title>The Birth Control Review</title>, Apr. 1918, 3</bibl>
-            <bibl><title>Margaret Sanger Microfilm</title> S70:795</bibl>
+            <bibl><title type="journal">Birth Control Review</title>, Apr. 1918, 3</bibl>
+            <bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S70:795</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
@@ -34,25 +35,25 @@
     </headNote>
     <docBody>
         <head>CLINICS, COURTS AND JAILS</head>
-        <byline rend="italics">By Margaret Sanger</byline>
+        <byline>By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
         <p>In February, 1915, when I heard Dr. <person reg="Rutgers, Johannes">J. Rutgers</person>
-            at <place reg="The Hague, the Netherlands">The Hague</place> give his last instructions
-            to one of his maternity nurses, as she left his class fully equipped to open a clinic in
-            one of the outlying districts, I knew that the people of the <place
-                reg="United States of America">United States</place> would never be fully aroused to
-            the needs of birth control until such a clinic was also established here. My course of
-            instruction which followed in <place reg="the Netherlands">Holland</place> was taken
-            solely for this purpose, the execution of which seemed to be a thing of years to come.</p>
-        <p>Upon returning to America in November, 1915, to take up the fight in the Federal Courts,
-            the possibility of opening such a clinic came very suddenly after my case was dismissed
-            on February 18th, 1916, without coming to trial. I was then free to lecture throughout
-            the United States, to tell the people what birth control means to the individual, to the
-            family and to the race. For four months I visited all the large cities to and from the
-            Pacific Coast and was greatly encouraged because of the fact that the idea of
-            disseminating contraceptive information by means of clinics with trained persons in
-            charge was always greeted with the most profound interest. I came to the conclusion that
-            a practical test of the law would have the moral endorsement of all thinking people in
-            this country.</p>
+            at <place reg="The Hague, Netherlands">The Hague</place> give his last instructions to
+            one of his maternity nurses, as she left his class fully equipped to open a clinic in
+            one of the outlying districts, I knew that the people of the <place>United
+                States</place> would never be fully aroused to the needs of birth control until such
+            a clinic was also established here. My course of instruction which followed in <place
+                reg="Netherlands">Holland</place> was taken solely for this purpose, the execution
+            of which seemed to be a thing of years to come.</p>
+        <p>Upon returning to <place reg="United States">America</place> in November, 1915, to take
+            up the fight in the Federal Courts, the possibility of opening such a clinic came very
+            suddenly after my case was dismissed on February 18th, 1916, without coming to trial. I
+            was then free to lecture throughout the United States, to tell the people what birth
+            control means to the individual, to the family and to the race. For four months I
+            visited all the large cities to and from the Pacific Coast and was greatly encouraged
+            because of the fact that the idea of disseminating contraceptive information by means of
+            clinics with trained persons in charge was always greeted with the most profound
+            interest. I came to the conclusion that a practical test of the law would have the moral
+            endorsement of all thinking people in this country.</p>
         <p>Shortly after this, plans were carefully laid and districts especially chosen to open a
             clinic in each borough of Greater <place reg="New York, NY">New York</place>. The <org
                 reg="New York City Board of Health">Board of Health</org>'s report was to be my
@@ -85,19 +86,19 @@
             haunted their lives since time immemorial.</p>
         <p>From the start the newspapers in glaring headlines, used the words "birth control" and
             carried to all who read, the message that somewhere in Brooklyn there was a place where
-            contraceptive information could be obtained for all over-burdened mothers who wanted it!</p>
+            contraceptive information could be obtained for all over-burdened mothers who wanted
+            it!</p>
         <p>From the first day, the little outer waiting room was crowded. The women came in pairs,
             with their neighbors, with their married daughters and their husbands. Some came in
             groups with nursing babies clasped in their arms. Some came from the far end of <place
                 reg="Long Island, NY">Long Island</place>, from <place>Connecticut</place>,
                 <place>Massachusetts</place>, <place>Pennsylvania</place>, <place>New
-            Jersey</place>. They came from near and from far to learn the
-            "<soCalled>secret</soCalled>" which they said the rich women all possessed and the poor
-            women could not obtain. No unmarried women came--all were mothers, except one woman,
-            married twelve years, but who could not carry a child to full term, and who came for
-            advice. Her physician knew she could not bear a child and yet allowed her to conceive,
-            month after month. Her health had been ruined and she was almost a nervous wreck when
-            she came from Connecticut to seek advice.</p>
+            Jersey</place>. They came from near and from far to learn the "secret" which they said
+            the rich women all possessed and the poor women could not obtain. No unmarried women
+            came--all were mothers, except one woman, married twelve years, but who could not carry
+            a child to full term, and who came for advice. Her physician knew she could not bear a
+            child and yet allowed her to conceive, month after month. Her health had been ruined and
+            she was almost a nervous wreck when she came from Connecticut to seek advice.</p>
         <p>Fania Mindell acted as the interpreter and took down the histories of the women as fast
             as she could get them. We recorded the nationality, the age, the husband's wage, the
             number of children living, number of children dead, number of miscarriages performed and
@@ -112,17 +113,18 @@
             the United States, telling sad and tragic tales of mothers ready to commit suicide,
             ready to go to any extreme or torture rather than endure child birth again. </p>
         <p>Then one day, while I was absent making preparations for the opening of the Avenue A
-            rooms, a woman came ostensibly to seek advice. She was of Irish type, with detective
-            stamped plainly all over her. She told her story of a large family, a brutal husband and
-            several abortions and received advice from the nurse, like all those before her.</p>
+            rooms, a <person reg="Unknown">woman</person> came ostensibly to seek advice. She was of
+            Irish type, with detective stamped plainly all over her. She told her story of a large
+            family, a brutal husband and several abortions and received advice from the nurse, like
+            all those before her.</p>
         <p>A few days later, the same woman came in charge of a detective squad and arrested Fania
             Mindell, Ethel Byrne and myself.</p>
         <p>Then began months of activities quite beyond description. All the forces of opposition
             were on hand to malign individuals and to misrepresent the cause. The influence of the
-            Roman Catholic Church was seen everywhere. It was especially seen in the Court's refusal
-            to allow us a jury trial, and in refusing to allow physicians to present such medical
-            testimony as was necessary in challenging the constitutionality of Section 1142 of the
-            Penal Law of the <place>New York</place> State.</p>
+                <org>Roman Catholic Church</org> was seen everywhere. It was especially seen in the
+            Court's refusal to allow us a jury trial, and in refusing to allow physicians to present
+            such medical testimony as was necessary in challenging the constitutionality of Section
+            1142 of the Penal Law of the <place>New York</place> State.</p>
         <p><person reg="Comstock, Anthony">Comstock</person>'s successor was also present to
             represent the "<org reg="New York Society for the Suppression of Vice">Society for the
                 Suppression of Vice</org>," but everywhere, and at every turn, the strongest
@@ -158,13 +160,14 @@
             authorities in charge removed her to the hospital ward where she was forcibly fed. On
             the eleventh day she was released from the Workhouse, pardoned by Governor <person
                 reg="Whitman, Charles S. ">Whitman</person>, taken to her home in an ambulance and
-            placed under the care of two doctors and nurses until her health was partly restored.</p>
+            placed under the care of two doctors and nurses until her health was partly
+            restored.</p>
         <p>The week after her release Fania Mindell and I were both found guilty. A fifty-dollar
-            fine was imposed on Miss Mindell and a thirty-days' sentence on <org
-                reg="Blackwell's Island Penitentiary">Blackwell's Island</org> on me. Both cases
-            were at once appealed. The <org reg="New York State Court of Appeals">Court of
-            Appeals</org> reversed the decision in Fania Mindell's case. My case has gone up to the
-                <org reg="United States Supreme Court">Supreme Court of the United States</org>.</p>
+            fine was imposed on Miss Mindell and a thirty-days' sentence on <org>Blackwell's
+                Island</org> on me. Both cases were at once appealed. The <org
+                reg="New York State Court of Appeals">Court of Appeals</org> reversed the decision
+            in Fania Mindell's case. My case has gone up to the <org
+                reg="United States Supreme Court">Supreme Court of the United States</org>.</p>
         <p>When one sums up the activities of the movement throughout the United States during the
             year, it is interesting to note that where arrests were made, where sentences were
             imposed upon advocates, there the movement is now strongest.</p>

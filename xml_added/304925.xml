@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "file:/S:/TRANSCRIPTIONS/XML%20Drafts/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
     <mepHeader>
         <prepDate>2001-11-02 MH</prepDate>
         <prepDate>2002-08-22 KH</prepDate>
         <prepDate>2003/12/08 CH fix codes Xref</prepDate>
         <prepDate>2007-05-30 CH Oxygen update</prepDate>
+        <prepDate>2013-04-30 CH fix links</prepDate>
+        <prepDate>2014-07-02 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1913-01-19">19 Jan 1913</docDate>
         <docTitle>
-            <titlePart>What Every Girl Should Know</titlePart>
+            <titlePart>What Every Girl Should Know: Part II--Reproduction</titlePart>
         </docTitle>
         <idno>msp304925</idno>
         <sourceDesc>
-            <bibl><title>New York Call</title>, Jan. 19, 1913</bibl>
+            <bibl><title type="journal">New York Call</title>, Jan. 19, 1913</bibl>
             <bibl><title>Margaret Sanger Microfilm </title> C16:0053</bibl>
         </sourceDesc>
         <respStmt>
@@ -22,28 +24,29 @@
         </respStmt>
     </mepHeader>
     <headNote>
-        <p>Part VIII of an 11-part series. For "Introduction" see Nov. 19, 1912, for Part I
-            "Girlhood" see <xref from="300177.xml">Nov. 24, 1912</xref>, for Part II "Girlhood" see
-                <xref from="303438.xml">Dec. 1, 1912</xref>, for Part III "Puberty" see<xref
-                from="304920.xml"> Dec. 8, 1912</xref>, for Part IV "Puberty" see<xref
-                from="304921.xml"> Dec. 15, 1912</xref>, for Part V "Sexual Impulse" see <xref
-                from="304922.xml">Dec. 22, 1912,</xref> for Part VI "Sexual Impulse" see<xref
-                from="304923.xml"> Dec. 29, 1912</xref>, for Part VII "Reproduction" see<xref
-                from="304924.xml"> Jan. 3, 1913</xref>, for Part IX "Some Consequences of Ignorance
-            and Silence" see <xref from="304926.xml">Jan. 26, 1913</xref>, for Part X "Some
-            Consequences of Ignorance and Silence" see <xref from="304927.xml">Feb. 2, 1913</xref>,
-            and for Part XI "Some Consequences of Ignorance and Silence" see <xref from="304928.xml"
-                >Mar. 2, 1913.</xref></p>
+        <p>This is the ninth article in an 12-part series. For "Introduction," see <xref
+                from="304533.xml">Nov. 17, 1912</xref>, for "Girlhood-Part I" see <xref
+                from="300177.xml">Nov. 24, 1912</xref>, for "Girlhood-Part II" see <xref
+                from="303438.xml">Dec. 1, 1912</xref>, for "Puberty-Part I" see<xref
+                from="304920.xml"> Dec. 8, 1912</xref>, for "Puberty-Part II" see<xref
+                from="304921.xml"> Dec. 15, 1912</xref>, for "Sexual Impulse--Part I" see <xref
+                from="304922.xml">Dec. 22, 1912,</xref> for "Sexual Impulse-Part II" see<xref
+                from="304923.xml"> Dec. 29, 1912</xref>, for "Reproduction--Part I" see <xref
+                from="304924.xml">Jan. 2, 1913</xref>, for "Some Consequences of Ignorance and
+            Silence--Part I" see <xref from="304926.xml">Jan. 26, 1913</xref>, for "Some
+            Consequences of Ignorance and Silence--Part II" see <xref from="304927.xml">Feb. 2,
+                1913</xref>, and for "Some Consequences of Ignorance and Silence--Part III" see
+                <xref from="304928.xml">Mar. 2, 1913.</xref></p>
         <index level1="sex education" level2="need for"/>
         <index level1="sex education"/>
         <index level1="sexuality" level2="women's"/>
         <index level1="abortion"/>
-	<index level1="abortion" level2="MS on"/>
+        <index level1="abortion, MS on"/>
         <index level1="women" level2="reproductive choices and decisions"/>
     </headNote>
     <docBody>
         <head>WHAT EVERY GIRL SHOULD KNOW</head>
-        <byline>By <person rend="case(allcaps)">Margaret H. Sanger</person>. </byline>
+        <byline>By <person reg="Sanger, Margaret">MARGARET H. SANGER</person>. </byline>
         <head type="sub">Part II--Reproduction.</head>
         <p>In the first part of this subject I said that if the process of labor occurs before the
             seventh month (which is the earliest time the foetus can live for any length of time
@@ -72,15 +75,14 @@
         <p>If there is the same care and treatment given the woman who aborts as the woman in
             childbirth, it will naturally be less likely to suffer serious results than if no
             medical attention were given her.</p>
-        <p>One of the most common disturbances of pregnancy is nausea, more commonly called
-                "<soCalled>morning sickness</soCalled>," because it is felt in the morning when the
-            woman first assumes the erect position. As a rule, this lasts only during the early
-            months.</p>
+        <p>One of the most common disturbances of pregnancy is nausea, more commonly called "morning
+            sickness," because it is felt in the morning when the woman first assumes the erect
+            position. As a rule, this lasts only during the early months.</p>
         <p>About the latter part of the fourth month, or often not before the fifth month, movements
-            of the foetus are felt. These movements are called "<soCalled>life</soCalled>," and
-            women are glad of this signal that all is progressing naturally. One writer said a woman
-            had described the first feeling of life as "<q who="UNK">the trembling movements of a
-                bird within my hand.</q>"</p>
+            of the foetus are felt. These movements are called "life," and women are glad of this
+            signal that all is progressing naturally. One writer said a woman had described the
+            first feeling of life as "<q who="UNK">the trembling movements of a bird within my
+                hand.</q>"</p>
         <p>There are often many nervous manifestations accompanying the pregnant woman, such as
             headache, neuralgia, toothache and as a usual thing constipation is always present, and
             should receive attention. The teeth should also receive attention at this time for they
@@ -91,7 +93,8 @@
             nipple becomes dark brown. These are only a few of the disturbances of pregnancy, but
             enough to show that other organs beside the uterus are tested in strength and how
             important it is to have a good healthy body. In fact, every tissue and fiber in the
-            woman's body feels the impetus of pregnancy, and all kinds of physical changes occur.</p>
+            woman's body feels the impetus of pregnancy, and all kinds of physical changes
+            occur.</p>
         <p>One of the common questions asked by young women in early married life is how to tell if
             they are pregnant.</p>
         <p>This is not always easy, but there are a few points on which a diagnosis is based, namely
@@ -121,17 +124,16 @@
             from below. The corset gets in its harmful work by pressing down the uterus into the
             pelvis, thus displacing the abdominal organs and crowding them together in such a way as
             to cause injury to the uterus as well as to the child itself. The muscles of the uterus
-            and abdomen are weakened and from this results that horror of all women, "<soCalled>the
-                high stomach</soCalled>." Some women, especially those having children, prefer to
-            wear in the latter days of pregnancy an abdominal supporter. If it is well fitted to the
-            body it helps to assist the abdominal muscles in carrying the weight and affords great
-            relief. If women would devote to making themselves comfortable during pregnancy as much
-            time as they give on the baby's outfit, they would profit by it. Instead of wearing any
-            old worn out dress, ill fitting and out of style, make one
-            "<soCalled>maternity</soCalled>" dress to fit the figure. This can, of course, be let
-            out in size as the figure grows. It can be made of some pretty, inexpensive material and
-            gives much comfort and ease to the mind as well as to the body that the woman who has
-            once had one will never again do without one.</p>
+            and abdomen are weakened and from this results that horror of all women, "the high
+            stomach." Some women, especially those having children, prefer to wear in the latter
+            days of pregnancy an abdominal supporter. If it is well fitted to the body it helps to
+            assist the abdominal muscles in carrying the weight and affords great relief. If women
+            would devote to making themselves comfortable during pregnancy as much time as they give
+            on the baby's outfit, they would profit by it. Instead of wearing any old worn out
+            dress, ill fitting and out of style, make one "maternity" dress to fit the figure. This
+            can, of course, be let out in size as the figure grows. It can be made of some pretty,
+            inexpensive material and gives much comfort and ease to the mind as well as to the body
+            that the woman who has once had one will never again do without one.</p>
         <p>The food also should be simple. In fact, there are few restrictions to be placed on food
             unless so ordered by the physician. One common mistake of women is that they believe
             they are eating for two persons and, consequently, must gorge themselves, which, of
@@ -161,7 +163,7 @@
             If we are going to be and have mothers, then we should give attention to the development
             of the organs which make us mothers.</p>
         <p>I shall now leave the mother with her new happiness and her new world to take up next
-            week the subject of <title>Ignorance and its Consequences</title>. </p>
+            week the subject of <title type="article">Ignorance and its Consequences</title>. </p>
         <trailer>(To be continued.)</trailer>
     </docBody>
 </doc>

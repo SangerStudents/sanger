@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "file:/S:/TRANSCRIPTIONS/XML%20Drafts/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Article">
     <mepHeader>
         <prepDate>2003/07/16 SR</prepDate>
@@ -7,7 +7,9 @@
         <prepDate>2004/07/23 CH</prepDate>
         <prepDate>2007/06/27 CH Oxygen update</prepDate>
         <prepDate>2009-03-04 CH Proofread with Erick Zimmerman</prepDate>
-        <prepDate>2009-03-05 CH entered corrections</prepDate><prepDate>2001/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
+        <prepDate>2009-03-05 CH entered corrections</prepDate>
+        <prepDate>2001/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
+        <prepDate>2014-03-18 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1917-06-00">Jun 1917</docDate>
         <docTitle>
@@ -15,8 +17,8 @@
         </docTitle>
         <idno>msp240299</idno>
         <sourceDesc>
-            <bibl><title>The Birth Control Review</title>, June 1917, 5</bibl>
-            <bibl><title>Margaret Sanger Microfilm</title> S70:790</bibl>
+            <bibl><title type="journal">Birth Control Review</title>, June 1917, 5</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title>, S70:790</bibl>
         </sourceDesc>
     </mepHeader>
     <headNote resp="MSPP">
@@ -31,20 +33,21 @@
     </headNote>
     <docBody>
         <head>Woman and War</head>
-        <byline>Margaret Sanger</byline>
+        <byline><person reg="Sanger, Margaret">Margaret Sanger</person></byline>
         <p>Realization of the world tragedy--war--has at last been forced upon the American people.
             Two years ago the fiendish internecine strife of the militarists of
-            <place>Europe</place> seemed remote enough. Today our women of the working class find
-            themselves facing an outrage unparalleled in the history of this republic. Their
+                <place>Europe</place> seemed remote enough. Today our women of the working class
+            find themselves facing an outrage unparalleled in the history of this republic. Their
             husbands, sons and brothers are to be herded to the front as conscript fighters, in
             violation of every human instinct fostered in them by the great libertarians who founded
             this country.</p>
-        <p><person reg="United States of America"> America</person>'s participation in the war has
-            been brought about by interested groups, not in response to the will of the majority.
-            Not fifty per cent. of the men could have been induced to vote Yes in a war referendum,
-            not five per cent. of the women. In <place>Australia</place>, a colony of the British
-            Empire, where democracy was respected to the extent of submitting the question to a
-            referendum, the votes of the women defeated conscription overwhelmingly.</p>
+        <p><person reg="United States"> America</person>'s participation in the war has been brought
+            about by interested groups, not in response to the will of the majority. Not fifty per
+            cent. of the men could have been induced to vote Yes in a war referendum, not five per
+            cent. of the women. In <place>Australia</place>, a colony of the <place
+                reg="United Kingdom">British Empire</place>, where democracy was respected to the
+            extent of submitting the question to a referendum, the votes of the women defeated
+            conscription overwhelmingly.</p>
         <p>Woman hates war. Her instincts are fundamentally creative, not destructive. But her
             sex-bondage has made her the dumb instrument of the monster she detests. For centuries
             she has populated the earth in ignorance and without restraint, in vast numbers and with
@@ -65,7 +68,8 @@
             wholesale massacre for the benefit of money kings. Under such an order, the child would
             have been considered a priceless gift to the community. Manhood would have been too
             valuable to be sacrificed on battlefields. Motherhood would have been revered, and the
-            mother's voice raised to forbid the slaughter of her offspring would have been heeded.</p>
+            mother's voice raised to forbid the slaughter of her offspring would have been
+            heeded.</p>
         <p>But unfortunately the forces of oppression have cared nothing for the poignant grief of
             exploited motherhood. They have turned in callous indifference from her tears, while her
             flesh and blood have reddened every battlefield in history. There are statues in plenty

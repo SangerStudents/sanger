@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Article">
     <mepHeader>
-        <prepDate>2011/06/22 CE</prepDate><prepDate>2011-11-21 CH correct typo</prepDate>
+        <prepDate>2011/06/22 CE</prepDate>
+        <prepDate>2011-11-21 CH correct typo</prepDate>
+        <prepDate>2014-03-30 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1937-06-00">Summer 1937</docDate>
         <docTitle>
@@ -10,23 +12,25 @@
         </docTitle>
         <idno>msp320523</idno>
         <sourceDesc>
-            <bibl><title>Champion of Youth</title> (Summer 1937), Vol. II, no. 11, p.114.</bibl>
-            <bibl>Not filmed.</bibl>
+            <bibl><title type="journal">Champion of Youth</title> (Summer 1937), Vol. II, no. 11, p.
+                114</bibl>
         </sourceDesc>
         <respStmt>
             <name id="NITFR">Nietzsche, Frederick</name>
-            <name id="BIB">The Bible</name>
-            <name id="HAM">The Tragedy of Hamlet, Prince of Denmark</name>
+            <name id="BIB">Bible</name>
+            <name id="HAM">Hamlet</name>
             <name id="MACHE">MacCracken, Henry Noble</name>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>For an earlier, typewritten draft see LC128:0652.</p>
+    <headNote resp="MSPP"><p>For an earlier, typewritten draft see Library of Congress Microfilm
+            128:652.</p>
         <index level1="birth control" level2="access to"/>
         <index level1="birth control" level2="distribution of information about"/>
         <index level1="birth control" level2="in marriages"/>
         <index level1="birth control" level2="lack of knowledge of"
             level3="negative consequences of"/>
-        <index level1="birth control" level2="legal cases" level3="U.S. v. One Package of Japanese contraceptives"/>
+        <index level1="birth control" level2="legal cases"
+            level3="U.S. v. One Package of Japanese contraceptives"/>
         <index level1="birth control" level2="legalization of"/>
         <index level1="birth control" level2="and marriage"/>
         <index level1="birth control" level2="methods" level3="instructions"/>
@@ -43,7 +47,7 @@
         <head>Morality and Bigotry</head>
         <byline>By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
         <p>As I write, thousands upon thousands of young people throughout the country are urging
-            the passage of the <name type="bill">American Youth Act</name>. This modern Crusade is
+            the passage of the <name type="law">American Youth Act</name>. This modern Crusade is
             asking that youth be given a chance, that it be granted at least the same opportunity
             for success as existed for the older generations.</p>
         <p>With the closing of the Western frontier, with the overcrowding of industries and the
@@ -92,11 +96,10 @@
                 thou thyself art strong and wholesome in body and mind</q>.”</p>
         <p>Dr. <person reg="MacCracken, Henry Noble">Henry Noble MacCracken</person>, president of
                 <org>Vassar College</org>, said recently: “<q who="MACHE">Of all hated things, youth
-                hates most to be betrayed. <name type="character">Hamlet</name>'s question to <name
-                    type="character">Ophelia</name> is the question which youth is ever asking
-                education: '<q who="HAM">Art thou honest?</q>' In this whole question of social
-                hygiene, of which birth control is a part, youth wants to trust and to be
-                trusted</q>.”</p>
+                hates most to be betrayed. <person>Hamlet</person>’s question to
+                    <person>Ophelia</person> is the question which youth is ever asking education:
+                    ‘<q who="HAM">Art thou honest?</q>’ In this whole question of social hygiene, of
+                which birth control is a part, youth wants to trust and to be trusted</q>.”</p>
         <p>That the president of one of our leading colleges for women can come out in public and
             thus fearlessly advocate giving birth control instruction to youth, is in itself a sign
             of progress. This wise and experienced educator closed his address by saying that he
@@ -109,11 +112,11 @@
             newspapers, who hear it discussed from lecture platforms and pulpits, to realize the
             bigotry which blocked the movement in its early days. The first birth control clinic in
                 <place reg="United States">America</place>, which I opened in the crowded slums of
-                <place reg="Brooklyn, New York City, NY">Brooklyn</place> twenty-one years ago, was
-            closed by the police as a “public nuisance,” and I and my co-workers were arrested. As
-            the patrol wagon carried us away to the police station, one young women, who had come
-            too late to get advice, ran after us crying and sobbing: “<q who="UNK">Save me, save me,
-                come back and save me</q>.”</p>
+                <place reg="Brooklyn, NY">Brooklyn</place> twenty-one years ago, was closed by the
+            police as a “public nuisance,” and I and my co-workers were arrested. As the patrol
+            wagon carried us away to the police station, one young women, who had come too late to
+            get advice, ran after us crying and sobbing: “<q who="UNK">Save me, save me, come back
+                and save me</q>.”</p>
         <p>She wanted to be saved from the fear of unwanted pregnancies, from the torture and black
             despair of bringing into the world children which she could not feed or care for, from
             the hell of having her life ruled by blind chance.</p>
@@ -125,12 +128,12 @@
             reasonably cheap and reliable. Women who happen to live near one of the 350 clinics now
             functioning throughout the country, and women who can afford to go to private
             physicians, can get information. A <name type="case"
-                reg="United States vs. One Package of Japanese Contraceptives">recent Court
-                decision</name> has removed the legal barriers which have retarded birth control
-            work, and has established the right of American physicians in this field of medicine.
-                <emph rend="italics">But thousands upon thousands of people are still in
-                ignorance</emph>, and the women who most need this advice are still vainly crying
-            “save me, save me.”</p>
+                reg="United States vs. One Package of Japanese Contraceptives">recent <org
+                    reg="United States Court of Appeals">Court</org> decision</name> has removed the
+            legal barriers which have retarded birth control work, and has established the right of
+            American physicians in this field of medicine. <emph rend="italics">But thousands upon
+                thousands of people are still in ignorance</emph>, and the women who most need this
+            advice are still vainly crying “<q who="UNK">save me, save me</q>.”</p>
         <p>But I do not despair, for youth will take a hand, and as Dr. MacCracken says, youth will
             not tolerate hypocrisy. What is the privilege of the comparative few, is the right of
             the many.</p>

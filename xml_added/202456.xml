@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Article">
     <mepHeader>
         <prepDate>2011-07-28 NC</prepDate>
+        <prepDate>2014-03-25 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1952-11-00">Nov 1952</docDate>
         <docTitle>
@@ -11,21 +12,21 @@
         </docTitle>
         <idno>msp202456</idno>
         <sourceDesc>
-            <bibl><title>Third International Conference on Planned Parenthood, Report of the
-                    Proceedings</title> (Bombay) November, 1952.</bibl>
-            <bibl><title>MSM</title>S72:0775</bibl>
+            <bibl><title type="book">Third International Conference on Planned Parenthood, Report of
+                    the Proceedings</title> (Bombay) Nov. 1952.</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S72:0775</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
             <name/>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><index level1="India"/><index level1="birth control"
-            level2="international conferences on"/></headNote>
+    <headNote resp="MSPP"><index level1="India"/>
+        <index level1="birth control" level2="international conferences on"/></headNote>
     <docBody>
         <head>Foreword</head>
         <p>It is with deep satisfaction that I write this Foreword to the Proceedings of the <org
-                reg="Third International Conference on Planned Parenthood (Bombay)">International
+                reg="International Conference on Planned Parenthood, 3rd">International
                 Planned Parenthood Conference</org> held in <place>Bombay, India</place>, November
             24--29, 1952.</p>
         <p>The high quality of the papers and the discussion represent the thinking and experience
@@ -33,11 +34,11 @@
             the Conference as outstanding as it has been. The papers contributed the most recent
             scientific knowledge known in the field of population, contraception, infertility,
             abortion, sterilization, sex education and marriage counseling. These
-                <title>Proceedings</title> will furnish to scientific groups the world over an
+                <title type="book">Proceedings</title> will furnish to scientific groups the world over an
             excellent reference book. I trust also that this will be an impetus to stimulate further
             study and research in all these areas.</p>
         <p>It was sixteen years ago that I made my first visit to <place>India</place> at the
-            invitation of the <org>All India Women's Conference</org> in <place
+            invitation of the <org>All India Women’s Conference</org> in <place
                 reg="Travancore, India">Travancore</place>. The Conference passed a resolution
             demanding that contraceptive information be give to all women in India by the municipal
             health departments. This resolution was a firm declaration of faith and vision on the

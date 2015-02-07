@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type=" Typed Article">
     <mepHeader>
-        <prepDate>2011-07-27 NC</prepDate>
+        <prepDate>2011-07-27 NC</prepDate><prepDate>2014-03-30 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1949-06-20"><supplied resp="MSPP">20</supplied> June
             1949</docDate>
@@ -11,8 +11,8 @@
         </docTitle>
         <idno>msp240467</idno>
         <sourceDesc>
-            <bibl>Margaret Sanger Papers, Library of Congress</bibl>
-            <bibl><title>MSM</title>S72:0582</bibl>
+            <bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S72:0582</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
@@ -20,8 +20,8 @@
         </respStmt>
     </mepHeader>
     <headNote resp="MSPP"><p>A note typed at the top reads: "Article for
-            Japanese Magazine Mezane (Awakening) - June 1949".</p><p>For another
-            version, see <title>MSM</title> S72:0578.</p><p>The published
+            Japanese Magazine <title type="journal">Mezane</title> (Awakening) - June 1949".</p><p>For another
+            version, see <title>Margaret Sanger Microfilm</title> S72:0578.</p><p>The published
             version of this article was not found</p><index level1="Japan"
             level2="population policies of"/><index level1="Japan"
             level2="birth control in"/></headNote>
@@ -31,7 +31,7 @@
             Sanger</person></byline>
         <p>Amid the difficulties of the post-war world, nothing is more
             encouraging for the future than the resurgence of
-                <place>Japan</place>'s interest in birth control. Nothing gives
+                <place>Japan</place>’s interest in birth control. Nothing gives
             more promise for peace and the well being of the people, not only in
             Japan but throughout <place>Asia</place> and therefore the whole
             world.</p>
@@ -62,13 +62,13 @@
             the causes of war and make a study of the population question in all
             its manifold departments, all our <org>Leagues of Nations</org>,
             international conferences, agreements and international treaties
-            will become the proverbial 'scraps of paper.' Men and women of
+            will become the proverbial ‘scraps of paper.’ Men and women of
             Japan, I appeal to you to look into this subject thoroughly. The
             women and mothers in your country are just as desirous of wiping out
             poverty, misery suffering and war as the women of the other nations
             of the world. I appeal to you to set your motherhood free! To make
             your women something more than breeding machines, such as the women
-            of every nation have been during some period of that nation's
+            of every nation have been during some period of that nation’s
             development. The time has come for international brotherhood and
             international emancipation, based upon free, conscious
             maternity.”</p>
@@ -146,7 +146,5 @@
             first of all, in achieving the health and welfare of the people, a
             balance between food and natural resources and population, and the
             ultimate objective of permanent peace on earth. </p>
-
-
     </docBody>
 </doc>

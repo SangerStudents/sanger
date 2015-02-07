@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "file:/S:/TRANSCRIPTIONS/XML%20Drafts/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
     <mepHeader>
         <prepDate>2003/06/02 SB</prepDate>
         <prepDate>2004/07/26 CH</prepDate>
         <prepDate>2004/08/09 CH</prepDate>
         <prepDate>2007/06/27 CH Oxygen update</prepDate>
+        <prepDate>2014-07-10 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1918-08-00">Aug 1918</docDate>
         <docTitle>
@@ -13,7 +14,7 @@
         </docTitle>
         <idno>msp206332</idno>
         <sourceDesc>
-            <bibl><title>The Birth Control Review</title>, Aug 1918, 3-4</bibl>
+            <bibl><title type="journal">Birth Control Review</title>, Aug 1918, 3-4</bibl>
             <bibl><title>Margaret Sanger Microfilm</title> S70:798</bibl>
         </sourceDesc>
         <respStmt>
@@ -24,20 +25,20 @@
     <headNote resp="MSPP">
         <index level1="birth control" level2="propaganda and publicity"/>
         <index level1="birth control" level2="movement" level3="disputes within"/>
-        <index level1="Birth Control Review, The" rend="italics"/>
+        <index level1="Birth Control Review, The"/>
         <index level1="Blossom, Frederick A."/>
         <index level1="New York Women's Publishing Co."/>
     </headNote>
     <docBody>
         <head>A STATEMENT OF FACTS--AN OBLIGATION FULFILLED</head>
-        <byline rend="italics">By Margaret Sanger</byline>
-        <p>This is the twelfth issue of <title rend="italics">The Birth Control Review</title>, and
+        <byline rend="italics">By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
+        <p>This is the twelfth issue of <title type="journal">The Birth Control Review</title>, and
             as such marks the fulfillment of an obligation. To me a dollar given for the support of
             any movement such as ours–-is more than one hundred cents, it is a pledge for the
             betterment of the world–-of the human race. Thus it is doubly the attitude of those
             chosen to administer the monies contributed for such funds, to see to it that every cent
             of every dollar is rightfully expended and rightfully accounted for. Governed by this
-            conviction I have issued the twelve numbers of <title rend="italics">The Birth Control
+            conviction I have issued the twelve numbers of The <title type="journal">Birth Control
                 Review</title>, and have succeeded in bringing the magazine to a point where its
             future usefulness is assured. Before, however, forgetting the obligations of the past in
             the greater promises of the future, I consider it my duty to make plain to the
@@ -55,13 +56,12 @@
             agitation, to lecture work, to the opening of clinics and to organizing more intensely
             some of the many details which had to be neglected because of lack of time. I also hoped
             to be of more general service in bringing together in closer and more constructive
-            operation the various birth control centers which I had just organized in the <place
-                reg="United States of America">United States</place>. In October of the same year,
-            Frederick Blossom was placed in full charge of the <place reg="New York, NY">New
-            York</place> office, of all the books, of monies received and spent, and generally of
-            all financial affairs of <title rend="italics">The Birth Control Review</title>. In
-            fact, he was given a confidence usually earned by years of toil and sacrifice and
-            accomplishment. </p>
+            operation the various birth control centers which I had just organized in the
+                <place>United States</place>. In October of the same year, Frederick Blossom was
+            placed in full charge of the <place reg="New York, NY">New York</place> office, of all
+            the books, of monies received and spent, and generally of all financial affairs of
+                <title type="journal">The Birth Control Review</title>. In fact, he was given a
+            confidence usually earned by years of toil and sacrifice and accomplishment. </p>
         <p>It was expected that the first issue of the magazine would be issued immediately, but it
             was not until February of the following year, five months later, that the first number
             came from the press. The third issue and incidentally the last of his eight months of
@@ -72,37 +72,38 @@
             spent on three issues all the moneys collected, a sum which by his own calculations
             should have been sufficient for twelve months. He also claimed the magazine owed him
             several hundred dollars. In May, 1917, Frederick A. Blossom resigned as manager of
-                <title rend="italics">The Birth Control Review</title> and was asked to discontinue
+                <title type="journal">The Birth Control Review</title> and was asked to discontinue
             his activities on my behalf. In leaving he took with him all the furniture and
-            furnishings of the office that had been bought in the name of the <title rend="italics"
+            furnishings of the office that had been bought in the name of the <title type="journal"
                 >Review</title>, all books, vouchers, checks and business or financial records of
             every sort, leaving me with none of the equipments necessary to carry out the obligation
-            to the subscribers of <title rend="italics">The Birth Control Review</title>, with nine
+            to the subscribers of <title type="journal">The Birth Control Review</title>, with nine
             issues out of twelve yet to be published, and not one cent in the bank account of the
-                <title rend="italics">Review</title>. When Frederick Blossom thus abandoned his
-            responsibilities as manager of the <title rend="italics">Review</title>, I asked him to
+                <title type="journal">Review</title>. When Frederick Blossom thus abandoned his
+            responsibilities as manager of the <title type="journal">Review</title>, I asked him to
             give me a complete report or statement of receipts and expenditures. This request was
             never complied with nor have I to this day been able to obtain the books from him,
             although this request was made at various times covering the period of a year, sometimes
             as often as once a week. I needed and asked for the following: </p>
         <p>1. The total amount received from subscribers.<lb/>2. The names and amounts received from
-            contributors.<lb/>3. Moneys received through cash sales of the <title rend="italics"
+            contributors.<lb/>3. Moneys received through cash sales of the <title type="journal"
                 >Review</title> other than through subscribers.<lb/>4. Total amount received from
-            sales of the "<title>Girl</title>" and "<title>Mother</title>" books and other
-            literature; also</p>
+            sales of the "<title type="book"><rs reg="What Every Girl Should Know"
+            >Girl</rs></title>" and "<title type="book"><rs reg="What Every Mother Should Know"
+                    >Mother</rs></title>" books and other literature; also</p>
         <p>1. The dates and amounts paid for printing the various issues.<lb/>2. Amount spent for
-            postage, wrappers and other incidental disbursements.<lb/>3. Amount paid for
-                "<title>Girl</title>" and "<title>Mother</title>" books.</p>
+            postage, wrappers and other incidental disbursements.<lb/>3. Amount paid for "<title
+                type="book">Girl</title>" and "<title type="book">Mother</title>" books.</p>
         <p>HIS ANSWER WAS that I could "<q who="BLOFR">count the number of subscribers on file and
                 send to the printer for the printing bills</q>" for any information. I then
             requested him, as I had not received a statement, to send to me by return mail the book
             or books in which a full account of receipts and contributions had been kept, also the
-            bank book, check book and vouchers of the <title rend="italics">Review</title> account,
+            bank book, check book and vouchers of the <title type="journal">Review</title> account,
             saying that I would prepare a statement and submit it to him for correction before
             taking it to the committee of friends who were willing to help me. He refused flatly to
             do this, and I then placed the matter in the hands of my attorney. Finally, one year
-            after his resignation as manager of <title rend="italics">The Birth Control
-            Review</title>, he sent to my attorney not a financial statement of receipts and
+            after his resignation as manager of <title type="journal">The Birth Control
+                Review</title>, he sent to my attorney not a financial statement of receipts and
             expenditures, nor the books, vouchers, etc., but what purported to be a statement of
             bank deposits and withdrawals by checks which amounted to $4,816.25. Upon obtaining a
             transcript of this account from the bank, it was found that their account showed
@@ -110,30 +111,31 @@
             between Frederick Blossom and the bank. Much as the money involved is needed in the
             movement, its loss, if loss there be, is overshadowed by the difficulties, the
             embarrassment and injury to the movement from his failure to return to <title
-                rend="italics">The Birth Control Review</title> its documents and to give an
+                type="journal">The Birth Control Review</title> its documents and to give an
             accounting of his financial transaction of his stewardship. All that we have to show
             covering that stewardship of eight months is the report of deposits and withdrawals,
-            which does not agree with the banks and three numbers of <title rend="italics">The Birth
+            which does not agree with the banks and three numbers of <title type="journal">The Birth
                 Control Review</title>. This meeting was finally brought to a head by the
             interjection of the <org reg="Birth Control League of New York">B.C.L. of New York</org>
             in the matter. An annual meeting of the B.C.L. of New York was called in Frederick
             Blossom's apartment on May 11th to elect officers. The newly elected officers, of which
                 <person reg="Myers, Hiram">Hiram Myers</person> was president, <person
-                reg="Stone, Mrs. Eugene">Mrs. Eugene Stone</person>, vice-president; <person
+                reg="Stone, Margaret Grant">Mrs. Eugene Stone</person>, vice-president; <person
                 reg="Goldstein, Jonah J.">Jonah J. Goldstein</person>, treasurer; <person
                 reg="Stuyvesant, Elizabeth">Elizabeth Stuyvesant</person>, secretary, requested
             Frederick Blossom, former treasurer of the League, to pass over to its newly elected
             officers all books, accounts, etc., of the League. This he refused to do, and the
-            treasurer and president issued a complain against him in the district attorney's office.</p>
+            treasurer and president issued a complain against him in the district attorney's
+            office.</p>
         <p>IN THE MEANTIME the <org>New York Women's Publishing Co., Inc.</org>, had been formed to
-            take over the publishing of the <title rend="italics">Review</title> and assist me in
+            take over the publishing of the <title type="journal">Review</title> and assist me in
             fulfilling my obligations to subscribers. This statement would have been made earlier,
             but it could not be made until absolute proof had been given that all obligations
-            included in a year's subscription had been discharged. <title rend="italics">The Birth
+            included in a year's subscription had been discharged. <title type="journal">The Birth
                 Control Review</title> has made good its obligations to its supporters and to the
             movement--so far as we have been able to ascertain them--even in the absence of the
             records which Frederick Blossom has as yet not surrendered. If anyone who has paid for a
-            subscription to the <title rend="italics">Review</title> has not received it,
+            subscription to the <title type="journal">Review</title> has not received it,
             information should be sent to this office at once in order that the unavoidable omission
             may be made good. Whatever the outcome of the disagreement--personal, petty in the
             extreme, it does not conflict with the work nor obstruct the goal that is to be reached.

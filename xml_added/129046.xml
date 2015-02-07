@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed Draft Speech">
     <mepHeader>
-        <prepDate>2011/06/28 CE</prepDate><prepDate>2011/11/28 CH correct types</prepDate><prepDate>2011/11/30 CH Correct typo</prepDate>
+        <prepDate>2011/06/28 CE</prepDate>
+        <prepDate>2011/11/28 CH correct types</prepDate>
+        <prepDate>2011/11/30 CH Correct typo</prepDate>
+        <prepDate>2014-04-01 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1928-12-19">19 Dec 1928</docDate>
         <docTitle>
@@ -10,16 +13,15 @@
         </docTitle>
         <idno>msp129046</idno>
         <sourceDesc>
-            <bibl><title>Margaret Sanger Papers, Library of
-                Congress</title></bibl>
-            <bibl><title>LCM</title> 130:0226</bibl>
+            <bibl><title>Margaret Sanger Papers, Library of Congress</title></bibl>
+            <bibl><title>Library of Congress Microfilm</title> 130:0226</bibl>
         </sourceDesc>
         <respStmt>
-            <name id="HUGVI">Hugo, Victor-Marie</name>
+            <name id="HUGVI">Hugo, Victo</name>
             <name id="MUSBE">Mussolini, Benito</name>
             <name id="SHAGE">Shaw, George Bernard</name>
             <name id="UNK">Unknown</name>
-            <name id="WELHE">Wells, Herbert George</name>
+            <name id="WELHE">Wells, H. G.</name>
             <name id="MSPP">Margaret Sanger Papers Project</name>
         </respStmt>
     </mepHeader>
@@ -57,7 +59,7 @@
         <index level1="heredity" level2="MS on"/>
         <index level1="Holland" level2="birth control in"/>
         <index level1="Germany" level2="population policies of"/>
-        <index level1="Italy" level2="overpopulation and"/> 
+        <index level1="Italy" level2="overpopulation and"/>
         <index level1="Japan" level2="overpopulation and"/>
         <index level1="marriage age" level2="women"/>
         <index level1="mentally disabled and diseased" level2="birth control and"/>
@@ -77,492 +79,383 @@
         <index level1="working classes" level2="children"/>
         <index level1="working classes" level2="fertility of"/>
         <index level1="working classes" level2="living conditions of"/>
-        </headNote>
+    </headNote>
     <docBody>
-        <head>The Necessity for Biirth Control</head>
-        <byline>by Mrs. <person reg="Sanger, Margaret">Margaret
-            Sanger</person></byline>
+        <head>The Necessity for Birth Control</head>
+        <byline>by Mrs. <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
         <p><org>Auditorium Theater</org>, <place reg="Oakland, CA">Oakland, California</place>.
-                <dateline><date value="1928-12-19">December 19th 1928</date></dateline>.</p>
-        <p>It was <person reg="Hugo, Victor-Marie">Victor Hugo</person> who said
-                <q who="HUGVI">there was no force in the world so great as that
-                of an idea whose hour had come</q>. Some of us believe that the
-            hour for Birth Control has come. There are very few subjects
+                    <dateline><date value="1928-12-19">December 19th 1928</date></dateline>.</p>
+        <p>It was <person reg="Hugo, Victor">Victor Hugo</person> who said <q who="HUGVI">there was
+                no force in the world so great as that of an idea whose hour had come</q>. Some of
+            us believe that the hour for Birth Control has come. There are very few subjects
                 <add>which have so large a </add>
-            <del>of so</del> practical <del>a</del> significance which
-                <add>cut</add> so deeply into the foundations of social
-                <del>welfare</del>
-            <add>evolution</add> as Birth Control. There are few
-                <add>other</add> subjects that have been left so long in
-            obscurity while, at the same time, there are few that can so
-            demonstrate their importance as Birth Control has done in the past
-            few years.</p>
-        <p><person reg="Shaw, George Bernard">George Bernard Shaw</person> said
-            that <q who="SHAGE">Birth Control is the most revolutionary idea of
-                the twentieth century</q>. <person reg="Wells, Herbert George"
-                >H.G. Wells</person> says <q who="WELHE">it is the most
-                momentous fact of modern living</q>. I claim that Birth Control
-            is <del>a</del>
-            <add>the keynote of a </add> new moral responsibility, a new social
-            awakening. It is not only a health and economic <del>safeguard</del>
+            <del>of so</del> practical <del>a</del> significance which <add>cut</add> so deeply into
+            the foundations of social <del>welfare</del>
+            <add>evolution</add> as Birth Control. There are few <add>other</add> subjects that have
+            been left so long in obscurity while, at the same time, there are few that can so
+            demonstrate their importance as Birth Control has done in the past few years.</p>
+        <p><person reg="Shaw, George Bernard">George Bernard Shaw</person> said that <q who="SHAGE"
+                >Birth Control is the most revolutionary idea of the twentieth century</q>. <person
+                reg="Wells, H. G.">H. G. Wells</person> says <q who="WELHE">it is the most momentous
+                fact of modern living</q>. I claim that Birth Control is <del>a</del>
+            <add>the keynote of a </add> new moral responsibility, a new social awakening. It is not
+            only a health and economic <del>safeguard</del>
             <add>expedient</add> but a great social <del>expedient</del>
-            <add>principle</add> interlocked with the <add>spiritual</add>
-            progress of the <del>human</del> race <add>and its future</add>.</p>
-        <p>To define Birth Control, we say it is the conscious control of the
-            birth-rate by scientific means that prevent the conception of human
-            life. Prevent, remember. Prevent does not mean to interfere. It does
-            not mean to destroy. There is no more interference with life through
-            birth control than there is to remain unmarried or to live a
-            celibate life. We also say “to control.” Control does not mean that
-            you limit. When you control your furnace you do not have to put the
-            fire out. When you control your motor you do not necessarily stop
-            your car. To control the birth rate means that there shall be the
-            same right for those who do not wish to have children as for those
-            who do wish to have them. There are no objections to those who wish
-            to increase the size of their families, but on the other side there
-            seems to be a great deal of question and controversy as to the right
-            of those who wish to limit or control the number of their children.
-            Why, they say, should there be any necessity to control or limit
-            population in this great land and especially out here in the west
-            where there are so many large <del>spaces</del>
+            <add>principle</add> interlocked with the <add>spiritual</add> progress of the
+                <del>human</del> race <add>and its future</add>.</p>
+        <p>To define Birth Control, we say it is the conscious control of the birth-rate by
+            scientific means that prevent the conception of human life. Prevent, remember. Prevent
+            does not mean to interfere. It does not mean to destroy. There is no more interference
+            with life through birth control than there is to remain unmarried or to live a celibate
+            life. We also say “to control.” Control does not mean that you limit. When you control
+            your furnace you do not have to put the fire out. When you control your motor you do not
+            necessarily stop your car. To control the birth rate means that there shall be the same
+            right for those who do not wish to have children as for those who do wish to have them.
+            There are no objections to those who wish to increase the size of their families, but on
+            the other side there seems to be a great deal of question and controversy as to the
+            right of those who wish to limit or control the number of their children. Why, they say,
+            should there be any necessity to control or limit population in this great land and
+            especially out here in the west where there are so many large <del>spaces</del>
             <add>acres</add>of unused territory.</p>
-        <p>Civilization is confronted with two problems-- pressure of population
-            on the food supply <add>of the world</add> and the reconciling of
-            humanitarian efforts with <del>the greatest improvement of the</del>
-            race <add>improvement</add>. I believe birth control is the key to
-            both. Statistics tell us that from fifteen to twenty millions of
+        <p>Civilization is confronted with two problems-- pressure of population on the food supply
+                <add>of the world</add> and the reconciling of humanitarian efforts with <del>the
+                greatest improvement of the</del> race <add>improvement</add>. I believe birth
+            control is the key to both. Statistics tell us that from fifteen to twenty millions of
             persons are born in this <del>country</del>
-            <add>world</add> every year. That means fifty thousand a day.
-            Certainly we <del>must</del> believe that something <del>must</del>
+            <add>world</add> every year. That means fifty thousand a day. Certainly we
+                <del>must</del> believe that something <del>must</del>
             <add>should</add> be done with this enormous <del>group</del>
-            <add>increase</add> of <del>new</del> population.
-            It must be controlled. There are only two ways of controlling it.
-            INCREASING the death rate or DECREASING the birth rate. Which shall
-            it be? History records the fact that population has always been kept
-            down by war, by famine, by disease by floods and pestilence. Nature
-            is most ruthless in extermination; she crushes to the wall the old,
-            the sick, the demented, the diseased, the inefficient and through
-            these means <del>was</del>
-            <add>is</add> able to perfect her type. But civilization today will
-            no longer permit those methods to operate. With the hand of charity
-            and philanthropy, democracy and Christianity, we reach
-            out and grapple with Nature. We take to ourselves these inefficient,
-            demented, or feeble-minded persons and we tax the normal, the fit
-            and the healthy members of the population for their care. Through
-            these methods we are brining civilization to a queer pass. William
-                <del>Sanyer</del>
-            <add><person reg="Meyers, William Starr">Starr Meyer</person></add>
-            of <org>Princeton University</org> tells us that out of our <gap
-                reason="illegible" resp="MSPP"/>
+            <add>increase</add> of <del>new</del> population. It must be controlled. There are only
+            two ways of controlling it. INCREASING the death rate or DECREASING the birth rate.
+            Which shall it be? History records the fact that population has always been kept down by
+            war, by famine, by disease by floods and pestilence. Nature is most ruthless in
+            extermination; she crushes to the wall the old, the sick, the demented, the diseased,
+            the inefficient and through these means <del>was</del>
+            <add>is</add> able to perfect her type. But civilization today will no longer permit
+            those methods to operate. With the hand of charity and philanthropy, democracy and
+            Christianity, we reach out and grapple with Nature. We take to ourselves these
+            inefficient, demented, or feeble-minded persons and we tax the normal, the fit and the
+            healthy members of the population for their care. Through these methods we are brining
+            civilization to a queer pass. William <del>Sanyer</del>
+            <add><person reg="Meyers, William Starr">Starr Meyer</person></add> of <org>Princeton
+                University</org> tells us that out of our <gap reason="illegible" resp="MSPP"/>
             <add>one</add>
             <add>105,000,000</add> hundred and <del>twenty</del>
-            <add>five</add> million people, only twenty million can be
-            classified as intellectual. From <add>the 85 million thru</add>
-            psychological, biological and other tests it is found that
-            45-million are sub-normal, with intellects equal to juveniles of
-            fifteen years; fifteen million were definitely feeble-minded, with
-            eight year old minds; while 25-million could at best be classified
-            as mediocre. Of course we all hope that we belong to the 20-million
-            class. It is that enormous group of feeble-minded that gives concern
+            <add>five</add> million people, only twenty million can be classified as intellectual.
+            From <add>the 85 million thru</add> psychological, biological and other tests it is
+            found that 45-million are sub-normal, with intellects equal to juveniles of fifteen
+            years; fifteen million were definitely feeble-minded, with eight year old minds; while
+            25-million could at best be classified as mediocre. Of course we all hope that we belong
+            to the 20-million class. It is that enormous group of feeble-minded that gives concern
             to those of us who are socially minded.</p>
-        <p>Many of us remember the two famous families, the <org
-                reg="Kallikak Family">Kallikaks</org> and the <org
-                reg="Juke Family">Jukes</org>. The first started by a
-            feeble-minded man marrying a normal woman. We know that two
-            feeble-minded persons have never been known to bring to birth a
-            normal child, but here we started with a normal woman. 470 of their
-            descendants were normal: 143 were feeble-minded: 36 were
-            illegitimate; three were epileptics: 83 died in infancy: three were
-            criminals and twenty-four died in houses of ill fame.</p>
-        <p>The Jukes family had 1200 descendants; of these 130 were professional
-            paupers; 135 were common criminals; 70 were thieves; the expense of
-            maintaining this family was $1,300,00-- and that too, was in the
-            days when we did not have to count the high cost of living. Today we
-            know for a fact that the high proportion of feeble-minded in our
+        <p>Many of us remember the two famous families, the <org reg="Kallikak Family"
+                >Kallikaks</org> and the <org reg="Juke Family">Jukes</org>. The first started by a
+            feeble-minded man marrying a normal woman. We know that two feeble-minded persons have
+            never been known to bring to birth a normal child, but here we started with a normal
+            woman. 470 of their descendants were normal: 143 were feeble-minded: 36 were
+            illegitimate; three were epileptics: 83 died in infancy: three were criminals and
+            twenty-four died in houses of ill fame.</p>
+        <p>The Jukes family had 1200 descendants; of these 130 were professional paupers; 135 were
+            common criminals; 70 were thieves; the expense of maintaining this family was
+            $1,300,00-- and that too, was in the days when we did not have to count the high cost of
+            living. Today we know for a fact that the high proportion of feeble-minded in our
             population is one of the great problems of civilization.</p>
-        <p>All over the country we find that institutions are not numerous
-            enough or large enough to take care of our feeble-minded population.
-                <place>California</place> has been one of the few States
-            advanced enough to take hold of this question and try to solve it
-            through sterilization. Reckoning three children for each
-            feeble-minded couple, out of six thousand sterilized, California has
-            saved herself eighteen thousand feeble minded persons.</p>
-        <p>It is not sufficient to take only the feeble-minded who are in
-            institutions; only a small proportion of them are there. Millions
-            live with us-- with no regard whatever for the coming race. They
-            continue to make our problems and to bring numerous children into
-            the world.</p>
-        <p>Our insane question is almost as serious. In <place>New York
-                State</place> a few years ago there was a great deal of pride on
-            the part of the <person reg="Smith, Albert Emmanuel"
-                >Governor</person> and <org reg="New York State Assembly"
-                >Legislature</org> because they came before the public and said
-            they had been able to appropriate the sum of twenty-five million
-            dollars for the care of the insane. No one seemed to ask what they
-            were doing to decrease the numbers of the insane. New York has, and
-            I presume California also, the practice of allowing inmates of
-            asylums suffering from certain types of insanity to return home
-            periodically on what is called the parole system. A man confined in
-            an asylum after <del>for</del> a certain period of time is allowed
-            to return to his family on certain occasions; also a mother or
-            woman. There is no responsibility on the part of the State to see
-            that anything is done, or any knowledge given to that inmate or his
-            family to see that children do not come from that individual.</p>
-        <p>We have had many cases where women, having been informed that the
-            husband is returning, have come to our social agencies and begged
-            that something should be done, often stating they already have two
-            or three feeble-minded children or idiots. Often the women in these
-            families are the bread-winner and she has begged the organizations,
-            who are there to protect motherhood, to do something about this
-            problem. In no case, in <place reg="New York City, NY">New York
-                city</place>, have I know that these women were ever helped in a
-            fundamental way. They have been told not to worry, have been cheered
-            as much as they could be cheered, and told that when such a
-            condition arose they could come to the pre-natal clinic and care
-            given them-- and that is all. That seems to me a very short-sighted
-            policy on the part of the social agencies and other groups,
-            well-meaning, no doubt, but nevertheless very sentimental.</p>
-        <p>Not only the feeble-minded and insane deserve consideration. There
-            are two groups of people in the world-- not only in the
-                <place>United States</place> but in almost all large cities of
-            the civilized world. One group is what I term the small family
-            group; the other is the large family group. When you look at the
-            small family group you will see they have by far the best of it. It
-            is there we find health, wealth, culture, education, intelligence.
-            It is where there are few children, well spaced, that those few are
-            brought up to full maturity. The children of this group are not sent
-            to factories but to school, because of the desire of the parents to
-            give them the best opportunities. They go to high school, to
-            colleges, to universities. It is from this group that the best
-            positions in the community are usually filled. It is from this group
-            that those who desire to see large populations desire they should
-            come.</p>
-        <p>On the other hand is the large family group; it has a hard time. You
-            find there poverty. Poverty and large families almost always go hand
-            in hand. You find mothers bearing children far too frequently,
-            without regard to her health or the father's earning capacity. It is
-            there we find slums, overcrowding, not only in homes but in the
-            community. We find there, too, terrible infant and maternal
-            mortality, ignorance, disease, unemployment, child labor, and all
-            the problems we are trying today to solve.</p>
-        <p>I know this group fairly well and I know the mothers here are not
-            desirous of frequent child-bearing any more than the mothers of the
-            other group. But seek and ask where they will there is no way for
-            them to get advice or instruction on how to control the size of
-            their families. All agencies are turned against them; they must turn
-            to the interrupted pregnancy or bring unwanted children into the
-            world year in and year out.</p>
-        <p>We are known in America to be a
-            very generous hearted people; we are known throughout the world as
-            being very large spenders. We have in the past ten years spent NINE
-            BILLION DOLLARS on what are called the four D's-- DISEASE: DEFECTS:
-            DELINQUENCY: DEPENDENCY. I have no quarrel even with that enormous
-            amount if we could only be assured that it was not going to increase
-            the next year and the following year. But we have no such assurance.
-            In fact, judging by the past ten years, we have no reason to believe
-            anything, except that we will be paying, not nine or ten but perhaps
-            fifteen billion dollars to take care of the four D's in the next ten
-            years.</p>
-        <p>Will all you who are interested in social work follow me for a moment
-            to see how we really attack one or two of these questions.</p>
-        <p>Take Maternal Mortality. It is really a disgrace that this country,
-            which has so many spendid social organizations and institutions,
-            should yet have its maternal mortality increased during the last few
-            years. Twenty thousand mothers passed out from causes due to
-            pregnancy during the past year. Twenty thousand mothers means two
-            mothers for every hour, night and day. We know that tubercular
-            women, or women with heart or kidney trouble should never be allowed
-            to take the risk of motherhood. We know, too, that even tubercular
-            women die, not from tuberculosis but from pregnancy. We know that
-            the medical profession has every right, legally and morally, to
-            interrupt that condition. Then what? They send her back to her home,
-            to face the same conditions, in utter ignorance and with a death
-            sentence hanging over her head.</p>
-        <p>With Infant Mortality we have done better. It is today I believe down
-            to two hundred thousand infants who died before reaching their first
-            birthday. We have reduced it but oh, at such a cost, not only in
-            money but a whole group of individuals have devoted the best part of
-            their lives to keeping alive children who never should have been
-            born.</p>
-        <p>We do everything to keep our children alive but in most cases it is
-            like locking the door after the horse is stolen. We have our Milk
-            Stations, our Maternity Centers; we have Nurseries; we send nurses
-            into the homes to tell the mothers of eight or nine children how to
-            have their tenth child. What those mothers really want to know is
-            how not to have that tenth or eleventh baby. Worst of all, we allow
-            the 200,000 mothers and fathers of these children to remain in
-            ignorance of how to prevent the birth of two hundred thousand
-            children next year.</p>
-        <p>The <org reg="United States Children's Bureau">Children's
-                Bureau</org> of the <org reg="United States Department of Labor"
-                >Labor Dept.</org> at <place reg="Washington, D.C."
-                >Washington</place> throws a light on the infant mortality of
-            this country by telling us that the father's wage has much to do
-            with it. As his wage goes down, his family goes up. They also tell
-            us that the spacing of children in the family has much to do with
-            infant death; if there is an interval of two, three or four years
-            that child has a better chance to live. They tell us also that
-            number of children in the family has much to do with infant
-            mortality and that the second child has a much better chance to live
-            than the tenth or twelfth. For every second child born there is less
-            than 100 deaths per thousand; for the fifth child, about 350; for
-            the twelfth it is 600 out of every thousand Sixty per cent of
-            twelfth children born do not live to see their first birthday. What
-            useless waste of womanhood and motherhood. What an orgy of
+        <p>All over the country we find that institutions are not numerous enough or large enough to
+            take care of our feeble-minded population. <place>California</place> has been one of the
+            few States advanced enough to take hold of this question and try to solve it through
+            sterilization. Reckoning three children for each feeble-minded couple, out of six
+            thousand sterilized, California has saved herself eighteen thousand feeble minded
+            persons.</p>
+        <p>It is not sufficient to take only the feeble-minded who are in institutions; only a small
+            proportion of them are there. Millions live with us-- with no regard whatever for the
+            coming race. They continue to make our problems and to bring numerous children into the
+            world.</p>
+        <p>Our insane question is almost as serious. In <place>New York State</place> a few years
+            ago there was a great deal of pride on the part of the <person reg="Smith, Albert E."
+                >Governor</person> and <org reg="New York State Assembly">Legislature</org> because
+            they came before the public and said they had been able to appropriate the sum of
+            twenty-five million dollars for the care of the insane. No one seemed to ask what they
+            were doing to decrease the numbers of the insane. New York has, and I presume California
+            also, the practice of allowing inmates of asylums suffering from certain types of
+            insanity to return home periodically on what is called the parole system. A man confined
+            in an asylum after <del>for</del> a certain period of time is allowed to return to his
+            family on certain occasions; also a mother or woman. There is no responsibility on the
+            part of the State to see that anything is done, or any knowledge given to that inmate or
+            his family to see that children do not come from that individual.</p>
+        <p>We have had many cases where women, having been informed that the husband is returning,
+            have come to our social agencies and begged that something should be done, often stating
+            they already have two or three feeble-minded children or idiots. Often the women in
+            these families are the bread-winner and she has begged the organizations, who are there
+            to protect motherhood, to do something about this problem. In no case, in <place
+                reg="New York, NY">New York city</place>, have I know that these women were ever
+            helped in a fundamental way. They have been told not to worry, have been cheered as much
+            as they could be cheered, and told that when such a condition arose they could come to
+            the pre-natal clinic and care given them-- and that is all. That seems to me a very
+            short-sighted policy on the part of the social agencies and other groups, well-meaning,
+            no doubt, but nevertheless very sentimental.</p>
+        <p>Not only the feeble-minded and insane deserve consideration. There are two groups of
+            people in the world-- not only in the <place>United States</place> but in almost all
+            large cities of the civilized world. One group is what I term the small family group;
+            the other is the large family group. When you look at the small family group you will
+            see they have by far the best of it. It is there we find health, wealth, culture,
+            education, intelligence. It is where there are few children, well spaced, that those few
+            are brought up to full maturity. The children of this group are not sent to factories
+            but to school, because of the desire of the parents to give them the best opportunities.
+            They go to high school, to colleges, to universities. It is from this group that the
+            best positions in the community are usually filled. It is from this group that those who
+            desire to see large populations desire they should come.</p>
+        <p>On the other hand is the large family group; it has a hard time. You find there poverty.
+            Poverty and large families almost always go hand in hand. You find mothers bearing
+            children far too frequently, without regard to her health or the father’s earning
+            capacity. It is there we find slums, overcrowding, not only in homes but in the
+            community. We find there, too, terrible infant and maternal mortality, ignorance,
+            disease, unemployment, child labor, and all the problems we are trying today to
+            solve.</p>
+        <p>I know this group fairly well and I know the mothers here are not desirous of frequent
+            child-bearing any more than the mothers of the other group. But seek and ask where they
+            will there is no way for them to get advice or instruction on how to control the size of
+            their families. All agencies are turned against them; they must turn to the interrupted
+            pregnancy or bring unwanted children into the world year in and year out.</p>
+        <p>We are known in America to be a very generous hearted people; we are known throughout the
+            world as being very large spenders. We have in the past ten years spent NINE BILLION
+            DOLLARS on what are called the four D’s-- DISEASE: DEFECTS: DELINQUENCY: DEPENDENCY. I
+            have no quarrel even with that enormous amount if we could only be assured that it was
+            not going to increase the next year and the following year. But we have no such
+            assurance. In fact, judging by the past ten years, we have no reason to believe
+            anything, except that we will be paying, not nine or ten but perhaps fifteen billion
+            dollars to take care of the four D’s in the next ten years.</p>
+        <p>Will all you who are interested in social work follow me for a moment to see how we
+            really attack one or two of these questions.</p>
+        <p>Take Maternal Mortality. It is really a disgrace that this country, which has so many
+            spendid social organizations and institutions, should yet have its maternal mortality
+            increased during the last few years. Twenty thousand mothers passed out from causes due
+            to pregnancy during the past year. Twenty thousand mothers means two mothers for every
+            hour, night and day. We know that tubercular women, or women with heart or kidney
+            trouble should never be allowed to take the risk of motherhood. We know, too, that even
+            tubercular women die, not from tuberculosis but from pregnancy. We know that the medical
+            profession has every right, legally and morally, to interrupt that condition. Then what?
+            They send her back to her home, to face the same conditions, in utter ignorance and with
+            a death sentence hanging over her head.</p>
+        <p>With Infant Mortality we have done better. It is today I believe down to two hundred
+            thousand infants who died before reaching their first birthday. We have reduced it but
+            oh, at such a cost, not only in money but a whole group of individuals have devoted the
+            best part of their lives to keeping alive children who never should have been born.</p>
+        <p>We do everything to keep our children alive but in most cases it is like locking the door
+            after the horse is stolen. We have our Milk Stations, our Maternity Centers; we have
+            Nurseries; we send nurses into the homes to tell the mothers of eight or nine children
+            how to have their tenth child. What those mothers really want to know is how not to have
+            that tenth or eleventh baby. Worst of all, we allow the 200,000 mothers and fathers of
+            these children to remain in ignorance of how to prevent the birth of two hundred
+            thousand children next year.</p>
+        <p>The <org reg="United States Children's Bureau">Children’s Bureau</org> of the <org
+                reg="United States Department of Labor">Labor Dept.</org> at <place
+                reg="Washington, DC">Washington</place> throws a light on the infant mortality of
+            this country by telling us that the father’s wage has much to do with it. As his wage
+            goes down, his family goes up. They also tell us that the spacing of children in the
+            family has much to do with infant death; if there is an interval of two, three or four
+            years that child has a better chance to live. They tell us also that number of children
+            in the family has much to do with infant mortality and that the second child has a much
+            better chance to live than the tenth or twelfth. For every second child born there is
+            less than 100 deaths per thousand; for the fifth child, about 350; for the twelfth it is
+            600 out of every thousand Sixty per cent of twelfth children born do not live to see
+            their first birthday. What useless waste of womanhood and motherhood. What an orgy of
             agony!</p>
-        <p>I maintain that if we are ever going to do anything about infant
-            mortality we have got to stop the unending stream of unwanted
-            babies. We cannot sweep back the tide with the broom of organized
-            charity or palliative legislation. We have to stop it at the source
+        <p>I maintain that if we are ever going to do anything about infant mortality we have got to
+            stop the unending stream of unwanted babies. We cannot sweep back the tide with the
+            broom of organized charity or palliative legislation. We have to stop it at the source
             by safe and sound information to control birth.</p>
-        <p>Another question concerns us. Child labor. Most of us believe there
-            is no such thing. We think children are protected by the laws of
-            this country from work. But that is not true. For fifty years the
-                <org reg="United States Child Labor Commission">Child Labor
-                Commission</org> has been trying to do away with Child Labor.
-            They have not been successful. There are seven million children
-            under 14 years of age who are engaged in gainful occupations. Have
-            any of you seen children in the Southern mills going to work before
-            the sun is up and returning after sunset? If you knew the conditions
-            where these children are, you would know they are doomed to it.
-            Fathers in many cases remain at home, doing much of the housework
-            because he cannot get an adult man's pay. Little ones of 6 or 7 are
-            standing on boxes or benches because the machinery was made for
-            their parents; here you find these little ones crowding so closely
-            into the family that it is absolutely necessary for each of them as
-            soon as they can to get out and compete with father and mother just
-            for their daily existence. The same applies to children toiling in
-            the fields, for instance, of <place>Colorado</place>. I went myself
-            into the wheat fields of Colorado and it was astounding to me that
-            we cannot have a little more fundamental attitude toward child
-            labor; children of three and four were crawling on the ground like
-            animals, putting fruit into baskets, their little backs permanently
-            bent. To look into the faces of the parents of these twelve or
-            fifteen children was to know that they were not capable of taking
-            care of themselves, to say nothing of a large family,-- which should
-            never have been brought into the world. I'd like to see the
-                <org>Society for the Prevention of Cruelty to Children</org>
-            begin a little further back and prevent the cruelty of children
-            being born in misery and disease. I should like to see the time when
-            the <org>United States Government</org> would have to guarantee a
-            passport of health for every child born in this country.</p>
-        <p>If we could imagine it I think the children would like to take a look
-            at their parents before being born and to ask them a few questions.
-            If parents had to apply for children as they do for cooks and
-            chaffeurs, the children might ask them for their health certificate.
-            They might say: “<q who="UNK">What is the idea of having me? How do
-                you live? What kind of table do you set? What are your plans for
-                bringing me up? Am I to spend my childhood in a factory or a
-                playground?</q>” It might even say: “<q who="UNK">Ah, Mr.
-                Father, I am a potential genius: what do you know about the
-                development of a genius? What kind of society have you
-                constructed for my gifts to adorn</q>?” It might ask how many
-            children there were already and if the answer was eight in two rooms
-            and on twenty dollars a week, we can fancy it would say “<q
-                who="UNK">I'll stay where I am</q>” and interview the next
-            applicant.</p>
-        <p>The Government is concerned about the kind of people who come here
-            from outside. Up to 1914 <name type="Character">Uncle Sam</name> was
-            rather negligent about the kind of folk who emigrated here; he was
-            like the parents who, although they scarcely know what they will do
-            if their family is increased, yet do nothing to prevent it. Not
-            until 1914 did the U.S. Government do anything much. We did not
-            encourage emigration but did nothing to stop it. Not until 1924 was
-            it necessary to recognize that there was a population problem and
-            that SOMETHING must be done for the future of the country. So bars
-            were put up at the entrance of the United States. Le mt read you
-            what the Government thinks likely to be a menace and source of
-            disease to her people, to the happiness and wellbeing of her
-            population. Feeble-minded persons, epileptics, idiots, imbeciles,
-            insane people, tubercular, those with any loathsome or contagious
-            disease, paupers, professional beggars, those likely to become a
-            public charge, criminals, prostitutes, or for purposes of
-            prostitution in any form; illiterates, those over 16 years unable to
-            read English or any other language-- all are refused admission and
-            procedure for the enforcement of these measures is mandatory. I
-            think it is good legislation. Unfortunately it is merely negative
-            and not selective legislation.</p>
-        <p>If it is necessary to keep such types out of the country why is it
-            not just as important to stop their breeding? it seems to me a very
-            short-sighted procedure to make laws to keep them out and laws that
-            increase and multiply them within. Immigration throughout the world
-            is causing a good deal of stir; the countries of
-                <place>Europe</place> have looked upon America for years as the
-            solution of their problems. There is a good deal of bitterness at
-            the United States taking this attitude and concern as to what they
-            shall do. Europe claims that she has sent into the United States
-            some of her best stocks, equipped us with artisans, with man made
-            ready material. She claims she has depleted her own stocks by so
-            doing, also that in order to do this in the past she has now made an
-            enemy <add>and a rival</add> more powerful than all Europe combined.
-            Many of the countries, like <place>England</place>, are trying to
-            solve their over-population problem by sending them into the
-                Colonies; but the Colonies in turn say they
-            cannot use the slum population which England wants to get rid of;
-            they must have men of health, vigor and initiative-- so say
-                <place>New Zealand</place>, <place>Australia</place> and
-                <place>Canada</place>. The slum population England has sent has
-            been sent back and England today has over a million unemployed. I am
-            glad to say nevertheless that the <org>British Government</org> has
-            been thinking seriously about <del>the</del> birth control; two
-            years ago the <org>House of Lords</org> went on record and passed a
-            resolution asked the Government to instruct mothers throughout the
-                <org>British Empire</org> in methods of contraception at Infant
-            Welfare Stations. It is an astounding thing that it was the <org
-                reg="Great Britain, Labor Party">Labor Party</org> that refused
-            to endorse that legislation.</p>
-        <p><place>Germany</place> has also attempted to attack this question.
-            When I was in <place reg="Berlin, Germany">Berlin</place> I was
-            astonished to find there was legislation going on, backed up by
-            aggressive organization both labor and medical, as well as womens
-            organizations, trying to terminate pregnancy, up to the third month.
-            They have already endorsed sterilization. Women interrupted
-            pregnancy and then remained to be sterilized. Out of 80 women who
-            came, 75 remained, asking to be sterilized. These women had already
-            had two or more children. In almost all cases something was wrong
-            with their health of the mother, heart, kidneys or other troubles.
-            Sterilization on a large scale is taking place in Germany. I
-            consider that rather harsh and there may be some regret later on but
-            nevertheless Germany is face to face with the problem of the future
-            and she feels that is the only emergency she can at present
-            attack.</p>
-        <p><place>Italy</place> is making a great deal of increasing population.
-                <person reg="Mussolini, Benito">Mussolini</person> has said: <q
-                who="MUSBE">No babies, no votes</q>. I do no know that the women
-            particularly mind that; they might retort: No votes, no babies. I
-            think Mussolini needs babies more than the women need votes. Italy
-            is over-crowded. Everyone in Europe knows that. Italy cannot take
-            care of her own population. Just two years ago six hundred thousand
-            Italians and sixty thousand Poles went into <place>France</place>--
-            and France herself has begun to consider population and immigration,
-            as we have the last ten years. Anyone can go into France regardless
-            of their condition. Not even today does France bar out of her
-            country even persons with a transmissible disease. I think only one
-            is not admitted-- traucoma.</p>
-        <p><place>Japan</place> has seven or eight hundred thousand new souls
-            born every year. Crowded into a territory the size of California is
-            a population equal to half of our population. All countries, except
-                <place>South America</place>, have put up the bars against the
-            Japanese. South America alone has the open door for Japan's surplus
-            population. Japan, to me, is like the chick inside the shell.
-            Something has got to happen. As we all know, expansive populations
-            of the world have caused wars over and over again. The economists of
-            Europe are convinced that the peace of the world can never be solved
-            until each country takes up the question of population. Until this
-            is solved intelligently they may as well throw their peace treaties
-            in the waste basket. This question of birth control is not only an
-            individual, a national, and a racial problem but international. Many
-            people believe that we who advocate birth control do not believe in
-            having any children at all. It is not necessary to deny that to this
-            audience; you <emph rend="underline">know</emph> it is not true.
-            Nevertheless, there are conditions in which it would be better for
-            children not to be born at all. I maintain there are seven
-            conditions underwhich children should never be born.</p>
-        <p>First: Not of parents with a transmissible disease; with insanity,
-            feeble-mindedness, syphilis or epilepsy.</p>
-        <p>Second: Not of mothers with heart or kidney disease, until such
-            disease is cured.</p>
+        <p>Another question concerns us. Child labor. Most of us believe there is no such thing. We
+            think children are protected by the laws of this country from work. But that is not
+            true. For fifty years the <org reg="United States Child Labor Commission">Child Labor
+                Commission</org> has been trying to do away with Child Labor. They have not been
+            successful. There are seven million children under 14 years of age who are engaged in
+            gainful occupations. Have any of you seen children in the Southern mills going to work
+            before the sun is up and returning after sunset? If you knew the conditions where these
+            children are, you would know they are doomed to it. Fathers in many cases remain at
+            home, doing much of the housework because he cannot get an adult man’s pay. Little ones
+            of 6 or 7 are standing on boxes or benches because the machinery was made for their
+            parents; here you find these little ones crowding so closely into the family that it is
+            absolutely necessary for each of them as soon as they can to get out and compete with
+            father and mother just for their daily existence. The same applies to children toiling
+            in the fields, for instance, of <place>Colorado</place>. I went myself into the wheat
+            fields of Colorado and it was astounding to me that we cannot have a little more
+            fundamental attitude toward child labor; children of three and four were crawling on the
+            ground like animals, putting fruit into baskets, their little backs permanently bent. To
+            look into the faces of the parents of these twelve or fifteen children was to know that
+            they were not capable of taking care of themselves, to say nothing of a large family,--
+            which should never have been brought into the world. I’d like to see the <org>Society
+                for the Prevention of Cruelty to Children</org> begin a little further back and
+            prevent the cruelty of children being born in misery and disease. I should like to see
+            the time when the <org>United States Government</org> would have to guarantee a passport
+            of health for every child born in this country.</p>
+        <p>If we could imagine it I think the children would like to take a look at their parents
+            before being born and to ask them a few questions. If parents had to apply for children
+            as they do for cooks and chaffeurs, the children might ask them for their health
+            certificate. They might say: “<q who="UNK">What is the idea of having me? How do you
+                live? What kind of table do you set? What are your plans for bringing me up? Am I to
+                spend my childhood in a factory or a playground?</q>” It might even say: “<q
+                who="UNK">Ah, Mr. Father, I am a potential genius: what do you know about the
+                development of a genius? What kind of society have you constructed for my gifts to
+                adorn</q>?” It might ask how many children there were already and if the answer was
+            eight in two rooms and on twenty dollars a week, we can fancy it would say “<q who="UNK"
+                >I’ll stay where I am</q>” and interview the next applicant.</p>
+        <p>The Government is concerned about the kind of people who come here from outside. Up to
+            1914 <person>Uncle Sam</person> was rather negligent about the kind of folk who
+            emigrated here; he was like the parents who, although they scarcely know what they will
+            do if their family is increased, yet do nothing to prevent it. Not until 1914 did the
+                <org reg="United States Government">U.S. Government</org> do anything much. We did
+            not encourage emigration but did nothing to stop it. Not until 1924 was it necessary to
+            recognize that there was a population problem and that SOMETHING must be done for the
+            future of the country. So bars were put up at the entrance of the United States. Le mt
+            read you what the Government thinks likely to be a menace and source of disease to her
+            people, to the happiness and wellbeing of her population. Feeble-minded persons,
+            epileptics, idiots, imbeciles, insane people, tubercular, those with any loathsome or
+            contagious disease, paupers, professional beggars, those likely to become a public
+            charge, criminals, prostitutes, or for purposes of prostitution in any form;
+            illiterates, those over 16 years unable to read English or any other language-- all are
+            refused admission and procedure for the enforcement of these measures is mandatory. I
+            think it is good legislation. Unfortunately it is merely negative and not selective
+            legislation.</p>
+        <p>If it is necessary to keep such types out of the country why is it not just as important
+            to stop their breeding? it seems to me a very short-sighted procedure to make laws to
+            keep them out and laws that increase and multiply them within. Immigration throughout
+            the world is causing a good deal of stir; the countries of <place>Europe</place> have
+            looked upon America for years as the solution of their problems. There is a good deal of
+            bitterness at the United States taking this attitude and concern as to what they shall
+            do. Europe claims that she has sent into the United States some of her best stocks,
+            equipped us with artisans, with man made ready material. She claims she has depleted her
+            own stocks by so doing, also that in order to do this in the past she has now made an
+            enemy <add>and a rival</add> more powerful than all Europe combined. Many of the
+            countries, like <place>England</place>, are trying to solve their over-population
+            problem by sending them into the Colonies; but the Colonies in turn say they cannot use
+            the slum population which England wants to get rid of; they must have men of health,
+            vigor and initiative-- so say <place>New Zealand</place>, <place>Australia</place> and
+                <place>Canada</place>. The slum population England has sent has been sent back and
+            England today has over a million unemployed. I am glad to say nevertheless that the
+                <org>British Government</org> has been thinking seriously about <del>the</del> birth
+            control; two years ago the <org>House of Lords</org> went on record and passed a
+            resolution asked the Government to instruct mothers throughout the <org>British
+                Empire</org> in methods of contraception at Infant Welfare Stations. It is an
+            astounding thing that it was the <org reg="Great Britain Labour Party">Labor Party</org>
+            that refused to endorse that legislation.</p>
+        <p><place>Germany</place> has also attempted to attack this question. When I was in <place
+                reg="Berlin, Germany">Berlin</place> I was astonished to find there was legislation
+            going on, backed up by aggressive organization both labor and medical, as well as womens
+            organizations, trying to terminate pregnancy, up to the third month. They have already
+            endorsed sterilization. Women interrupted pregnancy and then remained to be sterilized.
+            Out of 80 women who came, 75 remained, asking to be sterilized. These women had already
+            had two or more children. In almost all cases something was wrong with their health of
+            the mother, heart, kidneys or other troubles. Sterilization on a large scale is taking
+            place in Germany. I consider that rather harsh and there may be some regret later on but
+            nevertheless Germany is face to face with the problem of the future and she feels that
+            is the only emergency she can at present attack.</p>
+        <p><place>Italy</place> is making a great deal of increasing population. <person
+                reg="Mussolini, Benito">Mussolini</person> has said: <q who="MUSBE">No babies, no
+                votes</q>. I do no know that the women particularly mind that; they might retort: No
+            votes, no babies. I think Mussolini needs babies more than the women need votes. Italy
+            is over-crowded. Everyone in Europe knows that. Italy cannot take care of her own
+            population. Just two years ago six hundred thousand Italians and sixty thousand Poles
+            went into <place>France</place>-- and France herself has begun to consider population
+            and immigration, as we have the last ten years. Anyone can go into France regardless of
+            their condition. Not even today does France bar out of her country even persons with a
+            transmissible disease. I think only one is not admitted-- traucoma.</p>
+        <p><place>Japan</place> has seven or eight hundred thousand new souls born every year.
+            Crowded into a territory the size of California is a population equal to half of our
+            population. All countries, except <place>South America</place>, have put up the bars
+            against the Japanese. South America alone has the open door for Japan’s surplus
+            population. Japan, to me, is like the chick inside the shell. Something has got to
+            happen. As we all know, expansive populations of the world have caused wars over and
+            over again. The economists of Europe are convinced that the peace of the world can never
+            be solved until each country takes up the question of population. Until this is solved
+            intelligently they may as well throw their peace treaties in the waste basket. This
+            question of birth control is not only an individual, a national, and a racial problem
+            but international. Many people believe that we who advocate birth control do not believe
+            in having any children at all. It is not necessary to deny that to this audience; you
+                <emph rend="underline">know</emph> it is not true. Nevertheless, there are
+            conditions in which it would be better for children not to be born at all. I maintain
+            there are seven conditions underwhich children should never be born.</p>
+        <p>First: Not of parents with a transmissible disease; with insanity, feeble-mindedness,
+            syphilis or epilepsy.</p>
+        <p>Second: Not of mothers with heart or kidney disease, until such disease is cured.</p>
         <p>Third: Not of parents who already have a sub-normal child.</p>
-        <p>Fourth: I claim there should be an interval of two to three years
-            between children. The mother should have an opportunity to recover
-            from the ordeal of one birth, to enjoy her new baby and a period of
-            time to prepare herself mentally and physically for the coming of
-            the next child.</p>
-        <p>Fifth: No woman should have children until she has finished her
-            adolescent period, from 14 to 23 years. While we all know many fine
-            children born of young mothers I maintain that is no longer
-            necessary. There should be an ideal time for parenthood and that
-            should be at the close of the adolescent period, when the physical,
-            nervous and mental organism is developed but not yet
-            interlocked.</p>
-        <p>Sixth: There should not be more children than can be brought up
-            decently and properly provided for. We have people for ten years who
-            have been dependent upon social agencies, not only for the
-            maintenance of themselves and the children they had years ago but
-            for an increasing number ever since. I maintain that this is immoral
-            in every sense of the word-- to have children they cannot take care
-            of and to make their neighbors and others bear the consequences of
-            their acts.</p>
-        <p><emph rend="underline">Seventh:</emph> I maintain children should not
-            be born until the young couple have have, say, two years of married
-            life. I would like to see young people take two or three years to
-            play together, to build up and develop their common interests before
-            parenthood. I believe it is harder today for two young people to
-            become adjusted to each other than it ever was in the past. We
-            imagine they are going to live happy ever after, but we know their
-            problems have just begun. It is not, after all, an easy thing for
-            love to grow into the fine thing which it can be. It is not easy to
-            strengthen the bond of love and to submit to that bond of marriage,
-            unless there is time for mutual adjustment. If couples had two years
-            alone together I maintain there would be more happy homes, fewer
-            divorces and the possibility of the girl developing her womanhood
-            before taking the responsibility of motherhood. We really see very
-            little of the love-life of individuals. They are married-- and the
-            next year become parents. The girl goes away on her honeymoon and
-            comes back pregnant, physically and mentally disturbed. The husband
-            has never an opportunity to know her as a woman; he knows her as a
-            girl and then as a mother. I believe it would make for more happy
-            marriages and more permanent ones if the fear of pregnancy could be
-            removed or delayed, and parenthood invited instead of being an
-            unwelcome accident.</p>
-        <p>There are three groups of methods of preventing conception. The first
-            is continence. The only organized religious body that opposes Birth
-            Control does not condemn continence, but regards it as the only
-            permissible method of birth control. The second is sterilization.
-            The third, mechanical means of preventing conception. In our studies
-            of the past five years we have found that continence cannot be a
-            means of general application. Self-control, or continence, is a
-            matter of one's evolution. Sterilization is bound to play an
-            important part, especially where there are transmissible diseases.
+        <p>Fourth: I claim there should be an interval of two to three years between children. The
+            mother should have an opportunity to recover from the ordeal of one birth, to enjoy her
+            new baby and a period of time to prepare herself mentally and physically for the coming
+            of the next child.</p>
+        <p>Fifth: No woman should have children until she has finished her adolescent period, from
+            14 to 23 years. While we all know many fine children born of young mothers I maintain
+            that is no longer necessary. There should be an ideal time for parenthood and that
+            should be at the close of the adolescent period, when the physical, nervous and mental
+            organism is developed but not yet interlocked.</p>
+        <p>Sixth: There should not be more children than can be brought up decently and properly
+            provided for. We have people for ten years who have been dependent upon social agencies,
+            not only for the maintenance of themselves and the children they had years ago but for
+            an increasing number ever since. I maintain that this is immoral in every sense of the
+            word-- to have children they cannot take care of and to make their neighbors and others
+            bear the consequences of their acts.</p>
+        <p><emph rend="underline">Seventh:</emph> I maintain children should not be born until the
+            young couple have have, say, two years of married life. I would like to see young people
+            take two or three years to play together, to build up and develop their common interests
+            before parenthood. I believe it is harder today for two young people to become adjusted
+            to each other than it ever was in the past. We imagine they are going to live happy ever
+            after, but we know their problems have just begun. It is not, after all, an easy thing
+            for love to grow into the fine thing which it can be. It is not easy to strengthen the
+            bond of love and to submit to that bond of marriage, unless there is time for mutual
+            adjustment. If couples had two years alone together I maintain there would be more happy
+            homes, fewer divorces and the possibility of the girl developing her womanhood before
+            taking the responsibility of motherhood. We really see very little of the love-life of
+            individuals. They are married-- and the next year become parents. The girl goes away on
+            her honeymoon and comes back pregnant, physically and mentally disturbed. The husband
+            has never an opportunity to know her as a woman; he knows her as a girl and then as a
+            mother. I believe it would make for more happy marriages and more permanent ones if the
+            fear of pregnancy could be removed or delayed, and parenthood invited instead of being
+            an unwelcome accident.</p>
+        <p>There are three groups of methods of preventing conception. The first is continence. The
+            only organized religious body that opposes Birth Control does not condemn continence,
+            but regards it as the only permissible method of birth control. The second is
+            sterilization. The third, mechanical means of preventing conception. In our studies of
+            the past five years we have found that continence cannot be a means of general
+            application. Self-control, or continence, is a matter of one’s evolution. Sterilization
+            is bound to play an important part, especially where there are transmissible diseases.
             This remedy is largely in the hands of the medical profession.</p>
-        <p>It is about four years since we had the first birth control clinic in
-            this country. To date, more than ten thousand women, whose histories
-            we have on record, have come to us. Today we can say we know
-            something about birth control. Ten years ago we could not say that.
-            We could only say it had been practiced in <place
-                reg="The Netherlands">Holland</place> and amongst the well-to-do
-            in almost every country, but we had no positive information. We can
-            today say that birth control clinics are doing a splendid thing, not
-            only in giving children a better chance of life but in protecting
-            mothers and reducing the enormous number of abortions. In our
-            records we have 85 percent of the families going upward in the
-            social scale. We know if we can get a woman before she has her
-            fourth child there is every possibility of the husband bettering
-            himself and the children going up the scale, instead of applying for
-            work certificates before the age of fourteen. We know today, on a
-            small scale (for, after all, ten thousand is a small scale) what
-            birth control can do. There are twenty-five clinics in the United
-            States, two in Germany, twenty in England. As to California, there
-            are two in <place reg="Los Angeles, CA">Los Angeles</place>, one in
-                <place reg="Pasadena, CA">Pasadena</place>.</p>
-        <p>In the past thirteen years I have received over a million letters,
-            written mostly by women, sometimes on scraps of wrapping paper. They
-            have found my name somewhere and written to beg for information and
-            help. I have recently taken a cross section of these letters and put
-            them in a book called “<title>Motherhood in Bondage</title>.” If, after reading
-            those letters, you still do not believe in birth control, I think
-            such a person would be hopeless of reason. These are mothers who are
-            asking for means to control the size of their families. And what,
-            after all, are they asking for? For the right to live. For the right
-            to life, liberty and the pursuit of happiness. For the right to know
-            their children and to bring them up decently. For the right also to
-            understand their husbands and to help him, too. These letters tell
-            strange and dramatic stories of life in America, a side of life that
-            is full of suffering and difficulty and that does not reach the
-            public. And have not we paid a tremendous price for their ignorance?
-            Have not these poor mothers paid a price that is staggering? Yet
-            where is the information they need? We are paying for their
-            ignorance in child labor, in infant and maternal mortality, in
-            feeble-mindedness and with the large numbers of the unfit. I think
-            it is time for us to wake up, to make it a right and easy thing for
-            these mothers to obtain information and help of the right kind. We
-            want women to have a chance to develop their own personalities, to
-            rest from incessant child-bearing, to live with the fear of
-            pregnancy removed from marriage. We want children to be born of love
-            and conscious desire and given a heritage of sound bodies and sane
-            minds. We want them to have and to have ourselves bodies that are
-            beautiful, holy, fit instruments for progress towards perfection,
-            temples in which the soul may take its place in the mystery of
+        <p>It is about four years since we had the first birth control clinic in this country. To
+            date, more than ten thousand women, whose histories we have on record, have come to us.
+            Today we can say we know something about birth control. Ten years ago we could not say
+            that. We could only say it had been practiced in <place reg="Netherlands"
+                >Holland</place> and amongst the well-to-do in almost every country, but we had no
+            positive information. We can today say that birth control clinics are doing a splendid
+            thing, not only in giving children a better chance of life but in protecting mothers and
+            reducing the enormous number of abortions. In our records we have 85 percent of the
+            families going upward in the social scale. We know if we can get a woman before she has
+            her fourth child there is every possibility of the husband bettering himself and the
+            children going up the scale, instead of applying for work certificates before the age of
+            fourteen. We know today, on a small scale (for, after all, ten thousand is a small
+            scale) what birth control can do. There are twenty-five clinics in the United States,
+            two in Germany, twenty in England. As to California, there are two in <place
+                reg="Los Angeles, CA">Los Angeles</place>, one in <place reg="Pasadena, CA"
+                >Pasadena</place>.</p>
+        <p>In the past thirteen years I have received over a million letters, written mostly by
+            women, sometimes on scraps of wrapping paper. They have found my name somewhere and
+            written to beg for information and help. I have recently taken a cross section of these
+            letters and put them in a book called “<title type="book">Motherhood in
+            Bondage</title>.” If, after reading those letters, you still do not believe in birth
+            control, I think such a person would be hopeless of reason. These are mothers who are
+            asking for means to control the size of their families. And what, after all, are they
+            asking for? For the right to live. For the right to life, liberty and the pursuit of
+            happiness. For the right to know their children and to bring them up decently. For the
+            right also to understand their husbands and to help him, too. These letters tell strange
+            and dramatic stories of life in America, a side of life that is full of suffering and
+            difficulty and that does not reach the public. And have not we paid a tremendous price
+            for their ignorance? Have not these poor mothers paid a price that is staggering? Yet
+            where is the information they need? We are paying for their ignorance in child labor, in
+            infant and maternal mortality, in feeble-mindedness and with the large numbers of the
+            unfit. I think it is time for us to wake up, to make it a right and easy thing for these
+            mothers to obtain information and help of the right kind. We want women to have a chance
+            to develop their own personalities, to rest from incessant child-bearing, to live with
+            the fear of pregnancy removed from marriage. We want children to be born of love and
+            conscious desire and given a heritage of sound bodies and sane minds. We want them to
+            have and to have ourselves bodies that are beautiful, holy, fit instruments for progress
+            towards perfection, temples in which the soul may take its place in the mystery of
             material being.</p>
     </docBody>
 </doc>

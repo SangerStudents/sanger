@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "file:/S:/TRANSCRIPTIONS/XML%20Drafts/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed draft article">
     <mepHeader>
         <prepDate>2009/07/06 PN</prepDate>
+        <prepDate>2014-03-10 ch CLEAN REGS</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1930-00-00">1930</docDate>
         <docTitle>
@@ -33,7 +34,7 @@
     <docBody>
         <head><del>Should</del>
             <add>Do</add> Women Want Children?</head>
-        <byline>by MS</byline>
+        <byline>by <person reg="Sanger, Margaret">MS</person></byline>
         <p>“<q who="SOC">And what about the procreation of children?</q>” <person>Socrates</person>
             ask this question in one of the dialogues of <person>Plato</person>; <del>but</del>
             <add>and</add> from that day to this men seem to have found no satisfactory answer--no
@@ -55,9 +56,10 @@
             traditional reverence for parenthood, but rather to develop and to intensify the sense
             of its solemn responsibilities.</p>
         <p>Do women want children? I have about come to the conclusion that the only satisfactory
-            answer to such a question is that of the old professor who, likewise confronted with a
-            difficult and practically unanswerable question, said: <q who="UNK">“Yes–-in the sense
-                that they do! And no–-in the sense that they do not!”</q></p>
+            answer to such a question is that of the <person reg="Unknown">old professor</person>
+            who, likewise confronted with a difficult and practically unanswerable question, said:
+                <q who="UNK">“Yes–-in the sense that they do! And no–-in the sense that they do
+                not!”</q></p>
         <p>Some do; some do not. But what all women want--and I have never in my long and varied
             experience found one who did not--is the right to decide for themselves whether they
             shall undertake maternity or not, <del>and how,</del> and where, and when. This <add>is
@@ -69,36 +71,37 @@
             biological role–-his to make the decision. <q who="BAKPO">“I have brought five fine
                 children into the world, at the risk of my own life,”</q> Miss <person
                 reg="Baker, Polly">Polly Baker</person> pleaded before a Court of Judicature in the
-            colony of <place reg="CT">Connecticut</place> in the eighteenth century, some years
-            before the outbreak of the American Revolution. The poor girl was unmarried. Twice she
-            had been compelled to pay heavy fines for being an unmarried mother; and twice she had
-            been publicly whipped for wanting–-and having–-children without benefit of clergy. Now
-            she was before the august court for bringing a fifth child into the world. <q
-                who="BAKPO">“I have maintained them well by my own industry, without burdening the
-                township, and would have done it better, had it not been for the heavy charges and
-                fines I have paid. Can it be a crime–in the nature of things, I mean,”</q> so the
-            indignant Polly Baker went on, <q who="BAKPO">“Can it be a crime to add to the number of
-                the king's subjects, in a new country that really wants inhabitants?</q>” </p>
+            colony of <place>Connecticut</place> in the eighteenth century, some years before the
+            outbreak of the American Revolution. The poor girl was unmarried. Twice she had been
+            compelled to pay heavy fines for being an unmarried mother; and twice she had been
+            publicly whipped for wanting–-and having–-children without benefit of clergy. Now she
+            was before the august court for bringing a fifth child into the world. <q who="BAKPO">“I
+                have maintained them well by my own industry, without burdening the township, and
+                would have done it better, had it not been for the heavy charges and fines I have
+                paid. Can it be a crime–in the nature of things, I mean,”</q> so the indignant Polly
+            Baker went on, <q who="BAKPO">“Can it be a crime to add to the number of the king’s
+                subjects, in a new country that really wants inhabitants?</q>” </p>
         <p>Her only offence was indeed that she had wanted to have children and had had them. It is
-            recounted that Polly Baker's defence of her course was so effective that the Court
+            recounted that Polly Baker’s defence of her course was so effective that the Court
             dispensed with her punishment, and one of the judges married her the next day! They
-            lived happily ever afterwards, the old account states, and Polly's character became
+            lived happily ever afterwards, the old account states, and Polly’s character became
             irreproachable–-she had twenty more children by the Judge! </p>
         <p>Now the case of Polly Baker seems to indicate that woman are willing to suffer disgrace
             and punishment in fulfilling the biblical injunction to increase and multiply. I
             suspect, however, that in her eloquent plea to the colonial court of judicature, poor
             Polly was making a virtue of necessity, and that her plea in defence of free and
-            independent maternity had been composed by some clever <personRef
-                reg="Franklin, Benjamin">male lawyer</personRef>. But that defence, clever as it
-            was, would not be <del>applicable</del>
-            <add>valid</add> today. There is no pressing need to add to the number of the King's
-            subject, nor to that of the American commonwealth. Our country is no longer a young one,
-            nor in need of people, as immigration laws and the unemployment crisis sufficiently
-            indicate. Populations have increased beyond the dream of the ancients. Vast new
-            continents have been discovered and settled. Despite the checks of pestilence and
-            famines and wars, and that of a decreasing birth-rate in all civilized countries, there
-            is no actual decrease in the number of people, but a constant increase. In other words,
-            it is no longer necessary as a racial duty to <q who="BIB">“increase and multiply.”</q>
+            independent maternity had been composed by some clever <person reg="Franklin, Benjamin"
+                >male lawyer</person>. But that defence, clever as it was, would not be
+                <del>applicable</del>
+            <add>valid</add> today. There is no pressing need to add to the number of the <person
+                reg="George V (England)">King</person>’s subject, nor to that of the American
+            commonwealth. Our country is no longer a young one, nor in need of people, as
+            immigration laws and the unemployment crisis sufficiently indicate. Populations have
+            increased beyond the dream of the ancients. Vast new continents have been discovered and
+            settled. Despite the checks of pestilence and famines and wars, and that of a decreasing
+            birth-rate in all civilized countries, there is no actual decrease in the number of
+            people, but a constant increase. In other words, it is no longer necessary as a racial
+            duty to <q who="BIB">“increase and multiply.”</q>
         </p>
         <p>Add to these considerations the significant fact that science is actually lengthening the
             span of life--so that for each individual born into this world the chance of survival
@@ -126,14 +129,14 @@
             fitted to hand on the torch of life to the future generations? </p>
         <p>With their innate genius for visualizing and dramatizing the basic truths of life in
             symbols of telling beauty, the Greeks established the great race torch (or
-            Lampadephoria) in honor of the god <name>Prometheus</name>, who was said to have
-            conferred the gift of the divine fire upon the human race. This race was run at night.
-            The great torches were lighted at the altar of <name>Eros</name>, and the race was run
-            in relays. Each contestant passed on his torch undimmed to his successor. Here is a
-            beautiful and striking symbol of parenthood, the most sacred and the most serious of all
-            human functions. But we should not neglect the full significance of this beautiful
-            ritual. Those who ran the race were fitted by training to carry the lighted torch; to
-            compete in the race was not an honor indiscrimately conferred. It was not a
+            Lampadephoria) in honor of the god <name type="deity">Prometheus</name>, who was said to
+            have conferred the gift of the divine fire upon the human race. This race was run at
+            night. The great torches were lighted at the altar of <name type="">Eros</name>, and the
+            race was run in relays. Each contestant passed on his torch undimmed to his successor.
+            Here is a beautiful and striking symbol of parenthood, the most sacred and the most
+            serious of all human functions. But we should not neglect the full significance of this
+            beautiful ritual. Those who ran the race were fitted by training to carry the lighted
+            torch; to compete in the race was not an honor indiscrimately conferred. It was not a
                 <soCalled>“free for all.”</soCalled>
         </p>
         <p>Today, with the vast amount of sentimentalizing over motherhood and babyhood, and the
@@ -151,11 +154,11 @@
             people who enter parenthood with the sophisticated carelessness with which they might
             enter a speakeasy are usually found quite incapable of coping with the complex problems
             of infant behavior? And is any crime quite so despicable as the ruining or blighting of
-            a child's whole future by the neglect of early discipline? Anthony Trollope may have
+            a child’s whole future by the neglect of early discipline? Anthony Trollope may have
             been unjust in his criticism of American parents; but even today, he is worth repeating
                 <del>in his interrogation</del>
             <add>when he asks</add>: <q who="TROAN">“Can it be, I wonder, that children are happier
-                when they are made to obey orders, and are sent to bed at six o'clock, than when
+                when they are made to obey orders, and are sent to bed at six o’clock, than when
                 allowed regulate their own conduct?”</q> Parenthood does not end with having a baby.
             It merely begins there!</p>
         <p>It may be indeed important, as Floyd Dell claims it is, to seek the road of
@@ -163,7 +166,7 @@
             need not look far afield to come to the realization that the vast majority of fathers
             and mothers in this great country were quite oblivious of any such motives--those or any
             other. Parenthood was thrust upon them--the child was a <q who="DELFL">“little
-                accident”</q> to use Mr. Dell's profitable title. What I have been battling for
+                accident”</q> to use Mr. Dell’s profitable title. What I have been battling for
             these twenty years or more is conscious, responsible parenthood–and more particularly
             consciousness motherhood. And so our intial question: Do Women Want Children? must be
             resolved into its component parts. If and when they do, they must know how, and when and
@@ -184,7 +187,7 @@
             spoken. In spite of the admirable strides made by science and gynecology during this
             century, maternity remains an extremely hazardous occupation in these United States. The
             maternal mortality rate, from all puerperal causes, remains, according to the reports of
-            the <org reg="United States Children's Bureau">Children's Bureau</org> of our federal
+            the <org reg="United States Children's Bureau">Children’s Bureau</org> of our federal
             government, higher than that in any civilized country of the globe; and statistics were
             obtained from no less than twenty-one of these in a recent survey.</p>
 

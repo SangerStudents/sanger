@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed Article">
     <mepHeader>
-        <prepDate>2011-07-15 NC</prepDate>2011/11/14 CH corrected doc type.<prepDate/>
+        <prepDate>2011-07-15 NC</prepDate>
+        <prepDate>2011/11/14 CH corrected doc type.</prepDate>
+        <prepDate>2014-03-30 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
-        <docDate value="1944-05-00"><supplied resp="MSPP">May
-            1944</supplied></docDate>
+        <docDate value="1944-05-00"><supplied resp="MSPP">May 1944</supplied></docDate>
         <docTitle>
             <titlePart>Tomorrow's Children</titlePart>
         </docTitle>
         <idno>msp239372</idno>
         <sourceDesc>
             <bibl>Records of PPFA, Sophia Smith Collection</bibl>
-            <bibl><title>MSM</title>S72:0387</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S72:387</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
@@ -20,269 +21,211 @@
             <name id="UNK">Unknown</name>
             <name id="FORTU">Fortune</name>
             <name id="FAIHE">Fairchild, Henry Pratt</name>
+            <name id="GER">German</name>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>No published version has been found.</p><index
-            level1="Sachs, Sadie (story)"/>
-            <index level1="India" level2="birth control in"/><index level1="Italy"
-            level2="overpopulation and"/><index level1="Japan"
-            level2="birth control in"/>
-        <index level1="Japan" level2="overpopulation and"/><index
-            level1="Germany" level2="birth control in"/><index level1="China"
-            level2="birth control in"/><index level1="birth control"
-            level2="access to" level3="international"/><index
-            level1="birth control" level2="clinics and leagues" level3="in US"
-            /><index level1="birth control" level2="medical community and"
-            /><index level1="physicians" level2="birth control and"/>
+    <headNote resp="MSPP"><p>No published version has been found.</p>
+        <index level1="Sachs, Sadie (story)"/>
+        <index level1="India" level2="birth control in"/>
+        <index level1="Italy" level2="overpopulation and"/>
+        <index level1="Japan" level2="birth control in"/>
+        <index level1="Japan" level2="overpopulation and"/>
+        <index level1="Germany" level2="birth control in"/>
+        <index level1="China" level2="birth control in"/>
+        <index level1="birth control" level2="access to" level3="international"/>
+        <index level1="birth control" level2="clinics and leagues" level3="in US"/>
+        <index level1="birth control" level2="medical community and"/>
+        <index level1="physicians" level2="birth control and"/>
         <index level1="Planned Parenthood Federation of America"/></headNote>
     <docBody>
         <head>Tomorrow's Children</head>
-        <p>“<q who="UPHJO">An award of $500 will be given in 1944 to the
-                scientist who has made the most significant contribution to
-                research in human fertility--either in the control of conception
-                or the correction of sterility.</q>”</p>
-        <p>This announcement of the <name type="award"><person
-                    reg="Lasker, Mary Woodard">Mary Woodard Lasker</person>
-                Award</name> made recently by <person reg="Upham, John H. J."
-                >Dr. J. H. J. Upham</person>, President of the <org>Planned
-                Parenthood Federation of America</org> brought a long forgotten
-            picture to my mind. I was back in the year 1912 in a <place
-                reg="Brooklyn, NY">Brooklyn</place> tenement where I had just
-            watched a <person reg="Sachs, Sadie">young woman</person> die
-            needlessly. She had three young children, whom she and her husband
-            supported with difficulty. The advent of another child would mean
-            deeper poverty, worse circumstances for the half starved youngsters
-            she had already born. Twice she had taken the situation into her own
-            hands. After the first self-induced abortion she had begged me for
-            knowledge I was unable then to give her--how to space her babies,
-            how to gain a little respite to restore her health, to save a little
-            money, so that the next baby wouldn't be a dreadful burden to all of
-            them. The doctor's advice had been that still given cruelly by too
-            many backwoods doctors, “<q who="UNK">Have <person reg="Sachs, Jake"
-                    >Jake</person> sleep on the roof</q>”. It was no joke to
-            this poor woman. As I folded her hands cross her breast, still
-            hearing her pleading voice in my ears, I made a solemn vow. I was
-            resolved to seek out the root of the evil that had destroyed this
-            woman, and so many others, to do something to change the destiny of
+        <p>“<q who="UPHJO">An award of $500 will be given in 1944 to the scientist who has made the
+                most significant contribution to research in human fertility--either in the control
+                of conception or the correction of sterility.</q>”</p>
+        <p>This announcement of the <person reg="Lasker, Mary Woodard">Mary Woodard Lasker</person>
+            Award made recently by <person reg="Upham, John H. J.">Dr. J. H. J. Upham</person>,
+            President of the <org>Planned Parenthood Federation of America</org> brought a long
+            forgotten picture to my mind. I was back in the year 1912 in a <place reg="Brooklyn, NY"
+                >Brooklyn</place> tenement where I had just watched a <person reg="Sachs, Sadie"
+                >young woman</person> die needlessly. She had three young children, whom she and her
+            husband supported with difficulty. The advent of another child would mean deeper
+            poverty, worse circumstances for the half starved youngsters she had already born. Twice
+            she had taken the situation into her own hands. After the first self-induced abortion
+            she had begged me for knowledge I was unable then to give her--how to space her babies,
+            how to gain a little respite to restore her health, to save a little money, so that the
+            next baby wouldn’t be a dreadful burden to all of them. The doctor’s advice had been
+            that still given cruelly by too many backwoods doctors, “<q who="UNK">Have <person
+                    reg="Sachs, Jake">Jake</person> sleep on the roof</q>”. It was no joke to this
+            poor woman. As I folded her hands cross her breast, still hearing her pleading voice in
+            my ears, I made a solemn vow. I was resolved to seek out the root of the evil that had
+            destroyed this woman, and so many others, to do something to change the destiny of
             mothers whose miseries were vast as the sky.</p>
-        <p>That was the beginning of the “birth control movement”. The
-            announcement by Dr. Upham of the award gave me a quick glimpse of
-            how that movement has widened its scope, how far-reaching it has
-            become. Primarily of course it is still concerned with helping
-            others mothers to space their babies healthfully, to make this
-            service part of public health in all <place reg="United States"
-                >states of the union</place>. But beyond that the planned
-            parenthood movement, whose very name indicates its broader range,
-            means better complete maternity cure. It is a part of social
-            welfare, an aid to the minister and the psychiatrist in marriage
-            counseling; it is education for doctors young and old in
-            contraceptive techniques. Also it offers aid to the childless
-            couples who want children to obtain the assistance of medical
-            experts. Some of the more than 800 child spacing services in the
-            country, not only give sterility referral service, but advice
-            concerning the adoption of children. This is planned parenthood in
-            its fullest sense. No one knows better than I the long slow struggle
-            to achieve this recognition in the worlds of medicine, of sociology,
-            of psychiatry, of religion.</p>
-        <p>Less than thirty years ago, the first birth control clinic in America
-            was opened by my <person reg="Byrne, Ethel Higgins">sister</person>,
-            Miss <person reg="Mindell, Fannie">Fannie Mindell</person> and
-            myself in <place reg="Brownsville, NY">Brownsville,
-            Brooklyn</place>, and immediately closed, with all three of us
-            arrested for “Maintaining a public nuisance”. Today seven states
-            have made child spacing part of their state health program with
-            several other states considering this move.</p>
-        <p>Not until 1937 did the <org>American Medical Association</org>
-            officially accept birth control as an integral part of medical
-            practice and education. Since that time however, medical acceptance
-            has increased so much that more than 100,000 physicians, nurses and
-            medical schools have received copies of Dr. <person
-                reg="Dickinson, Robert Latou">R. L. Dickinson</person>'s
-                “<title>Techniques of Conception Control</title>” at their own
-            request, Although courses in medical schools were cut sharply since
-            the war began, 45% of the Grade A medical schools were beginning to
-            give students some instruction in methods of child spacing.</p>
-        <p>The Federation has also become an associate member of the
-                <org>National Health Council</org>, taking its place with the
-            organizations for the control of tuberculosis, cancer and heart
-            disease in the field of preventive medicine.</p>
-        <p>One of the most significant advances planned parenthood has made in
-            recognition by physicians is a report issued by the <org
-                reg="American Medical Association, Council of Pharmacy and Chemistry"
-                >Council of Pharmacy and Chemistry</org>, the first of its kind
-            for the medical profession in the <title>A.M.A. Journal</title>,
-            establishing standards for reliable and effective contraceptives. A
-            study <add>of mechanical devices</add> by the <org
-                reg="American Medical Association, Council on Physical Therapy"
-                >Council on Physical Therapy</org> has also been begun. This is
-            a significant beginning of intelligent regulation for what
-                <title>Fortune</title> once designated as “<q who="FORTU">a
-                250,000,000 legitimate and semi-legitimate industry.</q></p>
-        <p>One of the most important functions of the Federation is now a
-            widespread educational program. It is amazing how many people still
-            speak of planned parenthood scornfully as “<q who="UNK">killing
-                babies</q>”, “<q who="UNK">keeping babies from being born</q>”,
-            as negative “<q who="UNK">prevention</q>”. To bring the truth to
-            people the Federation has available for distribution more than 100
-            pamphlets and reprints, directed toward physicians, social workers,
-            toward minister, toward women in industry, toward the average
-            mother. One of the most interesting of the pamphlets is called
-                “<title>Better Health for Thirteen Million</title>” including
-            the results of a two year experiment to demonstrate the need of
-            child spacing for Negro mothers to help reduce pitifully high death
-            rates of mothers and newborn babies, to help raise health and living
-            standards of depressed members of this race.</p>
-        <p>There are psychiatric pamphlets written for lay use to demonstrate
-            the emotional harm to an individual and through him to society of
-            the status of being “unwanted.”</p>
-        <p>Requests for aid and literature from professional groups in 1943
-            alone came from 1,959 clergymen, from 3,216 social workers, from
-            almost 50,000 doctors, and 19,295 nurses.</p>
-        <p>Results of a recent <title>Fortune</title> Poll have been publicized
-            to show the ever increasing recognition of and desire for planned
-            parenthood among American women. Of the women in child bearing ages
-            questioned, <del>84%</del>
-            <add>84.9%</add> wanted child spacing made part of public health and
-            of the Roman Catholic women questioned 69% declared themselves
-            favoring planned parenthood.</p>
-        <p>Increasing stress is being laid on that very positive phase of
-            planned parenthood, help for the one in ten childless couples who
-            believe themselves to be sterile. The <org
-                reg="Margaret Sanger Research Bureau">Margaret Sanger
-                Bureau</org>, oldest in the country, which recently celebrated
-            its twentieth anniversary, has been giving sterility referral
-            service since it opened, estimating that an average of two women a
-            day have asked for this advice. The women are referred to doctors or
-            clinics within their means and the bureau keeps a record of
-            successes and failures. Almost all the happy women who ultimately
-            bear babies telephone the Bureau and report the joyous event, for
-            mutual congratulations.</p>
-        <p>Dr. <person reg="Stone, Abraham">Abraham Stone</person>, Medical
-            Director of the Bureau and author, with his late wife, <person
-                reg="Stone, Hannah Mayer">Hannah Stone</person> of the Perennial
-            best-seller, “<title>A Marriage Manual</title>” had a recent request
-            which he believes tops everything in unique requests from childless
-            couples. A young woman whose husband is fighting in
-                <place>Italy</place> wrote asking if it would be scientifically
-            and medically possible for her to be artificially inseminated by her
-            husband, so that she could bear a baby in his absence and be sure of
-            having a child by him in the event he never returned to her.
-            Unfortunately science and public opinion have not advanced
-            sufficiently to help the young woman and her soldier husband.</p>
-        <p>There was another incident at the annual meeting of the Federation
-            last January at the <org reg="Waldorf-Astoria Hotel"
-                >Waldorf-Astoria</org> in <place reg="New York, NY">New
-                York</place>. During the impressive luncheon meeting one of the
-            doctors was paged and called from the dining room. Reporters were
-            eager to know if she was called for the birth of an infant. Later
-            she said it was even more planned parenthood than that. A sterility
-            patient believed the ovulation was occurring and wanted to be
-            artificially inseminated immediately, feeling that she couldn't even
-            wait for the doctor to finish her luncheon.</p>
-        <p>It has been estimated that in spite of the difficulties, the expanse
-            and frequent failures of this last resort in the case of a fertile
-            wife and sterile but acquiescent husband, there are many more than
-            10,000 babies in this country, carefully guarded in secrecy who owe
-            their much wanted existances to artificial insemination.</p>
-        <p>Dr. Stone who is receiving registrations for the contestants for the
-                <name type="award">Lasker award</name> said that among those who
-            have applied are many outstanding scientists who have worked in the
-            field of sterility as well as contraception. The idea of the award
-            is to recognize with a prize any important scientific contribution
-            to our understanding of the physiology or control of reproduction.
-            He doesn't expect an improved contraceptive, although that would be
-            welcome indeed, but primarily an increase of our understanding of
-            the processes involved in reproduction, which might aid us in
-            controlling human fertility, either through prevention of conception
-            or cure of sterility.</p>
-        <p>An example of the type of knowledge that might come to light through
-            the contest, is the recent application of the temperature curve to
-            determine the exact period of ovulation. Knowledge of the exact time
-            of ovulation can be helpful both for those who wish to control
-            conception and also for those who want to become pregnant. The
-            contest should also help further research in a subject which has
-            always lagged behind other major branches of preventive medicine in
-            research. This has been due to pressures, to misunderstanding of
-            motives, to the general hush hush attitude of anything pertaining to
+        <p>That was the beginning of the “birth control movement”. The announcement by Dr. Upham of
+            the award gave me a quick glimpse of how that movement has widened its scope, how
+            far-reaching it has become. Primarily of course it is still concerned with helping
+            others mothers to space their babies healthfully, to make this service part of public
+            health in all <place reg="United States">states of the union</place>. But beyond that
+            the planned parenthood movement, whose very name indicates its broader range, means
+            better complete maternity cure. It is a part of social welfare, an aid to the minister
+            and the psychiatrist in marriage counseling; it is education for doctors young and old
+            in contraceptive techniques. Also it offers aid to the childless couples who want
+            children to obtain the assistance of medical experts. Some of the more than 800 child
+            spacing services in the country, not only give sterility referral service, but advice
+            concerning the adoption of children. This is planned parenthood in its fullest sense. No
+            one knows better than I the long slow struggle to achieve this recognition in the worlds
+            of medicine, of sociology, of psychiatry, of religion.</p>
+        <p>Less than thirty years ago, the first birth control clinic in America was opened by my
+                <person reg="Byrne, Ethel Higgins">sister</person>, Miss <person
+                reg="Mindell, Fania">Fannie Mindell</person> and myself in Brownsville, Brooklyn,
+            and immediately closed, with all three of us arrested for “Maintaining a public
+            nuisance”. Today seven states have made child spacing part of their state health program
+            with several other states considering this move.</p>
+        <p>Not until 1937 did the <org>American Medical Association</org> officially accept birth
+            control as an integral part of medical practice and education. Since that time however,
+            medical acceptance has increased so much that more than 100,000 physicians, nurses and
+            medical schools have received copies of Dr. <person reg="Dickinson, Robert Latou">R. L.
+                Dickinson</person>’s “<title>Techniques of Conception Control</title>” at their own
+            request, Although courses in medical schools were cut sharply since the war began, 45%
+            of the Grade A medical schools were beginning to give students some instruction in
+            methods of child spacing.</p>
+        <p>The Federation has also become an associate member of the <org>National Health
+                Council</org>, taking its place with the organizations for the control of
+            tuberculosis, cancer and heart disease in the field of preventive medicine.</p>
+        <p>One of the most significant advances planned parenthood has made in recognition by
+            physicians is a report issued by the <org
+                reg="American Medical Association, Council of Pharmacy and Chemistry">Council of
+                Pharmacy and Chemistry</org>, the first of its kind for the medical profession in
+            the <title type="journal">A.M.A. Journal</title>, establishing standards for reliable
+            and effective contraceptives. A study <add>of mechanical devices</add> by the <org
+                reg="American Medical Association, Council on Physical Therapy">Council on Physical
+                Therapy</org> has also been begun. This is a significant beginning of intelligent
+            regulation for what <title type="journal">Fortune</title> once designated as “<q
+                who="FORTU">a 250,000,000 legitimate and semi-legitimate industry.</q></p>
+        <p>One of the most important functions of the Federation is now a widespread educational
+            program. It is amazing how many people still speak of planned parenthood scornfully as
+                “<q who="UNK">killing babies</q>”, “<q who="UNK">keeping babies from being
+            born</q>”, as negative “<q who="UNK">prevention</q>”. To bring the truth to people the
+            Federation has available for distribution more than 100 pamphlets and reprints, directed
+            toward physicians, social workers, toward minister, toward women in industry, toward the
+            average mother. One of the most interesting of the pamphlets is called “<title
+                type="book">Better Health for Thirteen Million</title>” including the results of a
+            two year experiment to demonstrate the need of child spacing for Negro mothers to help
+            reduce pitifully high death rates of mothers and newborn babies, to help raise health
+            and living standards of depressed members of this race.</p>
+        <p>There are psychiatric pamphlets written for lay use to demonstrate the emotional harm to
+            an individual and through him to society of the status of being “unwanted.”</p>
+        <p>Requests for aid and literature from professional groups in 1943 alone came from 1,959
+            clergymen, from 3,216 social workers, from almost 50,000 doctors, and 19,295 nurses.</p>
+        <p>Results of a recent <title type="journal">Fortune</title> Poll have been publicized to
+            show the ever increasing recognition of and desire for planned parenthood among American
+            women. Of the women in child bearing ages questioned, <del>84%</del>
+            <add>84.9%</add> wanted child spacing made part of public health and of the Roman
+            Catholic women questioned 69% declared themselves favoring planned parenthood.</p>
+        <p>Increasing stress is being laid on that very positive phase of planned parenthood, help
+            for the one in ten childless couples who believe themselves to be sterile. The <org
+                reg="Margaret Sanger Research Bureau">Margaret Sanger Bureau</org>, oldest in the
+            country, which recently celebrated its twentieth anniversary, has been giving sterility
+            referral service since it opened, estimating that an average of two women a day have
+            asked for this advice. The women are referred to doctors or clinics within their means
+            and the bureau keeps a record of successes and failures. Almost all the happy women who
+            ultimately bear babies telephone the Bureau and report the joyous event, for mutual
+            congratulations.</p>
+        <p>Dr. <person reg="Stone, Abraham">Abraham Stone</person>, Medical Director of the Bureau
+            and author, with his late wife, <person reg="Stone, Hannah Mayer">Hannah Stone</person>
+            of the Perennial best-seller, “<title type="book">A Marriage Manual</title>” had a
+            recent request which he believes tops everything in unique requests from childless
+            couples. A young woman whose husband is fighting in <place>Italy</place> wrote asking if
+            it would be scientifically and medically possible for her to be artificially inseminated
+            by her husband, so that she could bear a baby in his absence and be sure of having a
+            child by him in the event he never returned to her. Unfortunately science and public
+            opinion have not advanced sufficiently to help the young woman and her soldier
+            husband.</p>
+        <p>There was another incident at the annual meeting of the Federation last January at the
+                <org reg="Waldorf-Astoria Hotel">Waldorf-Astoria</org> in <place reg="New York, NY"
+                >New York</place>. During the impressive luncheon meeting one of the doctors was
+            paged and called from the dining room. Reporters were eager to know if she was called
+            for the birth of an infant. Later she said it was even more planned parenthood than
+            that. A sterility patient believed the ovulation was occurring and wanted to be
+            artificially inseminated immediately, feeling that she couldn’t even wait for the doctor
+            to finish her luncheon.</p>
+        <p>It has been estimated that in spite of the difficulties, the expanse and frequent
+            failures of this last resort in the case of a fertile wife and sterile but acquiescent
+            husband, there are many more than 10,000 babies in this country, carefully guarded in
+            secrecy who owe their much wanted existances to artificial insemination.</p>
+        <p>Dr. Stone who is receiving registrations for the contestants for the Lasker award said
+            that among those who have applied are many outstanding scientists who have worked in the
+            field of sterility as well as contraception. The idea of the award is to recognize with
+            a prize any important scientific contribution to our understanding of the physiology or
+            control of reproduction. He doesn’t expect an improved contraceptive, although that
+            would be welcome indeed, but primarily an increase of our understanding of the processes
+            involved in reproduction, which might aid us in controlling human fertility, either
+            through prevention of conception or cure of sterility.</p>
+        <p>An example of the type of knowledge that might come to light through the contest, is the
+            recent application of the temperature curve to determine the exact period of ovulation.
+            Knowledge of the exact time of ovulation can be helpful both for those who wish to
+            control conception and also for those who want to become pregnant. The contest should
+            also help further research in a subject which has always lagged behind other major
+            branches of preventive medicine in research. This has been due to pressures, to
+            misunderstanding of motives, to the general hush hush attitude of anything pertaining to
             sex.</p>
-        <p>The date for the award has been extended to December 31st, 1944. Any
-            scientist anywhere in the world will be eligible. In addition, a
-            number of plaques will be granted to others who have done important
-            work in this field, to signalize their achievements. A distinguished
-            panel of medical men who will judge the works submitted, include,
-            besides Dr. Stone, Dr. <person reg="Pierson, Richard N.">Richard N.
-                Pierson</person>, Dr. Robert L. Dickinson, Dr. <person
-                reg="Eastman, Nicholson J.">Nicholson J. Eastman</person>, and
+        <p>The date for the award has been extended to December 31st, 1944. Any scientist anywhere
+            in the world will be eligible. In addition, a number of plaques will be granted to
+            others who have done important work in this field, to signalize their achievements. A
+            distinguished panel of medical men who will judge the works submitted, include, besides
+            Dr. Stone, Dr. <person reg="Pierson, Richard N.">Richard N. Pierson</person>, Dr. Robert
+            L. Dickinson, Dr. <person reg="Eastman, Nicholson J.">Nicholson J. Eastman</person>, and
             Dr. <person reg="Portis, S. Bernard">S. Bernard Portis</person>.</p>
-        <p>Another contest closing June 15th, and sponsored by the <org>Virginia
-                League for Planned Parenthood</org> emphasizes a very important
-            function of planned parenthood, the need for it as part of our world
-            post-war planning, the need to bring it to those fast-producing
-            countries which are continually threatening to bursting their
-            borders and being brought back in check by famine, disaster and war.
-            The subject of this essay contest is “<title>Planned Parenthood: its
-                Contribution to Lasting Peace</title>”.</p>
-        <p>It will avail us nothing in the end if we bring help to mothers and
-            fathers in America, if we maintain a favorable balance between
-            population and resources here, and allow other countries,
-            particularly those in the far east to go on breeding
-            indiscriminately. The men who dictate the peace terms will have to
-            remember this, to compel <place>Japan</place>,
-                <place>Germany</place> and Italy to control their birthrates, to
-            prevent the three nations from throwing the world into war again in
-            another twenty years with the cry of “<foreign lang="German"
-                >lebensraum</foreign>”.</p>
-        <p>The Japanese militarists as far back as 1921 were fighting
-            dissemination of birth control information, fearful that a lowered
-            birth rate would block their plans for war.</p>
-        <p>Help must be given to <place>China</place>, to <place>India</place>,
-            to prevent the horror of famine and suffering. The need for such
-            effort will be even greater once industrialization and subsequent
-            improvement in sanitation reduce the high mortality and morbidity
-            rates and in turn contribute to excessive population increases.</p>
-        <p>It is true that some contraceptive supplies are being sent even now
-            to stricken lands for the relief of war-weary mothers there. And all
-            indices point to the fact that among thoughtful leaders of the
-            postwar era there will be increasing awareness of the need of making
-            birth control available through national and international health
-            programs directed toward safeguarding the health and lives of the
-            children to be born into the next world generation.</p>
-        <p>The 1943 annual meeting of the Federation stressed this fact, with
-            the dinner theme “<title>Is Overpopulation a Threat to Permanent
-                Peace</title>”, the discussion including America's leasing
-            demographers, among them, Dr. <person reg="Fairchild, Henry Pratt"
-                >Henry Pratt Fairchild</person>, of <org>New York
-                University</org>, Dr. <person reg="Thompson, Warren S.">Warren
-                S. Thompson</person> of the <org>Scripps Foundation of Research
-                in Population Problems</org>, Dr. <person reg="Notestein, Frank"
-                >Frank Notestein</person> of <org>Princeton
+        <p>Another contest closing June 15th, and sponsored by the <org>Virginia League for Planned
+                Parenthood</org> emphasizes a very important function of planned parenthood, the
+            need for it as part of our world post-war planning, the need to bring it to those
+            fast-producing countries which are continually threatening to bursting their borders and
+            being brought back in check by famine, disaster and war. The subject of this essay
+            contest is “<title type="article">Planned Parenthood: its Contribution to Lasting Peace</title>”.</p>
+        <p>It will avail us nothing in the end if we bring help to mothers and fathers in America,
+            if we maintain a favorable balance between population and resources here, and allow
+            other countries, particularly those in the far east to go on breeding indiscriminately.
+            The men who dictate the peace terms will have to remember this, to compel
+                <place>Japan</place>, <place>Germany</place> and Italy to control their birthrates,
+            to prevent the three nations from throwing the world into war again in another twenty
+            years with the cry of “<foreign lang="GER">lebensraum</foreign>”.</p>
+        <p>The Japanese militarists as far back as 1921 were fighting dissemination of birth control
+            information, fearful that a lowered birth rate would block their plans for war.</p>
+        <p>Help must be given to <place>China</place>, to <place>India</place>, to prevent the
+            horror of famine and suffering. The need for such effort will be even greater once
+            industrialization and subsequent improvement in sanitation reduce the high mortality and
+            morbidity rates and in turn contribute to excessive population increases.</p>
+        <p>It is true that some contraceptive supplies are being sent even now to stricken lands for
+            the relief of war-weary mothers there. And all indices point to the fact that among
+            thoughtful leaders of the postwar era there will be increasing awareness of the need of
+            making birth control available through national and international health programs
+            directed toward safeguarding the health and lives of the children to be born into the
+            next world generation.</p>
+        <p>The 1943 annual meeting of the Federation stressed this fact, with the dinner theme
+                “<title type="article">Is Overpopulation a Threat to Permanent Peace</title>”, the discussion
+            including America’s leasing demographers, among them, Dr. <person
+                reg="Fairchild, Henry Pratt">Henry Pratt Fairchild</person>, of <org>New York
+                University</org>, Dr. <person reg="Thompson, Warren S.">Warren S. Thompson</person>
+            of the <org>Scripps Foundation of Research in Population Problems</org>, Dr. <person
+                reg="Notestein, Frank">Frank Notestein</person> of <org>Princeton
             University</org>.</p>
-        <p>Dr. Fairchild called attention to the graphic example of what havoc
-            uncontrolled human reproduction can create. “<q who="FAIHE">The
-                recent horror in India shows all too clearly what can happen in
-                a country where an uncontrolled birth rate is out of proportion
-                to the country's resources. In ten years India has added
-                52,000,000 people to its population. The best developed and
-                resourceful country in the world could not experience such an
-                increase as that without facing extreme disaster whenever an
-                emergency situation such as that created by the present war,
-                arose.</q>”</p>
-        <p>It was further pointed out that <place reg="Soviet Union">Soviet
-                Russia</place> enjoyed the highest white birth rate in the
-            world, despite the fact that contraceptive information has never
-            been denied to any of its people, and in fact that the people of
-            Russia are encouraged to plan their families intelligently. <place
-                reg="The Netherlands">Holland</place> and <place>Sweden</place>
-            and other forward-looking countries were demonstrating the
-            advantages of freely given contraceptive advice when war descended
-            on them.</p>
-        <p>The vision which began that day at dawn in a tenement, with the
-            needless sacrifice of a young woman who had begged for the knowledge
-            that was her right, won't be fully realized until every mother in
-            the world is given the right to plan her children intelligently and
-            healthfully.</p>
-
-
-
+        <p>Dr. Fairchild called attention to the graphic example of what havoc uncontrolled human
+            reproduction can create. “<q who="FAIHE">The recent horror in India shows all too
+                clearly what can happen in a country where an uncontrolled birth rate is out of
+                proportion to the country’s resources. In ten years India has added 52,000,000
+                people to its population. The best developed and resourceful country in the world
+                could not experience such an increase as that without facing extreme disaster
+                whenever an emergency situation such as that created by the present war,
+            arose.</q>”</p>
+        <p>It was further pointed out that <place reg="Soviet Union">Soviet Russia</place> enjoyed
+            the highest white birth rate in the world, despite the fact that contraceptive
+            information has never been denied to any of its people, and in fact that the people of
+            Russia are encouraged to plan their families intelligently. <place reg="Netherlands"
+                >Holland</place> and <place>Sweden</place> and other forward-looking countries were
+            demonstrating the advantages of freely given contraceptive advice when war descended on
+            them.</p>
+        <p>The vision which began that day at dawn in a tenement, with the needless sacrifice of a
+            young woman who had begged for the knowledge that was her right, won’t be fully realized
+            until every mother in the world is given the right to plan her children intelligently
+            and healthfully.</p>
     </docBody>
 </doc>

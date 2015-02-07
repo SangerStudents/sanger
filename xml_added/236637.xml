@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed article">
     <mepHeader>
         <prepDate>2009/07/20 LL</prepDate>
         <prepDate>2009/07/22 LL Entered Corrections</prepDate>
         <prepDate>2011/06/06 EK checked index</prepDate>
+        <prepDate>2014-03-18 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1931-00-00">1931</docDate>
         <docTitle>
@@ -13,35 +14,36 @@
         <idno>msp236637</idno>
         <sourceDesc>
             <bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
-            <bibl><title>MSM</title> S71:243.</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title>, S71:243.</bibl>
         </sourceDesc>
         <respStmt>
-            <name id="PIU">Pope Pius XI</name>
+            <name id="PIU">Pius XI, Pope</name>
             <name id="INGWR">Inge, WWilliam Ralph</name>
             <name id="AUGST">St. Augustine</name>
-            <name id="BIB">The Bible</name>
-            <name id="JES">Jesus</name>
+            <name id="BIB">Bible</name>
+            <name id="JES">Jesus Christ</name>
             <name id="CHEGK">Chesterton, G. K.</name>
             <name id="BCCRB">Birth Control Clinical Research Bureau</name>
             <name id="HOOHE">Hoover, Herbert</name>
-            <name id="NYSCA">New York State Court of Appeals</name>
-            <name id="USCC">U.S. Criminal Code</name>
+            <name id="CRAFR">Crane, Frederick E.</name>
+            <name id="USCC">United States Criminal Code</name>
             <name id="FOSHA">Fosdick, Harry Emerson</name>
-            <name id="GILFR">Frederick, Gillett</name>
-            <name id="DARCL">Clarence Darrow</name>
+            <name id="GILFR">Gillett, Frederick</name>
+            <name id="DARCL">Darrow, Clarence</name>
             <name id="MATST">St. Matthew</name>
             <name id="MARST">St. Mark</name>
-            <name id="sec211">U.S. Criminal Code</name>
+            <name id="sec211">United States Criminal Code, Section 211</name>
         </respStmt>
     </mepHeader>
     <headNote resp="MSPP">
-        <p>Sanger issued this article in response to the Dec. 30, 1930 "Casti Connubi" of Pope Pius
-            XI. For an earlier draft, see a <org rend="Birth Control Clinical Research Bureau"
-                >BCCRB</org> press release, Jan. 13, 1931 [MSM 6:399].</p>
-        <p>For a related more measured response, see "The Pope's Position on Birth Control" <emph
-                rend="italics">The Nation</emph> Jan. 27, 1932, pp. 102-104.</p>
+        <p><person reg="Sanger, Margaret">Sanger</person> issued this article in response to the
+            Dec. 30, 1930 "<title type="book">Casti Connubi</title>" of Pope Pius XI. For an earlier
+            draft, see a <org rend="Birth Control Clinical Research Bureau">BCCRB</org> press
+            release, Jan. 13, 1931, Margaret Sanger Microfilm S6:399.</p>
+        <p>For a related more measured response, see "<title type="article">The Pope's Position on
+                Birth Control</title>" <title type="journal">The Nation</title> Jan. 27, 1932, pp.
+            102-104.</p>
         <index level1="Catholic Church" level2="birth control and abortion and"/>
-        <index level1="Pope Piux XI" level2="Encyclical letter by"/>
         <index level1="birth control" level2="religion and"/>
         <index level1="birth control" level2="response to the Pope's statements on"/>
         <index level1="birth control" level2="morality of"/>
@@ -67,9 +69,6 @@
         <index level1="Brownsville Clinic" level2="raid and trials"/>
         <index level1="conferences" level2="Lambeth Conference" level3="1930"/>
         <index level1="sexual desire"/>
-        <index level1="St. Augustine"/>
-        <index level1="St. Matthew"/>
-        <index level1="St. Mark"/>
     </headNote>
 
     <docBody>
@@ -78,21 +77,21 @@
         <byline>by Margaret Sanger</byline>
         <div type="section">
             <p> The steady advance of the birth control movement can only receive fresh impetus from
-                the new interest which has been aroused by the attack of Pope <person>Pius
-                    XI</person>.</p>
-            <p>His encyclical letter, “<title>Of chaste marriage</title>,” made public in January,
-                1931, aims to regulate the conjugal affairs of Catholic men and women, without the
-                benefit of science, and according to theories written by <person>St.
+                the new interest which has been aroused by the attack of Pope <person
+                    reg="Pius XI (Pope)">Pius XI</person>.</p>
+            <p>His encyclical letter, “<title type="book">Of Chaste Marriage</title>,” made public
+                in January, 1931, aims to regulate the conjugal affairs of Catholic men and women,
+                without the benefit of science, and according to theories written by <person>St.
                     Augustine</person>, also a bachelor, who died fifteen centuries ago. The Pope
                 makes it perfectly plain that Catholics are expected to give up health, happiness,
                 and life itself while making every other conceivable sacrifice rather than to have
-                dominion over nature's processes of procreation. His letter denies that any claims
+                dominion over nature’s processes of procreation. His letter denies that any claims
                 of poverty, sickness, or other hindrances to proper rearing of children are valid
                 reasons for the scientific limitation of offspring. As for the breeding of criminal,
                 diseased, feeble-minded, and insane classes, the Pope opposes every method of
                 control except that of suggesting to these unfortunate people to please not do it
                 any more.</p>
-            <p>One must deplore the fact that Pope Pius should have chosen this time of the world's
+            <p>One must deplore the fact that Pope Pius should have chosen this time of the world’s
                 distress from unemployment, poverty, and economic maladjustment to advertise
                 doctrines and advise conduct which can only tend to aggravate that distress. But the
                 reason for his outburst is no secret.</p>
@@ -115,16 +114,16 @@
             <p>Since it is not the purpose of this reply to enter upon theological discussion-- for
                 I believe people have a right to worship in their own way, providing they do not
                 impose their doctrines upon me-- I shall merely mention in passing that Pope Pius
-                alludes to himself as one “<q who="PIU">whom the Father has appointed over His
-                    field,</q>” and holds that the <org>Catholic Church</org> is the only authorized
-                guardian and interpreter of a “<soCalled>Divine law</soCalled>” applying to
-                marriage. We consider it highly significant in this connection that there are
-                Catholic women among the very human mortals who come to the <org>Birth Control
-                    Clinical Research Bureau</org>, in <place reg="New York, NY">New York</place>,
-                to seek information about contraceptive measures. In fact, the records of the Bureau
-                show that Catholics are as eager for help as persons of either Jewish or Protestant
-                confessions, the distribution being about one-third for each of the three religious
-                groups.</p>
+                alludes to himself as one “<q who="PIU">whom <name type="deity">the Father</name>
+                    has appointed over His field,</q>” and holds that the <org
+                    reg="Roman Catholic Church">Catholic Church</org> is the only authorized
+                guardian and interpreter of a “Divine law” applying to marriage. We consider it
+                highly significant in this connection that there are Catholic women among the very
+                human mortals who come to the <org>Birth Control Clinical Research Bureau</org>, in
+                    <place reg="New York, NY">New York</place>, to seek information about
+                contraceptive measures. In fact, the records of the Bureau show that Catholics are
+                as eager for help as persons of either Jewish or Protestant confessions, the
+                distribution being about one-third for each of the three religious groups.</p>
         </div>
         <div type="section">
             <head type="sub">Converts to Scientific Control</head>
@@ -132,19 +131,19 @@
                 families is a phenomenon that has so impressed non-Catholic social and religious
                 leaders who were formerly opposed to the movement that they have been taking thought
                 individually and in groups. As a result they have been changing their conduct to fit
-                the new needs. Witness <org>the Church of <place>England</place></org>. <name
-                    type="conference">The Lambeth Conference</name> of 320 Anglican Bishops, from
-                every quarter of the world, held during the summer of 1930, gave sanction to the use
-                of contraceptives under circumstances determined by moral and medical advisers in
-                the interests both of the individual and the community. Writing about this
-                Conference, the Very Reverend <person reg="Inge, William Ralph">W. R. Inge</person>,
-                Dean of <org>St. Paul's Cathedral</org>, <place reg="London, England">
-                    London</place>, says in an article published last year in the <title>Atlantic
-                    Monthly</title>:</p>
-            <p>“<q who="inge">I shall take the position of the bishops, that control of conception
+                the new needs. Witness <org>the Church of <place>England</place></org>. The <org>
+                    Lambeth Conference</org> of 320 Anglican Bishops, from every quarter of the
+                world, held during the summer of 1930, gave sanction to the use of contraceptives
+                under circumstances determined by moral and medical advisers in the interests both
+                of the individual and the community. Writing about this Conference, the Very
+                Reverend <person reg="Inge, William Ralph">W. R. Inge</person>, Dean of <org>St.
+                    Paul’s Cathedral</org>, <place reg="London, England"> London</place>, says in an
+                article published last year in the <title type="journal">Atlantic
+                Monthly</title>:</p>
+            <p>“<q who="INGE">I shall take the position of the bishops, that control of conception
                     cannot be condemned absolutely, without regard to the motives which lead men and
                     women to adopt it. There is no doubt that the movement has, in popular phrase,
-                        '<soCalled>come to stay</soCalled>.'</q>”</p>
+                    ‘come to stay.’</q>”</p>
             <p>Other religious and social groups that have expressed themselves, with more or less
                 reservation, as sanctioning scientific birth control are: the <org>Conference of
                     Congregational Churches of <place>Connecticut</place></org>; the <org>the
@@ -156,14 +155,14 @@
                     of American Rabbis</org> (<place reg="Baltimore, MD">Baltimore</place>); the
                     <org reg="Ethical Culture Society, Leiglstive Committee">Legislative Committee
                     of the Ethical Culture Society</org>; <add>the</add><org>City Federation of
-                    Women's Clubs, <place reg="New York, NY">New York</place></org>; <add>the
+                    Women’s Clubs, <place reg="New York, NY">New York</place></org>; <add>the
                     </add><org>League of Women Voters, <place>New York City</place></org>; the
                     <org>New York League of Women Workers</org>; the <org>Junior League of New
-                    York</org>; <add>the </add><org><place>New Jersey</place> Women's Republican
+                    York</org>; <add>the </add><org><place>New Jersey</place> Women’s Republican
                     Club</org>; the <org reg="Federation for Child Study Legislative Committee"
                     >Legislative Committee of the Federation for Child Study</org>. Numerous medical
-                societies, notably the <org> British Medical Association</org>, have endorsed the
-                birth control movement.</p>
+                societies, notably the British Medical Association, have endorsed the birth control
+                movement.</p>
         </div>
         <div type="section">
             <head type="sub">Thinking Backward to the Dark Ages</head>
@@ -181,8 +180,8 @@
                 to the poor women who come to our birth control clinics.</p>
         </div>
         <div type="section">
-            <head type="sub">Weakness in the Pope's Argument</head>
-            <p>Turning to specific points discussed in the Pope's encyclical, I think I can show
+            <head type="sub">Weakness in the Pope’s Argument</head>
+            <p>Turning to specific points discussed in the Pope’s encyclical, I think I can show
                 that he has made certain admissions which weaken, if they do not refute, his whole
                 argument against contraception. I find a vague reference to the old Catholic theory
                 that sexual desire is itself a taint of original sin. This is the passage:</p>
@@ -215,8 +214,7 @@
             <p>Thus we see that even good Catholics are not always forbidden to perform the sexual
                 act for other purposes than procreation. The demand of sexual nature may be
                 satisfied, according to the passage quoted, in cases of barrenness, sterility, after
-                the woman has already become pregnant, or after the “<soCalled>change of
-                    life</soCalled>.”</p>
+                the woman has already become pregnant, or after the “change of life.”</p>
             <p>It would be interesting to know whether or not the Pope thinks that husband and wife
                 under other circumstances than those above listed ought to limit their sexual life
                 to a single act for each pregnancy on the theory that the act is only for
@@ -224,9 +222,9 @@
                 themselves to one act (assuming fruitfulness) and one child every year or two?
                 Evidently the Pope has enough sense of humor not to tackle this phase of his moral
                 problem. Common sense, however, tells us that here again the Catholics themselves
-                permit a vast disproportion between the comparatively great number of
-                    “<soCalled>quietings of concupiscence</soCalled>” and the comparatively small
-                number of resulting pregnancies.</p>
+                permit a vast disproportion between the comparatively great number of “<q who="PIU"
+                    >quietings of concupiscence</q>” and the comparatively small number of resulting
+                pregnancies.</p>
         </div>
         <div type="section">
             <head type="sub">The Separation of Purposes</head>
@@ -236,7 +234,7 @@
                 always unaccompanied by a wish that this particular act be the begetting of a child.
                 We declare, therefore, that there is nothing whatsoever unnatural in the conduct of
                 married couples who deliberately respond to the sexual urge on some occasions for
-                the “<soCalled>cultivating of mutual love</soCalled>” and on other occasions for the
+                the “<q who="PIU">cultivating of mutual love</q>” and on other occasions for the
                 same purpose plus the intention of begetting children.</p>
             <p>What the Pope has admitted negatively under certain circumstances, we, the advocates
                 of scientific birth control, proclaim to husbands and wives for any circumstances
@@ -246,11 +244,11 @@
         <div type="section">
             <head type="sub">How Many Children?</head>
             <p>Now comes the question of how many children there should be in a family. There is a
-                Biblical story of how <name>God</name> told the creatures of the sea to “<q
-                    who="BIB">increase and multiply and fill the waters</q>,” and how He told
+                Biblical story of how <name type="deity">God</name> told the creatures of the sea to
+                    “<q who="BIB">increase and multiply and fill the waters</q>,” and how He told
                     <person>Adam</person> and <person>Eve</person> to “<q who="BIB">increase and
                     multiply and fill the earth</q>.” The population movement which then started got
-                a terrific setback in God's Great Flood, but we are told that He gave exactly the
+                a terrific setback in God’s Great Flood, but we are told that He gave exactly the
                 same command to <person>Noah</person> and his family group-- “<q who="BIB">Increase
                     and multiply and fill the earth.”</q> The Pope quotes the Adam and Eve part of
                 this story together with the endorsement of the good St. Augustine, who died a
@@ -262,7 +260,7 @@
                     only to propagate and preserve the human race on earth, indeed not only to
                     educate any kind of worshipers of the true God, but children who are to become
                     members of the Church of Christ, to raise up fellow-citizens of the saints and
-                    members of God's household, that the worshippers of God and our Savior may daily
+                    members of God’s household, that the worshippers of God and our Savior may daily
                     increase.</q>”</p>
             <p>Repeating these two points in everyday language, the Pope commands married women to
                 bear numerous children, a. To fill the earth, and, b. To increase the membership in
@@ -274,15 +272,15 @@
                 control except continence, a method which the feeble-minded, insane and criminal
                 people will not use.</p>
             <p>If God is interested in numbers rather than in quality of people, if He wants what
-                business men call a “<soCalled>rapid turnover</soCalled>,” and if he prefers
-                children to adults in the Heavenly choir of praise, then indiscriminate breeding of
-                human beings is indicated. It is a well known fact that those races or groups of
-                people which have the greatest number of births per mother also have the greatest
-                infant mortality. And as for the character of those who survive, remember what
-                    <name>Jesus</name> said in the Sermon on the Mount, “<q who="JES">Do men gather
+                business men call a “rapid turnover,” and if he prefers children to adults in the
+                Heavenly choir of praise, then indiscriminate breeding of human beings is indicated.
+                It is a well known fact that those races or groups of people which have the greatest
+                number of births per mother also have the greatest infant mortality. And as for the
+                character of those who survive, remember what <person reg="Jesus Christ"
+                    >Jesus</person> said in the Sermon on the Mount, “<q who="JES">Do men gather
                     grapes of thorns or figs of thistles? A corrupt tree cannot bring forth good
                     fruit. . .</q>”</p>
-            <p>The Pope's argument, if taken literally, is absurd. But perhaps he wants his
+            <p>The Pope’s argument, if taken literally, is absurd. But perhaps he wants his
                 followers to consider the spirit, rather than the letter, of what he says. I am
                 reminded of a statement by Mr. <person reg="Chesterton, G. K.">G. K.
                     Chesterton</person>, who is a Catholic convert, during a recent debate in New
@@ -295,23 +293,23 @@
                 says. Probably we are not commanded to fill the <place reg="Sahara Desert"> Sahara
                     Desert</place> with young folks. Perhaps we may go easy on crowding our heirs
                 into <place reg="Death Valley, CA">Death Valley</place> and other arid patches in
-                the <place reg="United States of America">United States</place>. Perhaps, in fact,
-                the earth is already full within any reasonable meaning of the term. “<q who="BIB"
-                    >Fill the earth</q>,” was the order. Very well, we have filled it. It does not
-                have to be pressed down, heaped up, and running over with people.</p>
+                the <place>United States</place>. Perhaps, in fact, the earth is already full within
+                any reasonable meaning of the term. “<q who="BIB">Fill the earth</q>,” was the
+                order. Very well, we have filled it. It does not have to be pressed down, heaped up,
+                and running over with people.</p>
             <p>Suppose that a couple want to have children, but only a few. Suppose that they wish
                 to space the births so that one baby can get well started in life before the other
-                one comes. Suppose that the mother's physical condition makes it dangerous, and
+                one comes. Suppose that the mother’s physical condition makes it dangerous, and
                 possibly fatal, for her to bear another child. Suppose that poverty makes limitation
                 desirable. What can they do about it?</p>
         </div>
         <div type="section">
             <head type="sub">The Nature of Conception</head>
             <p>A word about nature is necessary here. Conception takes place through the combination
-                of an ovum with a sperm. Sperms are miscroscropic seeds introduced from the man's
+                of an ovum with a sperm. Sperms are miscroscropic seeds introduced from the man’s
                 body by the millions in a single sexual act. Nature herself wastes almost all of
                 these millions of sperms. But if a single sperm joins up with an ovum, one of the
-                millions of microscopic seeds which come from the woman's ovaries, the result is
+                millions of microscopic seeds which come from the woman’s ovaries, the result is
                 conception. From this beginning grows the embryo which in time becomes a child.</p>
             <p>No new life begins unless there is conception. Keep the sperm away from the ovum and
                 there will be no conception. The Pope admits that it is all right to prevent
@@ -355,10 +353,10 @@
                     the offspring is prevented. <person>Onan</person>, the son of
                         <person>Juda</person>, did this, and the Lord killed him for it.</q>” It is
                 unfortunate for the Pope that he did not cite a better example, if he had one. Read
-                the story in <title>Genesis XXXVIII</title>, and you will see that God killed Onan
-                because he refused to have a child by the widow of his brother, whom God had also
-                killed. If Onan had tried continence instead of contraception he would have been
-                slain just as promptly.</p>
+                the story in <title type="article">Genesis XXXVIII</title>, and you will see that
+                God killed Onan because he refused to have a child by the widow of his brother, whom
+                God had also killed. If Onan had tried continence instead of contraception he would
+                have been slain just as promptly.</p>
         </div>
         <div type="section">
             <head type="sub">Man and Nature</head>
@@ -433,14 +431,14 @@
                 conception it is sin to take precautions which prevent the male seed from forming a
                 combination with the female seed. Yet he grants that sexual enjoyment has other
                 purposes than procreation, and says that this enjoyment is permissible when nature
-                herself prevents conception. The Pope seems unaware of nature's astounding waste of
+                herself prevents conception. The Pope seems unaware of nature’s astounding waste of
                 male and female seeds, a waste which goes on even when sexual powers are not
                 exercised. He does not seem to realize that if he has a complaint on the score of
                 wastage, that complaint should be directed against nature for her habitual and
                 spontaneous methods, regardless of human deliberation.</p>
-            <p>The strange <title>Old Testament</title> legend of Onan does not prove that God
-                disapproved his choice of method. If Onan had chosen continence he would just as
-                completely have defeated God's wish, according to the story.</p>
+            <p>The strange <title type="book">Old Testament</title> legend of Onan does not prove
+                that God disapproved his choice of method. If Onan had chosen continence he would
+                just as completely have defeated God’s wish, according to the story.</p>
             <p>The Pope in permitting continence as the only method of birth control tries to set up
                 a rule that repeated pregnancy is the price which must be paid for the enjoyment of
                 conjugal intimacy, and that the avoidance of pregnancy may be only at the cost of
@@ -449,7 +447,7 @@
         </div>
         <div type="section">
             <head type="sub">The Pope Looks Away from Life</head>
-            <p>Having answered, point by point, those parts of the Pope's encyclical which refer to
+            <p>Having answered, point by point, those parts of the Pope’s encyclical which refer to
                 birth control, I want to say that his attitude in general is characterized by
                 disapproval of human enjoyment and an apparent relishing of the theory that
                 suffering is good for our souls. He speaks of himself as “<q who="PIU">looking. . .
@@ -472,7 +470,7 @@
                 the prevention and cure of disease.</p>
             <p>“<q who="BCCRB">Patient 30 years. Married 8 years. Has 5 living children, all high
                     forceps cases. One six months premature. One still birth. One tubal pregnancy.
-                    Husband had been out of work 4 months at time of wife's first visit. She
+                    Husband had been out of work 4 months at time of wife’s first visit. She
                     supports family on part time job of $6 a week.”</q>
             </p>
             <p>“<q who="BCCRB">Patient 40 years. Married 10 years. 4 living children. Oldest
@@ -491,9 +489,9 @@
             <p>The million and more letters that I have received during the last seventeen years
                 from women imploring me for help make up a monstrous history of disease and
                 suffering and fear of still worse to come. Read some of these letters in my book,
-                    “<title>Motherhood in Bondage</title>,” and you will see how disastrous has been
-                the ignorance regarding methods of birth control and how desperate is the case of
-                those who have begged in vain for information.</p>
+                    “<title type="book">Motherhood in Bondage</title>,” and you will see how
+                disastrous has been the ignorance regarding methods of birth control and how
+                desperate is the case of those who have begged in vain for information.</p>
         </div>
         <div type="section">
             <head type="sub">Contraception Can Prevent Tragedy</head>
@@ -518,7 +516,7 @@
         <div type="section">
             <head type="sub">The Right to Be Well Born</head>
             <p>President <person reg="Hoover, Herbert">Hoover</person> has said: “<q who="HOOHE"
-                    >There should be no child in <place reg="United States of America">America</place> that has not the complete birthright of a
+                    >There should be no child in America that has not the complete birthright of a
                     sound mind in a sound body, and that has not been born under proper
                     conditions.</q>” But if this high ideal is to be achieved for the race, America
                 cannot limit her scientific birth control to the diseased, mentally defective, and
@@ -529,7 +527,7 @@
                 favor the health of the child. Furthermore, they must be spaced properly if the
                 children are to have, each in turn, the complete loving care of the parents; if, in
                 other words, they are to be treated as individuals and not as broods. Then, too, the
-                events of child birth need to be fitted into the pattern of the family's career, a
+                events of child birth need to be fitted into the pattern of the family’s career, a
                 pattern which varies with the changing circumstances of occupation, residence,
                 travel, and the numerous other factors in the complex lives of people who count in
                 the work of the world.</p>
@@ -557,7 +555,7 @@
                 self-development but it encourages, and well-nigh demands of her, development in the
                 fullest degree possible.</p>
             <p>For all these reasons, therefore, for the welfare of the children, for the happiness
-                of husbands and wives, and for the full realization of women's rights, birth control
+                of husbands and wives, and for the full realization of women’s rights, birth control
                 by scientific methods of contraception may properly and wisely be exercised. The
                 growing acceptance of this doctrine is a feature of a new civilization which is
                 gradually escaping the clutches of ignorance, superstition and tyranny.</p>
@@ -578,16 +576,16 @@
             <head type="sub">Pioneering in America</head>
             <p>While the birth control movement in the United States has already made notable
                 progress, in spite of terrific handicaps, we are still lagging far behind
-                    <place>England</place>, <place>Germany</place>, <place reg="Netherlands, the"
+                    <place>England</place>, <place>Germany</place>, <place reg="Netherlands"
                     >Holland</place>, <place>Sweden</place>, <place>Norway</place>,
                     <place>Denmark</place>, and other enlightened countries. On October 16, 1916, I
                 opened, in <place reg="Brooklyn, NY">Brooklyn</place>, the first birth control
                 clinic in this country. An account of how the closing of this clinic by the police,
                 with my arrest and imprisonment, led to a trial and a decision favorable to birth
-                control is given in the last chapter of my book “<title>Woman and the New
-                    Race.</title>” Suffice it to say here that the decision of the <org>New York
+                control is given in the last chapter of my book “<title type="book">Woman and the
+                    New Race.</title>” Suffice it to say here that the decision of the <org>New York
                     State Court of Appeals</org> in 1918 made it legal for doctors to direct the use
-                of contraceptives for “<q who="NYSCA">the cure or prevention of disease.</q>” In
+                of contraceptives for “<q who="CRAFR">the cure or prevention of disease.</q>” In
                 1923 I opened the Birth Control Clinical Research Bureau, to which reference has
                 already been made. This was raided by the police in April, 1930, but the case was
                 dismissed when testimony showed that the Bureau had been operating within the
@@ -625,18 +623,17 @@
             <head type="sub">Obscene Laws</head>
             <p>But I do want to protest that the wording of many of the statutes are an insult to
                 American intelligence and character. <name type="law"
-                    reg="U.S. Criminal Code, Section 211">USCC</name> of the U.S. Penal Law
-                begins: “<q who="USCC">Every obscene. . . or other publication of an indecent
-                    character, and every article or thing designed, adapted, or intended for
-                    preventing conception or producing abortion, or for any indecent or immoral
-                    use,</q>” etc. The bracketing of abortion with contraception is grossly
-                misleading to persons who may have heard little about either abortion or
-                contraception and may not know the vast difference between them. But a still more
-                vicious thing is the direct implication that discussions of contraception are
-                obscene. This must have taken its origin from the perverse notion of certain
-                churchmen in the Dark Ages that sexual intercourse itself is obscene. No sane person
-                believes such a doctrine. To declare it is to be obscene. To perpetuate it is to
-                vilify all the mothers of the world.</p>
+                    reg="U.S. Criminal Code, Section 211">USCC</name> of the U.S. Penal Law begins:
+                    “<q who="USCC">Every obscene. . . or other publication of an indecent character,
+                    and every article or thing designed, adapted, or intended for preventing
+                    conception or producing abortion, or for any indecent or immoral use,</q>” etc.
+                The bracketing of abortion with contraception is grossly misleading to persons who
+                may have heard little about either abortion or contraception and may not know the
+                vast difference between them. But a still more vicious thing is the direct
+                implication that discussions of contraception are obscene. This must have taken its
+                origin from the perverse notion of certain churchmen in the Dark Ages that sexual
+                intercourse itself is obscene. No sane person believes such a doctrine. To declare
+                it is to be obscene. To perpetuate it is to vilify all the mothers of the world.</p>
         </div>
         <div type="section">
             <head type="sub">The Right Use of Power</head>
@@ -644,8 +641,8 @@
                 information away from those who might make wrong use of it, I take the liberty of
                 quoting the answer of the Reverend Doctor <person reg="Fosdick, Harry Emerson">Harry
                     Emerson Fosdick</person>, Pastor of the <org>Riverside Church</org> (Baptist),
-                in New York. Dr. Fosdick said in an article published recently in <title>The Outlook
-                    and Independent</title>:</p>
+                in New York. Dr. Fosdick said in an article published recently in <title
+                    type="journal">The Outlook and Independent</title>:</p>
             <p>“<q who="FOSHA">For one thing, the constructive social service to be rendered in the
                     right use of birth control is immense in extent and importance. This should be
                     made a matter of wide-spread public education. . . Suppression will do no good,
@@ -663,32 +660,34 @@
         <div type="section">
             <head type="sub">The Bill to Amend the Federal Laws</head>
             <p>An important step in the direction of more favorable legislation was the introduction
-                of a bill in the <org>U.S. Senate</org>, on <gap extent="one or two words"/>,
-                by Senator <person reg="Gillett, Frederick">Frederick H. Gillett</person>, of <place
-                    reg="MA">Massachusetts</place>. This bill proposed amendments which would
-                legalize the mailing of information on contraception if published by “<q who="GILFR"
-                    >any governmental agency, medical society, medical school, or medical journal,
-                    or if reprinted after such publication</q>,” or if sent by licensed physicians,
-                hospitals, or clinics to patients or to each other, and the mailing of names and
-                addresses of such individuals and institutions. It would also permit the sending of
-                contraceptive materials and articles to bona fide dealers in medical supplies, to
-                physicians, hospitals, and clinics, and from physicians to their patients.</p>
-            <p>The bill was referred to the <org reg="U.S. Congress, Committee on the Judiciary"
-                    >Committee on the Judiciary</org>, before which public hearings were held on
-                February 13 and 14. The supporters of the measure, as was to be expected, met with
-                stubborn opposition, particularly on the part of religious interests.</p>
+                of a bill in the <org reg="United States Senate">U.S. Senate</org>, on <gap
+                    extent="one or two words"/>, by Senator <person reg="Gillett, Frederick"
+                    >Frederick H. Gillett</person>, of <place>Massachusetts</place>. This bill
+                proposed amendments which would legalize the mailing of information on contraception
+                if published by “<q who="GILFR">any governmental agency, medical society, medical
+                    school, or medical journal, or if reprinted after such publication</q>,” or if
+                sent by licensed physicians, hospitals, or clinics to patients or to each other, and
+                the mailing of names and addresses of such individuals and institutions. It would
+                also permit the sending of contraceptive materials and articles to bona fide dealers
+                in medical supplies, to physicians, hospitals, and clinics, and from physicians to
+                their patients.</p>
+            <p>The bill was referred to the <org
+                    reg="United States Congress, Committee on the Judiciary">Committee on the
+                    Judiciary</org>, before which public hearings were held on February 13 and 14.
+                The supporters of the measure, as was to be expected, met with stubborn opposition,
+                particularly on the part of religious interests.</p>
             <p>(State in a brief passage what the outcome was)<gap extent="a quarter of a page."
                 /></p>
         </div>
         <div type="section">
             <head type="sub">Looking Ahead</head>
-            <p>The Committee's failure to recommend the bill simply means that another bill will
+            <p>The Committee’s failure to recommend the bill simply means that another bill will
                 have to be introduced. If the Catholic Church cannot force its members to obey the
-                Pope's commands regarding birth control without the help of the <org>United States
-                    government</org> that is a good omen for our cause. The birth control movement
-                grows in strength and wisdom despite religious objections and legal handicaps. It
-                advances because it supplies a human need and it cannot stop, because that need
-                never ceases.</p>
+                Pope’s commands regarding birth control without the help of the <org
+                    reg="United States Government">United States government</org> that is a good
+                omen for our cause. The birth control movement grows in strength and wisdom despite
+                religious objections and legal handicaps. It advances because it supplies a human
+                need and it cannot stop, because that need never ceases.</p>
             <p>The extension of the movement depends more than ever upon an energetic cooperation of
                 its adherents. There must be constant encouragement by word and deed. There must be
                 generous help from those who can contribute funds both for the support of the

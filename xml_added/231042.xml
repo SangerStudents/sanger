@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Autograph Draft Article">
     <mepHeader>
         <prepDate>2011-08-04 NC</prepDate>
         <prepDate>2011-08-23 CH Tagging proofed</prepDate>
         <prepDate>2011-09-15 EK index terms added</prepDate>
+        <prepDate>2014-03-26 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1952-11-00"><supplied resp="MSPP">Nov. 1952</supplied></docDate>
         <docTitle>
@@ -13,7 +14,7 @@
         <idno>msp231042</idno>
         <sourceDesc>
             <bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-            <bibl><title>MSM</title> S72:0803</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S72:0803</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
@@ -21,9 +22,9 @@
         </respStmt>
     </mepHeader>
     <headNote resp="MSPP">
-        <p>Sanger was in Japan from October 30 to November 9, 1952. No information has been found on
-            if or where this article was published. Written on the letterhead of the Prince Hotel in
-            Tokyo.</p>
+        <p>Sanger was in <place>Japan</place> from October 30 to November 9, 1952. No information
+            has been found on if or where this article was published. Written on the letterhead of
+            the <org>Prince Hotel</org> in <place reg="Tokyo, Japan">Tokyo</place>.</p>
         <index level1="child spacing"/>
         <index level1="midwives" level2="birth control and"/>
         <index level1="midwives" level2="MS on"/>
@@ -37,7 +38,7 @@
             where there is the closest relationship between the professional &amp; laymen is the
             Midwives &amp; Nurse (practical) professions-- </p>
         <p>It is truly a great privilege to belong to either group. -- but a privilege only if the
-            nurse or midwife's heart is completely in the work. She must love people. She must love
+            nurse or midwife’s heart is completely in the work. She must love people. She must love
             to care for them regardless of race, sex or creed. This caring for people &amp; caring
             to make them well &amp; healthy must be her religion if she is to be a success &amp; be
             happy in her job. It is not the same with a Doctor of Medicine -- He has the Scientific

@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed Article">
     <mepHeader>
         <prepDate>2011/06/03 RT initial tag</prepDate>
         <prepDate>2011/06/03 CH proof</prepDate>
         <prepDate>2011/06/10 RT corrections</prepDate>
+        <prepDate>2014-03-21 CH cleanregs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1937-01-00">Jan 1937</docDate>
         <docTitle>
@@ -13,14 +14,15 @@
         <idno>msp238614</idno>
         <sourceDesc>
             <bibl>Margaret Sanger Papers, Smith College</bibl>
-            <bibl><title>MSM</title> S17:912</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S17:912</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
             <name/>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>For draft versions, see <title>MSM</title> S71:908 and LCM 131:456.</p>
+    <headNote resp="MSPP"><p>For draft versions, see <title>Margaret Sanger Microfilm</title> S71:908 and Library of
+            Congress Microfilm 131:456.</p>
         <index level1="birth rate" level2="efforts to increase"/>
         <index level1="birth rate" level2="population growth and"/>
         <index level1="mentally disabled and diseased" level2="birth control and"/>
@@ -29,99 +31,80 @@
     <docBody>
         <head>WOMEN OF THE FUTURE</head>
 
-        <p>We have the wisdom--We have the skill--as demonstrated by man's
-            explorations and war against microbes and germs where we find all
-            the miracles of the atom and of radio-activity.</p>
-        <p>In brief, during the last 100 years our wisdom and skill have taken
-            remarkable steps in the conquest of the external forces of Nature.
-            Man has tamed and harnessed many natural energies and directed them
-            for his own use.</p>
-        <p>But before we boast too loudly of these achievements of wisdom, let
-            us evaluate them in terms of woman's future as the basis of a higher
-            and finer civilization. How can we boast of the conquest of the air
-            or the marvels of chemistry when nation after nation compels its
-            innocent women and children to protect themselves against these by
-            wearing gas masks?</p>
-        <p>Why should we take pride in the advance of medical and surgical
-            skill, when its use is to be the salvaging of the defectives, the
-            morons and prolonging the lives of the diseased millions whose very
-            existence depends upon the continuation of private or public
+        <p>We have the wisdom--We have the skill--as demonstrated by man’s explorations and war
+            against microbes and germs where we find all the miracles of the atom and of
+            radio-activity.</p>
+        <p>In brief, during the last 100 years our wisdom and skill have taken remarkable steps in
+            the conquest of the external forces of Nature. Man has tamed and harnessed many natural
+            energies and directed them for his own use.</p>
+        <p>But before we boast too loudly of these achievements of wisdom, let us evaluate them in
+            terms of woman’s future as the basis of a higher and finer civilization. How can we
+            boast of the conquest of the air or the marvels of chemistry when nation after nation
+            compels its innocent women and children to protect themselves against these by wearing
+            gas masks?</p>
+        <p>Why should we take pride in the advance of medical and surgical skill, when its use is to
+            be the salvaging of the defectives, the morons and prolonging the lives of the diseased
+            millions whose very existence depends upon the continuation of private or public
             charity?</p>
-        <p>Consider the vast fortunes--millions--nay billions--of dollars we
-            continue to shovel into the bottomless pit of so-called
-            relief--charity. Philanthropy, like the rose by any other name, it
-            smells the same.</p>
-        <p>This effort to keep alive and increase the population of the
-            diseased, delinquent, defective, who in all compassion should never
-            be brought into the world at all, is futile extravagance. Its a
-            luxury to salve the conscience of the present generation for not
-            using their brains while heaping up mountains of debts for our
-            children's children's children to pay.</p>
-        <p>We women of today are too content with our conquests to visualize
-            fully the dangers of the future.</p>
-        <p>Its one thing to have and another thing to hold what you have.
-            Women's freedom is endangered. All that she has fought for and
-            gained in <place>Germany</place> has been lost and sacrificed to the war mad
-            militarists of that sad country. In <place>Japan</place> and <place>Italy</place> it is the same.
-            While women in these countries had not made the same strides in the
-            profession and in individual achievement as their sisters in
-            Germany, nevertheless what they were aiming for has been stopped and
-            they, as a class and sex, have been put back to compete with pack
-            animals in the class of servants to man's comfort and instruments of
-            his pleasure.</p>
-        <p>Its the day of masculine psychology, dedicated to the needs of
-            men.</p>
-        <p>Shall women of today be able to hold the freedom they have so far
-            gained? Not unless they cease being incubaters for war mad
-            dictators. Not unless they, as a Sex, a Class, a United Mass, refuse
-            to waste or allow the misuse of the greatest creative force within
-            human nature itself--the creative energy--the force and power of
-            Motherhood. The control of the power of woman's creative function.
-            Fertility is the main portal to the future. Only through the
-            emancipation of her creative energy--Motherhood--can humanity redeem
+        <p>Consider the vast fortunes--millions--nay billions--of dollars we continue to shovel into
+            the bottomless pit of so-called relief--charity. Philanthropy, like the rose by any
+            other name, it smells the same.</p>
+        <p>This effort to keep alive and increase the population of the diseased, delinquent,
+            defective, who in all compassion should never be brought into the world at all, is
+            futile extravagance. Its a luxury to salve the conscience of the present generation for
+            not using their brains while heaping up mountains of debts for our children’s children’s
+            children to pay.</p>
+        <p>We women of today are too content with our conquests to visualize fully the dangers of
+            the future.</p>
+        <p>Its one thing to have and another thing to hold what you have. Women’s freedom is
+            endangered. All that she has fought for and gained in <place>Germany</place> has been
+            lost and sacrificed to the war mad militarists of that sad country. In
+                <place>Japan</place> and <place>Italy</place> it is the same. While women in these
+            countries had not made the same strides in the profession and in individual achievement
+            as their sisters in Germany, nevertheless what they were aiming for has been stopped and
+            they, as a class and sex, have been put back to compete with pack animals in the class
+            of servants to man’s comfort and instruments of his pleasure.</p>
+        <p>Its the day of masculine psychology, dedicated to the needs of men.</p>
+        <p>Shall women of today be able to hold the freedom they have so far gained? Not unless they
+            cease being incubaters for war mad dictators. Not unless they, as a Sex, a Class, a
+            United Mass, refuse to waste or allow the misuse of the greatest creative force within
+            human nature itself--the creative energy--the force and power of Motherhood. The control
+            of the power of woman’s creative function. Fertility is the main portal to the future.
+            Only through the emancipation of her creative energy--Motherhood--can humanity redeem
             itself.</p>
-        <p>Civilization is marking time. It is at the cross roads, for in spite
-            of all the miraculous achievements of the past century, science,
-            philanthropy, statesmanship, has not succeeded in getting humanity
-            out of the man made muddle in which the world finds itself today. In
-            fact never has our civilization been nearer to the brink of
-            destruction and never in the whole history of this planet has
-            woman's place in the creation of the structure of the future been so
-            important as it is now today, today! !</p>
-        <p>Thanks to the opponents of scientific Birth Control, who keep women
-            and men in ignorance of contraception, each day reveals that 50,000
-            extra babies survive--150,000 are born, 100,00 die and 50,000
-            survive each day. These 50,000 who survive contribute to the
-            330,000,000 which have been added to the world's population of 2,000
-            millions since 1920--an increase almost as large in 10 years as the
-            population of <place>India</place>.</p>
-        <p>The militarists of Germany, Italy and Japan are clamoring for
-            population increase for land and land because of population increase
-            our babies are starving but give us more babies is the slogan of mad
-            men to which women should turn a deaf ear.</p>
-        <p>For let us not forget that in all the successful achievements to
-            conquer the universe that man's civilization is in bankruptcy. While
-            Successfully spanning the ocean, flinging railroads and airlines
-            across continents, circling the globe in the fraction of a second
-            with the radio--everything accomplished in the desire to unite
-            peoples and nations and to bring them closer together in unity,
-            harmony and understanding, yet because of the ceaseless hordes of
-            human beings ever multiplying and increase their numbers regardless
-            of quality or place or aim--we find mankind goaded on to a frenzy of
-            exploitation and war. A war for land--for markets--for power to
-            destroy, to subjugate other nations and races--because of hungry
-            mouths to feed. Millions of women are crushed under their burden of
-            poverty and childbearing. They are all too inarticulate to call
-            out--too poor to help themselves--too weak to demand their
-            liberties. They look to you to help them. Sympathy is not
-            enough--palliative help is not enough--philanthropy is not enough.
-            Nothing less can you do than help to set them free--free so that
-            they may help themselves and grow in wisdom and enlightenment.</p>
-        <p>Instead of a world created and managed by irresponsible hordes in
-            hatred and antagonism--let woman hold their present freedom--extend
-            it to all women and guide humanity into a future created by all
-            embracing Peace on Earth Good Will to Men through the consciousness
-            of Birth Control.</p>
+        <p>Civilization is marking time. It is at the cross roads, for in spite of all the
+            miraculous achievements of the past century, science, philanthropy, statesmanship, has
+            not succeeded in getting humanity out of the man made muddle in which the world finds
+            itself today. In fact never has our civilization been nearer to the brink of destruction
+            and never in the whole history of this planet has woman’s place in the creation of the
+            structure of the future been so important as it is now today, today! !</p>
+        <p>Thanks to the opponents of scientific Birth Control, who keep women and men in ignorance
+            of contraception, each day reveals that 50,000 extra babies survive--150,000 are born,
+            100,00 die and 50,000 survive each day. These 50,000 who survive contribute to the
+            330,000,000 which have been added to the world’s population of 2,000 millions since
+            1920--an increase almost as large in 10 years as the population of
+            <place>India</place>.</p>
+        <p>The militarists of Germany, Italy and Japan are clamoring for population increase for
+            land and land because of population increase our babies are starving but give us more
+            babies is the slogan of mad men to which women should turn a deaf ear.</p>
+        <p>For let us not forget that in all the successful achievements to conquer the universe
+            that man’s civilization is in bankruptcy. While Successfully spanning the ocean,
+            flinging railroads and airlines across continents, circling the globe in the fraction of
+            a second with the radio--everything accomplished in the desire to unite peoples and
+            nations and to bring them closer together in unity, harmony and understanding, yet
+            because of the ceaseless hordes of human beings ever multiplying and increase their
+            numbers regardless of quality or place or aim--we find mankind goaded on to a frenzy of
+            exploitation and war. A war for land--for markets--for power to destroy, to subjugate
+            other nations and races--because of hungry mouths to feed. Millions of women are crushed
+            under their burden of poverty and childbearing. They are all too inarticulate to call
+            out--too poor to help themselves--too weak to demand their liberties. They look to you
+            to help them. Sympathy is not enough--palliative help is not enough--philanthropy is not
+            enough. Nothing less can you do than help to set them free--free so that they may help
+            themselves and grow in wisdom and enlightenment.</p>
+        <p>Instead of a world created and managed by irresponsible hordes in hatred and
+            antagonism--let woman hold their present freedom--extend it to all women and guide
+            humanity into a future created by all embracing Peace on Earth Good Will to Men through
+            the consciousness of Birth Control.</p>
 
 
     </docBody>

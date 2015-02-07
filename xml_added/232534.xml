@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "file:/S:/TRANSCRIPTIONS/XML%20Drafts/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
     <mepHeader>
         <prepDate>2003/07/02 SB</prepDate>
         <prepDate>2004/07/26 CH</prepDate>
         <prepDate>2004/08/09 CH</prepDate>
         <prepDate>2007/06/27 CH Oxygen update</prepDate>
+        <prepDate>2014-03-12 CH clean regs and other errors</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1918-12-00">Dec 1918</docDate>
         <docTitle>
@@ -13,13 +14,13 @@
         </docTitle>
         <idno>msp232534</idno>
         <sourceDesc>
-            <bibl><title>The Birth Control Review</title>, Dec. 1918, 3-4</bibl>
-            <bibl><title>Margaret Sanger Microfilm</title> S70:809</bibl>
+            <bibl><title type="journal">Birth Control Review</title>, Dec. 1918, 3-4</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title>, S70:809</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
             <name id="HIRMA">Hirsch, Max</name>
-            <name id="EDGJC">Edgar, J. Clifton</name>
+            <name id="EDGJC">Edgar, Clifton J.</name>
         </respStmt>
     </mepHeader>
     <headNote resp="MSPP">
@@ -35,7 +36,7 @@
     </headNote>
     <docBody>
         <head>BIRTH CONTROL OR ABORTION?</head>
-        <byline rend="italics">By Margaret Sanger</byline>
+        <byline rend="italics">By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
         <p>Family limitation will be practiced. No law has yet been framed that can prevent it. The
             church has been powerless and the champions of wornout moral creeds find themselves
             trying in vain to force all women to become mothers against their wills.</p>
@@ -52,15 +53,15 @@
             than she can care for. And if she is denied the knowledge of the safe, harmless,
             scientific methods of Birth Control, she limits her family by means of abortion.</p>
         <p>In the very nature of the case, it is impossible to get accurate figures upon the number
-            of abortions performed annually in the <place reg="United States of America">United
+            of abortions performed annually in the <place>United
                 States</place>. It is often said, however, that one in five pregnancies end in
             abortion. One estimate is that 150,000 occur in the United States each year and that
             25,000 women die of the effects of such operations in every twelve months. Dr. <person
                 reg="Robinson, William J.">William J. Robinson</person> asserts that there are
             1,000,000 abortions every year in this country and adds that the estimate is
             conservative. He quotes Justice <person reg="Clark, John Proctor">John Proctor
-            Clark</person> as saying that there are at least 100,000 in the same length of time in
-                <place reg="New York, NY">New York City</place> alone.</p>
+                Clark</person> as saying that there are at least 100,000 in the same length of time
+            in <place reg="New York, NY">New York City</place> alone.</p>
         <p>Dr. <person reg="Hirsch, Max">Max Hirsch</person>, a famous authority quotes an opinion
             that there are 2,000,000 abortions in the United States every year!</p>
         <p>"<q who="HIRMA">I believe</q>" declares Dr. Hirsch, "<q who="HIRMA">that I may say
@@ -71,7 +72,7 @@
                 are performed on married women. This fact brings us to the conclusion that
                 contraceptive measures among the upper classes and the practice of abortion among
                 the lower class, are the real means employed to regulate the number of
-            offspring.</q>"</p>
+                offspring.</q>"</p>
         <p>The question, then, is not whether family limitation should be practised. It is being
             practised; it has long been practised and it will always be practised. The question now
             is whether it is to be attained by normal, scientific Birth Control methods or by the
@@ -109,7 +110,8 @@
             to prevent this meeting, and thereby to limit families, one is said to practise Birth
             Control.</p>
         <p>But if preventive means are not used and the sperm meets the ovum and development thus
-            begins, any attempt at removing it or stopping its further growth is called abortion.</p>
+            begins, any attempt at removing it or stopping its further growth is called
+            abortion.</p>
         <p>There is no doubt that women are apt to look upon abortion as of little consequence and
             to treat it accordingly. An abortion is as important a matter as a confinement and
             requires as much attention as the birth of a child at its full term.</p>
@@ -159,7 +161,8 @@
                 important weapons in the fight against abortion.</q></p>
         <p> "<q who="HIRMA">America has a law since 1873 *** which prohibits by criminal statute,
                 the distribution and regulation of contraceptive measures. It follows, therefore ***
-                that America stands at the head of all nations in the huge number of abortions.</q>"</p>
+                that America stands at the head of all nations in the huge number of
+            abortions.</q>"</p>
         <p>There is the case in a nutshell. Family limitation will always be practised as it is now
             being practised–-either by Birth Control or by abortion. We know that. The one means
             health and happiness–-a stronger, better race. The other means disease, suffering,

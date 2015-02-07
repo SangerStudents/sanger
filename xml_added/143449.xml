@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
     <mepHeader>
         <prepDate>2003-06-24 JA</prepDate>
         <prepDate>2004/06/30 CH</prepDate>
         <prepDate>2004/07/26 CH</prepDate>
-        <prepDate>2007/06/28 CH Oxygen update</prepDate><prepDate>2011/11/28 CH correct typos</prepDate><prepDate>2011-11-30 CH typos</prepDate>
+        <prepDate>2007/06/28 CH Oxygen update</prepDate>
+        <prepDate>2011/11/28 CH correct typos</prepDate>
+        <prepDate>2011-11-30 CH typos</prepDate>
+        <prepDate>2014-04-01 Ch clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1919-02-00">Feb 1919</docDate>
         <docTitle>
@@ -14,10 +17,13 @@
         <idno>msp143449</idno>
         <sourceDesc>
             <bibl>
-                <title>The Birth Control Review</title>
+                <title type="journal">Birth Control Review</title>, Feb. 1919.
             </bibl>
             <bibl>Library of Congress Microfilm 131:0099B</bibl>
-        </sourceDesc>
+        </sourceDesc><respStmt>
+            <resp/>
+            <name id="FRE">French</name>
+        </respStmt>
     </mepHeader>
     <headNote>
         <index level1="birth control" level2="health benefits and risks"/>
@@ -37,7 +43,7 @@
     </headNote>
     <docBody>
         <head>Birth Control and Racial Betterment</head>
-        <byline>By Margaret Sanger</byline>
+        <byline>By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
         <p>Before eugenists and others who are laboring for racial betterment can succeed, they must
             first clear the way for Birth Control. Like the advocates of Birth Control, the
             eugenists, for instance, are seeking to assist the race toward the elimination of the
@@ -112,15 +118,15 @@
             factories and sweat-shops than are the eight or ten. The situation is too plain for
             argument.</p>
         <p>Concrete examples of the eugenic effects of Birth Control are the most convincing
-            evidence. In <place reg="Netherlands, the">Holland</place>, where Birth Control is
+            evidence. In <place reg="Netherlands">Holland</place>, where Birth Control is
             taught in clinics conducted by nurses specially trained for that purpose, military
             statistics show that the average stature of men has increased four inches in thirty
             years. Ninety per cent. of the men were fit for army service, while in the United
             States, less than 50 per cent. were.</p>
-        <p>The fighting qualities of the French poilu, his endurance, and his fitness have been the
+        <p>The fighting qualities of the French <foreign lang="FRE">poilu</foreign>, his endurance, and his fitness have been the
             amazement of military authorities in the Great War. The present generation of Frenchmen,
-            as everyone knows who remembers the horror with which "<soCalled>anti-race
-            suicidists</soCalled>" greeted the French tendency to Birth Control, is the product
+            as everyone knows who remembers the horror with which "anti-race
+                suicidists" greeted the French tendency to Birth Control, is the product
             largely of Birth Control methods.</p>
         <p>Eugenics without Birth Control seems to us a house builded upon the sands. It is at the
             mercy of the rising stream of the unfit. It cannot stand against the furious winds of

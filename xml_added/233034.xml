@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "file:/S:/TRANSCRIPTIONS/XML%20Drafts/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
     <mepHeader>
         <prepDate>2003/07/01 SB</prepDate>
@@ -7,6 +7,8 @@
         <prepDate>2004/08/09 CH</prepDate>
         <prepDate>2007/08/28 CH Oxygen Update</prepDate>
         <prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
+        <prepDate>2014-03-12 CH cleaning errors/regs</prepDate>
+        <prepDate>2014/05/16 CH added link to news version.</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1919-12-00">Dec 1919</docDate>
         <docTitle>
@@ -14,15 +16,16 @@
         </docTitle>
         <idno>msp233034</idno>
         <sourceDesc>
-            <bibl><title>The Birth Control Review</title>, Dec. 1919, 7-8</bibl>
-            <bibl><title>Margaret Sanger Microfilm</title> S70:829</bibl>
+            <bibl><title type="journal">Birth Control Review</title>, Dec. 1919, 7-8</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title>, S70:829</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
             <name id="UNK">Unknown</name>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP">
+    <headNote resp="MSPP"><p>For a news report of the Elizabeth City speech see "<xref
+                from="422004.xml">Speech at the Alkrama Hotel</xref>," Nov. 2, 1919.</p>
         <index level1="African-Americans" level2="birth control and"/>
         <index level1="birth control" level2="clinics and leagues" level3="establishment of"/>
         <index level1="birth control" level2="opposition to"/>
@@ -36,7 +39,7 @@
     </headNote>
     <docBody>
         <head>Breaking Into the South--A Contrast</head>
-        <byline rend="italics">By Margaret Sanger</byline>
+        <byline rend="italics">By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
         <p>The first public lecture on birth control in the South developed into a series of
             addresses within twenty-four hours, and was in every way a gratifying surprise to me. I
             had the feeling that it would be hard to break the ice for the birth control movement in
@@ -46,7 +49,7 @@
             possible moment of my time was given to speaking.</p>
         <p>The first lecture, which was the only one I expected to deliver in Elizabeth City, was
             arranged by Mr. <person reg="Saunders, W. O.">W. O. Saunders</person>, editor of <title
-                rend="italics">The Independent</title>. It was delivered in a theatre Sunday
+                type="journal">The Independent</title>. It was delivered in a theatre Sunday
             afternoon, November 2nd. Women in the audience requested an address for women only, and
             this was given immediately following the general lecture. These meetings were attended
             by white women of all classes and conditions, some of them being farmer's wives --
@@ -59,8 +62,8 @@
                 I have undergone</q>."</p>
         <p>A committee of negro women urged a public address for negroes in a negro church for the
             same evening. This was delivered and was followed the next day by a short talk on
-                "<q>Education</q>" at the negro normal school, and in the afternoon a lecture for
-            negro women only on methods of birth control.</p>
+            "Education" at the negro normal school, and in the afternoon a lecture for negro women
+            only on methods of birth control.</p>
         <p>Meanwhile, women who came from near and far were gathering at the hotel where I stopped.
             Among these were a number of social workers and public-spirited citizens, who asked help
             in establishing a clinic for the mill workers. A temporary committee was formed, and is
@@ -88,7 +91,7 @@
         <p>If Elizabeth City is an index of the South, it is ready, waiting, crying for the message
             of birth control.</p>
         <p>It is with somewhat similar pleasure I look back upon a lecture given October 28th before
-            members of the<org> League for Women Voters</org> in <place reg="New York, NY">New York
+            members of the <org>League for Women Voters</org> in <place reg="New York, NY">New York
                 City</place>. It was an interesting audience. These were workers -- active business
             women, some in clerical positions, some of them professional women, some of them
             housewives. They were mostly women who have grappled with practical problems and who
@@ -113,8 +116,8 @@
             living in the slums, and having four or five children barely supported by her own
             earnings and those of her husband should do with the children, this physician blandly
             dismissed the whole matter by saying she <emph rend="italics">should take them with
-            her.</emph> This from a woman physician whose practice is, presumably, largely among the
-            poor!</p>
+                her.</emph> This from a woman physician whose practice is, presumably, largely among
+            the poor!</p>
         <p>A third woman physician objected to any discussion of the subject, saying that it was
                 "<q>nasty</q>." It is hardly to be supposed, however, that this physician refuses
             either to give her services or accept fees in maternity cases. Dr. <person

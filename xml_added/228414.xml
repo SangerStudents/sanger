@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed Article">
     <mepHeader>
         <prepDate>2011-07-27 NC</prepDate>
+        <prepDate>2014-03-25 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1947-03-00"><supplied resp="MSPP">March 1947</supplied></docDate>
         <docTitle>
@@ -11,7 +12,7 @@
         <idno>msp228414</idno>
         <sourceDesc>
             <bibl>Records of PPFA, Sophia Smith Collection</bibl>
-            <bibl><title>MSM</title>S72:0540</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S72:0540</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
@@ -21,8 +22,9 @@
             <name id="MENKA">Menninger, Karl</name>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>No published version found.</p><index level1="children"
-            level2="unwanted"/><index level1="family planning"/></headNote>
+    <headNote resp="MSPP"><p>No published version found.</p>
+        <index level1="children" level2="unwanted"/>
+        <index level1="family planning"/></headNote>
     <docBody>
         <head rend="underline">THE HERITAGE OF FEAR</head>
         <byline>By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
@@ -41,16 +43,16 @@
             equally true that the change may be in the other direction and a planned baby will be
             rejected by its parents because they wanted one of the opposite sex or for some other
             reason.)</p>
-        <p>But there are plenty of cases where the mother's fear prevents her ever from being an
+        <p>But there are plenty of cases where the mother’s fear prevents her ever from being an
             adequate parent. Many of these cases never become dramatic enough to get into the
             statistics of crime, perversion or disease, but they are tragedies of equal magnitude. </p>
         <p>I recall, for example, one family who seemed outwardly to have every chance for
             happiness. The parents were exemplary church members of high moral character, adequately
-            if not lavishly endowed with worldly goods. But the wife's fears of pregnancy were
+            if not lavishly endowed with worldly goods. But the wife’s fears of pregnancy were
             intensified by a difficult labor in bearing her first child. After that she avoided her
-            husband's affection. She complained constantly of illness in order to have an excuse for
+            husband’s affection. She complained constantly of illness in order to have an excuse for
             preventing marital relations. The husband was puzzled and annoyed, resentful of the
-            children whom he blamed for his wife's attitude. Every act of intercourse, it seemed to
+            children whom he blamed for his wife’s attitude. Every act of intercourse, it seemed to
             him, produced a pregnancy, and in eight years the couple did have three children, all
             undesired. The father was especially open in showing it. </p>
         <p>In this home atmosphere there could be no room for the display of normally warm family
@@ -58,7 +60,7 @@
             worrying their mother constantly in ways which they could not understand. Their dislike
             of him hardened, and when the mother died, the children scattered and never were united
             with their father. A whole family had been embittered by the consequences of their
-            mother's fear, their father's resentment and the ignorance of contraceptives which had
+            mother’s fear, their father’s resentment and the ignorance of contraceptives which had
             prevented the couple from doing anything about it. </p>
         <p>The obvious consequences of bearing children in spite of fear and through ignorance is
             harshness and neglect. Not so obvious but equally harmful is the parent who reacts to
@@ -66,21 +68,21 @@
             “spoil” the child by too much protection, too much babying, too much exposure to
             unhealthy displays of affection. </p>
         <p>Miss <person reg="Milliken, Rhoda">Rhoda Milliken</person>, head of the <org
-                reg="Washington, D.C. Police Department, Women's Division">Women's Division of the
+                reg="Washington, DC Police Department, Women's Division">Women’s Division of the
                 Washington Police Department</org>, describes as typical of the juvenile delinquent
             a particularly difficult little boy who succeeded in carrying a brief career of theft,
             arson and petty property damage to a peak of shooting a night watchman. The child was
             eight years old at the time. The police finally got at the root of his trouble when he
-            explained that he didn't like his home because his mother had never wanted him anyway. </p>
+            explained that he didn’t like his home because his mother had never wanted him anyway. </p>
         <p>This particular problem was solved by finding the child a foster home where he really was
             wanted. His delinquent habits fell away from him, and he was converted into a reasonably
             good citizen. </p>
         <p>Dr. <person reg="Coghill, Harvie">Harvie Coghill</person>, who has had exceptional
-            opportunities for observation as director of the <org>Children's Memorial Clinic</org>
+            opportunities for observation as director of the <org>Children’s Memorial Clinic</org>
             in <place reg="Richmond, VA">Richmond, Virginia</place>, reports: </p>
         <p>“<q who="COGHA">the study of clinic files abounds in evidence that responsible thinking
                 in relation to planned parenthood is imperative today.</q>”</p>
-        <p>Representative of these case was Billy, first referred to Dr. Coghill's clinic at the age
+        <p>Representative of these case was Billy, first referred to Dr. Coghill’s clinic at the age
             of nine by his school. Billy was a problem child to his teachers. It was found that his
             mother had tried to bring him up as a girl, and she could not be persuaded that her
             obvious rejection of a boy was bad for him. Seven years later Billy was sent back to the
@@ -91,14 +93,14 @@
         <p>Lucy was a clinic case because her parents had found her “<q who="UNK">spoiled, sucks her
                 thumb, wets her bed, has nightmares, indulges in wanton destructiveness, temper
                 tantrums, quarrels constantly, is jealous, lazy and engages in sex activities.</q>”
-            This was Lucy's mother's description. Neither mother of father had ever bothered to
+            This was Lucy’s mother’s description. Neither mother of father had ever bothered to
             conceal from the little girl the fact that they had never wanted her, and she was taking
             a natural revenge. Dr. Coghill found that at school Lucy was entirely different. </p>
         <p>There are other reasons besides fear for not wanting children, but the psychiatrists find
             frightened mothers at the back of a good many of their more difficult cases. Dr. <person
                 reg="English, O. Spurgeon">O. Spurgeon English</person>, <org>Temple
                 University</org> psychiatrist, says:</p>
-        <p>“<q who="ENGOS">Let a child state life feeling unwanted, unloved and inferior, and there
+        <p>“<q who="ENGOS">Let a child start life feeling unwanted, unloved and inferior, and there
                 are no lengths to which he will not go to seek revenge upon a world which has
                 neglected him and made him feel inferior. This can take the form of marital tyranny,
                 religious or racial bigotry, industrial tyranny and sadism, or the despotic rule and
@@ -110,7 +112,7 @@
             a more than natural clinging to his parents in the hope of getting some affection if he
             is persistent enough or by rebellion in the form of tantrums, physical retaliation
             against his parents or other children, stealing or other mischief. </p>
-        <p>Many psychiatrists believe that the child is the chief sufferer from his parents' failure
+        <p>Many psychiatrists believe that the child is the chief sufferer from his parents’ failure
             to plan their family intelligently. Dr. <person reg="Menninger, Karl">Karl
                 Menninger</person>, for instance, says:</p>
         <p>“<q who="MENKA">The reason that contraceptive knowledge and counsel seem to the
@@ -135,7 +137,7 @@
         <p>All of us who have worked in the birth control movement know this to be true. We have
             seen for ourselves the lifting of an enormous burden of terror from women who had
             learned that they did not have to break their own health or ruin their existing
-            children's homes by living in the shadow of fear of another pregnancy. </p>
+            children’s homes by living in the shadow of fear of another pregnancy. </p>
 
 
     </docBody>

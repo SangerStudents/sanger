@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed Article">
     <mepHeader>
         <prepDate>2011-08-03 NC</prepDate>
         <prepDate>2001/11/14 CH enter corrections</prepDate>
+        <prepDate>2014-03-26 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1952-10-00">Oct 1952</docDate>
         <docTitle>
@@ -19,143 +20,112 @@
             <name id="LAT">Latin</name>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>For a draft version see <title>Margaret Sanger
-                Microfilm</title> S72:0707.</p><index level1="birth control"
-            level2="methods" level3="pill"/>
+    <headNote resp="MSPP"><p>For a draft version see <title>Margaret Sanger Microfilm</title>
+            S72:0707.</p>
+        <index level1="birth control" level2="methods" level3="pill"/>
         <index level1="birth control" level2="methods" level3="herbal"/>
     </headNote>
     <docBody>
         <head><add>Birth Control Research on the March</add></head>
-        <byline>by Margaret Sanger</byline>
-        <dateline><date value="1952-10-00"
-            ><add>Oct--1952</add></date></dateline>
-        <p>All workers interested in the study of human fertility and its
-            control will be encouraged to know that at last there are research
-            possibilities that a simple, cheap, harmless, effective
-            contraceptive will soon be obtainable for the masses of all
-            countries.</p>
-        <p>The following two recent studies have been publicized–one in the
-                <place>United States</place> and one in <place>London,
-                England</place>. Both of these experiments are, by no means,
-            completed but I give them here to encourage those workers in the
-            field of Birth Control and <org
-                reg="Planned Parenthood Federation of America">Planned
-                Parenthood</org> with the hope that within the not too distant
-            future, both the tea from the weed and the pill will be available.
-            Then the lovers and workers for World Peace and Happiness may look
-            to a future where children will be born and cared for because the
-            parents want them and can provide for them, who will become citizens
-            of their country and the New World. </p>
+        <byline>by <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
+        <dateline><date value="1952-10-00"><add>Oct--1952</add></date></dateline>
+        <p>All workers interested in the study of human fertility and its control will be encouraged
+            to know that at last there are research possibilities that a simple, cheap, harmless,
+            effective contraceptive will soon be obtainable for the masses of all countries.</p>
+        <p>The following two recent studies have been publicized–one in the <place>United
+                States</place> and one in <place>London, England</place>. Both of these experiments
+            are, by no means, completed but I give them here to encourage those workers in the field
+            of Birth Control and <org reg="Planned Parenthood Federation of America">Planned
+                Parenthood</org> with the hope that within the not too distant future, both the tea
+            from the weed and the pill will be available. Then the lovers and workers for World
+            Peace and Happiness may look to a future where children will be born and cared for
+            because the parents want them and can provide for them, who will become citizens of
+            their country and the New World. </p>
         <div>
             <head type="sub" rend="underline">RESEARCH TODAY</head>
-            <p>Recently a popular American magazine <title>LOOK</title> had an
-                article written by <person reg="White, William H.">William H.
-                    White</person>, a staff writer, which electrified and amazed
-                its readers. The article's title was “<title>Birth Control by a
-                    Pill</title>,” which states there would soon be available a
-                contraceptive to be taken by mouth–a pill which is simple, low
-                cast and harmless.</p>
-            <p>This so-called Pill is the result of intensive research in this
-                field of biochemists. There are several chemicals known to the
-                biochemist which have been tried on animals in their food and
-                proved to be successful in preventing conception. Many of these
-                have been used by men and women and results have reached the
-                stage where research papers and reports are being prepared for
-                publication in Scientific Journals.</p>
-            <p>The requirements of the perfect “Pill” must undergo careful and
-                painstaking scrutiny from various scientists in biology,
-                biochemistry, as well as physical and psychiatric experts.</p>
-            <p>The first requirement is that it must be absolutely proven to be
-                harmless to the person who uses it and will not cause disease or
-                bodily harm with repeated use.</p>
-            <p>Second, it must control fertility, not limit or sterilize (a real
-                Birth Control). Its effect must be temporary and entirely used
-                at the discretion of the couple.</p>
-            <p>Third, it must not impair potency or the ability to perform the
-                sexual act.</p>
-            <p>Fourth, it must be inexpensive so as to be used in all families
-                for those in crowded tenements or slums, as well as for those
-                whose intelligence is too retarded to use successfully the
-                present methods of contraception (the diaphragm and jelly
+            <p>Recently a popular American magazine <title type="journal">LOOK</title> had an
+                article written by <person reg="White, William H.">William H. White</person>, a
+                staff writer, which electrified and amazed its readers. The article’s title was
+                    “<title type="article">Birth Control by a Pill</title>,” which states there
+                would soon be available a contraceptive to be taken by mouth–a pill which is simple,
+                low cast and harmless.</p>
+            <p>This so-called Pill is the result of intensive research in this field of biochemists.
+                There are several chemicals known to the biochemist which have been tried on animals
+                in their food and proved to be successful in preventing conception. Many of these
+                have been used by men and women and results have reached the stage where research
+                papers and reports are being prepared for publication in Scientific Journals.</p>
+            <p>The requirements of the perfect “Pill” must undergo careful and painstaking scrutiny
+                from various scientists in biology, biochemistry, as well as physical and
+                psychiatric experts.</p>
+            <p>The first requirement is that it must be absolutely proven to be harmless to the
+                person who uses it and will not cause disease or bodily harm with repeated use.</p>
+            <p>Second, it must control fertility, not limit or sterilize (a real Birth Control). Its
+                effect must be temporary and entirely used at the discretion of the couple.</p>
+            <p>Third, it must not impair potency or the ability to perform the sexual act.</p>
+            <p>Fourth, it must be inexpensive so as to be used in all families for those in crowded
+                tenements or slums, as well as for those whose intelligence is too retarded to use
+                successfully the present methods of contraception (the diaphragm and jelly
                 method).</p>
-            <p>With the discovery of this chemical contraceptive Pill, sexual
-                activity can be separated effectively from Reproduction;
-                consequently, having children will be by choice and not by
-                accident. A child will be wanted and born in love and
-                consideration by the parents. A voluntary and deliberate
-                act.</p>
-            <p>The intricate details of this scientific study are too numerous
-                to evaluate by any but the scientific student with years of
-                experience behind him. There have been studies of experiments of
-                immunization from pregnancy in <place reg="Soviet Union"
-                    >Russia</place> in 1935 called Spermatoxin. A report stated
-                that 20,000 women had been inoculated by male sperm and had been
-                immune from pregnancy for two years.</p>
-            <p>I went to Russia to study this experiment in 1936, but found the
-                study had been discontinued for the Policy of an increasing
-                birth rate. The formula given to me by two of the scientists who
-                had worked in the Clinic was tried out on animals in the
-                laboratory of one of our large universities (<org
-                    reg="University of Pennsylvania">Pennsylvania
-                    University</org> in <place reg="Philadelphia, PA"
-                    >Philadelphia</place>) with no positive results.
-                Nevertheless, these recently discussed chemicals are said to do
-                the same thing–immunize temporarily the woman against
-                conception. </p>
-            <p>There are many agents including vitamins, hormones, Enzymes, and
-                Special Chemicals with power to control fertility. But, Research
-                has only begun but it is On The March and a pool of scientific
-                knowledge and experience will chart a course of further study.
-                It is these valuable Research advances which make it necessary
-                for Free Nations to prepare its people to make proper use of
-                such knowledge when it becomes available for public needs.</p>
-            <p>It is, therefore, I suggest that the leaders in
-                    <place>Japan</place> who work coincides with these studies
-                take council with leaders in other countries. Pool your
-                experiences with ours. Set up Research and teaching centers–join
-                the <org reg="International Planned Parenthood Federation">World
-                    Planned Parenthood Organization</org> which we hope will
-                emerge from the <org
-                    reg="International Conference on Birth Control, Third (Bombay)"
-                    >Conference</org> in <place>Bombay, India</place> to be held
-                there November 24th to December 2nd. The world has been waiting
-                for the Birth Control Pill. Now let us prepare our course to
-                receive and use it for the benefit of the family, the Nation and
-                the World.</p>
+            <p>With the discovery of this chemical contraceptive Pill, sexual activity can be
+                separated effectively from Reproduction; consequently, having children will be by
+                choice and not by accident. A child will be wanted and born in love and
+                consideration by the parents. A voluntary and deliberate act.</p>
+            <p>The intricate details of this scientific study are too numerous to evaluate by any
+                but the scientific student with years of experience behind him. There have been
+                studies of experiments of immunization from pregnancy in <place reg="Soviet Union"
+                    >Russia</place> in 1935 called Spermatoxin. A report stated that 20,000 women
+                had been inoculated by male sperm and had been immune from pregnancy for two
+                years.</p>
+            <p>I went to Russia to study this experiment in 1936, but found the study had been
+                discontinued for the Policy of an increasing birth rate. The formula given to me by
+                two of the scientists who had worked in the Clinic was tried out on animals in the
+                laboratory of one of our large universities (<org reg="University of Pennsylvania"
+                    >Pennsylvania University</org> in <place reg="Philadelphia, PA"
+                    >Philadelphia</place>) with no positive results. Nevertheless, these recently
+                discussed chemicals are said to do the same thing–immunize temporarily the woman
+                against conception. </p>
+            <p>There are many agents including vitamins, hormones, Enzymes, and Special Chemicals
+                with power to control fertility. But, Research has only begun but it is On The March
+                and a pool of scientific knowledge and experience will chart a course of further
+                study. It is these valuable Research advances which make it necessary for Free
+                Nations to prepare its people to make proper use of such knowledge when it becomes
+                available for public needs.</p>
+            <p>It is, therefore, I suggest that the leaders in <place>Japan</place> who work
+                coincides with these studies take council with leaders in other countries. Pool your
+                experiences with ours. Set up Research and teaching centers–join the <org
+                    reg="International Planned Parenthood Federation">World Planned Parenthood
+                    Organization</org> which we hope will emerge from the <org
+                    reg="International Conference on Birth Control, 3rd">Conference</org> in
+                    <place>Bombay, India</place> to be held there November 24th to December 2nd. The
+                world has been waiting for the Birth Control Pill. Now let us prepare our course to
+                receive and use it for the benefit of the family, the Nation and the World.</p>
         </div>
         <div>
-            <head type="sub" rend="underline">RESEARCH DISCOVERIES IN
-                1952</head>
-            <p><emph rend="underline">LONDON</emph> – A recent report from
-                London from Professor <person reg="Gudkin, John">John
-                    Gudkin</person>, <org>London University</org> Physiologist,
-                has found a new liquid type of contraceptive taken as a
-                tea–tastes like sherry wine and renders women sterile for
-                several days but does not effect their general health nor
-                prevent their future child-bearing capacity.</p>
-            <p>The tea is made from a weed called Gromwell, a cousin of the
-                forget-me-not flower so common in English gardens and to all
-                garden lovers. Its official name is (<foreign lang="LAT">lithosphermun officinale</foreign>).
-                Dr. Gudkin began experiments with this weed three years ago with
-                mice. The experiment was 100% perfect.</p>
-            <p>With Dr. Gudkin was Dr. <person reg="Wiesner, Berthold P.">B. P.
-                    Wiesner</person>, a specialist in human fertility. Also
-                helping are other experts–one Dr. <person reg="Gilmore, John"
-                    >John Gilmore</person>, Director of the Botanical Gardens of
-                    <org>Cambridge University</org>. These experts are now
-                encouraging people to grow Gromwell in their gardens and women
-                are experimenting under their direction. The discovery came from
-                a study of the <org>Shoshone</org> Indian tribe in <place>Nevada</place>,
-                U.S.A. This tribe practiced Birth Control with one variety of
-                the weed most successfully. These experts plan to have a large
-                scale human experiment next spring to adjust the dosage, also to
-                prepare its potency for male and female fertility.</p>
-            <p>These men believe that people should have children when they want
-                them and to be helped to prevent those they do not want and to
-                be made fertile for those children they desire to have.</p>
-            <p>They also state that this weed might be the simple means of
-                controlling World Population and lead eventually to World Peace.
-            </p>
+            <head type="sub" rend="underline">RESEARCH DISCOVERIES IN 1952</head>
+            <p><emph rend="underline">LONDON</emph> – A recent report from London from Professor
+                    <person reg="Gudkin, John">John Gudkin</person>, <org>London University</org>
+                Physiologist, has found a new liquid type of contraceptive taken as a tea–tastes
+                like sherry wine and renders women sterile for several days but does not effect
+                their general health nor prevent their future child-bearing capacity.</p>
+            <p>The tea is made from a weed called Gromwell, a cousin of the forget-me-not flower so
+                common in English gardens and to all garden lovers. Its official name is (<foreign
+                    lang="LAT">lithosphermun officinale</foreign>). Dr. Gudkin began experiments
+                with this weed three years ago with mice. The experiment was 100% perfect.</p>
+            <p>With Dr. Gudkin was Dr. <person reg="Wiesner, Berthold P.">B. P. Wiesner</person>, a
+                specialist in human fertility. Also helping are other experts–one Dr. <person
+                    reg="Gilmore, John">John Gilmore</person>, Director of the Botanical Gardens of
+                    <org>Cambridge University</org>. These experts are now encouraging people to
+                grow Gromwell in their gardens and women are experimenting under their direction.
+                The discovery came from a study of the <org>Shoshone Indian tribe</org> in
+                    <place>Nevada</place>, U.S.A. This tribe practiced Birth Control with one
+                variety of the weed most successfully. These experts plan to have a large scale
+                human experiment next spring to adjust the dosage, also to prepare its potency for
+                male and female fertility.</p>
+            <p>These men believe that people should have children when they want them and to be
+                helped to prevent those they do not want and to be made fertile for those children
+                they desire to have.</p>
+            <p>They also state that this weed might be the simple means of controlling World
+                Population and lead eventually to World Peace. </p>
         </div>
 
 

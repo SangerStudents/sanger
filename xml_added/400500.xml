@@ -1,35 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "file:/S:/TRANSCRIPTIONS/XML%20Drafts/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Speech">
     <mepHeader>
         <prepDate>2009/11/06 CH</prepDate>
+        <prepDate>2014-07-02 CH clean tags</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
-        <docDate value="1922-03-14"> 14 March 1922</docDate>
+        <docDate value="1922-03-14"> 14 Mar 1922</docDate>
         <docTitle>
-            <titlePart><supplied>Overpopulation and War</supplied></titlePart>
+            <titlePart><supplied resp="MSPP">Overpopulation and War</supplied></titlePart>
         </docTitle>
         <idno>msp400500</idno>
         <sourceDesc>
-            <bibl><p>Transcript published in the <title>Japan Advertiser</title>, March 15, 1922, p.
-                    1 and 8.</p></bibl>
+            <bibl>Transcript published in the <title type="journal">Japan Advertiser</title>, Mar.
+                15, 1922, p. 1 and 8.</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
-            <name/>
+            <name id="BP">Berliner Post</name>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>Sanger addressed an audience of over 600 at the Y.M.C.A. in Toyko,
-            Japan. </p>
-        <index level1="xxxx"/></headNote>
+    <headNote resp="MSPP"><p><person reg="Sanger, Margaret">Sanger</person> addressed an audience of
+            over 600 at the <org reg="Young Men's Christian Association">Y.M.C.A.</org> in
+                <place>Toyko, Japan</place>. </p>
+        <index level1="Asia" level2="overpopulation and"/>
+        <index level1="birth control" level2="and war"/>
+        <index level1="censorship"/>
+        <index level1="war" level2="overpopulation and"/>
+    </headNote>
     <docBody>
         <p>I regret exceedingly that I am not allowed to speak to you this afternoon upon the
             subject of birth control. Why this privilege has been denied me I do not know for I have
             addressed audiences on the subject of birth control in nearly every country in
-                <place>Europe</place> and every large city in the <place
-                reg="United States of America">United States</place>. However, I am grateful and
-            pleased that I have been able to gain the permission to address you on the subject of
-            War and Population. Inasmuch as I was unprepared to speak upon this subject, I ask your
-            tolerance in allowing me to use my notes in addressing you.</p>
+                <place>Europe</place> and every large city in the <place>United States</place>.
+            However, I am grateful and pleased that I have been able to gain the permission to
+            address you on the subject of War and Population. Inasmuch as I was unprepared to speak
+            upon this subject, I ask your tolerance in allowing me to use my notes in addressing
+            you.</p>
         <p>For more than a hundred years Europe had about doubled her population while the increase
             of her food supply was less than 5 percent. She had been piling up huge debts for future
             generations to pay. She had piled up such conditions as slums, unemployment, child
@@ -48,7 +54,7 @@
             with which the world was confronted in 1914.</p>
         <p>In some countries, as in <place>England</place>, it was possible through colonization to
             alleviate the conditions in this group somewhat by sending her surplus population to
-            Canada, <place>Australia</place> and other parts of the globe.</p>
+                <place>Canada</place>, <place>Australia</place> and other parts of the globe.</p>
         <p><place>France</place>, on the other hand, had kept her numbers more or less stationary
             and had aimed to develop quality in her people. It was to France that we turned for
             culture, for science, for advancement in almost every line of scientific thought.</p>
@@ -67,7 +73,7 @@
             began to increase her problems. The urge for expansion on the part of the increasing
             population in any country when brought against geographical barriers acts blindly in the
             direction of conflict--whether in colonial rivalry or territorial swarming. The
-            opportunities for Germany's expansion were strictly limited by other powers and the
+            opportunities for Germany’s expansion were strictly limited by other powers and the
             prosperity due to the opening of new countries had long passed its maximum.</p>
         <p> The possibilities for expansion that were open a century ago, were fairly well exhausted
             and Germany found herself with serious problems on her hands which meant national
@@ -75,15 +81,15 @@
             increasing population, bringing this population largely to full maturity at a great
             expense to the government, through social service, old age pensions, and maternity
             benefits. The necessities for maintaining this population were out of her reach and made
-            her dependant upon other countries for her population's subsistence. There was a
+            her dependant upon other countries for her population’s subsistence. There was a
             tendency too, toward a surplus of highly trained professional and technical men.</p>
         <p> The elaborate educational system of Germany was producing more engineers, surveyors,
             electrical engineers, industrial chemists and experts along various lines than the
-            nation's employers could utilize or absorb. The result was that such men had to be
+            nation’s employers could utilize or absorb. The result was that such men had to be
             content to remain for a less wage than the unskilled workingmen could procure or to
             emigrate into foreign lands where that skill and inventiveness became the assets of
-            other countries at Germany's cost.</p>
-        <p> While Germany's birth rate was on the decline, in 1900 it was 36.5 percent, in 1909, 32
+            other countries at Germany’s cost.</p>
+        <p> While Germany’s birth rate was on the decline, in 1900 it was 36.5 percent, in 1909, 32
             percent, and in 1913 29.5 percent--the number of deaths diminished also by such
             proportion that her survivals became higher, and her population increased in a faster
             proportion than it did with an increasing birth rate. There was an increase of from
@@ -91,11 +97,12 @@
             individuals every five years. It was upon such conditions, briefly and fragmentary as
             they are related here that Germany based her claim to a place in the sun and the right
             of livelihood of her surplus population.</p>
-        <p> The <title>Berliner Post</title> in 1913 said: 'Can a great and rapidly growing nation
-            like Germany always renounce all claims to further development or to the expansion of
-            its political power? The final settlement with France and England, the expansion of our
-            colonial possessions in order to create new German homes for the overflow of our
-            population. . . .these are the problems which must be faced in the near future.'</p>
+        <p> The <title type="journal">Berliner Post</title> in 1913 said: ‘<q who="BP">Can a great
+                and rapidly growing nation like Germany always renounce all claims to further
+                development or to the expansion of its political power? The final settlement with
+                France and England, the expansion of our colonial possessions in order to create new
+                German homes for the overflow of our population. . . .these are the problems which
+                must be faced in the near future.</q>’</p>
         <p> If one studies the comments of the press during the five years preceding the Great War,
             it will be found in every instance that the argument upon which the need of the right of
             any country to prepare for war was based upon her increasing and growing population.</p>
@@ -104,9 +111,9 @@
             and others who were seeking greater demands for Germany that she must find an outlet for
             her people, that Germany was hungry for trade, that she needed colonies, that she could
             not confine her growing population within her narrow geographical boundaries and in one
-            of the magazines the <personRef reg="Wilhelm, Kaiser">Kaiser</personRef> was quoted to
-            have said that in 1950 Germany would possess a population of two hundred millions or
-            something near to it.</p>
+            of the magazines the <person reg="Wilhelm II">Kaiser</person> was quoted to have said
+            that in 1950 Germany would possess a population of two hundred millions or something
+            near to it.</p>
         <p> It might have been supposed that councils such as those representing the best ranks of
             thinking Germans might have been adverse to this condition of things, but extraordinary,
             as it may seem to all thinking people, the Marxian philosophy had taken a strong hold
@@ -122,7 +129,7 @@
             manhood was slaughtered in the war, her mothers and children left at home in a condition
             of physical starvation from which has come the generations of the future. When I was in
             Germany in 1920 and witnessed more than 10,000 little starving infants, the results of
-            the blockade and the war, I felt that it would be far kinder for Germany's future and
+            the blockade and the war, I felt that it would be far kinder for Germany’s future and
             for the future peace of the world to humanitarily allow these little victims to pass
             away rather than to keep them alive upon the charity of the enemy nations. More than 45
             percent of the women of Germany were made permanently sterile owing to the lack of food
@@ -139,14 +146,15 @@
             increasingly as great as those of Germany in 1910. She has a right to have those
             problems solved in a rational humanitarian way, but until our diplomats and statesmen
             recognize the causes of war and make the study of the population in all its manifold
-            departments, all our <org>Leagues of Nations</org>, international conferences,
-            agreements and international treaties will become the proverbial 'scraps of paper.'</p>
+            departments, all our <org reg="League of Nations">Leagues of Nations</org>,
+            international conferences, agreements and international treaties will become the
+            proverbial ‘scraps of paper.’</p>
         <p> Men and women of <place>Japan</place>, I appeal to you to look into this subject
             thoroughly. The mothers and women in your country are just as desirous of wiping out
             poverty, misery, suffering and war as the mothers and women of the other nations of the
             world. I appeal to you to set your motherhood free! To make your women something more
             than breeding machines such as the women of every nation have been during one period of
-            that nation's development. The time has come for international brotherhood and
+            that nation’s development. The time has come for international brotherhood and
             international emancipation.</p>
         <p> The advancement of hygiene and sanitation and welfare work in any country only increases
             its population problem which means invasion through immigration or armed invasion. Each

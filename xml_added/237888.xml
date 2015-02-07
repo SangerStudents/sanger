@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "file:/S:/TRANSCRIPTIONS/XML%20Drafts/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Article">
     <mepHeader>
         <prepDate>2003-07-08 SR</prepDate>
         <prepDate>2003-07-14 SR</prepDate>
         <prepDate>2004/07/26 CH</prepDate>
         <prepDate>2007/06/27 CH Oxygen update</prepDate>
+        <prepDate>2014-03-18 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1918-11-00">Nov 1918</docDate>
         <docTitle>
@@ -13,12 +14,12 @@
         </docTitle>
         <idno>msp237888</idno>
         <sourceDesc>
-            <bibl><title>The Birth Control Review</title>, Nov. 1918, 6-7</bibl>
-            <bibl><title>Margaret Sanger Microfilm</title> S70:807</bibl>
+            <bibl><title type="journal">Birth Control Review</title>, Nov. 1918, 6-7</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title>, S70:807</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
-            <name id="FINPA"> Palmer Findley</name>
+            <name id="FINPA">Findley, Palmer</name>
         </respStmt>
     </mepHeader>
     <headNote resp="MSPP">
@@ -35,7 +36,7 @@
     </headNote>
     <docBody>
         <head>When Should A Woman Avoid Having Children?</head>
-        <byline>By Margaret Sanger</byline>
+        <byline>By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
         <p>If one judges by the letters and personal inquiries that come to an advocate of Birth
             Control the one thing that women wish to know more than any other, is how to escape the
             burden of too frequent child bearing. Next to that they are interested in the question
@@ -67,8 +68,9 @@
             that the mother requires at least this much time to regain her normal strength in order
             to give a new baby proper nourishment both before and after is birth. For the mother's
             sake it is sufficient to point out, as does <person reg="Findley, Palmer"
-            >Findley</person> in "<title>Diseases of Women</title>" that "<q who="FINPA">frequent
-                child bearing...almost certainly results in some sort of pelvic ailment.</q>" </p>
+                >Findley</person> in "<title type="book">Diseases of Women</title>" that "<q
+                who="FINPA">frequent child bearing . . . almost certainly results in some sort of
+                pelvic ailment.</q>" </p>
         <p>(3) <emph rend="italics"> By all means there should be no children when mother (or
                 father) suffers from such diseases as tuberculosis, gonorrhea, syphilis, cancer,
                 epilepsy, insanity, drunkenness or mental disorders. In the case of the mother,
@@ -100,17 +102,16 @@
         <p rend="italics">(5)<emph rend="italics"> There should be no more children whenever the
                 conditions of life and the uncertainty of livelihood make it improbable that the
                 children can be given proper care, both as to their physical and mental
-            needs.</emph></p>
-        <p rend="italics">At least one child in every seven that dies in the <place
-                reg="United States of America"> United States</place> perishes from malnutrition or
-            some disease due to poverty. It is neither just to the baby, to the mother nor to the
-            father, to bring into the world a child that is likely to lack for proper food, medical
-            attention and healthful home surroundings. The want of these things inevitably bring
-            disease and disaster to the child and a crushing burden to the parents, to say nothing
-            of the burden to society at large. If there is not accorded to the infant the mercy of
-            an early death, the jail, the poorhouse, and the house of prostitution have a great
-            chance of claiming it. This is another point upon which medical and social authorities
-            are now well agreed.</p>
+                needs.</emph></p>
+        <p rend="italics">At least one child in every seven that dies in the <place>United
+                States</place> perishes from malnutrition or some disease due to poverty. It is
+            neither just to the baby, to the mother nor to the father, to bring into the world a
+            child that is likely to lack for proper food, medical attention and healthful home
+            surroundings. The want of these things inevitably bring disease and disaster to the
+            child and a crushing burden to the parents, to say nothing of the burden to society at
+            large. If there is not accorded to the infant the mercy of an early death, the jail, the
+            poorhouse, and the house of prostitution have a great chance of claiming it. This is
+            another point upon which medical and social authorities are now well agreed.</p>
         <p>This, then, is the answer of science for all women generally. But I want to impress upon
             the mind of the reader who belongs to the toiling masses that women who labor, who do
             useful things in the world, have a special and exceedingly deep interest in Birth
@@ -125,10 +126,9 @@
                 society remains indifferent to the needs of her offspring and forces them to toil in
                 mills and factories.</emph>
         </p>
-        <p rend="italics">"<soCalled>Industrial diseases</soCalled>" due to accident, overwork, lack
-            of fresh air and lack of play, stunt both the mental and physical development of the
-            child, which through the pressure of poverty at home, has been driven to coin its
-            childhood into dollars.</p>
+        <p rend="italics">"Industrial diseases" due to accident, overwork, lack of fresh air and
+            lack of play, stunt both the mental and physical development of the child, which through
+            the pressure of poverty at home, has been driven to coin its childhood into dollars.</p>
         <p>
             <emph rend="italics"> The working woman should have no more children while the profit
                 system exists, for it dictates where you shall live, and what you and your children
@@ -141,8 +141,8 @@
             <emph rend="italics"> While there is a struggle between the forces of Poverty and Plenty
                 the working woman should have no more children. Every child is likely to have to go
                 into the mill or the factory and compete with its father and mother for its daily
-                bread.</emph>
-        </p>
+                bread.</emph></p>
+
         <p rend="italics">The workers will win their fight for better conditions, only when they
             cease to produce cheap labor for the labor market, and use birth control as the most
             immediate weapon for their emancipation.</p>
@@ -160,7 +160,7 @@
             renewal of the world, goes into a sordid, dead, unfeeling machine. That is society's
             decision in the matter, and from it there is no appeal. But until Society permits woman
             to give to the bearing and rearing of children the maternal energy given her by Nature
-            for that purpose, and <emph rend="italics"> so long</emph> as she must give it to a
+            for that purpose, and <emph rend="italics">so long</emph> as she must give it to a
             factory machine, she must for her own sake, for the sake of other workers, for the sake
             of the child, avoid bearing children.</p>
     </docBody>

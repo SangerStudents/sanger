@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
-<doc type="Typed Speech"> 
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed Speech">
  <mepHeader>
   <prepDate>2002-08-05 KH</prepDate>
   <prepDate>2002-08-15 KH</prepDate>
   <prepDate>2003/08/19 CH</prepDate>
   <prepDate>2003/11/25 CH</prepDate>
   <prepDate>2004/08/09 CH</prepDate>
-  <prepDate>2011/03/11 CH Entered corrections suggested by Andy
-   Carloff.</prepDate>
+  <prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
+  <prepDate>2014-11-11 CH clean regs</prepDate>
   <docAuthor>Margaret Sanger</docAuthor>
   <docDate value="1929-02-27">27 Feb 1929</docDate>
   <docTitle>
    <titlePart>
-    <supplied resp="MSPP">Address to Pennsylvania Birth Control
-     Leagues</supplied>
+    <supplied resp="MSPP">Address to Pennsylvania Birth Control Leagues</supplied>
    </titlePart>
   </docTitle>
   <idno>msp101861</idno>
@@ -23,19 +22,18 @@
    <bibl>LCM 128:446</bibl>
   </sourceDesc>
   <respStmt>
-   <name id="WELHG">H. G. Wells</name>
-   <name id="ASTNA">Nancy Langhorne Astor </name>
-   <name id="UNK">Unknown</name>
+   <name id="WELHG">Wells, H. G. </name>
+   <name id="ASTNA">Astor, Nancy Langhorne</name>
+   <name id="TENAL">Tennyson, Alfred</name>
   </respStmt>
  </mepHeader>
  <headNote>
-  <p>Sanger gave this speech at an evening meeting which culminated a one day
-   Combined Conference of the <org>Pennsylvania Birth Control Federation</org>
-   and the<org> Southeastern Pennsylvania Birth Control League</org>. This
-   meeting, held at the Bellevue Stratford Hotel in <place
-    reg="Philadelphia, PA">Philadelphia</place>, was open to the public, and
-   featured other speakers Rev. <person>William H. Garth</person> and
-    <person>Samuel Emlen</person>.</p>
+  <p>Margaret Sanger gave this speech at an evening meeting which culminated a one day combined
+   conference of the <org>Pennsylvania Birth Control Federation</org> and the <org>Southeastern
+    Pennsylvania Birth Control League</org>. This meeting, held at the <org>Bellevue Stratford
+    Hotel</org> in Philadelphia, was open to the public, and featured other speakers Rev. <person
+    reg="Garth, William H.">William H. Garth</person> and <person reg="Emlen, Samuel">Samuel
+    Emlen</person>.</p>
   <p>Words torn off on last page have been supplied. </p>
   <index level1="Sanger, Margaret" level2="autobiographical"/>
   <index level1="population control"/>
@@ -46,8 +44,7 @@
   <index level1="mortality rates" level2="maternal"/>
   <index level1="birth control" level2="methods and devices" level3="continence"/>
   <index level1="sterilization" level2="MS on"/>
-  <index level1="birth control" level2="methods and devices"
-   level3="chemical contraceptives"/>
+  <index level1="birth control" level2="methods and devices" level3="chemical contraceptives"/>
   <index level1="birth control" level2="morality of"/>
   <index level1="child spacing"/>
   <index level1="marriage" level2="MS on"/>
@@ -56,315 +53,259 @@
   <index level1="client letters"/>
  </headNote>
  <docBody>
-  <head>Speech by MRS. SANGER: B.C. CONFERENCE</head>
-  <dateline><place><add>Phila, Pa</add></place><date>February 27th,
-   1929</date>.</dateline>
-  <p>Mr. Chairman, ladies and gentlemen: First I want to congratulate you and
-   the Committee for bringing together this splendid Conference. During the
-   years of my fight for Birth Control I have attended a large number of
-   conferences both here and abroad, and it was indeed a great source of
-   inspiration to come here today and to listen to the remarks and statements
-   and to feel te advance that this movement has made.</p>
-  <p>I think the City of Philadelphia owes a vote of thanks to this Committee
-   for bringing together this brilliant group of speakers to discuss the subject
-   as it has been discussed today. After listening to some of the papers that I
-   heard, I was reminded of something <person>H. G. Wells </person>said last
-   year in talking about the advance of culture and intelligence. He said "<q
-    who="WELHG">I have one test of intelligence and that is the attitude of the
-    man or woman on birth control, as that is the real test of
-   intelligence,</q>" and I think if you heard, as I did, the statements made
-   today and if you compared those statements and the attitude of mind to the
-   same thoughts that were expressed at this sort of a conference years ago, if
-   we would put these thoughts into the hands of the legislators it would be a
-   great help and the opposition would be forced to come to some sort of a
-   conclusion and let us hear what they have to say.</p>
-  <p>I would like to attend a conference of the opposition sometime but I never
-   have been able to as I have never been invited, and I do not believe they
-   ever had a conference. Now my purpose tonight is to say why I believe in
-   birth control. I have written four books to say I do believe in it but I feel
-   much like Lady Astor when she was running for Parliament. She made a
-   statement that she had five children and the opposition said he was the
-   father of eight and Lady <person reg="Nancy  Langhorne Astor ">Astor</person>
-   retorted "<q who="ASTNA">Never mind I haven't finished yet</q>."</p>
-  <p>When I come to a conference of this kind I feel that four books are not
-   enough and that there is material for others to come. Before I tell why I
-   believe in birth control I would like to define what I believe birth control
-   to be and I say it is the conscious control of the birth rate by means that
-   prevent conception. Notice I say "<soCalled>prevent</soCalled>" and that does
-   not mean to interfer it does not mean to take or destroy conception, it means
-   to prevent and there is no more interference with life by preventing
-   conception than there is in remaining single, in fact you do interfer with
-   life by remaining single, but we cannot say that that destroys life. It does
-   not, we ought to say control and as one of the speakers tonight mentioned
-   control does not necessarily mean to limit it does not mean that when you
-   control your furnace that you put the fire out. You can control your motor
-   and that does not necessarily mean to stop it. Everything must be controlled,
-   it is part and parcel of our civilization.</p>
-  <p>We control our minds, we control traffic, we control everything and why not
-   control the birth rate? It is one of the tests of our progress in
-   civilization.</p>
-  <p>First I believe in birth control because I believe in knowledge, I believe
-   a man and woman should have available all knowledge and I believe with the
-   poet who said "<q who="UNK">Let knowledge grow from morn to morn, Gain more
-    of reverence as it grows.</q>"</p>
-  <p>Secondly I believe in birth control because I believe it is a health and
-   economic expedient and that it is a great social principle and this principle
-   is interlocked with culture ad spiritual progress of the race and its
-   future.</p>
-  <p>Third I believe in birth control because civilization is confronted with
-   two problems, that of the pressure of population upon the food supply and
-   humanitarian efforts with race improvements.</p>
-  <p>All of you who listened to the discussion on welfare work and social
-   science heard the tremendous amount that is spent on social welfare, on
-   humanitarian efforts, and so far all of this has not meant a racial
-   improvement, and to me birth control is the key to both of these
+  <head>Speech by <person reg="Sanger, Margaret">MRS. SANGER</person>: B.C. CONFERENCE</head>
+  <dateline><place reg="Philadelphia, PA"><add>Phila, Pa</add></place><date>February 27th,
+    1929</date>.</dateline>
+  <p>Mr. <person reg="Unknown">Chairman</person>, ladies and gentlemen: First I want to congratulate
+   you and the Committee for bringing together this splendid Conference. During the years of my
+   fight for Birth Control I have attended a large number of conferences both here and abroad, and
+   it was indeed a great source of inspiration to come here today and to listen to the remarks and
+   statements and to feel te advance that this movement has made.</p>
+  <p>I think the City of Philadelphia owes a vote of thanks to this Committee for bringing together
+   this brilliant group of speakers to discuss the subject as it has been discussed today. After
+   listening to some of the papers that I heard, I was reminded of something <person
+    reg="Wells, H. G.">H. G. Wells </person>said last year in talking about the advance of culture
+   and intelligence. He said "<q who="WELHG">I have one test of intelligence and that is the
+    attitude of the man or woman on birth control, as that is the real test of intelligence,</q>"
+   and I think if you heard, as I did, the statements made today and if you compared those
+   statements and the attitude of mind to the same thoughts that were expressed at this sort of a
+   conference years ago, if we would put these thoughts into the hands of the legislators it would
+   be a great help and the opposition would be forced to come to some sort of a conclusion and let
+   us hear what they have to say.</p>
+  <p>I would like to attend a conference of the opposition sometime but I never have been able to as
+   I have never been invited, and I do not believe they ever had a conference. Now my purpose
+   tonight is to say why I believe in birth control. I have written four books to say I do believe
+   in it but I feel much like Lady Astor when she was running for <org>Parliament</org>. She made a
+   statement that she had five children and the opposition said he was the father of eight and Lady
+    <person reg="Astor, Nancy Langhorne">Astor</person> retorted "<q who="ASTNA">Never mind I
+    haven't finished yet</q>."</p>
+  <p>When I come to a conference of this kind I feel that four books are not enough and that there
+   is material for others to come. Before I tell why I believe in birth control I would like to
+   define what I believe birth control to be and I say it is the conscious control of the birth rate
+   by means that prevent conception. Notice I say "prevent" and that does not mean to interfer it
+   does not mean to take or destroy conception, it means to prevent and there is no more
+   interference with life by preventing conception than there is in remaining single, in fact you do
+   interfer with life by remaining single, but we cannot say that that destroys life. It does not,
+   we ought to say control and as one of the speakers tonight mentioned control does not necessarily
+   mean to limit it does not mean that when you control your furnace that you put the fire out. You
+   can control your motor and that does not necessarily mean to stop it. Everything must be
+   controlled, it is part and parcel of our civilization.</p>
+  <p>We control our minds, we control traffic, we control everything and why not control the birth
+   rate? It is one of the tests of our progress in civilization.</p>
+  <p>First I believe in birth control because I believe in knowledge, I believe a man and woman
+   should have available all knowledge and I believe with the poet who said "<q who="TENAK">Let
+    knowledge grow from morn to morn, Gain more of reverence as it grows.</q>"</p>
+  <p>Secondly I believe in birth control because I believe it is a health and economic expedient and
+   that it is a great social principle and this principle is interlocked with culture ad spiritual
+   progress of the race and its future.</p>
+  <p>Third I believe in birth control because civilization is confronted with two problems, that of
+   the pressure of population upon the food supply and humanitarian efforts with race
+   improvements.</p>
+  <p>All of you who listened to the discussion on welfare work and social science heard the
+   tremendous amount that is spent on social welfare, on humanitarian efforts, and so far all of
+   this has not meant a racial improvement, and to me birth control is the key to both of these
    problems.</p>
-  <p>We heard today that annually over five billions of dollars are spent on the
-   direct prevention of poverty and it was said that four times that amount was
-   spent indirectly. I have maintained for sometime that over nine billions were
-   spent annually for dependent people and I say in my work as a trained nurse
-   that this great expenditure did not mean a depressing of the demand in the
-   future.</p>
-  <p>I often wonder why our business men don't look upon the subject as keenly
-   as they do with other phases. You find a man who will do a great deal to
-   invest for the future of his family, he will look into investments very
-   carefully and cautiously and yet he does not realize that these nine billions
-   or twenty billions spent today will mean thirty billions by the time his
-   children are grown and that he is not safe-guarding his investments unless he
-   pays attention to this great problem of charity.</p>
-  <p>I was again surprised that more attention was not given today to the great
-   problem of maternal mortality. I was not here to attend all of the session
-   this morning, but I did not hear anything said about it while I was here.
-   Maternal mortality throughout the world has become a problem. It has not
-   decreased and this is a fact not only in <place>England</place> and
-    <place>Australia</place> but in the <place reg="United States of America"
-    >United States</place>, it has increased.</p>
-  <p>Is it any wonder that it is increasing when women who are suffering from
-   tuberculosis, heart and kidney disease are allowed to have children. It is a
-   wicked shame a disgrace to civilization to withhold from these mothers
-   contraceptive advice and information.</p>
-  <p>Everyone knows that the woman who has tuberculosis should not become a
-   mother and she should not be allowed to become pregnant and the physician who
-   is looking after that woman will tell her that "<q who="UNK">she must not get
-    that way</q>" but when she asks what she will do they shake their heads and
-   say "<q who="UNK">Oh, be careful</q>" that is the best they can do for her
-   and then if she becomes pregnant the best they can do is to interrupt the
-   pregnancy, and there seems to be no objection to that ethically, morally,
-   socially or legally, and yet that could be avoided if they would give her
+  <p>We heard today that annually over five billions of dollars are spent on the direct prevention
+   of poverty and it was said that four times that amount was spent indirectly. I have maintained
+   for some time that over nine billions were spent annually for dependent people and I say in my
+   work as a trained nurse that this great expenditure did not mean a depressing of the demand in
+   the future.</p>
+  <p>I often wonder why our business men don't look upon the subject as keenly as they do with other
+   phases. You find a man who will do a great deal to invest for the future of his family, he will
+   look into investments very carefully and cautiously and yet he does not realize that these nine
+   billions or twenty billions spent today will mean thirty billions by the time his children are
+   grown and that he is not safe-guarding his investments unless he pays attention to this great
+   problem of charity.</p>
+  <p>I was again surprised that more attention was not given today to the great problem of maternal
+   mortality. I was not here to attend all of the session this morning, but I did not hear anything
+   said about it while I was here. Maternal mortality throughout the world has become a problem. It
+   has not decreased and this is a fact not only in <place>England</place> and
+    <place>Australia</place> but in the <place>United States</place>, it has increased.</p>
+  <p>Is it any wonder that it is increasing when women who are suffering from tuberculosis, heart
+   and kidney disease are allowed to have children. It is a wicked shame a disgrace to civilization
+   to withhold from these mothers contraceptive advice and information.</p>
+  <p>Everyone knows that the woman who has tuberculosis should not become a mother and she should
+   not be allowed to become pregnant and the physician who is looking after that woman will tell her
+   that "she must not get that way" but when she asks what she will do they shake their heads and
+   say "Oh, be careful" that is the best they can do for her and then if she becomes pregnant the
+   best they can do is to interrupt the pregnancy, and there seems to be no objection to that
+   ethically, morally, socially or legally, and yet that could be avoided if they would give her
    advice and instruction and that is what she needs.</p>
-  <p> This matter of prevention seems to be far removed from the medical
-   profession and they are only beginning to realize that that is the way to
-   solve that problem. The women suffering from heart and kidney disease are in
-   the same category and we have many of them coming to us in <place
-    reg="New York, NY">New York</place> whom I believe would have been with the
-   great army of mothers who have died if they had not been safe guarded with
-   the proper instructions. There is also the question of infant mortality and
-   while we have reduced it in the last ten years it is not enough. With all our
-   efforts, with all our efficiency, with all our welfare organizations,
-   especially for the relief of poverty and misery, why should we have infant
-   and maternal mortality. We have reduced it but at what cost of millions of
-   dollars, at the cost of the vitality of a great army of nurses and social
-   workers who have dedicated their lives to this work when they might have been
-   doing something constructive and something for their own development.</p>
-  <p>Infant mortality has been reduced but what are we really doing to wipe it
-   out? We are doing just what we do in most everything, we lock the door after
-   the horse has been stolen. We still have two hundred thousand infants who die
-   before they reach one year of age and we still allow the father and mothers
-   of those two hundred thousand infants remain in ignorance of how to prevent
-   another two hundred thousand next year and over ninety percent of these will
-   die of poverty and neglect.</p>
-  <p>We find that social service needs are increasing and the cost is increasing
-   and that shows that we are not getting at the root of the problem, and I
-   believe we will never wipe out infant mortality until we stop at the source
-   the stream of unwanted and death doomed infants and you can never push back
-   the stream with the broom of charity, but you have got to safe-guard mothers
-   with safe, proper information to prevent the coming of undesired and unwanted
-   children.</p>
-  <p>I believe that with the efficient social agencies we have that in twenty
-   years we could wipe out disease at least 75%.</p>
-  <p>This could be done by having a hook-up of the birth control clinics and the
-   social agencies and until that is done I believe that we will continue just
-   as we have been doing in the past twenty years.</p>
-  <p>After all let us not forget where the five billion and the twenty billion
-   dollars come from; it comes from our pockets and it deprives a certain group
-   of people from increasing the size of their family and that will remain so,
-   and the birth rate will remain as it is and the one group will have to bear
-   the burden of the other on its shoulders, and I believe with birth control
-   this will adjust itself, and it has done in <place reg="Stockholm, Sweden"
-    >Stockholm</place> where it was found that the birth rate among the poor had
-   gone down and the birth rate among the artisans and the intelligent group had
-   gone up and that is a fundamental way to attack the problem of a differential
-   birth rate.</p>
-  <p>I believe that the northern countries are now working on a wider survey and
-   it will be a wonderful illustration of birth control when practically
-   applied.</p>
-  <p>There are three groups or methods for birth control; the first is
-   continence, either wholly or partial; the second is sterilization, either
-   with x-ray or radium and the third is chemical or mechanical means to prevent
-   conception. I have no objections to any group using anyone of these, but what
-   I do believe in is the principle of birth control and if your religion agrees
-   to the principle and objects to the method I have no quarrel with that, just
-   so long as they do not impose upon me the kind of a method that they approve
-   of.</p>
-  <p>If a religion believes that continence is the only method justifiable to
-    <name>God</name> they have a perfect right, as far as I am concerned to use
-   continence as a method but I do maintain as a citizen that they have no right
-   to bring children into the world for me to maintain and take care of. There
-   is where I have a right to object and I also claim that while there is no law
-   against any individual having as many children as the individual desires they
-   have no right to keep us from having laws in which we have the same right not
-   to have more children than we desire to have.</p>
-  <p>It has always been highly ethical to have a large family but there has
-   always been some question about the ethics of having a small family and I
-   don't see why. For me it seems much more moral for two people to have only
-   the number of children they can support and do well by them it is not to have
-   the conscious responsibility but have a number of children and let anybody
-   take care of them, including charitable institutions and this is because you
-   have not the right responsibility, and I think it is far more moral to have
-   that responsibility than not to have it.</p>
-  <p>The question of sterilization is one that is also much discussed and it
-   depends on the physician and the individual, and the question of a mechanical
-   or chemical method is one that depends on the individual and that is why we
-   must have the birth control clinics because the physicians are in charge to
-   instruct and to care for the individual mothers and decide on the proper
-   method suitable for her individual case and there are just as individual
-   methods of prevention as there are glasses or shoes it must be individually
-   applied and each individual must be instructed, so I have no quarrel with
-   either one of these methods.</p>
-  <p>Again we say that there are certain conditions where people should practice
-   birth control and I claim that the first condition is where there are
-   transmissible diseases. No human being has the right to bring a child into
-   the world when the mother or father has a transmissible disease.</p>
-  <p>We know more today about transmissible disease and this is a problem not
-   for the individual but is one that concerns the race as a whole and we
-   believe that this is the first moral duty of every man or woman.</p>
-  <p>The next condition is that of diseases of women, heart and kidney disease
-   and in these cases a woman should be advised and the best method of birth
-   control used, and the medical profession should see that this is always
-   done.</p>
-  <p>The third condition is where parents, although healthy themselves, have
-   subnormal children and there we claim that parents should have no others if
-   those they already have are subnormal. The next condition is spacing out
-   babies to two or three years so the mother will have a chance to recuperate
-   and have a chance to enjoy her new baby and also to prepare herself both
-   mentally and spiritually for the coming of the next.</p>
-  <p>The <org reg="U.S. Children's Bureau">Children's Bureau</org> of the <org
-    reg="U.S. Department of Labor">Department of Labor</org> has shown that the
-   children have the greatest chance of life who are spaced out from three to
-   four years. That spacing out of infants is going to do more for infant
-   mortality and help to preserve the health of the mothers.</p>
-  <p>The next condition is that where mothers should not take upon themselves
-   the obligation of motherhood until they have finished adolescence. We do not
-   want our girls to become mothers before they have developed into women.
-   Womanhood should proceed motherhood and I claim that a young girl 12 or 13
-   should not become mothers and thousands of them are and they have become
-   mothers at an age when we had no right to allow it, before they have finished
-   their adolescent development.</p>
-  <p>The adolescent period for the girl is from 14 to 23 and the boy 18 to 25,
-   and that is a very trying period in the life of the boy and the girl,
-   physically, mentally, and I might say nervously. They are not quite fully
-   developed and it is much better for the girl and for the child and for all
-   concerned for motherhood not to take place before that age.</p>
-  <p>Again, the next condition is that of poverty and I believe that no couple
-   has a right to have more children than they can provide properly for. A man
-   and woman knowing that the earning capacity of the man will never be beyond a
-   certain amount, $25 or $30 a week I believe has no moral right to bring
-   children into the world, bring eight or nine children when they are unable to
-   support them.</p>
-  <p>We have that condition, we have it here in Philadelphia, we see it every
-   day in New York where the welfare organization bring these people to our
-   clinic, mothers who have for years been dependent upon outside aide and at
-   the same time bringing children into the world, if not every year, every year
-   and a half.</p>
-  <p>I claim that we should grant to newly married people at least a year, or
-   two years if possible, for them to get acquainted. It takes these young
-   people a year to learn to know each other and that is a very difficult
-   period. So often the marriage certificate means the end of happiness and
-   every year we know we are learning more and more about happiness, and we know
-   that a couple should have that year to know each other and to get acquainted,
-   to play together and study together and develop together, develop the
-   cultural side of their natures and to build up the great sacrament of
-   life.</p>
-  <p>We know so little about love that it seems a very little thing to ask that
-   the young people should prepare for motherhood and fatherhood and that they
-   should know something about these things which we call life. This would
-   prepare them for parenthood as they could learn something about phscology,
-   physiology and something of their problems, and I maintain and believe that
-   if young people were given time to build up their marriage relations, to know
-   something about the fullest expression physically, mentally and spiritually
-   we would have more permanent marriages and children brought into the world
-   from desire and not anything else, and I believe that these young people are
-   going to have not one or two children, but they are going to have more
-   children and have them properly spaced.</p>
-  <p>We hear that some of the young people are considering it rather fashionable
-   to have four or five children and are planning for it. It is not unusual to
-   find a young mother with three children who is planning on the fourth, we
-   have those also who come to the clinic and because they have a chance to
-   space the children they are willing to have more, they have a chance to
+  <p> This matter of prevention seems to be far removed from the medical profession and they are
+   only beginning to realize that that is the way to solve that problem. The women suffering from
+   heart and kidney disease are in the same category and we have many of them coming to us in <place
+    reg="New York, NY">New York</place> whom I believe would have been with the great army of
+   mothers who have died if they had not been safe guarded with the proper instructions. There is
+   also the question of infant mortality and while we have reduced it in the last ten years it is
+   not enough. With all our efforts, with all our efficiency, with all our welfare organizations,
+   especially for the relief of poverty and misery, why should we have infant and maternal
+   mortality. We have reduced it but at what cost of millions of dollars, at the cost of the
+   vitality of a great army of nurses and social workers who have dedicated their lives to this work
+   when they might have been doing something constructive and something for their own
+   development.</p>
+  <p>Infant mortality has been reduced but what are we really doing to wipe it out? We are doing
+   just what we do in most everything, we lock the door after the horse has been stolen. We still
+   have two hundred thousand infants who die before they reach one year of age and we still allow
+   the father and mothers of those two hundred thousand infants remain in ignorance of how to
+   prevent another two hundred thousand next year and over ninety percent of these will die of
+   poverty and neglect.</p>
+  <p>We find that social service needs are increasing and the cost is increasing and that shows that
+   we are not getting at the root of the problem, and I believe we will never wipe out infant
+   mortality until we stop at the source the stream of unwanted and death doomed infants and you can
+   never push back the stream with the broom of charity, but you have got to safe-guard mothers with
+   safe, proper information to prevent the coming of undesired and unwanted children.</p>
+  <p>I believe that with the efficient social agencies we have that in twenty years we could wipe
+   out disease at least 75%.</p>
+  <p>This could be done by having a hook-up of the birth control clinics and the social agencies and
+   until that is done I believe that we will continue just as we have been doing in the past twenty
+   years.</p>
+  <p>After all let us not forget where the five billion and the twenty billion dollars come from; it
+   comes from our pockets and it deprives a certain group of people from increasing the size of
+   their family and that will remain so, and the birth rate will remain as it is and the one group
+   will have to bear the burden of the other on its shoulders, and I believe with birth control this
+   will adjust itself, and it has done in <place reg="Stockholm, Sweden">Stockholm</place> where it
+   was found that the birth rate among the poor had gone down and the birth rate among the artisans
+   and the intelligent group had gone up and that is a fundamental way to attack the problem of a
+   differential birth rate.</p>
+  <p>I believe that the northern countries are now working on a wider survey and it will be a
+   wonderful illustration of birth control when practically applied.</p>
+  <p>There are three groups or methods for birth control; the first is continence, either wholly or
+   partial; the second is sterilization, either with x-ray or radium and the third is chemical or
+   mechanical means to prevent conception. I have no objections to any group using anyone of these,
+   but what I do believe in is the principle of birth control and if your religion agrees to the
+   principle and objects to the method I have no quarrel with that, just so long as they do not
+   impose upon me the kind of a method that they approve of.</p>
+  <p>If a religion believes that continence is the only method justifiable to <name type="deity"
+    >God</name> they have a perfect right, as far as I am concerned to use continence as a method
+   but I do maintain as a citizen that they have no right to bring children into the world for me to
+   maintain and take care of. There is where I have a right to object and I also claim that while
+   there is no law against any individual having as many children as the individual desires they
+   have no right to keep us from having laws in which we have the same right not to have more
+   children than we desire to have.</p>
+  <p>It has always been highly ethical to have a large family but there has always been some
+   question about the ethics of having a small family and I don't see why. For me it seems much more
+   moral for two people to have only the number of children they can support and do well by them it
+   is not to have the conscious responsibility but have a number of children and let anybody take
+   care of them, including charitable institutions and this is because you have not the right
+   responsibility, and I think it is far more moral to have that responsibility than not to have
+   it.</p>
+  <p>The question of sterilization is one that is also much discussed and it depends on the
+   physician and the individual, and the question of a mechanical or chemical method is one that
+   depends on the individual and that is why we must have the birth control clinics because the
+   physicians are in charge to instruct and to care for the individual mothers and decide on the
+   proper method suitable for her individual case and there are just as individual methods of
+   prevention as there are glasses or shoes it must be individually applied and each individual must
+   be instructed, so I have no quarrel with either one of these methods.</p>
+  <p>Again we say that there are certain conditions where people should practice birth control and I
+   claim that the first condition is where there are transmissible diseases. No human being has the
+   right to bring a child into the world when the mother or father has a transmissible disease.</p>
+  <p>We know more today about transmissible disease and this is a problem not for the individual but
+   is one that concerns the race as a whole and we believe that this is the first moral duty of
+   every man or woman.</p>
+  <p>The next condition is that of diseases of women, heart and kidney disease and in these cases a
+   woman should be advised and the best method of birth control used, and the medical profession
+   should see that this is always done.</p>
+  <p>The third condition is where parents, although healthy themselves, have subnormal children and
+   there we claim that parents should have no others if those they already have are subnormal. The
+   next condition is spacing out babies to two or three years so the mother will have a chance to
+   recuperate and have a chance to enjoy her new baby and also to prepare herself both mentally and
+   spiritually for the coming of the next.</p>
+  <p>The <org reg="United States Children's Bureau">Children's Bureau</org> of the <org
+    reg="United States Department of Labor">Department of Labor</org> has shown that the children
+   have the greatest chance of life who are spaced out from three to four years. That spacing out of
+   infants is going to do more for infant mortality and help to preserve the health of the
+   mothers.</p>
+  <p>The next condition is that where mothers should not take upon themselves the obligation of
+   motherhood until they have finished adolescence. We do not want our girls to become mothers
+   before they have developed into women. Womanhood should proceed motherhood and I claim that a
+   young girl 12 or 13 should not become mothers and thousands of them are and they have become
+   mothers at an age when we had no right to allow it, before they have finished their adolescent
+   development.</p>
+  <p>The adolescent period for the girl is from 14 to 23 and the boy 18 to 25, and that is a very
+   trying period in the life of the boy and the girl, physically, mentally, and I might say
+   nervously. They are not quite fully developed and it is much better for the girl and for the
+   child and for all concerned for motherhood not to take place before that age.</p>
+  <p>Again, the next condition is that of poverty and I believe that no couple has a right to have
+   more children than they can provide properly for. A man and woman knowing that the earning
+   capacity of the man will never be beyond a certain amount, $25 or $30 a week I believe has no
+   moral right to bring children into the world, bring eight or nine children when they are unable
+   to support them.</p>
+  <p>We have that condition, we have it here in Philadelphia, we see it every day in New York where
+   the welfare organization bring these people to our clinic, mothers who have for years been
+   dependent upon outside aide and at the same time bringing children into the world, if not every
+   year, every year and a half.</p>
+  <p>I claim that we should grant to newly married people at least a year, or two years if possible,
+   for them to get acquainted. It takes these young people a year to learn to know each other and
+   that is a very difficult period. So often the marriage certificate means the end of happiness and
+   every year we know we are learning more and more about happiness, and we know that a couple
+   should have that year to know each other and to get acquainted, to play together and study
+   together and develop together, develop the cultural side of their natures and to build up the
+   great sacrament of life.</p>
+  <p>We know so little about love that it seems a very little thing to ask that the young people
+   should prepare for motherhood and fatherhood and that they should know something about these
+   things which we call life. This would prepare them for parenthood as they could learn something
+   about phscology, physiology and something of their problems, and I maintain and believe that if
+   young people were given time to build up their marriage relations, to know something about the
+   fullest expression physically, mentally and spiritually we would have more permanent marriages
+   and children brought into the world from desire and not anything else, and I believe that these
+   young people are going to have not one or two children, but they are going to have more children
+   and have them properly spaced.</p>
+  <p>We hear that some of the young people are considering it rather fashionable to have four or
+   five children and are planning for it. It is not unusual to find a young mother with three
+   children who is planning on the fourth, we have those also who come to the clinic and because
+   they have a chance to space the children they are willing to have more, they have a chance to
    prepare for them and they are planning on having more.</p>
-  <p>Those who have gone through motherhood know it is a great experience but it
-   is also a very hazardous one and I think we should try to make it as
-   beautiful as possible and that can be done by making it voluntary. There is a
-   difference and a very great difference, and you can never tell me that
-   motherhood is beautiful for the woman who has nine or ten children, one every
-   year. That woman is anxious and troubled and she cannot have great joy in
-   motherhood and motherhood becomes a horror to millions of women.</p>
+  <p>Those who have gone through motherhood know it is a great experience but it is also a very
+   hazardous one and I think we should try to make it as beautiful as possible and that can be done
+   by making it voluntary. There is a difference and a very great difference, and you can never tell
+   me that motherhood is beautiful for the woman who has nine or ten children, one every year. That
+   woman is anxious and troubled and she cannot have great joy in motherhood and motherhood becomes
+   a horror to millions of women.</p>
   <p>We have had 12 thousand women who have come to the <org
-    reg="Birth Control Clinical Research Bureau">Clinic</org> in New York and
-   hundreds of thousands have written to me in the last fifteen years and I
-   think it is safe to say that the great majority, about 98% say the reason
-   they want information to control conception is because of the love they have
-   for children who are already born. They ask for a chance to know their
-   children, to love their children and to bring them up decently. They ask for
-   a chance to regain their health, they ask for an opportunity to know their
-   husbands, if you please, because they feel in many cases that they have lost
-   his interest.</p>
-  <p>They start out by being happy and joyous and something happens ill-health,
-   trouble and this young couple is torn apart and the woman is the first one to
-   realize this, and she asks for something that helps her capture him back
-   again, and this condition of ill-health is so often caused by too frequent
-   pregnancy and the woman suffers ill-health and the husband becomes interested
-   in another woman, and these women say "<q who="UNK">My husband has become
-    interested in another woman because I refuse him. I am afraid of his touch,
-    his carress I push him away, and now he is gone.</q>"</p>
-  <p>Thousands of women have written to me like that. Then we have women come to
-   us who have not had children and they ask what can they do so they can have
-   children, and we are glad to help these women who desire children just as
-   much as we are to help those who do not desire to have more than they are
-   able to have.</p>
-  <p>The problem must be solved, as we see it, by the establishment of clinics.
-   There are today in the United States about 26 clinics. Some of them are in
-   hospitals and some of them are organized and maintained by private groups. In
-   England there are 22 clinics and in <place>Germany</place> there are three,
-   and it is quite possible that the government in Germany is going to take over
-   those clinics that have been recently organized. In England the women and the
-   birth control groups are fighting for information to prevent conception to be
-   given at the maternity and infant health centers of which there are some
-   fifteen hundred maintained by the government.</p>
-  <p> In almost all countries they are "<soCalled>hooking up</soCalled>" and
-   combining these two ideas, the need of birth control as a means of solving
-   social problems.</p>
-  <p>Now after all birth control could be the basis of woman's health, it must
-   be the basis for health for children and for a happy marriage. When we
-   realize the great waste of women's health, when we realize the great waste of
-   women's lives and energy in undesired pregnancies, women who have had fifteen
-   and eighteen pregnancies and only three or four living children, and thee are
-   ten thousand such and it is safe to say that fifty per cent of those
-   pregnancies have been wasted, and with such a condition there is no business
-   man in the world who <supplied resp="MSPP">would</supplied> continue if he
-   had a fifty per cent loss.</p>
-  <p>Many of the women who write to us tell us they have not paid for <supplied
-    resp="MSPP">the</supplied> coffins of their dead children, and they are
-   writing to us pleading and asking us for something to save motherhood. Have
-   we not paid for these laws that we have? Have we not paid as a race for the
-   colossal ignorance, for the infant mortality, for feeble-mindedness and
+    reg="Birth Control Clinical Research Bureau">Clinic</org> in New York and hundreds of thousands
+   have written to me in the last fifteen years and I think it is safe to say that the great
+   majority, about 98% say the reason they want information to control conception is because of the
+   love they have for children who are already born. They ask for a chance to know their children,
+   to love their children and to bring them up decently. They ask for a chance to regain their
+   health, they ask for an opportunity to know their husbands, if you please, because they feel in
+   many cases that they have lost his interest.</p>
+  <p>They start out by being happy and joyous and something happens ill-health, trouble and this
+   young couple is torn apart and the woman is the first one to realize this, and she asks for
+   something that helps her capture him back again, and this condition of ill-health is so often
+   caused by too frequent pregnancy and the woman suffers ill-health and the husband becomes
+   interested in another woman, and these women say "<q who="UNK">My husband has become interested
+    in another woman because I refuse him. I am afraid of his touch, his carress I push him away,
+    and now he is gone.</q>"</p>
+  <p>Thousands of women have written to me like that. Then we have women come to us who have not had
+   children and they ask what can they do so they can have children, and we are glad to help these
+   women who desire children just as much as we are to help those who do not desire to have more
+   than they are able to have.</p>
+  <p>The problem must be solved, as we see it, by the establishment of clinics. There are today in
+   the United States about 26 clinics. Some of them are in hospitals and some of them are organized
+   and maintained by private groups. In England there are 22 clinics and in <place>Germany</place>
+   there are three, and it is quite possible that the government in Germany is going to take over
+   those clinics that have been recently organized. In England the women and the birth control
+   groups are fighting for information to prevent conception to be given at the maternity and infant
+   health centers of which there are some fifteen hundred maintained by the government.</p>
+  <p> In almost all countries they are "hooking up" and combining these two ideas, the need of birth
+   control as a means of solving social problems.</p>
+  <p>Now after all birth control could be the basis of woman's health, it must be the basis for
+   health for children and for a happy marriage. When we realize the great waste of women's health,
+   when we realize the great waste of women's lives and energy in undesired pregnancies, women who
+   have had fifteen and eighteen pregnancies and only three or four living children, and thee are
+   ten thousand such and it is safe to say that fifty per cent of those pregnancies have been
+   wasted, and with such a condition there is no business man in the world who <supplied resp="MSPP"
+    >would</supplied> continue if he had a fifty per cent loss.</p>
+  <p>Many of the women who write to us tell us they have not paid for <supplied resp="MSPP"
+    >the</supplied> coffins of their dead children, and they are writing to us pleading and asking
+   us for something to save motherhood. Have we not paid for these laws that we have? Have we not
+   paid as a race for the colossal ignorance, for the infant mortality, for feeble-mindedness and
    abortions? It seems to me we have paid for it.</p>
-  <p>It is a great social problem today and I think it is time to awaken, time
-   to set ourselves to the task of relieving the condition, it is time to do
-   away with it. We want children to be conceived in love and born of parents
-   who want them, parents who have sound minds and sound bodies so they can give
-   these things to their children as a heritage, and it is these mothers, their
-   cries, my friends, that must spur us on in our fight, in our continued fight
-   for the liberation of motherhood and of womenhood.</p>
+  <p>It is a great social problem today and I think it is time to awaken, time to set ourselves to
+   the task of relieving the condition, it is time to do away with it. We want children to be
+   conceived in love and born of parents who want them, parents who have sound minds and sound
+   bodies so they can give these things to their children as a heritage, and it is these mothers,
+   their cries, my friends, that must spur us on in our fight, in our continued fight for the
+   liberation of motherhood and of womenhood.</p>
  </docBody>
 </doc>

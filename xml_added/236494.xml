@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Article">
     <mepHeader>
-        <prepDate>2011/07/15 NC</prepDate><prepDate>2011/11/28 CH correct typo</prepDate>
+        <prepDate>2011/07/15 NC</prepDate>
+        <prepDate>2011/11/28 CH correct typo</prepDate>
+        <prepDate>2014-04-01 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1944-06-00">Jun 1944</docDate>
         <docTitle>
@@ -10,155 +12,129 @@
         </docTitle>
         <idno>msp236494</idno>
         <sourceDesc>
-            <bibl><title>Coronet Magazine</title> June 1944 p.144</bibl>
-            <bibl><title>MSM</title>S72:0394</bibl>
+            <bibl><title type="journal">Coronet Magazine</title> June 1944 p. 144</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S72:0394</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
-            <name id="UNK">Unknow</name>
+            <name id="UNK">Unknown</name>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>This article was published in a supplement to the
-            June issue on <title>The Bridal Path</title>.</p><index
-            level1="abortion" level2="frequency of"/><index level1="adolescence"
-            /><index level1="birth control" level2="in marriages"/><index
-            level1="birth control" level2="youth and"/>
+    <headNote resp="MSPP"><p>This article was published in a supplement to the June issue on <title
+                type="journal">The Bridal Path</title>.</p>
+        <index level1="abortion" level2="frequency of"/>
+        <index level1="adolescence"/>
+        <index level1="birth control" level2="in marriages"/>
+        <index level1="birth control" level2="youth and"/>
         <index level1="family planning"/>
-        <index level1="family size"/><index level1="marriage age" level2="men"/>
-        <index level1="marriage age" level2="women"/><index level1="motherhood"
-            /><index level1="sex education" level2="need for"/><index
-            level1="&quot;unfit&quot; to reproduce" level2="MS on"/></headNote>
+        <index level1="family size"/>
+        <index level1="marriage age" level2="men"/>
+        <index level1="marriage age" level2="women"/>
+        <index level1="motherhood"/>
+        <index level1="sex education" level2="need for"/>
+        <index level1="&quot;unfit&quot; to reproduce" level2="MS on"/></headNote>
     <docBody>
         <head>Sexual Adjustment and Parenthood</head>
-        <byline>by Margaret Sanger</byline>
-
-        <p>Today's bride approaches marriage fortified with a thousand and one
-            suggestions on conducting her wedding and running her home, but the
-            chances are no one will tell her that most important thing of
-            all--how to plan her family.</p>
-        <p>The period of shyness and smirking over this vital concern has
-            passed. We are able to face the fact that the rice thrown after the
-            newlyweds isn't just an empty custom, but a symbol of fertility--a
-            hope that the marriage will be blessed with issues. And it is now
-            possible for the bride who wants to become acquainted with her
-            husband and to grow accustomed to married life with all the
-            complexities mixed with raptures, to plan her babies so they will be
-            a joy rather than a health and economic hazard.</p>
-        <p>Almost all of you want babies. It's a natural urge and fulfillment.
-            And almost all of you, judging from the various polls, want the
-            right to have your children when you want them and can best care for
-            them.</p>
-        <p>I have discussed the problem with several young girls, all interested
-            in marriage, most of them prospective brides of the near future, to
-            learn their reaction to so intimate a subject. One girl admitted,
-            “All our bull sessions in college end up with sex. Although the kids
-            think they know a lot, they really don't and would give anything for
-            some definite advice and information.”</p>
-        <p>Another said she believed all girls would like to know how to plan
-            their families, but most of them “<q who="UNK">just don't know where
-                to go to find out.</q>”</p>
-        <p>There are excellent books available which can tell better than this
-            short article the physiological and emotional factors involved in
-            marriage. Among them is that perennial best-seller by Drs. <person
-                reg="Stone, Hannah Mayer">Hannah</person> and <person
-                reg="Stone, Abraham">Abraham Stone</person>, <title>Marriage
-                Manual</title>. There is <title>The Happy Family</title> by Dr.
-                <person reg="Levy, John">John Levy</person> and <person
-                reg="Munroe, Ruth">Ruth Munroe</person>, Dr. <person
-                reg="Butterfield, Oliver M.">Oliver M. Butterfield</person>'s
-            useful pamphlet, <title>Marriage and Sexual Harmony</title> and
-                <title>The Doctor Talks to the Bride</title> by Dr. <person
-                reg="Levine, Lena">Lena Levine</person>.</p>
-        <p>One thing all the wise men and women stress is that marriage should
-            never be used for therapeutic purposes. Don't try to “cure” yourself
-            or your fiance of some deep-seated psychic ailment by marriage. In
-            the same manner, a husband and wife should not try to cement an
-            otherwise unhappy marriage by having children. Children don't
-            automatically “bring a couple together.” Too often, in a troubled
-            atmosphere, the advent of children has the opposite effect.</p>
-        <p>So be sure of yourself emotionally as well as physically before
-            entering this serious state, particularly during these troubled war
-            days. The fascination of the uniform, the urgencies of approaching
-            separation and the desire to be patriotic can blind one to the
+        <byline>by <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
+        <p>Today's bride approaches marriage fortified with a thousand and one suggestions on
+            conducting her wedding and running her home, but the chances are no one will tell her
+            that most important thing of all--how to plan her family.</p>
+        <p>The period of shyness and smirking over this vital concern has passed. We are able to
+            face the fact that the rice thrown after the newlyweds isn’t just an empty custom, but a
+            symbol of fertility--a hope that the marriage will be blessed with issues. And it is now
+            possible for the bride who wants to become acquainted with her husband and to grow
+            accustomed to married life with all the complexities mixed with raptures, to plan her
+            babies so they will be a joy rather than a health and economic hazard.</p>
+        <p>Almost all of you want babies. It’s a natural urge and fulfillment. And almost all of
+            you, judging from the various polls, want the right to have your children when you want
+            them and can best care for them.</p>
+        <p>I have discussed the problem with several young girls, all interested in marriage, most
+            of them prospective brides of the near future, to learn their reaction to so intimate a
+            subject. One girl admitted, “<q who="UNK">All our bull sessions in college end up with
+                sex. Although the kids think they know a lot, they really don’t and would give
+                anything for some definite advice and information.</q>”</p>
+        <p>Another said she believed all girls would like to know how to plan their families, but
+            most of them “<q who="UNK">just don’t know where to go to find out.</q>”</p>
+        <p>There are excellent books available which can tell better than this short article the
+            physiological and emotional factors involved in marriage. Among them is that perennial
+            best-seller by Drs. <person reg="Stone, Hannah Mayer">Hannah</person> and <person
+                reg="Stone, Abraham">Abraham Stone</person>, <title type="book">Marriage
+                Manual</title>. There is <title type="book">The Happy Family</title> by Dr. <person
+                reg="Levy, John">John Levy</person> and <person reg="Munroe, Ruth">Ruth
+                Munroe</person>, Dr. <person reg="Butterfield, Oliver M.">Oliver M.
+                Butterfield</person>’s useful pamphlet, <title type="book">Marriage and Sexual
+                Harmony</title> and <title type="book">The Doctor Talks to the Bride</title> by Dr.
+                <person reg="Levine, Lena">Lena Levine</person>.</p>
+        <p>One thing all the wise men and women stress is that marriage should never be used for
+            therapeutic purposes. Don’t try to “cure” yourself or your fiance of some deep-seated
+            psychic ailment by marriage. In the same manner, a husband and wife should not try to
+            cement an otherwise unhappy marriage by having children. Children don’t automatically
+            “bring a couple together.” Too often, in a troubled atmosphere, the advent of children
+            has the opposite effect.</p>
+        <p>So be sure of yourself emotionally as well as physically before entering this serious
+            state, particularly during these troubled war days. The fascination of the uniform, the
+            urgencies of approaching separation and the desire to be patriotic can blind one to the
             realities of marriage.</p>
-        <p>Know yourself and know the biology of what takes place when you are
-            united with the man you love. Knowledge dispels the fears and
-            shadows that too often sow the first seeds of disaster in marriage.
-            Schools throughout the country are realizing the importance of
-            teaching boys and girls about the functioning of their bodies.
-            Almost every college and many high schools now include courses in
-            sociology or marriage counselling to help young people make a
-            success of this most important job of their lives.</p>
-        <p>Army brides are finding aid through <org
-                reg="United Service Organization">USO</org> and <org
-                reg="Young Women's Christian Association">YWCA</org> services.
-            Certain progressive ministers have inaugurated Family Groups,
-            encouraging young people to gather for discussion of mutual
-            problems.</p>
-        <p>Frequently, troubled young people will ask marriage counsellors
-            questions they wouldn't dream of asking those close to them, and
-            will find relief in frank, impersonal advice. Two of the questions
-            most frequently asked are: “Shall we go ahead and have a baby now or
-            wait until after the war?” and “How can we learn to plan our
-            family?”</p>
-        <p>My answer to the first is, be a bride for a year, if possible, before
-            having a baby. This will give you time to cement love and marriage,
-            to make adjustments and prepare the atmosphere for the coming child.
-            Of course this is difficult advice for the war bride, who must kiss
-            the groom farewell after a few happy days. If she desires a child
-            and feels herself physically, emotionally, and economically able to
-            undertake the added burden in the face of her husband's uncertain
-            return, let her go ahead. Many women are bearing infants happily and
-            safely.</p>
-        <p>Should you decide to go ahead and have a baby, go to your doctor for
-            a thorough examination to be sure you are in the best possible
-            physical condition, and continue under doctor's supervision until at
-            least six weeks after the baby's birth.</p>
-        <p>To the question, “Where shall I go to find out about child-spacing?”
-            I can offer the reassurance that the <org>Planned Parenthood
-                Federation of America</org> in <place reg="New York, NY">New
-                York City</place> lists more than 786 child-spacing services
-            throughout the country, as well as sterility services where those
-            who find themselves unable to have children may be given aid. The
-            Federation also has available the names of more than three thousand
-            doctors qualified to give child-spacing information and the numerous
-            methods of birth control. These must be prescribed individually by a
-            physician trained in this branch of preventive medicine.</p>
-        <p>There are five reasons for controlling parenthood which I feel cannot
-            be stressed too often. First, no couple should have a child or
-            anticipate one when either has a transmittable disease. Second, when
-            a woman has a temporary disease which pregnancy affects, such as
-            tuberculosis or kidney trouble, she should postpone her baby until
-            this condition is either cured or safely arrested. Third, where the
-            parents, although healthy, already have a child who is diseased or
-            mentally deficient, there should be grave hesitation about bringing
-            into the world another who might be so cursed.</p>
-        <p>Fourth, where the spacing is incorrect, and children born too close
-            together, the mortality statistics for both mother and child are
-            great. You should enjoy your baby for at least a year before
-            thinking of having another child. It's far better for your baby and
-            for you, too.</p>
-        <p>Fifth, if either you or your husband is extremely young, you should
-            wait to mature both physically and mentally before having a child.
-            This is fair not only to yourself but to your child, who deserves an
-            adult parent in this complex world.</p>
-        <p>Annually, many thousands of women die or are maimed from abortion and
-            90 per cent of them are married women. Birth control information
-            could have saved many of these lives. The number of abortions
-            occurring each year range from 750 thousand to a million, and Dr.
-                <person reg="Fishbein, Morris">Morris Fishbein</person>, editor
-            of <title>The Journal of the <org>American Medical
-                Association</org></title>, estimates that there has been a 20 to
-            40 per cent increase since <place reg="Pearl Harbor, HI">Pearl
-                Harbor</place>.</p>
-        <p>It isn't fair to deny to the vast majority of women in this country
-            the child-spacing knowledge they desire, and which is their
-            democratic right. It isn't fair to force them, often, to the sad
-            alternative of abortion.</p>
-        <p>This is why I feel that you brides must know of these serious facts
-            so that you can face marriage equipped with understanding and
-            knowledge; that it is more important to tell you about planning your
-            families then merely to give you details for making a wedding dress,
-            or the best method for waxing your floors.</p>
+        <p>Know yourself and know the biology of what takes place when you are united with the man
+            you love. Knowledge dispels the fears and shadows that too often sow the first seeds of
+            disaster in marriage. Schools throughout the country are realizing the importance of
+            teaching boys and girls about the functioning of their bodies. Almost every college and
+            many high schools now include courses in sociology or marriage counselling to help young
+            people make a success of this most important job of their lives.</p>
+        <p>Army brides are finding aid through <org reg="United Service Organization">USO</org> and
+                <org reg="Young Women's Christian Association">YWCA</org> services. Certain
+            progressive ministers have inaugurated Family Groups, encouraging young people to gather
+            for discussion of mutual problems.</p>
+        <p>Frequently, troubled young people will ask marriage counsellors questions they wouldn’t
+            dream of asking those close to them, and will find relief in frank, impersonal advice.
+            Two of the questions most frequently asked are: “<q who="UNK">Shall we go ahead and have
+                a baby now or wait until after the war?” and “How can we learn to plan our
+                family?</q>”</p>
+        <p>My answer to the first is, be a bride for a year, if possible, before having a baby. This
+            will give you time to cement love and marriage, to make adjustments and prepare the
+            atmosphere for the coming child. Of course this is difficult advice for the war bride,
+            who must kiss the groom farewell after a few happy days. If she desires a child and
+            feels herself physically, emotionally, and economically able to undertake the added
+            burden in the face of her husband’s uncertain return, let her go ahead. Many women are
+            bearing infants happily and safely.</p>
+        <p>Should you decide to go ahead and have a baby, go to your doctor for a thorough
+            examination to be sure you are in the best possible physical condition, and continue
+            under doctor’s supervision until at least six weeks after the baby’s birth.</p>
+        <p>To the question, “<q who="UNK">Where shall I go to find out about child-spacing?</q>” I
+            can offer the reassurance that the <org>Planned Parenthood Federation of America</org>
+            in <place reg="New York, NY">New York City</place> lists more than 786 child-spacing
+            services throughout the country, as well as sterility services where those who find
+            themselves unable to have children may be given aid. The Federation also has available
+            the names of more than three thousand doctors qualified to give child-spacing
+            information and the numerous methods of birth control. These must be prescribed
+            individually by a physician trained in this branch of preventive medicine.</p>
+        <p>There are five reasons for controlling parenthood which I feel cannot be stressed too
+            often. First, no couple should have a child or anticipate one when either has a
+            transmittable disease. Second, when a woman has a temporary disease which pregnancy
+            affects, such as tuberculosis or kidney trouble, she should postpone her baby until this
+            condition is either cured or safely arrested. Third, where the parents, although
+            healthy, already have a child who is diseased or mentally deficient, there should be
+            grave hesitation about bringing into the world another who might be so cursed.</p>
+        <p>Fourth, where the spacing is incorrect, and children born too close together, the
+            mortality statistics for both mother and child are great. You should enjoy your baby for
+            at least a year before thinking of having another child. It’s far better for your baby
+            and for you, too.</p>
+        <p>Fifth, if either you or your husband is extremely young, you should wait to mature both
+            physically and mentally before having a child. This is fair not only to yourself but to
+            your child, who deserves an adult parent in this complex world.</p>
+        <p>Annually, many thousands of women die or are maimed from abortion and 90 per cent of them
+            are married women. Birth control information could have saved many of these lives. The
+            number of abortions occurring each year range from 750 thousand to a million, and Dr.
+                <person reg="Fishbein, Morris">Morris Fishbein</person>, editor of <title
+                type="journal">The Journal of the <org>American Medical Association</org></title>,
+            estimates that there has been a 20 to 40 per cent increase since <place
+                reg="Pearl Harbor, HI">Pearl Harbor</place>.</p>
+        <p>It isn’t fair to deny to the vast majority of women in this country the child-spacing
+            knowledge they desire, and which is their democratic right. It isn’t fair to force them,
+            often, to the sad alternative of abortion.</p>
+        <p>This is why I feel that you brides must know of these serious facts so that you can face
+            marriage equipped with understanding and knowledge; that it is more important to tell
+            you about planning your families then merely to give you details for making a wedding
+            dress, or the best method for waxing your floors.</p>
     </docBody>
 </doc>

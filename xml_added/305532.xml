@@ -1,11 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE doc SYSTEM "s:\dtds\mep\meptei3x.dtd">
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
 <mepHeader>
-<prepDate>2003/06/25 SB</prepDate>
-<prepDate>2004/07/27 CH</prepDate>
-<prepDate>2004/08/06 CH</prepDate>
-<prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
+    <prepDate>2003/06/25 SB</prepDate>
+    <prepDate>2004/07/27 CH</prepDate>
+    <prepDate>2004/08/06 CH</prepDate>
+    <prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
+    <prepDate>2014/03/12 EK clean regs</prepDate>
+  
 <docAuthor>Margaret Sanger</docAuthor>
 <docDate value="1920-01-00">Jan 1920</docDate>
 <docTitle>
@@ -13,11 +15,17 @@
 </docTitle>
 <idno>msp305532</idno>
 <sourceDesc>
-<bibl><title>The Birth Control Review</title>, Jan. 1920, 12</bibl>
+<bibl><title>Birth Control Review</title>, Jan. 1920, 12</bibl>
 <bibl><title>Margaret Sanger Microfilm</title> C16:142</bibl>
 </sourceDesc>
 </mepHeader>
-<headNote resp="MSPP"><index level1="labor movement" level2="birth control and"/><index level1="labor movement" level2="MS on"/><index level1="labor movement" level2="women and"/><index level1="women" level2="enslavement of"/><index level1="working classes"/></headNote>
+<headNote resp="MSPP">
+    <index level1="labor movement" level2="birth control and"/>
+    <index level1="labor movement" level2="MS on"/>    
+    <index level1="labor movement" level2="women and"/>
+    <index level1="women" level2="enslavement of"/>    
+    <index level1="working classes"/>
+</headNote>
 <docBody>
 <head>From Woman's Standpoint</head>
 <byline rend="italics">By Margaret Sanger</byline>

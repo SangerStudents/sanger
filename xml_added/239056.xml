@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
     <mepHeader>
         <prepDate>2003-07/10 CH</prepDate>
         <prepDate>2004/07/26 CH</prepDate>
         <prepDate>2004/08/09 CH</prepDate>
         <prepDate>2007/06/276 CH Oxygen update</prepDate>
-        <prepDate>2001/03/11 CH Entered corrections suggested by Andy
-            Carloff.</prepDate><prepDate>2011-11-30 CH typos</prepDate>
+        <prepDate>2001/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
+        <prepDate>2011-11-30 CH typos</prepDate>
+        <prepDate>2014-04-01 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1918-11-00">Nov 1918</docDate>
         <docTitle>
@@ -15,19 +16,18 @@
         </docTitle>
         <idno>msp239056</idno>
         <sourceDesc>
-            <bibl><title>The Birth Control Review</title>, Nov. 1918. 3-4</bibl>
+            <bibl><title type="journal">Birth Control Review</title>, Nov. 1918. 3-4</bibl>
             <bibl><title>Margaret Sanger Microfilm</title> S70:803</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
-            <name id="ERVCH">Charles V. Ervin</name>
-            <name id="SMIAL">Alfred E. Smith</name>
+            <name id="ERVCH">Ervin, Charles V.</name>
+            <name id="SMIAL">Smith, Alfred E.</name>
         </respStmt>
     </mepHeader>
     <headNote resp="MSPP">
         <index level1="Smith, Alfred E."/>
-        <index level1="birth control" level2="laws and legislation"
-            level3="New York "/>
+        <index level1="birth control" level2="laws and legislation" level3="New York "/>
         <index level1="birth control" level2="socio-economic benefits of"/>
         <index level1="birth control" level2="opposition to"/>
         <index level1="birth control" level2="access to"/>
@@ -35,154 +35,121 @@
     </headNote>
     <docBody>
         <head>AN OPEN LETTER TO ALFRED E. SMITH</head>
-        <p>HON. <person reg="Smith, Alfred E.">ALFRED E. SMITH</person>, <emph
-                rend="italics">President of the Board of Alderman, City
-                Hall,</emph>
+        <p>HON. <person reg="Smith, Alfred E.">ALFRED E. SMITH</person>, <emph rend="italics"
+                >President of the <org reg="New York City Board of Aldermen">Board of
+                Alderman</org>, City Hall,</emph>
             <place reg="New York, NY">New York</place>.</p>
         <p>MY DEAR MR. SMITH:-–</p>
-        <p>On September 26th, I addressed to you the following letter: "The
-            subject of birth control is of vital importance to the women voters
-            who are casting their first vote in the coming election of this
-            state.</p>
-        <p>For the benefit of the thousands who are interested in this subject
-            will you not state your position regarding it, inasmuch as Governor
-                <person reg="Whitman, Charles S.">Whitman</person> has already
-            gone on record for a Commission to investigate the necessity of
-            changing the anti-birth control laws.</p>
-        <p>I will greatly appreciate hearing from you at your earliest possible
-            convenience."</p>
-        <signed>Very truly yours, [<emph rend="italics">Signed</emph>] MARGARET
-            SANGER.</signed>
-        <p>At the same time I addressed a letter in identical language to
-                <person reg="Ervin, Charles W.">Charles W. Ervin</person>,
-            Socialist nominee for governor. Mr. Ervin has replied as
-            follows:</p>
-        <dateline>NEW YORK CITY <date value="1918-10-02">October 2,
-            1918</date>.</dateline>
-        <p>
-            <q who="ERVCH">MY DEAR MRS. SANGER:–-</q>
-        </p>
-        <p>
-            <q who="ERVCH">Replying to your letter of September 26th, it is
-                almost needless to state that I think that woman should be
-                mistress of her own life, both economically and physically, and
-                further, I think it is a crime for children to be brought into
-                the world unless there is positive assurance that they can be
-                given the best physical, moral and mental surroundings from
-                birth until they blossom into manhood and womanhood.</q>
-        </p>
-        <p>
-            <q who="ERVCH">Believing this, I therefore am certainly in favor of
-                a commission to investigate the necessity of changing the
-                anti-birth control laws. I would, however, be most emphatically
-                opposed to having this commission composed of a majority of men,
-                but, on the contrary, I should just as emphatically favor the
-                appointment of a majority of women on such a commission.</q>
-        </p>
-        <signed>Very Very Truly, [<emph rend="italics">Signed</emph>] CHARLES W.
-            ERVIN.</signed>
-        <p>Thus far I have received from you no reply to my query in behalf of
-            the women who have written to me asking where the various candidates
-            for governor stand upon the question of Birth Control.</p>
-        <p>I have noted, however, your interview in the <title rend="italics"
-                >New York American</title> of October 13th. In that interview,
-            you declare yourself in favor of these policies and measures, among
-            others: </p>
-        <p>LAWS REGULATING HOURS of employment for men, women and
-            children.<lb/>Extension of Workingmen's Compensation law to include
-                "<soCalled>occupational diseases</soCalled>."<lb/>Extension of
-            labor laws "<q who="SMIAL">to take care of women and children forced
-                into new lines of endeavor because of the war.</q>"<lb/>Minimum
-            wage for women and children.<lb/>Widow's pensions.<lb/>Maternity
-            insurance.<lb/></p>
-        <p>Under present conditions, these are excellent palliatives, but are
-            you aware, Mr. Smith, that they are only palliatives?</p>
-        <p>And are you aware that they touch only superficially "the solution of
-            the problems affecting men, women and children?"</p>
-        <p>If we are to judge a candidate upon a few pleasant sounding
-            superficialities, uttered with the unction born of the necessities
-            of a political campaign, many of the women of New York would
-            doubtless be moved to vote for you. But in these days an awakened
-            womanhood is beginning to pay attention to the fundamentals. We are
-            more interested in the removal of causes than in the application of
-            palliatives. We care less for the multiplication of hospitals than
-            we do for the prevention of sickness and wounds.</p>
-        <p>Laws regulating the hours of employment for men, women and children
-            are all very well, Mr. Smith, but do you know that most of the women
-            and children now forced into toil in the state of New York would not
-            be there, war or no war, if it were not for the fact that the family
-            of the average workingman is too large for the husband to
-            support?</p>
-        <p>Are you aware that the high infant death rate is due principally to
-            the family too large to afford proper living quarters, proper food
-            and proper physical attention? Do you know that each year 300,000
-            children in the United States die of diseases due to poverty and
-            neglect? Are you aware that there are upon the statute books certain
-                "<soCalled>dark age</soCalled>" laws which make it a crime to
-            convey to the over-burdened mothers the knowledge by which she can
-            limit her family to the size which makes it possible to give it
-            proper care, proper food, proper clothing and proper medical
-            attention?</p>
-        <p>Are you aware that the well-to-do and more highly educated almost
-            universally practice family limitation, more popularly and
-            accurately known as Birth Control, while the wives of workingmen are
-            denied this knowledge?</p>
-        <p>And are you aware that the cost of the care of the insane alone in
-            New York state last year was $8,320,000, while the economic loss,
-            due to insanity, according to the annual report of the State
-            Hospital Commission, was $35,000,000?</p>
-        <p> Do you know that most of the 37,069 persons in the state
-            institutions for the mentally defective, came from large families
-            reared in poverty? And do you know that unchecked breeding of these
-            defectives has already overcrowded the state institutions to the
+        <p>On September 26th, I addressed to you the following letter: "The subject of birth control
+            is of vital importance to the women voters who are casting their first vote in the
+            coming election of this state.</p>
+        <p>For the benefit of the thousands who are interested in this subject will you not state
+            your position regarding it, inasmuch as Governor <person reg="Whitman, Charles S."
+                >Whitman</person> has already gone on record for a Commission to investigate the
+            necessity of changing the anti-birth control laws.</p>
+        <p>I will greatly appreciate hearing from you at your earliest possible convenience."</p>
+        <signed>Very truly yours, [<emph rend="italics">Signed</emph>] <person
+                reg="Sanger, Margaret">MARGARET SANGER</person>.</signed>
+        <p>At the same time I addressed a letter in identical language to <person
+                reg="Ervin, Charles W.">Charles W. Ervin</person>, Socialist nominee for governor.
+            Mr. Ervin has replied as follows:</p>
+        <q who="ERVCH">
+            <dateline>NEW YORK CITY <date value="1918-10-02">October 2, 1918</date>.</dateline>
+            <p> MY DEAR MRS. SANGER:–- </p>
+            <p> Replying to your letter of September 26th, it is almost needless to state that I
+                think that woman should be mistress of her own life, both economically and
+                physically, and further, I think it is a crime for children to be brought into the
+                world unless there is positive assurance that they can be given the best physical,
+                moral and mental surroundings from birth until they blossom into manhood and
+                womanhood. </p>
+            <p> Believing this, I therefore am certainly in favor of a commission to investigate the
+                necessity of changing the anti-birth control laws. I would, however, be most
+                emphatically opposed to having this commission composed of a majority of men, but,
+                on the contrary, I should just as emphatically favor the appointment of a majority
+                of women on such a commission. </p>
+            <signed>Very Very Truly, [<emph rend="italics">Signed</emph>] CHARLES W.
+            ERVIN.</signed></q>
+        <p>Thus far I have received from you no reply to my query in behalf of the women who have
+            written to me asking where the various candidates for governor stand upon the question
+            of Birth Control.</p>
+        <p>I have noted, however, your interview in the <title rend="italics" type="journal">New
+                York American</title> of October 13th. In that interview, you declare yourself in
+            favor of these policies and measures, among others: </p>
+        <p>LAWS REGULATING HOURS of employment for men, women and children.<lb/>Extension of
+            Workingmen's Compensation law to include "occupational diseases."<lb/>Extension of labor
+            laws "<q who="SMIAL">to take care of women and children forced into new lines of
+                endeavor because of the war.</q>"<lb/>Minimum wage for women and
+            children.<lb/>Widow's pensions.<lb/>Maternity insurance.<lb/></p>
+        <p>Under present conditions, these are excellent palliatives, but are you aware, Mr. Smith,
+            that they are only palliatives?</p>
+        <p>And are you aware that they touch only superficially "the solution of the problems
+            affecting men, women and children?"</p>
+        <p>If we are to judge a candidate upon a few pleasant sounding superficialities, uttered
+            with the unction born of the necessities of a political campaign, many of the women of
+            New York would doubtless be moved to vote for you. But in these days an awakened
+            womanhood is beginning to pay attention to the fundamentals. We are more interested in
+            the removal of causes than in the application of palliatives. We care less for the
+            multiplication of hospitals than we do for the prevention of sickness and wounds.</p>
+        <p>Laws regulating the hours of employment for men, women and children are all very well,
+            Mr. Smith, but do you know that most of the women and children now forced into toil in
+            the state of New York would not be there, war or no war, if it were not for the fact
+            that the family of the average workingman is too large for the husband to support?</p>
+        <p>Are you aware that the high infant death rate is due principally to the family too large
+            to afford proper living quarters, proper food and proper physical attention? Do you know
+            that each year 300,000 children in the United States die of diseases due to poverty and
+            neglect? Are you aware that there are upon the statute books certain "dark age" laws
+            which make it a crime to convey to the over-burdened mothers the knowledge by which she
+            can limit her family to the size which makes it possible to give it proper care, proper
+            food, proper clothing and proper medical attention?</p>
+        <p>Are you aware that the well-to-do and more highly educated almost universally practice
+            family limitation, more popularly and accurately known as Birth Control, while the wives
+            of workingmen are denied this knowledge?</p>
+        <p>And are you aware that the cost of the care of the insane alone in New York state last
+            year was $8,320,000, while the economic loss, due to insanity, according to the annual
+            report of the <org reg="New York State Hospital Commission">State Hospital
+                Commission</org>, was $35,000,000?</p>
+        <p> Do you know that most of the 37,069 persons in the state institutions for the mentally
+            defective, came from large families reared in poverty? And do you know that unchecked
+            breeding of these defectives has already overcrowded the state institutions to the
             extent of 10,000 persons?</p>
-        <p>Are you aware that the repeal of the statutes prohibiting the
-            dissemination of the knowledge of Birth Control would in a few years
-            rid the state of this burden, to say nothing of freeing women of the
-            most abject of all forms of slavery, that of unwilling
+        <p>Are you aware that the repeal of the statutes prohibiting the dissemination of the
+            knowledge of Birth Control would in a few years rid the state of this burden, to say
+            nothing of freeing women of the most abject of all forms of slavery, that of unwilling
             motherhood?</p>
-        <p> And do you know that there are hundreds of thousands of women in New
-            York crying for the knowledge which shall enable them to have
-            smaller but healthier, better-cared for families?</p>
-        <p> We are not asking you at this time to go on record in favor of Birth
-            Control. But we are asking you to go on record in favor of a
-            commission to ascertain, scientifically, accurately and without
-            prejudice, whether under present economic conditions the unchecked
-            birth rates in certain elements of society is responsible largely
-            for the need of prisons and institutions for the mentally defective.
-            We are asking you to pledge yourself to an impartial commission to
-            ascertain the relation between too large families and the health and
-            death rates. We are asking you to name a commission which shall
-            discover whether the repeal of the anti-Birth Control statutes will
-            in a few years remedy these conditions.</p>
-        <p>Maternal insurance is, after all, but small relief to women whose
-            lives have been wrecked by too frequent childbearing. Workingmen's
-            compensation does not go far toward the support of a family of five
-            or six or seven. You may find that Birth Control, which prevents the
-            multiplication of children who can not have proper food, proper
-            clothing nor proper shelter will do more to solve the problem than
-            even strict child labor laws and regulation, which we all favor.</p>
-        <p>I am well aware, as are all women who have devoted their attention to
-            this cause, that it is not the custom of candidates for office to go
-            deep into the fundamental causes of intolerable conditions. But,
-            whatever you may think of it, Mr. Smith, the women of New York know
-            where the trouble lies. They know that legislative palliatives mean
-            little to women, until they are freed form this most degrading
-            servitude. They know whence come the inmates of prisons and
-            reformatories, the inmates of institutions for defectives. And they
-            know whence comes the child labor evil.</p>
-        <p>Governor Whitman, prior to America's entry into the war, promised a
-            state commission to investigate the need of the repeal of the
-            anti-Birth Control statutes. Charles W. Ervin, Socialist nominee for
-            governor, has gone one step further. He has pledged himself to a
+        <p> And do you know that there are hundreds of thousands of women in New York crying for the
+            knowledge which shall enable them to have smaller but healthier, better-cared for
+            families?</p>
+        <p> We are not asking you at this time to go on record in favor of Birth Control. But we are
+            asking you to go on record in favor of a commission to ascertain, scientifically,
+            accurately and without prejudice, whether under present economic conditions the
+            unchecked birth rates in certain elements of society is responsible largely for the need
+            of prisons and institutions for the mentally defective. We are asking you to pledge
+            yourself to an impartial commission to ascertain the relation between too large families
+            and the health and death rates. We are asking you to name a commission which shall
+            discover whether the repeal of the anti-Birth Control statutes will in a few years
+            remedy these conditions.</p>
+        <p>Maternal insurance is, after all, but small relief to women whose lives have been wrecked
+            by too frequent childbearing. Workingmen's compensation does not go far toward the
+            support of a family of five or six or seven. You may find that Birth Control, which
+            prevents the multiplication of children who can not have proper food, proper clothing
+            nor proper shelter will do more to solve the problem than even strict child labor laws
+            and regulation, which we all favor.</p>
+        <p>I am well aware, as are all women who have devoted their attention to this cause, that it
+            is not the custom of candidates for office to go deep into the fundamental causes of
+            intolerable conditions. But, whatever you may think of it, Mr. Smith, the women of New
+            York know where the trouble lies. They know that legislative palliatives mean little to
+            women, until they are freed form this most degrading servitude. They know whence come
+            the inmates of prisons and reformatories, the inmates of institutions for defectives.
+            And they know whence comes the child labor evil.</p>
+        <p>Governor Whitman, prior to America's entry into the war, promised a state commission to
+            investigate the need of the repeal of the anti-Birth Control statutes. Charles W. Ervin,
+            Socialist nominee for governor, has gone one step further. He has pledged himself to a
             commission of which a majority shall be women.</p>
-        <p>In behalf of the women who have written to me, in behalf of the
-            thousands of New York women who believe in making the knowledge of
-            Birth Control accessible to the wives and mothers of toilers, I ask
-            you again, Mr. Smith, where do you stand upon this matter so vital
-            to the well being of hundreds of thousands of New York women, and
-            therefore so vital to the well being of society?</p>
-        <signed>Very truly yours, [<emph rend="italics">Signed</emph>]MARGARET
-            SANGER.</signed>
+        <p>In behalf of the women who have written to me, in behalf of the thousands of New York
+            women who believe in making the knowledge of Birth Control accessible to the wives and
+            mothers of toilers, I ask you again, Mr. Smith, where do you stand upon this matter so
+            vital to the well being of hundreds of thousands of New York women, and therefore so
+            vital to the well being of society?</p>
+        <signed>Very truly yours, [<emph rend="italics">Signed</emph>]MARGARET SANGER.</signed>
     </docBody>
 </doc>

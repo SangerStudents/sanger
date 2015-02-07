@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
     <mepHeader>
         <prepDate>2003/06/30 SB</prepDate>
         <prepDate>2004/07/02 CH</prepDate>
         <prepDate>2004/08/06 CH</prepDate>
+        <prepDate>2014-04-01 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1920-05-00">May 1920</docDate>
         <docTitle>
@@ -12,83 +13,70 @@
         </docTitle>
         <idno>msp237463</idno>
         <sourceDesc>
-            <bibl><title>The Birth Control Review</title> May 20, 1920, 3</bibl>
+            <bibl><title type="journal">Birth Control Review</title> May 20, 1920, p. 3</bibl>
             <bibl><title>Margaret Sanger Microfilm</title> S70:842</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
         </respStmt>
     </mepHeader>
-    <headNote><index level1="birth control" level2="socio-economic benefits of"
-            /><index level1="labor movement" level2="MS on"/><index
-            level1="labor movement" level2="strikes"/><index
-            level1="United States" level2="descriptions of"/><index
-            level1="United States" level2="socio-economic conditions in"/><index
-            level1="women" level2="reproductive choices and decisions"
-        /></headNote>
+    <headNote>
+        <index level1="birth control" level2="socio-economic benefits of"/>
+        <index level1="labor movement" level2="MS on"/>
+        <index level1="labor movement" level2="strikes"/><index level1="United States"
+            level2="descriptions of"/>
+        <index level1="United States" level2="socio-economic conditions in"/>
+        <index level1="women" level2="reproductive choices and decisions"/>
+    </headNote>
     <docBody>
         <head>Women and the Rail Strike</head>
-        <byline rend="italics">By Margaret Sanger</byline>
-        <p>The most important thing about the April railroad strike to women is
-            that it is not the last of the gigantic struggles, but only the
-            beginning of a long series of them. Virtually every other organized
-            trade in the country is in exactly the same position. There is and
-            will be for some years to come a terrific battle between the
-            employer and the employee. While these two are fighting it out and
-            the employee is battling to get enough money to keep his family in
-            comfort in the face of rising prices, there must of course be
-            increasing industrial disorganization, and in the case of rail
-            strikes, the period when millions of the people of the <place
-                reg="United States of America">United States</place> must lack
-            sufficient food, will be immensely hastened.</p>
-        <p>The rail strike brought the prospect of famine nearer than most of us
-            realize. Other and greater rail strikes are coming. Moreover, it
-            came very close to precipitating a financial panic that would have
-            plunged the entire industrial fabric of the nation into chaos. For,
-            as explained in this magazine some time ago, the financial position
-            of the world is today "<soCalled>faked</soCalled>" and unsound.</p>
-        <p>All that we have undergone thus far is but a faint foretaste of the
-            disorganization that is to come. It now appears that no power on
-            earth can prevent the money panic of which everyone is talking and
-            if this comes, no power on earth can prevent idleness, want and
-            starvation. And these things the United States seems to have
-            earned--they are coming to us and apparently we are going to get the
-            full benefit of them within the next few years.</p>
-        <p>It is probably that we must all, in one degree or other, pay the
-            penalty for our failure to meet our social problems as they
-            developed. Nevertheless, the present mess is a manmade muddle. It
-            was created by man's brains--and by something else. That something
+        <byline rend="italics">By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
+        <p>The most important thing about the April railroad strike to women is that it is not the
+            last of the gigantic struggles, but only the beginning of a long series of them.
+            Virtually every other organized trade in the country is in exactly the same position.
+            There is and will be for some years to come a terrific battle between the employer and
+            the employee. While these two are fighting it out and the employee is battling to get
+            enough money to keep his family in comfort in the face of rising prices, there must of
+            course be increasing industrial disorganization, and in the case of rail strikes, the
+            period when millions of the people of the <place reg="United States">United
+                States</place> must lack sufficient food, will be immensely hastened.</p>
+        <p>The rail strike brought the prospect of famine nearer than most of us realize. Other and
+            greater rail strikes are coming. Moreover, it came very close to precipitating a
+            financial panic that would have plunged the entire industrial fabric of the nation into
+            chaos. For, as explained in this magazine some time ago, the financial position of the
+            world is today "faked" and unsound.</p>
+        <p>All that we have undergone thus far is but a faint foretaste of the disorganization that
+            is to come. It now appears that no power on earth can prevent the money panic of which
+            everyone is talking and if this comes, no power on earth can prevent idleness, want and
+            starvation. And these things the United States seems to have earned--they are coming to
+            us and apparently we are going to get the full benefit of them within the next few
+            years.</p>
+        <p>It is probably that we must all, in one degree or other, pay the penalty for our failure
+            to meet our social problems as they developed. Nevertheless, the present mess is a
+            manmade muddle. It was created by man's brains--and by something else. That something
             else was our unchecked breeding capacity.</p>
-        <p>Life has become so cheap in the United States that it is not worth
-            one man's while to give a thought to another man's health or general
-            wellbeing. This is particularly true of the exploiter of labor and
-            the profiteer. And this is not the man's fault but ours. We have not
-            made children scarce enough--we have not made them valuable
-            enough.</p>
-        <p>This is the beginning of a great day of reckoning. Matters have
-            gotten so bad that they must get worse and we must learn our lessons
-            before we can make them better. But it is for women to make them
-            better and to make eternally sure that this state of affairs will
+        <p>Life has become so cheap in the United States that it is not worth one man's while to
+            give a thought to another man's health or general wellbeing. This is particularly true
+            of the exploiter of labor and the profiteer. And this is not the man's fault but ours.
+            We have not made children scarce enough--we have not made them valuable enough.</p>
+        <p>This is the beginning of a great day of reckoning. Matters have gotten so bad that they
+            must get worse and we must learn our lessons before we can make them better. But it is
+            for women to make them better and to make eternally sure that this state of affairs will
             not occur again.</p>
-        <p>Labor's weakness has been its numbers, pitted one against another in
-            competition for jobs. The exploiter weakness is that he does not
-            understand that he and the profiteer cannot continue their course
-            forever without labor striking back.</p>
-        <p>The great numbers of children we have brought into the world have
-            made this situation possible. It is now our duty to begin to undo
-            the evil we have done. We must make children scarce and valuable--to
-            valuable to be mistreated, overworked, or starved. We must refuse to
-            bring more children into the world until it is made safe for them--
-            until they are no longer exposed to the danger of want, are no
-            longer turned teacherless away from schools, are no longer
-            oppressed. When we do that, there will be no more such periods as we
-            are now going through and must go through for some years.</p>
-        <p>Meanwhile, no woman with the feelings of a true mother, will bring a
-            child into being at a time like this. There is no assurance that any
-            child born now can have the care and the food to which a child is
-            entitled. There is no assurance that it can be properly educated.
-            The woman who comprehends the situation will wait five years before
-            giving birth to another. She owes it to her children, herself, her
-            husband and to society.</p>
+        <p>Labor's weakness has been its numbers, pitted one against another in competition for
+            jobs. The exploiter weakness is that he does not understand that he and the profiteer
+            cannot continue their course forever without labor striking back.</p>
+        <p>The great numbers of children we have brought into the world have made this situation
+            possible. It is now our duty to begin to undo the evil we have done. We must make
+            children scarce and valuable--to valuable to be mistreated, overworked, or starved. We
+            must refuse to bring more children into the world until it is made safe for them-- until
+            they are no longer exposed to the danger of want, are no longer turned teacherless away
+            from schools, are no longer oppressed. When we do that, there will be no more such
+            periods as we are now going through and must go through for some years.</p>
+        <p>Meanwhile, no woman with the feelings of a true mother, will bring a child into being at
+            a time like this. There is no assurance that any child born now can have the care and
+            the food to which a child is entitled. There is no assurance that it can be properly
+            educated. The woman who comprehends the situation will wait five years before giving
+            birth to another. She owes it to her children, herself, her husband and to society.</p>
     </docBody>
 </doc>

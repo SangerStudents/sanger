@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Article">
     <mepHeader>
-        <prepDate>2011/06/21 CE</prepDate><prepDate>2011-11-30 CH typos</prepDate>
+        <prepDate>2011/06/21 CE</prepDate>
+        <prepDate>2011-11-30 CH typos</prepDate>
+        <prepDate>2014-04-09 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1923-12-00">Dec 1923</docDate>
         <docTitle>
@@ -10,20 +12,21 @@
         </docTitle>
         <idno>msp306006</idno>
         <sourceDesc>
-            <bibl><title>The Thinker</title> (Dec. 1923), pp. 69-72.</bibl>
-            <bibl><title>MSM</title> C16:206</bibl>
+            <bibl><title type="journal">The Thinker</title> (Dec. 1923), pp. 69-72.</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> C16:206</bibl>
         </sourceDesc>
         <respStmt>
             <name id="UNK">Unknown</name>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>This is the third of a six-article series. For other articles in the
-            series, see <xref from="306641.xml"><title>Highlights in the History of Birth
-                    Control</title> Oct. 1923</xref>; <xref from="306638.xml"><title>A Better Race
-                    Through Birth Control</title> Nov.1923</xref>; <xref from="305275.xml"
-                    ><title>"Birth Control in China and Japan"</title> Feb. 1924</xref> and<xref
-                from="300368.xml"><title>The Birth Control Movement in 1923</title> April
-                1924</xref></p>
+    <headNote resp="MSPP"><p>This is the third of a six-article series, but only five have been
+            found. For other articles in the series, see <xref from="306641.xml"><title
+                    type="article">Highlights in the History of Birth Control</title> Oct.
+                1923</xref>; <xref from="306638.xml"><title type="article">A Better Race Through
+                    Birth Control</title> Nov.1923</xref>; <xref from="305275.xml"><title
+                    type="article">"Birth Control in China and Japan"</title> Feb. 1924</xref>
+                and<xref from="300368.xml"><title type="article">The Birth Control Movement in
+                    1923</title> April 1924</xref></p>
         <index level1="abortion" level2="health risks of"/>
         <index level1="American Birth Control League"/>
         <index level1="birth control" level2="access to"/>
@@ -67,7 +70,7 @@
     <docBody>
         <head>Woman and Birth Control</head>
         <byline>By <person reg="Sanger, Margaret">Margaret Sanger</person>, 104 5th Ave., <place
-                reg="New York City, NY">New York City</place></byline>
+                reg="New York, NY">New York City</place></byline>
         <p>The Birth Control movement has its roots in the history of subjection. In the past women
             have been brood animals to the state, to industry, to the church. Whenever they have
             raised their heads and tried to loosen the chains that bound them, they have met with
@@ -114,7 +117,7 @@
             to remove, slanders, persecution, jail await him who dares bear the light of knowledge
             into that cave of darkness.</p>
         <p>So great was the ignorance of the women and girls whom I met concerning their own bodies,
-            that I decided to specialize in women's diseases, and took up gynecological and
+            that I decided to specialize in women’s diseases, and took up gynecological and
             obstetrical nursing.</p>
         <p>A few years of this work brought me to a shocking discovery--that knowledge of methods of
             controlling birth was accessible to women of wealth, while the working women were
@@ -140,7 +143,7 @@
             when they arrive. How often have I stood at the bedside of a woman in childbirth and
             seen the tears flow in gladness and heard the sigh of “<q who="UNK">Thank God</q>!” when
             told that her baby was born dead! What can men know of the fear and dread of unwanted
-            pregnancy? What can men know of the agony of carrying beneath one's heart a little life
+            pregnancy? What can men know of the agony of carrying beneath one’s heart a little life
             that tells the mother every instant that there is no room and no chance for it on earth?
             Even if it should be born alive, the probabilities are that it would perish within a
             year, after costing its mother untold anguish and suffering.</p>
@@ -155,7 +158,7 @@
         <p>We know that the birth rate of mentally defective parents is about four times as great as
             that of normal parents. Is not this a cause for alarm? And yet there are people who
             raise the objection to Birth Control that it may cause women to be immoral! Solicitude
-            for woman's morals has ever been the cloak that Authority has worn in its age-long
+            for woman’s morals has ever been the cloak that Authority has worn in its age-long
             conspiracy to keep woman in bondage.</p>
         <p>When I was in <place>Spain</place> some years ago I found that the Spanish women were far
             behind their European sisters in readiness or even in desire for modern freedom. Upon
@@ -170,10 +173,10 @@
             women? Certainly not. But, after all, we in this country are only just emerging from the
             fight for higher education for women which met with the same kind of opposition only a
             few years ago.</p>
-        <p>We now know that education has not done the dreadful things to women and women's morals
+        <p>We now know that education has not done the dreadful things to women and women’s morals
             that were predicted as certain to result from it. and so we shall find that knowledge to
             control birth, which has been in the hands of the more fortunate women of wealth for the
-            past twenty-five years, will not tend to lower woman's standard of morals, but rather to
+            past twenty-five years, will not tend to lower woman’s standard of morals, but rather to
             make a woman a more responsible human being.</p>
         <p>Statistics show us that the birth rate of any give quarter is in inverse ratio to its
             wealth, and direct ratio to over-crowdedness and poverty. The figures show that in large
@@ -202,9 +205,9 @@
             keeping her in ignorance than a man has through brute force? Has the State a right to
             decide when a woman shall bear a child and to refuse to her the right to decline to
             bear?</p>
-        <p>Picture a woman with five or six little ones living on the average working man's wage.
+        <p>Picture a woman with five or six little ones living on the average working man’s wage.
             The mother is broken in health and spirit, the wornout shadow of the woman she once was.
-            Where is the man or woman who would reproach us for trying to put into this woman's
+            Where is the man or woman who would reproach us for trying to put into this woman’s
             hands knowledge that will save her from giving birth to any more babies doomed to
             certain poverty and misery and perhaps to disease and death?</p>
         <p>It is to make such knowledge legally and medically accessible to the oppressed mothers of

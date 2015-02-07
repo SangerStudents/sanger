@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed draft article">
     <mepHeader>
-        <prepDate>2009/07/07 LL</prepDate><prepDate>2011-11-30 CH typo</prepDate>
+        <prepDate>2009/07/07 LL</prepDate>
+        <prepDate>2011-11-30 CH typo</prepDate>
+        <prepDate>2014-04-02 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1930-00-00">1930</docDate>
         <docTitle>
@@ -11,7 +13,7 @@
         <idno>msp128021</idno>
         <sourceDesc>
             <bibl>Margaret Sanger Papers, Library of Congress</bibl>
-            <bibl>LCM 129:0061</bibl>
+            <bibl>Library of Congress Microfilm 129:0061</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
@@ -28,7 +30,7 @@
     </headNote>
     <docBody>
         <head>EDUCATION AND THE BIRTH CONTROL CLINIC</head>
-        <byline>By Margaret Sanger</byline>
+        <byline>By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
         <p>More than thirty thousand women have written to me, baring the secrets of their souls and
             the secrets of their bodies. Most of them are mothers or have been mothers. All of them
             love their children. Most of them love their husbands. All of them plead for help. They
@@ -94,18 +96,18 @@
             discovery of those vital interests and needs, so that they may be directed or
             channelized into normal, sane and healthy paths. Only when he taps this reservoir of
             vital energy is the teacher at all able to hold the attention of his pupils. Only thus
-            can he <soCalled>“e-duc-ate”</soCalled> them at all, (for the very word means
-                <soCalled>“to lead out”</soCalled>). My thirty thousand and more letters from
-            suffering mothers convince me that here at hand is a vast reservoir of deep, human
-            interest demanding to be <soCalled>“led forth”</soCalled> out of the darkness of despair
-            into the light of sane living. When society at large has taught the mass of women how
-                <del>to master</del> and control their essential physiological functions,--in short,
-            when it has taught them mastery of their own bodies--it may then reasonably expect them
-            to show something more than a languid interest in the care and proper feeding of their
-            infants and the hygiene of their homes. But while it <add>skips over this first and most
-                important</add> in maternal education, while it refuses to base its teaching on the
-                <emph rend="underline">initial demand</emph> of its pupil, it need expect very
-            little certainty of progress in the politer though less important arts of life.</p>
+            can he “e-duc-ate” them at all, (for the very word means “to lead out”). My thirty
+            thousand and more letters from suffering mothers convince me that here at hand is a vast
+            reservoir of deep, human interest demanding to be “led forth” out of the darkness of
+            despair into the light of sane living. When society at large has taught the mass of
+            women how <del>to master</del> and control their essential physiological functions,--in
+            short, when it has taught them mastery of their own bodies--it may then reasonably
+            expect them to show something more than a languid interest in the care and proper
+            feeding of their infants and the hygiene of their homes. But while it <add>skips over
+                this first and most important</add> in maternal education, while it refuses to base
+            its teaching on the <emph rend="underline">initial demand</emph> of its pupil, it need
+            expect very little certainty of progress in the politer though less important arts of
+            life.</p>
         <p> By answering <del>, resolutely and with infinite <supplied resp="MSPP"
                     >patience</supplied></del> the fundamental demand of every adult woman, the
             Birth Control clinic places in her hand the key of self-mastery and self-direction. Once
@@ -117,10 +119,10 @@
             have <add>followed</add> during a period of years. Incidentally, I may remark that
             nothing is more encouraging to the Birth Control worker that to watch this gradual
             change from a slave-mother into a free and developing adult woman. The efficacy of this
-            type of true education - it has little or nothing to do with the veneer of
-                <soCalled>“culture”</soCalled> of the women's clubs -- is further demonstrated in
-            the robust health of the children, brought into the world through a system of proper
-            spacing, and therefore not crowding upon the overworked mother's energies.</p>
+            type of true education - it has little or nothing to do with the veneer of “culture” of
+            the women’s clubs -- is further demonstrated in the robust health of the children,
+            brought into the world through a system of proper spacing, and therefore not crowding
+            upon the overworked mother’s energies.</p>
         <p> Not only by increasing the efficiency of women as actual mothers may the well-organised
             Birth Control clinic develop its educational potentialities; it may no less legitimately
             point the way to happier and therefore more enduring marital relationships. Our
@@ -137,26 +139,25 @@
             other activities, the aim would be to prevent unhappiness and misery rather than to
                 <add>alleviate</add> conditions that should never in any civilisation worthy of the
             name, have been permitted to develop.</p>
-                  <p> Fear of pregnancy often acts as a powerful deterrent to satisfactory marital
-                relations between husband and wife. The act which should be fulfilled as a physical
-                and spiritual communion, sealing the bonds of matrimony, cementing mutual love, and
-                periodically renewing the love between husband and wife, is <add>habitually</add>
-                dreaded and avoided by women who have suffered agonies because of <del>earlier
-                    consequences </del><add>an unhappy <unclear>situation</unclear></add>. <del>An
-                    ever </del>A widening chasm of dissatisfaction is created. The young husband
-                often seeks consolation outside the home. Yet even the restricted or limited
-                relations do not prevent the coming of new children into the unhappy family. With
-                its ministrations, the Birth Control clinic really makes possible strong and more
-                enduring marriage relations, and in so doing, assures a firmer foundation for the
-                founding of the family.</p>
-              <p> When we stop to consider the vast sum-total of misery, of unhappiness, of destructive
+        <p> Fear of pregnancy often acts as a powerful deterrent to satisfactory marital relations
+            between husband and wife. The act which should be fulfilled as a physical and spiritual
+            communion, sealing the bonds of matrimony, cementing mutual love, and periodically
+            renewing the love between husband and wife, is <add>habitually</add> dreaded and avoided
+            by women who have suffered agonies because of <del>earlier consequences </del><add>an
+                unhappy <unclear>situation</unclear></add>. <del>An ever </del>A widening chasm of
+            dissatisfaction is created. The young husband often seeks consolation outside the home.
+            Yet even the restricted or limited relations do not prevent the coming of new children
+            into the unhappy family. With its ministrations, the Birth Control clinic really makes
+            possible strong and more enduring marriage relations, and in so doing, assures a firmer
+            foundation for the founding of the family.</p>
+        <p> When we stop to consider the vast sum-total of misery, of unhappiness, of destructive
             and misspent energy, which is generated not of some petty misunderstanding,
                 <add>irresponsibility</add> or maladjustment, of the cost not merely to the two
             individuals, but to society at large, we can but wonder why, in the very interests of
             human and societal economy, sexual education - no less than reading, writing and
             arithmetic - has not been made compulsory by law. Would it not have been more
             economical, in the longrun than the vast, complicated administration of divorce laws, or
-            the maintenance of founding homes and <soCalled>“welfare”</soCalled> centres?</p>
+            the maintenance of founding homes and “welfare” centres?</p>
         <p> Is my conception of the educational possibilities of the Birth Control clinic purely
             visionary and Utopian? If it is then any practical, constructive, and tested agency
             serving fundamental human needs must also be condemned as Utopian. On the contrary:
@@ -176,15 +177,15 @@
             and prolonged contact with men and women is necessary. <add>Just</add> conclusions can
             be drawn only upon a thorough familiarity and comprehension of the problems of the
             common lot. The ordinary run of women resent--and I think very rightly resent--the
-            prying into their private affairs by the so-called <soCalled>“social”</soCalled> worker,
-            the agents of organized charities and philanthropies which their coldly statistical aid.
-            While they have been ready and willing to accept such benefits as they can, <add>the
-                poor</add> have often <add>concealed</add> with amazing skill and craftiness the
-            real truths concerning their lives from the visiting agent. This is a fact commonly
-            recognised by charity workers, who become adept in breaking down the walls of reticence.
-            When they do, they discover, as many of them have confessed to me, that the chief cause
-            of destitution has not been predominantly an economic one, but its organically bound up
-            with uncontrolled fertility.</p>
+            prying into their private affairs by the so-called “social” worker, the agents of
+            organized charities and philanthropies which their coldly statistical aid. While they
+            have been ready and willing to accept such benefits as they can, <add>the poor</add>
+            have often <add>concealed</add> with amazing skill and craftiness the real truths
+            concerning their lives from the visiting agent. This is a fact commonly recognised by
+            charity workers, who become adept in breaking down the walls of reticence. When they do,
+            they discover, as many of them have confessed to me, that the chief cause of destitution
+            has not been predominantly an economic one, but its organically bound up with
+            uncontrolled fertility.</p>
         <p> Now the clinic does not send agents or charity workers into homes where they are not
             wanted or invited. It does not even pretend to be a charity or a philanthropy. It avoids
             any tendency toward pauuperising the poor or dictating any set rules of behaviour. Its

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "file:/S:/TRANSCRIPTIONS/XML%20Drafts/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
     <mepHeader>
         <prepDate>2003/06/25 SB</prepDate>
@@ -8,6 +8,8 @@
         <prepDate>2004/08/09 CH</prepDate>
         <prepDate>2007/06/27 CH Oxygen Update</prepDate>
         <prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
+        <prepDate>2014/03/12 EK clean regs</prepDate>
+
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1918-10-00">Oct 1918</docDate>
         <docTitle>
@@ -15,12 +17,12 @@
         </docTitle>
         <idno>msp225142</idno>
         <sourceDesc>
-            <bibl><title>The Birth Control Review</title> Oct. 1918, 7</bibl>
+            <bibl><title>Birth Control Review, The</title> Oct. 1918, 7</bibl>
             <bibl><title>Margaret Sanger Microfilm</title> S70:801</bibl>
         </sourceDesc>
     </mepHeader>
-    <headNote resp="MSPP">
-        <index level1="Birth Control Review, The" rend="italics"/>
+    <headNote resp="MSPP"> 
+        <index level1="Birth Control Review, The" level2="suppression of"/>
         <index level1="birth control" level2="movement" level3="MS on"/>
         <index level1="birth control" level2="movement" level3="goals and strategies"/>
         <index level1="birth control" level2="propaganda and publicity"/>
@@ -28,34 +30,34 @@
     <docBody>
         <head>ALL TOGETHER–-NOW!</head>
         <p rend="italics">Dear Co-Workers:--</p>
-        <p>Birth Control is breaking through. The barriers against which we have been dashing
-            ourselves are beginning to fall. No one who has read the last few issues of <title
-                rend="italics">The Birth Control Review</title> can doubt that we have made even
-            greater progress than we had realized toward the emancipation of woman.</p>
+        <p rend="">Birth Control is breaking through. The barriers against which we have been
+            dashing ourselves are beginning to fall. No one who has read the last few issues of
+                <title rend="italics">The Birth Control Review</title> can doubt that we have made
+            even greater progress than we had realized toward the emancipation of woman.</p>
         <p>This number is the record of a significant success and of a strong counter attack. You
             will find in it the stories of the unprecedented indorsement of our movement by staid
             old medical journals and by hitherto silent or antagonistic officialdom. You will find
-            also an account of the arrest of <person rend="italics">Kitty Marion</person>.</p>
+            also an account of the arrest of <person reg="Marion, Kitty">Kitty Marion</person>.</p>
         <p>We are in a battle–-every foot of ground we win moves the reactionaries to a fresh effort
             to wipe out all we have done.</p>
         <p>Recently when an issue of this publication was held up by the postal authorities, we met
             that interference with the declaration that instead of receding we would issue a bigger,
             better and more fearless magazine. With your help, we are making good. </p>
         <p>In this issue we are saying to that odorous organization left behind him by <person
-                rend="italics" reg="Comstock, Anthony">Anthony Comstock</person> that for every
-            woman jailed, we will raise up ten women to devote their lives to this fight for free
-            womanhood. With your help we can keep this promise too. </p>
+                reg="Comstock, Anthony"><emph rend="italics">Anthony Comstock</emph></person> that
+            for every woman jailed, we will raise up ten women to devote their lives to this fight
+            for free womanhood. With your help we can keep this promise too. </p>
         <p>We need more women – more women actively and consciously at work for this cause. Two out
-            of five wives in the <place reg="United States of America" rend="italics">United
-            States</place> now practise and privately approve of Birth Control. We want these women
-            to come into the open and stand courageously for the liberation of their less fortunate
-            sisters. </p>
+            of five wives in the <place reg="United States of America">United States</place> now
+            practise and privately approve of Birth Control. We want these women to come into the
+            open and stand courageously for the liberation of their less fortunate sisters. </p>
         <p>The quickest way, the best available way to enlist new champions of this movement is to
-            place in the hands of your neighbors <title rend="italics">The Birth Control
-            Review</title>. First, see that your copy does a maximum of service–-pass it on to your
-            friends and tell them to pass it on to theirs. </p>
-        <p>Next, see that at least three of your acquaintances subscribe for <title rend="italics"
-                >The Review</title>. Explain to them that this publication is not conducted for
+            place in the hands of your neighbors <emph rend="italics">The Birth Control
+                Review</emph></p>
+        <p>First, see that your copy does a maximum of service–-pass it on to your friends and tell
+            them to pass it on to theirs. </p>
+        <p>Next, see that at least three of your acquaintances subscribe for <emph rend="italics"
+                >The Review</emph>. Explain to them that this publication is not conducted for
             profit, that neither the editors nor stockholders get a cent out of it–-that it exists
             only for the betterment of the condition of women. </p>
         <p>Every new subscriber means several new readers. Every new reader means the possibility of

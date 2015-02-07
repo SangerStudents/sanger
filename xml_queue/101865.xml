@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "file:/S:/TRANSCRIPTIONS/XML%20Drafts/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed draft speech">
     <mepHeader>
         <prepDate>2002-08-06 KH</prepDate>
@@ -10,6 +10,8 @@
         <prepDate>2004/04/22 CH</prepDate>
         <prepDate>2004/08/09 CH</prepDate>
         <prepDate>2004/08/13 CH</prepDate>
+        <prepDate>2014/03/05 EK Cleanup</prepDate>
+
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1922-10-31">31 Oct 1922</docDate>
         <docTitle>
@@ -31,8 +33,8 @@
         <p>Sanger gave this address at a Welcome Home Mass Meeting, held at Carnegie Hall in <place
                 reg="New York, NY">New York</place> on the occasion of her return from a World Tour.
             Other speakers included <person>Heywood Broun</person>, Rabbi <person>Sidney
-            Goldstein</person>, <person>Josephine Bennet</person>, and <person>Lydia Allen
-            DeVilbiss</person>. Handwritten corrections were made to the typed draft by Margaret
+                Goldstein</person>, <person>Josephine Bennet</person>, and <person>Lydia Allen
+                DeVilbiss</person>. Handwritten corrections were made to the typed draft by Margaret
             Sanger. </p>
         <index level1="Japan" level2="birth control clinics and leagues"/>
         <index level1="China" level2="birth control clinics and leagues"/>
@@ -70,9 +72,9 @@
             had come to me from Japan. On the part of Young <place>Japan</place> there has arisen a
             great desire to awaken their countrymen to the menace of overpopulation. A group of
             young Japanese intellectuals, called the <title>Kaizo</title>, or
-            "<title>Reconstruction</title>" formulated the plan of inviting to Japan representatives
-            of the most challenging ideas of our Western civilization. They invited <person>Bertrand
-                Russell</person>, to lecture on Reconstruction, Professor <person
+                "<title>Reconstruction</title>" formulated the plan of inviting to Japan
+            representatives of the most challenging ideas of our Western civilization. They invited
+                <person>Bertrand Russell</person>, to lecture on Reconstruction, Professor <person
                 reg="Albert Einstein">Einstein</person> on the theory of Relativity, <person>H. G.
                 Wells</person> on International Peace and myself on Population and War. I was
             invited to follow Mr. Russell. You see, they put me in good company.</p>
@@ -130,10 +132,10 @@
             also.</p>
         <p>After I had addressed the Japanese delegates, the radio messages began to fly between our
             ship and Japan. In particular Mr. Hanihara was especially <emph rend="underline"
-            >kind</emph>. He sent a radio message to his government, stating that, in his opinion,
-            the subject of Birth Control, as he had heard it expounded, was in no way offensive to
-            public morals. He recommended his government to lift the ban, to permit me to enter
-            Japan, and to allow the free discussion of this problem.</p>
+                >kind</emph>. He sent a radio message to his government, stating that, in his
+            opinion, the subject of Birth Control, as he had heard it expounded, was in no way
+            offensive to public morals. He recommended his government to lift the ban, to permit me
+            to enter Japan, and to allow the free discussion of this problem.</p>
         <p>Meanwhile, as I later learned, discussion and protest was raging in Japan. Every
             newspaper was expressing its opinion on the exclusion of America's undesirable citizen.
             Not all of them thought that I should be admitted. But the <add>great</add> majority of
@@ -146,13 +148,13 @@
                 "<q who="UNK">Possible land Yokahama Impossible discourse.</q>" Radio messages from
             all sorts of organizations asking me to lecture; a radio message from the medical
             association of <place reg="Kyoto, Japan">Kyoto</place>; a radio message from the
-                "<org>Cultural Society of <place reg="Kobe, Japan">Kobe</place></org>"; a radio
+                <org>"Cultural Society of <place reg="Kobe, Japan">Kobe</place>"</org>; a radio
             message from the New Women's Organization <del>of Nagoya</del> a message from a
             commercial group in <place reg="Tokyo, Japan">Tokyo</place>; another from an industrial
             group of Yokohama; a greeting from the doctors of <place reg="Nagoya, Japan"
-            >Nagoya</place>; one, even, from the <org>Young Men's Christian Association of
-            Tokyo</org>. And still I did not know whether I would be permitted to land. But it was
-            some satisfaction, at any rate, to know that the opposition of the government had
+                >Nagoya</place>; one, even, from the <org>Young Men's Christian Association of
+                Tokyo</org>. And still I did not know whether I would be permitted to land. But it
+            was some satisfaction, at any rate, to know that the opposition of the government had
             aroused the Japanese press and public to a discussion of Birth Control. For once people
             begin <emph rend="underline">seriously</emph> to discuss Birth Control, our battle is
             more than half won.</p>
@@ -360,8 +362,8 @@
             territories, for "<soCalled>a place in the sun.</soCalled>" And national expansion,
             based on potential overpopulation, breeds militarism and the machinery of war. Today we
             know how Germany fared in its great effort to <del>dominate Europe</del><add>spread
-            out</add>. We know how the high birth rate or overpopulated countries fared in the war.
-            The dangers of a militaristic policy for Japan should be apparent to all impartial
+                out</add>. We know how the high birth rate or overpopulated countries fared in the
+            war. The dangers of a militaristic policy for Japan should be apparent to all impartial
             observers. We ought to know more about a high birth rate as one of the causes of war.
             But even if Japan seeks a solution to her domestic problem by peaceful, commercial and
             industrial expansion, by sending out of her country its surplus millions, this is no

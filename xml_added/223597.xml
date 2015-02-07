@@ -1,253 +1,205 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
-    <mepHeader>
-        <prepDate>2003/06/23 SB</prepDate>
-        <prepDate>2004/07/23 CH</prepDate>
-        <prepDate>2007/06/27 CH Oxygen update</prepDate>
-        <prepDate>2011/03/11 CH Entered corrections suggested by Andy
-            Carloff.</prepDate>
-        <prepDate>2011-11-30 CH typos</prepDate>
-        <docAuthor>Margaret Sanger</docAuthor>
-        <docDate value="1917-12-00"> Dec 1917</docDate>
-        <docTitle>
-            <titlePart>Birth Control and Women's Health</titlePart>
-        </docTitle>
-        <idno>msp223597</idno>
-        <sourceDesc>
-            <bibl><title>The Birth Control Review</title>, Dec. 1917, 7-8</bibl>
-            <bibl><title>Margaret Sanger Microfilm</title> S70:791</bibl>
-        </sourceDesc>
-        <respStmt>
-            <resp/>
-            <name id="UNK">Unknown</name>
-            <name id="ROBWI">William J. Robinson</name>
-        </respStmt>
-    </mepHeader>
-    <headNote resp="MSPP">
-        <index level1="birth control" level2="health benefits and risks"/>
-        <index level1="Netherlands, the" level2="birth control in"/>
-        <index level1="abortion" level2="health risks of"/>
-        <index level1="client letters"/>
-        <index level1="working classes" level2="birth control and"/>
-        <index level1="women" level2="enslavement of"/>
-        <index level1="women" level2="reproductive choices and decisions"/>
-        <index level1="eugenics"/>
-        <index level1="birth control" level2="lack of knowledge of"/>
-        <index level1="birth control" level2="socio-economic benefits of"/>
-    </headNote>
-    <docBody>
-        <head>BIRTH CONTROL AND WOMAN'S HEALTH</head>
-        <byline>By Margaret Sanger</byline>
-        <div>
-            <p>One of the first questions asked by women desirous of
-                contraceptive information, is: "<q who="UNK">Will the knowledge
-                    of birth control, when put into practice, injure the health
-                    of either the man or the woman?</q>"</p>
-            <p>The conclusion arrived at by some of the most prominent
-                authorities on the subject is to the effect that there are safe
-                and reliable means of controlling birth which will not injure
-                the health of either the man or the woman.</p>
-            <p>Among these eminent authorities may be included such men as Dr.
-                    <person reg="Ellis, Havelock">Havelock Ellis</person>, Dr.
-                    <person reg="Treub, Hector">Hector Treub</person>, Professor
-                    <person reg="Forel, Auguste">Forel</person>, Dr. <person
-                    reg="Bloch, Iwan">Iwan Bloch</person>, Dr. <person
-                    reg="Nystrom, Anton">Anton Nystrom</person>, Dr. <person
-                    reg="Jacobi, Abraham">A. Jacoby</person>, formerly President
-                of the<org> American Medical Association</org>, and Dr. <person
-                    reg="Robinson, William J.">William J. Robinson</person>,
-                who, in his book on the "<title>Limitation of Offspring</title>"
-                challenges any physician or gynecologist to produce "<q
-                    who="ROBWI">a single case</q>," in which disease or injury
-                resulted from modern methods of birth control.</p>
-            <p>Not only are we fortunate in possessing the opinions of the best
-                known medical authorities, but we are also fortunate in
-                possessing historical facts collected in <place
-                    reg="Netherlands, the">Holland</place> and <place>New
-                    Zealand</place>, where for years the knowledge of birth
-                control has been disseminated among the working class women. </p>
-            <p>In these two countries we find the women largely free from
-                so-called "<soCalled>female complaints</soCalled>" common to the
-                women of the <place reg="United States of America">United
-                    States</place>. There are two practical reasons for this.
-                The first one is the fact that women go to the birth control
-                clinic for instruction and information, thus giving the nurse
-                the opportunity to detect any ailment of incipient disease,
-                which, if present, is promptly treated by a specialist. The
-                second reason is, that owing to scientific knowledge of birth
-                control, women are saved from the deteriorating and ghastly
-                effects of abortion, which so many women of the United States
-                frequently undergo.</p>
-            <p>Military statistics of Holland prove that the average stature of
-                the male citizens has increased by four inches during the thirty
-                years since the first birth control clinic was opened in <place
-                    reg="Amsterdam, the Netherlands">Amsterdam</place>.</p>
-            <p>We also learn from statistics in Holland for 1912 that the death
-                rate in Amsterdam, which, in 1881, was 25.1, had fallen in 1912
-                to 11.2, the lowest death rate reported of all lists submitted.
-                The infant mortality, which in 1881 was 203, had fallen in 1912
-                to 64. These statistics, together with numerous other reports,
-                which for want of space cannot be related, prove conclusively
-                that the scientific application of birth control among the
-                working class has resulted in a racial improvement.</p>
-            <p>In this country stupid and puritanical laws have been the cause
-                of more than <emph rend="italics">fifty thousand</emph> annual
-                deaths resulting from abortions. These laws have caused hundreds
-                of thousands of women to drag out a futile existence due to
-                nervous exhaustion from too frequent child-bearing. These laws
-                are responsible for the birth of children tainted by syphilis,
-                who become not only a charge upon the public, but also a
-                detriment to the human race.</p>
-            <p>I am going to quote from one of the many typical letters I am
-                constantly receiving form all parts of the country, in order
-                that my readers may get some idea of conditions as they exist
-                among us. </p>
-        </div>
-        <div>
-            <head type="sub">A Poignant Plea for Birth Control</head>
-            <p>"<q who="UNK">I was left without a father when a girl of fourteen
-                    years old. I was the oldest child of five. My mother had no
-                    means of support except her two hands, so we worked at
-                    anything we could, my job being nurse girl at home while
-                    mother worked most of the time, as she could earn more money
-                    than I could, for she could do harder work.</q></p>
-            <p>"<q who="UNK">I wasn't very strong and finally after two years my
-                    mother got so tired and worn out trying to make a living for
-                    so many, she married again, and as she married a poor man,
-                    we children were not much better off. At the age of
-                    seventeen I married a man, a brakeman on the ----Railroad,
-                    who was eleven years older than I. He drank some and was a
-                    very frail looking man, but I was very ignorant of the world
-                    and did not think of anything but making a home for myself
-                    and husband. After eleven months I had a little girl born to
-                    me. I did not want more children, but my mother-in-law told
-                    me it was a terrible sin to do anything to keep from having
-                    children and that the Lord only sent just thing, and if I
-                    heard anything I was told it was injurious, so I did not
-                    try.</q></p>
-            <p>"<q who="UNK">In eleven months again, Oct. 25, I had another
-                    little puny girl. In twenty-three months, Sept. 25, I had a
-                    seven-lb. boy. In ten months, July 15, I had a seven-months
-                    baby that lived five hours. In eleven months, June 20, I had
-                    another little girl. In seventeen months, Nov. 30, another
-                    boy. In nine months a four months' miscarriage. In twelve
-                    month another girl, and in three and a half years another
-                    girl.</q></p>
-            <p>"<q who="UNK">All of these children were born into poverty; the
-                    father's health was always poor, and when the third girl was
-                    born he was discharged from the road because of his
-                    disability, yet he was still able to put children into the
-                    world. When the oldest child was twelve years old the father
-                    died of concussion of the brain while the youngest child was
-                    born two months after his death.</q></p>
-            <p>"<q who="UNK">Now, Mrs. Sanger, I did not want those children,
-                    because even in my ignorance I had sense enough to know that
-                    I had no right to bring those children into such a world
-                    where they could not have decent care, for I was not able to
-                    do it myself nor hire it done. I prayed and I prayed that
-                    they would die when they were born. Praying did no good and
-                    today I have read and studied enough to know that I am the
-                    mother of seven living children and that I committed a crime
-                    by bringing them into the world, their father was syphilitic
-                    (I did not know about such things when I was a girl). One
-                    son is to be sent to <place>Mexico</place>, while one of my
-                    girls is a victim of the white slave traffic</q>.</p>
-            <p>"<q who="UNK">I raised my family in a little college town in ----
-                    and am well known there, for I made my living washing and
-                    working for the college people while I raised my little
-                    brood. I often wondered why those educated well-to-do people
-                    never had so many children. I have one married daughter who
-                    is tubercular, and she also has two little girls, only a
-                    year apart. I feel so bad about it, and write to ask you to
-                    send me information for her. Don't stop your good work;
-                    don't think it's not appreciated; for there are hundreds of
-                    women like myself who are not afraid to risk their lives to
-                    help you to get this information to poor women who need
-                    it.</q>"</p>
-            <p>This is but one illustration of what women endure through the
-                ravages of syphilis. The waste from tuberculosis is no less
-                terrible.</p>
-            <p>Here is another letter which speaks for itself:</p>
-            <p>"<q who="UNK">Kindly pardon me for writing this to you, not
-                    knowing what trouble this may cause you. But I've heard of
-                    you through a friend and realize you are a friend of
-                    humanity. If people would see with your light, the world
-                    would be healthy. I married the first time when I was
-                    eighteen years old, a drinking man. I became mother to five
-                    children. In 1908 my husband died of consumption. I lost two
-                    of my oldest children from the same disease, one at 16 and
-                    the other at 23. The youngest of them all, a sweet girl of
-                    nineteen, now lies at ------sanatorium expecting to leave us
-                    at any time. The other sister and brother look very
-                    poorly.</q></p>
-            <p>"<q who="UNK">I have always worked very hard, because I had to.
-                    In 1913 I married again, a good man this time, but a
-                    laboring man, and our constant fear and trouble is what may
-                    happen if we bring children into the world. I'm forty-six
-                    years old this month and not very well any more, either. So
-                    a Godsend will be some one who can tell me how to care for
-                    myself, so I can be free from suffering and also not bring
-                    mortals to earth to suffer and die.</q>"</p>
-            <p>Does the State ever ask itself is it economic to support and
-                educate human beings up to the ages specified above, only to
-                lose them in the end, knowing in advance that they should never
-                have been born?</p>
-            <p>The cases given are only two of thousands of good women whose
-                lives have been spent uselessly bearing burdens that no
-                civilized society should put upon them. These things are past
-                and we cannot undo the harm that has been done to the victims,
-                but we can prevent our younger generation from committing the
-                same crimes. If you will compare the letter which follows with
-                the early history of the first one quoted above, you will see a
-                young life starting out which, if left in ignorance, will have
-                the same disastrous experience:</p>
-            <p>"<q who="UNK">Mine is a pitiful case. Having been married over a
-                    year and having lost our baby (which was premature) I am now
-                    going to have another. I am in wretched health. I have been
-                    in bed for months since I married. The doctors all say that
-                    motherhood is not for me, but only shake their heads when I
-                    ask them for advice as how to keep from having children so
-                    fast, at least until my health improves. I live in dread
-                    that this one will be born dead, too, for my health is as
-                    bad as before. The doctors are continually treating me, but
-                    I never seem to improve.</q></p>
-            <p>"<q who="UNK">My husband and I are also deeply in debt-- as you
-                    know, doctors and nurses can eat up money-- and as matters
-                    stand we will never be free from debt again unless something
-                    is done. I want you to know that I am not selfish, for I
-                    love children. But at twenty-one years I have developed into
-                    a worn out, faded sickly woman, and I know that my husband
-                    is in time bound to grow weary of the heavy yoke that is put
-                    on his shoulders. We are doing all that we can to bring this
-                    little baby into the world as healthy as my frail body will
-                    permit, but after that (should I live) I would like to
-                    refrain from having children until I get stronger.</q>"</p>
-            <p>Could there be a more worthy case of the right of an individual
-                to demand, yes, <emph rend="italics">demand</emph> of science,
-                of the medical profession and of the State, the benefit of the
-                knowledge society has accumulated on this subject?</p>
-            <p>These three cases represent, in a small degree, living conditions
-                as they are. What a waste of human life our ignorance and
-                stupidity is costing us! What an amount of useless suffering
-                will be avoided when women have birth control knowledge!</p>
-            <p>We are dealing with peculiar facts today, so far as the health of
-                the race is concerned. In the early history of the race,
-                so-called "<soCalled>natural law</soCalled>" reigned
-                undisturbed. Under its pitiless and unsympathetic iron rule,
-                only the strongest, most courageous could live and become
-                progenitors of the race. The weak died early, or were killed.
-                Today, however, civilization has brought sympathy, pity,
-                tenderness and other lofty and worthy sentiments, which
-                interfere with the law of natural selection. We are now in a
-                state where our charities, our compensation acts, our pensions,
-                hospitals and even our drainage and sanitary equipment all tend
-                to keep alive the sickly and weak, who are allowed to propagate
-                and in turn produce a race of degenerates.</p>
-            <p>What we need to do, is to combine Reason with this higher sense
-                of sympathy, and to encourage the birth of those only whose
-                inheritance is health, and so only so many as can be brought up
-                in cleanliness and happiness. </p>
-        </div>
-    </docBody>
+	<mepHeader>
+		<prepDate>2003/06/23 SB</prepDate>
+		<prepDate>2004/07/23 CH</prepDate>
+		<prepDate>2007/06/27 CH Oxygen update</prepDate>
+		<prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
+		<prepDate>2011-11-30 CH typos</prepDate>
+		<prepDate>2014-04-01 CH clean regs</prepDate><prepDate>2014-12-18 CH Proof tags and enter</prepDate>
+		<docAuthor>Margaret Sanger</docAuthor>
+		<docDate value="1917-12-00"> Dec 1917</docDate>
+		<docTitle>
+			<titlePart>Birth Control and Women's Health</titlePart>
+		</docTitle>
+		<idno>msp223597</idno>
+		<sourceDesc>
+			<bibl><title type="journal">Birth Control Review</title>, Dec. 1917, pp. 7-8</bibl>
+			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S70:791</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="UNK">Unknown</name>
+			<name id="ROBWI">Robinson, William J.</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="birth control" level2="health benefits and risks"/>
+		<index level1="Netherlands" level2="birth control in"/>
+		<index level1="abortion" level2="health risks of"/>
+		<index level1="client letters"/>
+		<index level1="working classes" level2="birth control and"/>
+		<index level1="women" level2="enslavement of"/>
+		<index level1="women" level2="reproductive choices and decisions"/>
+		<index level1="eugenics"/>
+		<index level1="birth control" level2="lack of knowledge of"/>
+		<index level1="birth control" level2="socio-economic benefits of"/>
+	</headNote>
+	<docBody>
+		<head>BIRTH CONTROL AND WOMAN'S HEALTH</head>
+		<byline>By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
+		<div>
+			<p>One of the first questions asked by women desirous of contraceptive information, is:
+				"Will the knowledge of birth control, when put into practice, injure the health of
+				either the man or the woman?"</p>
+			<p>The conclusion arrived at by some of the most prominent authorities on the subject is
+				to the effect that there are safe and reliable means of controlling birth which will
+				not injure the health of either the man or the woman.</p>
+			<p>Among these eminent authorities may be included such men as Dr. <person
+					reg="Ellis, Havelock">Havelock Ellis</person>, Dr. <person reg="Treub, Hector"
+					>Hector Treub</person>, Professor <person reg="Forel, Auguste">Forel</person>,
+				Dr. <person reg="Bloch, Iwan">Iwan Bloch</person>, Dr. <person reg="Nystrom, Anton"
+					>Anton Nystrom</person>, Dr. <person reg="Jacobi, Abraham">A. Jacoby</person>,
+				formerly President of the <org>American Medical Association</org>, and Dr. <person
+					reg="Robinson, William J.">William J. Robinson</person>, who, in his book on the
+					"<title type="book">Limitation of Offspring</title>" challenges any physician or
+				gynecologist to produce "<q who="ROBWI">a single case</q>," in which disease or
+				injury resulted from modern methods of birth control.</p>
+			<p>Not only are we fortunate in possessing the opinions of the best known medical
+				authorities, but we are also fortunate in possessing historical facts collected in
+					<place reg="Netherlands">Holland</place> and <place>New Zealand</place>, where
+				for years the knowledge of birth control has been disseminated among the working
+				class women. </p>
+			<p>In these two countries we find the women largely free from so-called "female
+				complaints" common to the women of the <place>United States</place>. There are two
+				practical reasons for this. The first one is the fact that women go to the birth
+				control clinic for instruction and information, thus giving the nurse the
+				opportunity to detect any ailment of incipient disease, which, if present, is
+				promptly treated by a specialist. The second reason is, that owing to scientific
+				knowledge of birth control, women are saved from the deteriorating and ghastly
+				effects of abortion, which so many women of the United States frequently
+				undergo.</p>
+			<p>Military statistics of Holland prove that the average stature of the male citizens
+				has increased by four inches during the thirty years since the first birth control
+				clinic was opened in <place reg="Amsterdam, Netherlands">Amsterdam</place>.</p>
+			<p>We also learn from statistics in Holland for 1912 that the death rate in Amsterdam,
+				which, in 1881, was 25.1, had fallen in 1912 to 11.2, the lowest death rate reported
+				of all lists submitted. The infant mortality, which in 1881 was 203, had fallen in
+				1912 to 64. These statistics, together with numerous other reports, which for want
+				of space cannot be related, prove conclusively that the scientific application of
+				birth control among the working class has resulted in a racial improvement.</p>
+			<p>In this country stupid and puritanical laws have been the cause of more than <emph
+					rend="italics">fifty thousand</emph> annual deaths resulting from abortions.
+				These laws have caused hundreds of thousands of women to drag out a futile existence
+				due to nervous exhaustion from too frequent child-bearing. These laws are
+				responsible for the birth of children tainted by syphilis, who become not only a
+				charge upon the public, but also a detriment to the human race.</p>
+			<p>I am going to quote from one of the many typical letters I am constantly receiving
+				form all parts of the country, in order that my readers may get some idea of
+				conditions as they exist among us. </p>
+		</div>
+		<div>
+			<head type="sub">A Poignant Plea for Birth Control</head>
+			<p>"<q who="UNK">I was left without a father when a girl of fourteen years old. I was
+					the oldest child of five. My mother had no means of support except her two
+					hands, so we worked at anything we could, my job being nurse girl at home while
+					mother worked most of the time, as she could earn more money than I could, for
+					she could do harder work.</q></p>
+			<p>"<q who="UNK">I wasn't very strong and finally after two years my mother got so tired
+					and worn out trying to make a living for so many, she married again, and as she
+					married a poor man, we children were not much better off. At the age of
+					seventeen I married a man, a brakeman on the ----Railroad, who was eleven years
+					older than I. He drank some and was a very frail looking man, but I was very
+					ignorant of the world and did not think of anything but making a home for myself
+					and husband. After eleven months I had a little girl born to me. I did not want
+					more children, but my mother-in-law told me it was a terrible sin to do anything
+					to keep from having children and that the Lord only sent just thing, and if I
+					heard anything I was told it was injurious, so I did not try.</q></p>
+			<p>"<q who="UNK">In eleven months again, Oct. 25, I had another little puny girl. In
+					twenty-three months, Sept. 25, I had a seven-lb. boy. In ten months, July 15, I
+					had a seven-months baby that lived five hours. In eleven months, June 20, I had
+					another little girl. In seventeen months, Nov. 30, another boy. In nine months a
+					four months' miscarriage. In twelve month another girl, and in three and a half
+					years another girl.</q></p>
+			<p>"<q who="UNK">All of these children were born into poverty; the father's health was
+					always poor, and when the third girl was born he was discharged from the road
+					because of his disability, yet he was still able to put children into the world.
+					When the oldest child was twelve years old the father died of concussion of the
+					brain while the youngest child was born two months after his death.</q></p>
+			<p>"<q who="UNK">Now, Mrs. Sanger, I did not want those children, because even in my
+					ignorance I had sense enough to know that I had no right to bring those children
+					into such a world where they could not have decent care, for I was not able to
+					do it myself nor hire it done. I prayed and I prayed that they would die when
+					they were born. Praying did no good and today I have read and studied enough to
+					know that I am the mother of seven living children and that I committed a crime
+					by bringing them into the world, their father was syphilitic (I did not know
+					about such things when I was a girl). One son is to be sent to
+						<place>Mexico</place>, while one of my girls is a victim of the white slave
+					traffic</q>.</p>
+			<p>"<q who="UNK">I raised my family in a little college town in ---- and am well known
+					there, for I made my living washing and working for the college people while I
+					raised my little brood. I often wondered why those educated well-to-do people
+					never had so many children. I have one married daughter who is tubercular, and
+					she also has two little girls, only a year apart. I feel so bad about it, and
+					write to ask you to send me information for her. Don't stop your good work;
+					don't think it's not appreciated; for there are hundreds of women like myself
+					who are not afraid to risk their lives to help you to get this information to
+					poor women who need it.</q>"</p>
+			<p>This is but one illustration of what women endure through the ravages of syphilis.
+				The waste from tuberculosis is no less terrible.</p>
+			<p>Here is another letter which speaks for itself:</p>
+			<p>"<q who="UNK">Kindly pardon me for writing this to you, not knowing what trouble this
+					may cause you. But I've heard of you through a friend and realize you are a
+					friend of humanity. If people would see with your light, the world would be
+					healthy. I married the first time when I was eighteen years old, a drinking man.
+					I became mother to five children. In 1908 my husband died of consumption. I lost
+					two of my oldest children from the same disease, one at 16 and the other at 23.
+					The youngest of them all, a sweet girl of nineteen, now lies at ------sanatorium
+					expecting to leave us at any time. The other sister and brother look very
+					poorly.</q></p>
+			<p>"<q who="UNK">I have always worked very hard, because I had to. In 1913 I married
+					again, a good man this time, but a laboring man, and our constant fear and
+					trouble is what may happen if we bring children into the world. I'm forty-six
+					years old this month and not very well any more, either. So a Godsend will be
+					some one who can tell me how to care for myself, so I can be free from suffering
+					and also not bring mortals to earth to suffer and die.</q>"</p>
+			<p>Does the State ever ask itself is it economic to support and educate human beings up
+				to the ages specified above, only to lose them in the end, knowing in advance that
+				they should never have been born?</p>
+			<p>The cases given are only two of thousands of good women whose lives have been spent
+				uselessly bearing burdens that no civilized society should put upon them. These
+				things are past and we cannot undo the harm that has been done to the victims, but
+				we can prevent our younger generation from committing the same crimes. If you will
+				compare the letter which follows with the early history of the first one quoted
+				above, you will see a young life starting out which, if left in ignorance, will have
+				the same disastrous experience:</p>
+			<p>"<q who="UNK">Mine is a pitiful case. Having been married over a year and having lost
+					our baby (which was premature) I am now going to have another. I am in wretched
+					health. I have been in bed for months since I married. The doctors all say that
+					motherhood is not for me, but only shake their heads when I ask them for advice
+					as how to keep from having children so fast, at least until my health improves.
+					I live in dread that this one will be born dead, too, for my health is as bad as
+					before. The doctors are continually treating me, but I never seem to
+					improve.</q></p>
+			<p>"<q who="UNK">My husband and I are also deeply in debt-- as you know, doctors and
+					nurses can eat up money-- and as matters stand we will never be free from debt
+					again unless something is done. I want you to know that I am not selfish, for I
+					love children. But at twenty-one years I have developed into a worn out, faded
+					sickly woman, and I know that my husband is in time bound to grow weary of the
+					heavy yoke that is put on his shoulders. We are doing all that we can to bring
+					this little baby into the world as healthy as my frail body will permit, but
+					after that (should I live) I would like to refrain from having children until I
+					get stronger.</q>"</p>
+			<p>Could there be a more worthy case of the right of an individual to demand, yes, <emph
+					rend="italics">demand</emph> of science, of the medical profession and of the
+				State, the benefit of the knowledge society has accumulated on this subject?</p>
+			<p>These three cases represent, in a small degree, living conditions as they are. What a
+				waste of human life our ignorance and stupidity is costing us! What an amount of
+				useless suffering will be avoided when women have birth control knowledge!</p>
+			<p>We are dealing with peculiar facts today, so far as the health of the race is
+				concerned. In the early history of the race, so-called "natural law" reigned
+				undisturbed. Under its pitiless and unsympathetic iron rule, only the strongest,
+				most courageous could live and become progenitors of the race. The weak died early,
+				or were killed. Today, however, civilization has brought sympathy, pity, tenderness
+				and other lofty and worthy sentiments, which interfere with the law of natural
+				selection. We are now in a state where our charities, our compensation acts, our
+				pensions, hospitals and even our drainage and sanitary equipment all tend to keep
+				alive the sickly and weak, who are allowed to propagate and in turn produce a race
+				of degenerates.</p>
+			<p>What we need to do, is to combine Reason with this higher sense of sympathy, and to
+				encourage the birth of those only whose inheritance is health, and so only so many
+				as can be brought up in cleanliness and happiness. </p>
+		</div>
+	</docBody>
 </doc>

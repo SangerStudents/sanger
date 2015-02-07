@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Speech">
     <mepHeader>
         <prepDate>2011-07-28 NC</prepDate>
+        <prepDate>2014-03-25 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1950-10-25">25 Oct 1950</docDate>
         <docTitle>
@@ -10,8 +11,8 @@
         </docTitle>
         <idno>msp236716</idno>
         <sourceDesc>
-            <bibl>Supplement to <title>The Malthusian</title>Jan. 1951</bibl>
-            <bibl><title>MSM</title>S72:0607</bibl>
+            <bibl>Supplement to the <title type="journal">Malthusian</title>, Jan. 1951</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S72:0607</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
@@ -21,15 +22,16 @@
         </respStmt>
     </mepHeader>
     <headNote resp="MSPP"><p>Sanger gave this speech at the annual meeting lunch of the Planned
-            Parenthood Foundation election of America meeting at the <org>Hotel Roosevelt</org> in
-            New York. She was presented with the Albert and Mary Lasker Foundation's Award in
+            Parenthood Federation of America meeting at the <org>Hotel Roosevelt</org> in New York.
+            She was presented with the <org>Albert and Mary Lasker Foundation</org>'s Award in
             Planned Parenthood.</p>
-        <p>For draft versions see LCM 128:0258, 130:0028, MSM S72:0598, 0601, and
-            C19:0424.</p><index level1="birth control" level2="population and"/><index
-            level1="population growth" level2="regulation of"/></headNote>
+        <p>For draft versions see Library of Congress Microfilm 128:0258, 130:0028, Margareat Sanger
+            Microfilm S72:0598, 0601, and C19:0424.</p>
+        <index level1="birth control" level2="population and"/>
+        <index level1="population growth" level2="regulation of"/></headNote>
     <docBody>
         <head>ADDRESS</head>
-        <byline>By MARGARET SANGER</byline>
+        <byline>By <person reg="Sanger, Margaret">MARGARET SANGER</person></byline>
         <p>Reunited here to-day among so many co-workers, friends old and new, the conviction
             springs full grown into my mind that the most deserving of any award for courage,
             initiative, vision, and keeping alive the torch of our cause, are our friends, <person
@@ -118,7 +120,7 @@
             away. Population pressure will prevail against this generosity.</p>
         <p>Some of you may think that I am given to exaggerating this question of over-population
             and its result on the condition of the world to-day. I wonder how many of you realize
-            that the population of the <place>British Isles</place> in <person
+            that the population of the <place reg="United Kingdom">British Isles</place> in <person
                 reg="Shakespeare, William">Shakespeare</person>'s time was scarcely more than six
             millions, yet out of these few millions came the explorers, the pioneers, the poets, the
             pilgrims and the courageous founders of these <place reg="United States">United States

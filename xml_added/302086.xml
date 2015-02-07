@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Article">
     <mepHeader>
         <prepDate>2011-07-29 NC</prepDate>
+        <prepDate>2014-03-25 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1951-01-27">27 Jan 1951</docDate>
         <docTitle>
@@ -10,8 +11,8 @@
         </docTitle>
         <idno>msp302086</idno>
         <sourceDesc>
-            <bibl><title>Arizona Daily Citizen</title>27 Jan. 1951.</bibl>
-            <bibl><title>MSM</title>C16:0430</bibl>
+            <bibl><title type="journal">Arizona Daily Citizen</title>27 Jan. 1951.</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> C16:0430</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
@@ -53,7 +54,7 @@
                 new territory for her surplus numbers.</p>
         </div>
         <div>
-            <p>Previous to 1914 the population of Europe from 1800 with 200 millions had increased
+            <p>Previous to 1914 the population of <place>Europe</place> from 1800 with 200 millions had increased
                 to 600 million (a period of 70 years) even in spite of 50 millions emigrating to the
                 new world. We have the example of the 70-year period exploding, through the dynamic
                 power of fertility and population pressure into the First World War; such pressure
@@ -63,15 +64,16 @@
             <p>Germany, <place>Italy</place> and <place>Japan</place> were long known by scientists
                 and demographers as the “high pressure” countries. Today, through wards, they are
                 mainly laid in rubble and waste. New high pressure countries rise upon the
-                international horizon: <place>China</place>, <place reg="Soviet Union">Russia</place>, and
-                    <place>India</place>--all over-populated but illiterate and physically
-                undernourished--lacking the energy and stamina to battle for their survival, or for
-                higher standards of living (as the Germans, Japanese and Italians.)</p>
+                international horizon: <place>China</place>, <place reg="Soviet Union"
+                    >Russia</place>, and <place>India</place>--all over-populated but illiterate and
+                physically undernourished--lacking the energy and stamina to battle for their
+                survival, or for higher standards of living (as the Germans, Japanese and
+                Italians.)</p>
         </div>
         <div>
             <p>These are the facts of history. Future historians will record them and wonder how
-                jurists, statesmen, politicians who wrote and designed the <title>Treaty of
-                    Versailles</title>, also the <title>Atlantic Charter</title> culminating in both
+                jurists, statesmen, politicians who wrote and designed the Treaty of
+                    <place reg="Versailles, France">Versailles</place>, also the <org>Atlantic Charter</org> culminating in both
                 the <org>League of Nations</org> and the <org>United Nations</org> had been so
                 ignorant of concrete realities; that having disarmed Germany, Italy and Japan,
                 instead of providing a safety valve against the day when the population boiler would
@@ -87,18 +89,19 @@
             <p>The problems of population are numerous, but they can be solved. One of the solutions
                 is the knowledge and practice of contraception. In this, the birth rate may be
                 controlled or limited. Parents throughout the world would be benefited by limiting
-                the size of the family and spacing each birth in accordance to the mother's health,
-                the father's earning capacity and the standards of living they are able to maintain.
+                the size of the family and spacing each birth in accordance to the mother’s health,
+                the father’s earning capacity and the standards of living they are able to maintain.
                 Let us give proper information in regard to methods of birth control and <org
                     reg="Planned Parenthood Federation of America">Planned Parenthood</org>. <place
-                    reg="Tucson, AR">Tuscon</place> has for the past 10 years provided this
+                    reg="Tucson, AZ">Tuscon</place> has for the past 10 years provided this
                 information to parents at the <org reg="Planned Parenthood Clinic of Tuscon">Planned
                     Parenthood Clinic</org>, 28 East Corral st. The records give proof that this
                 public utility has been of great service in the community and should be supported.
                 They need $10,000.</p>
             <p>This is a basic humane investment, an investment in health for the family and the
                 community.</p>
-            <closer>(Margaret Sanger Slee is the founder of the modern birth control movement.)</closer>
+            <closer>(Margaret Sanger Slee is the founder of the modern birth control
+                movement.)</closer>
         </div>
 
 

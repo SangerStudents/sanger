@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
     <mepHeader>
         <prepDate>2003/06/24 RK</prepDate>
         <prepDate>2004/07/27 CH</prepDate>
         <prepDate>2007/06/28 CH Oxygen update</prepDate>
-        <prepDate>2011/03/11 CH Entered corrections suggested by Andy
-            Carloff.</prepDate>
+        <prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
         <prepDate>2011/09/07 EK entered proofed correction and index</prepDate>
-        <prepDate>2012-05-15 CH corrected typo, encoded dates and titles in headnotes.</prepDate><prepDate>2012-0702 CH Corrected typo spotted by user.</prepDate>
+        <prepDate>2012-05-15 CH corrected typo, encoded dates and titles in headnotes.</prepDate>
+        <prepDate>2012-0702 CH Corrected typo spotted by user.</prepDate>
+        <prepDate>2013/05/07 CH correct title</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1919-03-00">March 1919</docDate>
         <docTitle>
@@ -16,8 +17,8 @@
         </docTitle>
         <idno>msp226268</idno>
         <sourceDesc>
-            <bibl><title>The Birth Control Review</title>, Mar. 1919, 6-7</bibl>
-            <bibl><title>Margaret Sanger Microfilm</title> S70:817</bibl>
+            <bibl><title>Birth Control Review</title>, Mar. 1919, 6-7</bibl>
+            <bibl>Margaret Sanger Microfilm S70:817</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
@@ -25,28 +26,26 @@
         </respStmt>
     </mepHeader>
     <headNote resp="MSPP">
-        <p>This is part of a series of articles written in response to a letter
-            to the editor signed M B H under the title "Birth Control A Parents'
-            Problem or Woman's?" that appeared in the in the Nov. 1918
-                issue<title>Birth Control Review</title>, 7. It was immediately
-            followed by a response from Sanger which indicated the <title
-                type="article">Birth Control Review</title> would publish a
-            discussion of the issues raised in future issues. For these
-            discussions see, <person reg="Winner, Lily">Lily Winner</person>,
-                "<title type="article">A Woman's Problem</title>," Dec. 1918, 5,
-            15-16; <person type="Dennett, Mary Ware">Mary Ware Dennett</person>,
-                "<title type="article">The Problem of Both</title>," Dec. 1918,
-            16; <personRef reg="Unknown">E R C</personRef>, "<title
-                type="article">Problem of Both</title>," Jan. 1919, 11; {no
-            author}, "<title type="article">A Fathers' Problem Too</title>," Jan. 1919, 11; <person reg="Lasell, M. C.">M. C.
-            Lasell</person>, "<title type="article">The Woman's Problem</title>," Jan. 1919, 15-16; <person reg="Clark, Lulu MacClure">Lulu
-            MacClure Clark</person>, "<title type="article">Woman Must Solve it Alone</title>," Jan. 1919,
-            16.</p>
-        <p> An editorial preceding this article reads: "This article by <person reg="Sanger, Margaret">Margaret
-            Sanger</person> closes the discussion of this subject, which has been given
-            space in several numbers of <title type="journal">THE BIRTH CONTROL REVIEW</title>."</p>
-        <index level1="birth control" level2="movement"
-            level3="goals and strategies"/>
+        <p>This is part of a series of articles written in response to a letter to the editor signed
+            M B H under the title "Birth Control A Parents' Problem or Woman's?" that appeared in
+            the in the Nov. 1918 issue<title>Birth Control Review</title>, 7. It was immediately
+            followed by a response from Sanger which indicated the <title type="article">Birth
+                Control Review</title> would publish a discussion of the issues raised in future
+            issues. For these discussions see, <person reg="Winner, Lily">Lily Winner</person>,
+                "<title type="article">A Woman's Problem</title>," Dec. 1918, 5, 15-16; <person
+                type="Dennett, Mary Ware">Mary Ware Dennett</person>, "<title type="article">The
+                Problem of Both</title>," Dec. 1918, 16; <personRef reg="Unknown">E R C</personRef>,
+                "<title type="article">Problem of Both</title>," Jan. 1919, 11; {no author}, "<title
+                type="article">A Fathers' Problem Too</title>," Jan. 1919, 11; <person
+                reg="Lasell, M. C.">M. C. Lasell</person>, "<title type="article">The Woman's
+                Problem</title>," Jan. 1919, 15-16; <person reg="Clark, Lulu MacClure">Lulu MacClure
+                Clark</person>, "<title type="article">Woman Must Solve it Alone</title>," Jan.
+            1919, 16.</p>
+        <p> An editorial preceding this article reads: "This article by <person
+                reg="Sanger, Margaret">Margaret Sanger</person> closes the discussion of this
+            subject, which has been given space in several numbers of the <title type="journal">
+                BIRTH CONTROL REVIEW</title>."</p>
+        <index level1="birth control" level2="movement" level3="goals and strategies"/>
         <index level1="feminism and feminists" level2="MS on"/>
         <index level1="men" level2="reproductive choices and decisions"/>
         <index level1="men" level2="birth control and"/>
@@ -60,138 +59,109 @@
     <docBody>
         <head>A Parents' Problem or Woman's?</head>
         <byline>By Margaret Sanger</byline>
-        <p>Many people who believe in Birth Control as the means of voluntary
-            motherhood say that the propaganda of the movement is directed too
-            much to women and too little to men. They contend that the appeal
-            should be to men quite as much as to women and that a strong effort
-            should be made to arouse the masculine half of humanity to its
-            responsibilities in relation to the evils growing out of the
-            enslavement of the reproductive function.</p>
-        <p>It is true that the propaganda of the Birth Control movement in
-            America has been addressed almost entirely to women. It has been
-            couched in the terms of woman's experience. Its prime importance to
-            her has been continuously and consistently stressed. The reason for
-            this course is at once fundamental and practical.</p>
-        <p>The basic freedom of the world is woman's freedom. A free race cannot
-            be born of slave mothers. A woman enchained cannot choose but give a
-            measure of bondage to her sons and daughters. No woman can call
-            herself free who does not own and control her body. No woman can
-            call herself free until she can choose consciously whether she will
-            or will not be a mother.</p>
-        <p>It does not greatly alter the case that some women call themselves
-            free because they earn their own livings, while others profess
-            freedom because they defy the conventions of sex relationship. She
-            who earns her own living gains a sort of freedom that is not to be
-            undervalued but in quality and in quantity it is of little account
-            beside the untrammeled choice of mating or not mating, of being a
-            mother or not being a mother. She gains food and clothing and
-            shelter, at least, without submitting to the charity of her
-            companion, but the earning of her own living does not give her the
-            development of her inner sex urge, far deeper and more powerful in
-            its outworkings than any of these mere externals. In order to have
-            that development, she must still meet and solve the problem of
-            motherhood.</p>
-        <p>With the so-called "<q>free</q>" woman, who chooses a mate in
-            defiance of convention, freedom is largely a question of character
-            and audacity. If she does attain to an unrestrained choice of a
-            mate, she is still in a position to be enslaved through her
-            reproductive powers. Indeed, the pressure of law and custom upon the
-            woman not legally married is likely to make her more of a slave than
-            the woman fortunate enough to marry the man of <emph rend="italics"
-                >her</emph> choice.</p>
-        <p>Look at it from any standpoint you will, suggest any solution you
-            will, conventional or unconventional, sanctioned by law or in
-            defiance of law, woman is in the same position, fundamentally, until
-            she is able to determine for herself whether she will be a mother
-            and to fix the number of her offspring. This unavoidable situation
-            is alone enough to make Birth Control, first of all a woman's
-            problem. On the very face of the matter, voluntary motherhood is
-            chiefly the concern of the mother.</p>
-        <p>It is persistently urged, however, that since sex expression is the
-            act of two, the responsibility of controlling the results should not
-            be shifted to woman. Is it fair, we are asked, to give her the task
-            of protecting herself when she is, perhaps, less rugged in physique
-            than her mate, and has, at all events, the normal, periodic
-            inconvenience of her sex?</p>
-        <p>We must examine this phase of the problem in two lights – that of the
-            ideal and of the conditions working toward the ideal. In an ideal
-            society, no doubt, Birth Control would become the concern of the man
-            as well as the woman. The hard, inescapable fact which we encounter
-            today is that man has not only refused any such responsibility but
-            has individually and collectively sought to prevent woman from
-            obtaining knowledge by which she could assume this responsibility
-            for herself. She is still in the position of a dependent today
-            because her mate has refused to consider her as an individual apart
-            from his needs. She is still bound because she has in the past left
-            the solution of the problem to him. Having left it to him, she finds
-            that instead of rights, she has only such privileges as she has
-            gained by petitioning, coaxing, and cozening. Having left it to him,
-            she is exploited, driven and enslaved to his desires.</p>
-        <p>While it is true that he suffers many evils as the consequence of
-            this situation, she suffers vastly more. While it is true that he
-            should be awakened to the cause of these evils, we know that they
-            come home to her with crush-force every day. It is she who has the
-            long burden of carrying, bearing and rearing the unwanted children.
-            It is she who must watch bedside the beds of pain where lie the
-            babies who suffer because they have come into overcrowded homes. It
-            is her heart that the sight of the deformed, the subnormal, the
-            undernourished, the overworked child smites first and oftenest and
-            hardest. It is her love life that dies first in the fear of
-            undesired pregnancy; it is her self-expression that perishes first
-            and most hopelessly because of it.</p>
-        <p>Conditions, rather than theories, facts, rather than dreams, govern
-            the problem. They place it squarely upon the shoulders of woman. She
-            has learned that whatever the moral responsibility of the man in
-            this direction may be, he does not discharge it. She has learned
-            that, loveable and considerate as the individual husband may be, she
-            has nothing to expect from men in the mass, when they make laws and
-            decree customs. She knows that regardless of what ought to be, the
-            brutal, unavoidable fact is that she will never receive her freedom
-            until she takes it for herself.</p>
-        <p>Having learned this much, she has yet something more to learn. Women
-            are too much inclined to follow in footsteps of men, to try to think
-            as men think, to try to solve the general problems of life as men
-            solve them. If after attaining their freedom, women accept
-            conditions in the spheres of government, industry, art, morals and
-            religion as they find them, they will be but taking a leaf out of
-            man's book. The woman is not needed to do man's work. She is not
-            needed to think man's thoughts. She need not fear that the masculine
-            spirit, almost universally dominant, will fail to take care of its
-            own. Her mission is not to enhance the masculine spirit, but to
-            express the feminine spirit; hers is not to preserve a man-made
-            world but to create a human world by the infusion of the feminine
-            element into all of its activities.</p>
-        <p>Woman must not accept; she must challenge. She must not be told how to
-            use her freedom; she must find out for herself. She must not be awed
-            by that which has been built up around her; she must reverence that
-            within her which struggles for expression. Her eyes must be less
-            upon what is--more clearly upon what should be. She must listen only
-            with a frankly questioning attitude to the dogmatized, fossilized
-            opinions of church, state and society. When she chooses her new,
-            free course of action, it must be in the light of her own opinion –
-            of her own intuition. Only so can she give play to the feminine
-            spirit. Only thus can she free her mate from the bondage which he
-            wrought for himself when he wrought hers. Only thus can she restore
-            to him that of which he robbed himself in restricting her. Only thus
-            can she remake the world.</p>
-        <p>The world is, indeed, hers to remake; it is hers to build and to
-            recreate. Even as she has permitted the suppression of her own
-            feminine element and the consequent impoverishment of industry, art,
-            letters, sciences, morals, religions, and social intercourse, so it
-            is hers to enrich all these.</p>
-        <p>Woman must have her freedom--the fundamental freedom of choosing
-            whether or not she shall be a mother and how many children she will
-            have. Regardless of what man's attitude may be, that problem is
-            hers--and before it can be his, it is hers alone.</p>
-        <p>She goes through "<q who="BIB">the valley of the shadow of death</q>"
-            alone, each time a babe is born. As it is the right neither of man
-            nor the state to coerce her into this ordeal, so it is her right to
-            decide whether she will endure it. That right to decide imposes upon
-            her the duty of clearing the way to knowledge by which she may make
-            and carry out the decision.</p>
-        <p>Birth Control is a woman's problem. The quicker she accepts it as
-            hers and hers alone, the quicker will society respect motherhood.
-            The quicker, too, will the world be made a fit place for children to
-            live.</p>
+        <p>Many people who believe in Birth Control as the means of voluntary motherhood say that
+            the propaganda of the movement is directed too much to women and too little to men. They
+            contend that the appeal should be to men quite as much as to women and that a strong
+            effort should be made to arouse the masculine half of humanity to its responsibilities
+            in relation to the evils growing out of the enslavement of the reproductive
+            function.</p>
+        <p>It is true that the propaganda of the Birth Control movement in America has been
+            addressed almost entirely to women. It has been couched in the terms of woman's
+            experience. Its prime importance to her has been continuously and consistently stressed.
+            The reason for this course is at once fundamental and practical.</p>
+        <p>The basic freedom of the world is woman's freedom. A free race cannot be born of slave
+            mothers. A woman enchained cannot choose but give a measure of bondage to her sons and
+            daughters. No woman can call herself free who does not own and control her body. No
+            woman can call herself free until she can choose consciously whether she will or will
+            not be a mother.</p>
+        <p>It does not greatly alter the case that some women call themselves free because they earn
+            their own livings, while others profess freedom because they defy the conventions of sex
+            relationship. She who earns her own living gains a sort of freedom that is not to be
+            undervalued but in quality and in quantity it is of little account beside the
+            untrammeled choice of mating or not mating, of being a mother or not being a mother. She
+            gains food and clothing and shelter, at least, without submitting to the charity of her
+            companion, but the earning of her own living does not give her the development of her
+            inner sex urge, far deeper and more powerful in its outworkings than any of these mere
+            externals. In order to have that development, she must still meet and solve the problem
+            of motherhood.</p>
+        <p>With the so-called "<q>free</q>" woman, who chooses a mate in defiance of convention,
+            freedom is largely a question of character and audacity. If she does attain to an
+            unrestrained choice of a mate, she is still in a position to be enslaved through her
+            reproductive powers. Indeed, the pressure of law and custom upon the woman not legally
+            married is likely to make her more of a slave than the woman fortunate enough to marry
+            the man of <emph rend="italics">her</emph> choice.</p>
+        <p>Look at it from any standpoint you will, suggest any solution you will, conventional or
+            unconventional, sanctioned by law or in defiance of law, woman is in the same position,
+            fundamentally, until she is able to determine for herself whether she will be a mother
+            and to fix the number of her offspring. This unavoidable situation is alone enough to
+            make Birth Control, first of all a woman's problem. On the very face of the matter,
+            voluntary motherhood is chiefly the concern of the mother.</p>
+        <p>It is persistently urged, however, that since sex expression is the act of two, the
+            responsibility of controlling the results should not be shifted to woman. Is it fair, we
+            are asked, to give her the task of protecting herself when she is, perhaps, less rugged
+            in physique than her mate, and has, at all events, the normal, periodic inconvenience of
+            her sex?</p>
+        <p>We must examine this phase of the problem in two lights – that of the ideal and of the
+            conditions working toward the ideal. In an ideal society, no doubt, Birth Control would
+            become the concern of the man as well as the woman. The hard, inescapable fact which we
+            encounter today is that man has not only refused any such responsibility but has
+            individually and collectively sought to prevent woman from obtaining knowledge by which
+            she could assume this responsibility for herself. She is still in the position of a
+            dependent today because her mate has refused to consider her as an individual apart from
+            his needs. She is still bound because she has in the past left the solution of the
+            problem to him. Having left it to him, she finds that instead of rights, she has only
+            such privileges as she has gained by petitioning, coaxing, and cozening. Having left it
+            to him, she is exploited, driven and enslaved to his desires.</p>
+        <p>While it is true that he suffers many evils as the consequence of this situation, she
+            suffers vastly more. While it is true that he should be awakened to the cause of these
+            evils, we know that they come home to her with crush-force every day. It is she who has
+            the long burden of carrying, bearing and rearing the unwanted children. It is she who
+            must watch bedside the beds of pain where lie the babies who suffer because they have
+            come into overcrowded homes. It is her heart that the sight of the deformed, the
+            subnormal, the undernourished, the overworked child smites first and oftenest and
+            hardest. It is her love life that dies first in the fear of undesired pregnancy; it is
+            her self-expression that perishes first and most hopelessly because of it.</p>
+        <p>Conditions, rather than theories, facts, rather than dreams, govern the problem. They
+            place it squarely upon the shoulders of woman. She has learned that whatever the moral
+            responsibility of the man in this direction may be, he does not discharge it. She has
+            learned that, loveable and considerate as the individual husband may be, she has nothing
+            to expect from men in the mass, when they make laws and decree customs. She knows that
+            regardless of what ought to be, the brutal, unavoidable fact is that she will never
+            receive her freedom until she takes it for herself.</p>
+        <p>Having learned this much, she has yet something more to learn. Women are too much
+            inclined to follow in footsteps of men, to try to think as men think, to try to solve
+            the general problems of life as men solve them. If after attaining their freedom, women
+            accept conditions in the spheres of government, industry, art, morals and religion as
+            they find them, they will be but taking a leaf out of man's book. The woman is not
+            needed to do man's work. She is not needed to think man's thoughts. She need not fear
+            that the masculine spirit, almost universally dominant, will fail to take care of its
+            own. Her mission is not to enhance the masculine spirit, but to express the feminine
+            spirit; hers is not to preserve a man-made world but to create a human world by the
+            infusion of the feminine element into all of its activities.</p>
+        <p>Woman must not accept; she must challenge. She must not be told how to use her freedom;
+            she must find out for herself. She must not be awed by that which has been built up
+            around her; she must reverence that within her which struggles for expression. Her eyes
+            must be less upon what is--more clearly upon what should be. She must listen only with a
+            frankly questioning attitude to the dogmatized, fossilized opinions of church, state and
+            society. When she chooses her new, free course of action, it must be in the light of her
+            own opinion – of her own intuition. Only so can she give play to the feminine spirit.
+            Only thus can she free her mate from the bondage which he wrought for himself when he
+            wrought hers. Only thus can she restore to him that of which he robbed himself in
+            restricting her. Only thus can she remake the world.</p>
+        <p>The world is, indeed, hers to remake; it is hers to build and to recreate. Even as she
+            has permitted the suppression of her own feminine element and the consequent
+            impoverishment of industry, art, letters, sciences, morals, religions, and social
+            intercourse, so it is hers to enrich all these.</p>
+        <p>Woman must have her freedom--the fundamental freedom of choosing whether or not she shall
+            be a mother and how many children she will have. Regardless of what man's attitude may
+            be, that problem is hers--and before it can be his, it is hers alone.</p>
+        <p>She goes through "<q who="BIB">the valley of the shadow of death</q>" alone, each time a
+            babe is born. As it is the right neither of man nor the state to coerce her into this
+            ordeal, so it is her right to decide whether she will endure it. That right to decide
+            imposes upon her the duty of clearing the way to knowledge by which she may make and
+            carry out the decision.</p>
+        <p>Birth Control is a woman's problem. The quicker she accepts it as hers and hers alone,
+            the quicker will society respect motherhood. The quicker, too, will the world be made a
+            fit place for children to live.</p>
     </docBody>
 </doc>

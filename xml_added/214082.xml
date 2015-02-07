@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed draft article">
     <mepHeader>
         <prepDate>2009/07/20 LL</prepDate>
         <prepDate>2011/06/03 EK</prepDate>
+        <prepDate>2014-03-18 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1930-00-00">1930</docDate>
         <docTitle>
@@ -12,7 +13,7 @@
         <idno>msp214082</idno>
         <sourceDesc>
             <bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-            <bibl><title>MSM</title> S73:0128</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title>, S73:0128</bibl>
         </sourceDesc>
         <respStmt>
             <name id="WELHG">Wells, H. G.</name>
@@ -28,7 +29,7 @@
         <index level1="women" level2="enslavement of"/>
         <index level1="women" level2="freedom and rights of"/>
         <index level1="working classes" level2="birth control and"/>
-        <index level1="Pope Piux XI"/>
+        <index level1="Pius XI, Pope"/>
     </headNote>
     <docBody>
         <head>
@@ -36,7 +37,7 @@
         </head>
         <p>Some of us <del>illegible</del>, <add>who</add>, are familiar with the subject as a whole
                 <del>we</del> realize our responsibility as human beings and <del>illegible
-                fight</del><add>are fighting</add>fight<add>ing</add> for the poor woman's freedom
+                fight</del><add>are fighting</add>fight<add>ing</add> for the poor woman’s freedom
             and rights, <del>and</del><add>we want to</add> see <del>that</del>her position as
             mother <del>to</del>elevated to one of dignity, through knowledge of birth control. Such
             knowledge, <person reg="Wells, H. G.">H. G. Wells</person> says, “<q who="WELHG">marks a
@@ -47,7 +48,7 @@
             that the large majority of them live to full maturity.</p>
         <p>It is in my estimation far more patriotic and considerate of the race to have a
             responsibility in the function of child bearing, than to consider it an act of
-                <name>God</name> thereby casting the responsibility upon him.</p>
+                <name type="deity">God</name> thereby casting the responsibility upon him.</p>
         <p>Theorizing--Let them ask the mothers, frantic with worry, old and broken on the wheel of
             maternity, Hopeless and devitalized with endless childbearing, let these mothers speak
             and tell us what they think of such cruelty on the part of church or state, that makes
@@ -56,7 +57,7 @@
                 <add>conscripted</add> available through medical and scientific sources these
             mothers of the race must bind their hands and continue to call in vain for relief from
             maternal bondage.</p>
-        <p>The mothers in <place reg="United States of America">America</place> who cannot avail
+        <p>The mothers in <place reg="United States">America</place> who cannot avail
             themselves of such medical advice are indeed enslaved. They have less consideration than
             the cattle on our farms. They are more enslaved than their husbands in industry or the
             black race in the days of yore.</p>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Article">
     <mepHeader>
         <prepDate>2011-07-27 NC</prepDate>
+        <prepDate>2014-03-25 CH clean regs</prepDate>
         <docAuthor>SHE Magazine</docAuthor>
         <docDate value="1945-04-00"><supplied resp="MSPP">Apr 1945</supplied></docDate>
         <docTitle>
@@ -10,71 +11,77 @@
         </docTitle>
         <idno>msp236413</idno>
         <sourceDesc>
-            <bibl><title>SHE Magazine: Page Extra Clip Sheet</title>April 1945</bibl>
-            <bibl><title>MSM</title>S72:0499</bibl>
+            <bibl><title type="journal">SHE Magazine</title>: Page Extra Clip Sheet, April
+                1945</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S72:0499</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
-            <name/>
+            <name id="SHE">SHE Magazine</name>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>The following clip sheet summarizes Sanger's article "War Marriages Are
-            Worth Saving" that appeared in <title>SHE Magazine</title> April/May 1945 issue. No
-            published or unpublished copy of the article has been found. For similar articles see
-                <xref from="226160.xml">"Lasting Peace for the War Marriage"</xref>, July 1944 and
-                <xref from="236035.xml">"How to Avoid Post War Divorces"</xref>, July 19,
-            1944.</p><index level1="war" level2="marriage and"/></headNote>
+    <headNote resp="MSPP"><p>The following summarizes Sanger's article "<title type="article">War
+                Marriages Are Worth Saving</title>" that appeared in <title type="journal">SHE
+                Magazine</title> April/May 1945 issue. No published or unpublished copy of the
+            article has been found. For similar articles see <xref from="226160.xml">"<title
+                    type="article">Lasting Peace for the War Marriage</title>"</xref>, July 1944 and
+                <xref from="236035.xml">"<title type="article">How to Avoid Post War
+                    Divorces</title>"</xref>, July 19, 1944.</p><index level1="war"
+            level2="marriage and"/></headNote>
     <docBody>
         <head>An Authority on Family Life Says: Save War Marriages</head>
         <head type="sub">Advice available to those who find their post war problems are leading to
             separation, divorce</head>
 
-        <p>War marriages made headlines right after <place reg="Pearl Harbor, HI">Pearl
-                Harbor</place>, when the marriage rate took a sharp up-swing. They are still making
-            headlines, but they are no longer such cheerful ones. Two-thirds of the wartime
-            marriages are doomed to end in the divorce courts, according to one prediction. Another
-            more conservative estimate is that thirty-eight out of every one hundred will fail.</p>
-        <p>How many of these marriages can really be salvaged? <person reg="Sanger, Margaret"
-                >Margaret Sanger</person>, whose courageous fight for birth control has made her
-            name famous throughout the world, has some ideas on the subject which she sets forth in
-            an article in <title>SHE Magazine</title>'s current issue.</p>
-        <p>Mrs. Sanger has no magic words of advice which can save the marriage born solely of war
-            emotion and found in the sober light of afterthought to be completely wrong. But she
-            does believe that with the proper effort and cooperation a great many war marriages
-            otherwise destined to go on the rocks, can be saved. </p>
-        <p>Women should realize that their soldier husbands have become distinct individuals, men
-            who are tired of all restraints, apron strings, commands. The don't want to be bossed,
-            or even advised in many cases. Old occupations seem unbelievably dull and routine.</p>
-        <p>Take the case of Mrs. Bill who became a successful business woman while her husband was
-            fighting. She liked it. She didn't dream Bill would be anything but proud and delighted.
-            He wasn't at all. He wanted her to quit, and was horrified and hurt at her earning more
-            than he had at his pre-war job.</p>
-        <p>Fortunately, both of them were willing to take advice and consulted Dr. <person
-                reg="Burr, Emily T.">Emily T. Burr</person>, Director of the <org
-                reg="New York City Vocational Adjustment Bureau">Vocational Adjustment Bureau</org>
-            of <place reg="New York, NY">New York City</place>. Dr. Burr suggested that Mrs. Bill
-            continue on at her job but that Bill's salary take care of all routine household
-            expenses. Mrs. Bill could save for that baby they were planning to have as soon as they
-            could afford it. This made sense to Bill and a quarrel that threatened to break Bill's
-            spirit and a splendid marriage was averted.</p>
-        <p>On a train recently Mrs. Sanger talked with a young girl who carried a fretful baby. Her
-            husband will return at the war's end, but not to the appreciation he no doubt feels he
-            deserves. She wants that appreciation for herself. She wants to be told how noble she
-            has been to bear his child in that overcrowded hospital during his absence, to stay home
-            with the baby night after night, scrimping on her allotment pay. After all, she argued,
-            Phil was having plenty of excitement mixed in with the danger. Unless both give a
-            little, and the girl-wife stops nursing her growing resentment, this particular marriage
-            will be among the doomed.</p>
-        <p>Frequently couples who have been married only a few weeks before they are separated tend
-            to idealize each other during the period of separation, and are both completely
-            disillusioned when faced with an average human being. When once they are made to realize
-            this they are usually willing to let the other step down from the pedestal. </p>
-        <p>Marriage is both a concession and a demand; a living thing that is never static, even
-            during long absences. If one partner has had a chance to develop and grow, it is up to
-            him or her to wait for the other to catch up.</p>
-        <p>There are numerous organizations ready to serve the serviceman and to give expert advice.
-            He should seek them out when problems seem too great to cope with. They may save a
-            marriage!</p>
+        <q who="SHE"><p>War marriages made headlines right after <place reg="Pearl Harbor, HI">Pearl
+                    Harbor</place>, when the marriage rate took a sharp up-swing. They are still
+                making headlines, but they are no longer such cheerful ones. Two-thirds of the
+                wartime marriages are doomed to end in the divorce courts, according to one
+                prediction. Another more conservative estimate is that thirty-eight out of every one
+                hundred will fail.</p>
+            <p>How many of these marriages can really be salvaged? <person reg="Sanger, Margaret"
+                    >Margaret Sanger</person>, whose courageous fight for birth control has made her
+                name famous throughout the world, has some ideas on the subject which she sets forth
+                in an article in <title>SHE Magazine</title>’s current issue.</p>
+            <p>Mrs. Sanger has no magic words of advice which can save the marriage born solely of
+                war emotion and found in the sober light of afterthought to be completely wrong. But
+                she does believe that with the proper effort and cooperation a great many war
+                marriages otherwise destined to go on the rocks, can be saved. </p>
+            <p>Women should realize that their soldier husbands have become distinct individuals,
+                men who are tired of all restraints, apron strings, commands. The don’t want to be
+                bossed, or even advised in many cases. Old occupations seem unbelievably dull and
+                routine.</p>
+            <p>Take the case of Mrs. Bill who became a successful business woman while her husband
+                was fighting. She liked it. She didn’t dream Bill would be anything but proud and
+                delighted. He wasn’t at all. He wanted her to quit, and was horrified and hurt at
+                her earning more than he had at his pre-war job.</p>
+            <p>Fortunately, both of them were willing to take advice and consulted Dr. <person
+                    reg="Burr, Emily T.">Emily T. Burr</person>, Director of the <org
+                    reg="New York City Vocational Adjustment Bureau">Vocational Adjustment
+                    Bureau</org> of <place reg="New York, NY">New York City</place>. Dr. Burr
+                suggested that Mrs. Bill continue on at her job but that Bill’s salary take care of
+                all routine household expenses. Mrs. Bill could save for that baby they were
+                planning to have as soon as they could afford it. This made sense to Bill and a
+                quarrel that threatened to break Bill’s spirit and a splendid marriage was
+                averted.</p>
+            <p>On a train recently Mrs. Sanger talked with a young girl who carried a fretful baby.
+                Her husband will return at the war’s end, but not to the appreciation he no doubt
+                feels he deserves. She wants that appreciation for herself. She wants to be told how
+                noble she has been to bear his child in that overcrowded hospital during his
+                absence, to stay home with the baby night after night, scrimping on her allotment
+                pay. After all, she argued, Phil was having plenty of excitement mixed in with the
+                danger. Unless both give a little, and the girl-wife stops nursing her growing
+                resentment, this particular marriage will be among the doomed.</p>
+            <p>Frequently couples who have been married only a few weeks before they are separated
+                tend to idealize each other during the period of separation, and are both completely
+                disillusioned when faced with an average human being. When once they are made to
+                realize this they are usually willing to let the other step down from the pedestal. </p>
+            <p>Marriage is both a concession and a demand; a living thing that is never static, even
+                during long absences. If one partner has had a chance to develop and grow, it is up
+                to him or her to wait for the other to catch up.</p>
+            <p>There are numerous organizations ready to serve the serviceman and to give expert
+                advice. He should seek them out when problems seem too great to cope with. They may
+                save a marriage!</p></q>
 
     </docBody>
 </doc>

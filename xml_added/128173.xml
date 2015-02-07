@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "file:/S:/TRANSCRIPTIONS/XML%20Drafts/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed draft article">
     <mepHeader>
         <prepDate>2009/07/29 LL</prepDate>
-        <prepDate>2009/08/06 CH proof and correct</prepDate>
+        <prepDate>2009/08/06 CH proof and correct</prepDate><prepDate>2014-03-10 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1932-00-00">1932</docDate>
         <docTitle>
@@ -23,8 +23,8 @@
     <headNote resp="MSPP">
         <index level1="Christ" level2="MS on the hypothetical second coming of"/>
     </headNote>
-    <docBody><head>IF CHRIST COMES AGAIN</head>
-        <byline>By Margaret Sanger</byline>
+    <docBody><head>IF <person reg="Jesus Christ">CHRIST</person> COMES AGAIN</head>
+        <byline>By <person reg="Sanger, Margaret">Margaret Sanger</person></byline>
 
         <p>He would shock conservative Christians by his “<soCalled>destructiveness</soCalled>”.</p>
         <p>He would sweep aside current worldly ideals--wealth, national
@@ -33,8 +33,8 @@
         <p>He would discover that after two thousand years of professed
             Christianity, the world had yet to discover the real meaning of
             Love.</p>
-        <p>Cynics, sophisticates, scoffers would ridicule His claims. “<q who="UNK">Old
-            Stuff!</q>” they would shout in derision.</p>
+        <p>Cynics, sophisticates, scoffers would ridicule His claims. “Old
+            Stuff!” they would shout in derision.</p>
         <p>He would be denounced by the ministers of the Orthodox Churches,
             psycho-analyzed by the psychologists, patronized by the scientists,
             persecuted by the professional upholders of American traditions.</p>
@@ -58,7 +58,7 @@
             asceticism. Not at all: it would make “<q who="BIB">of twain one flesh</q>”, It would
             renew bodies as well as souls--and it would teach humanity finally
             and for all time that body and soul are one and indivisible; that
-            the supreme happiness in life is not the seizing of one's own
+            the supreme happiness in life is not the seizing of one’s own
             pleasure, but in creating <del>joy</del> <add>it</add> for another.</p>
         <p>Women then would no longer find themselves the victims of selfish
             love. They would no longer be trapped biologically. Free and

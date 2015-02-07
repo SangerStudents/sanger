@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "file:/S:/TRANSCRIPTIONS/XML%20Drafts/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
     <mepHeader>
         <prepDate>2003/06/09 SB</prepDate>
@@ -8,15 +8,17 @@
         <prepDate>2004/08/13 CH</prepDate>
         <prepDate>2007/06/27 CH Oxygen update</prepDate>
         <prepDate>2011-03-11 CH Entered corrections suggested by Andy
-            Carloff.</prepDate>
-        <docAuthor>Margaret Sanger</docAuthor>
+        Carloff.</prepDate>
+        <prepDate>2014/03/12 EK clean regs</prepDate>
+        
+    <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1918-08-00">Aug 1918</docDate>
         <docTitle>
             <titlePart>Let's Have the Truth</titlePart>
         </docTitle>
         <idno>msp205588</idno>
         <sourceDesc>
-            <bibl><title>The Birth Control Review</title>, Aug. 1918, 8</bibl>
+            <bibl><title>Birth Control Review</title>, Aug. 1918, 8</bibl>
             <bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith
                 College, <title>MSM</title> S70:797</bibl>
         </sourceDesc>
@@ -41,8 +43,7 @@
                 reg="Chicago, IL">Chicago</place>. The charge is conspiracy to obstruct the conduct
             of the war and 10,000 crimes are alleged against those now under prosecution. The
             charges, however, are being overshadowed by the great outstanding fact that the I. W.
-            W., as an organization, is on trial for its life. <place reg="United States of America"
-                >America</place> may be said to be divided into two camps--those who believe that
+            W., as an organization, is on trial for its life. <place reg="United States">America</place> may be said to be divided into two camps--those who believe that
             such organizations as the I. W. W. have a right to exist and those who believe that the
             members of such organizations should be hunted down, jailed or lynched as menaces to
             society. </p>

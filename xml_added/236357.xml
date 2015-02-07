@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed Draft Speech">
     <mepHeader>
         <prepDate>2011/07/08 NC</prepDate>
+        <prepDate>2014-03-21 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1940-09-02">2 Sep 1940</docDate>
         <docTitle>
@@ -12,7 +13,7 @@
         <idno>msp236357</idno>
         <sourceDesc>
             <bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-            <bibl><title>MSM</title>S72:0147</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S72:0147</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
@@ -25,15 +26,19 @@
     </mepHeader>
     <headNote resp="MSPP"><p>The following outline was likely used by Sanger on her Massachusetts
             speaking tour from October 13 to 18, 1940.</p><p>Handwritten notes made by unknown
-            secretary.</p><index level1="birth control" level2="access to"/><index
-            level1="birth control" level2="distribution of information about" level3="morality of"
-            /><index level1="birth control" level2="laws and legislation" level3="Massachusetts"
-            /><index level1="birth control" level2="morality of"/><index level1="birth control"
-            level2="religion and"/><index level1="birth control" level2="war and"/><index
-            level1="Catholic Church"/><index level1="children" level2="unwanted"/><index
-            level1="population" level2="war and"/><index level1="United States" level2="government"
-            level3="birth control and"/><index level1="working classes" level2="birth control and"
-        /></headNote>
+            secretary.</p>
+        <index level1="birth control" level2="access to"/>
+        <index level1="birth control" level2="distribution of information about"
+            level3="morality of"/>
+        <index level1="birth control" level2="laws and legislation" level3="Massachusetts"/>
+        <index level1="birth control" level2="morality of"/>
+        <index level1="birth control" level2="religion and"/>
+        <index level1="birth control" level2="war and"/>
+        <index level1="Catholic Church"/>
+        <index level1="children" level2="unwanted"/>
+        <index level1="population" level2="war and"/>
+        <index level1="United States" level2="government" level3="birth control and"/>
+        <index level1="working classes" level2="birth control and"/></headNote>
     <docBody>
         <head>OUTLINE OF SPEECH MATERIAL FOR MRS. SANGER</head>
         <div type="section">
@@ -41,14 +46,14 @@
             <p>One hundred and eight years ago a little book was published in <place
                     reg="Boston, MA">Boston</place> that was destined to become an historic document
                 in the fight for birth control -- Dr. <person reg="Knowlton, Charles">Charles
-                    Knowlton</person>'s “<title>The Fruits of Philosophy</title>.” For more than
+                    Knowlton</person>’s “<title>The Fruits of Philosophy</title>.” For more than
                 forty years that little book circulated throughout the world quietly, steadily. It
                 was translated into several languages; reprinted many time<add>s</add>. Finally
                 through its circulation in <place>England</place>, Mrs. <person reg="Besant, Annie"
                     >Annie Besant</person> and <person reg="Bradlaugh, Charles">Charles
                     Bradlaugh</person> were brought to trial, an <del>historic</del> event in the
-                history of the birth control movement out of which grew the first
-                    <org>Neo-Malthusian League</org> in England. So Boston, as it
+                history of the birth control movement out of which grew the first <org
+                    reg="Malthusian League">Neo-Malthusian League</org> in England. So Boston, as it
                         <unclear><del>was</del></unclear> can for many movements for human welfare,
                 can lay claim to be one of the birth-places of the whole movement for planned
                 parenthood.</p>
@@ -63,14 +68,14 @@
                 speaking now. Here at the <org>Massachusetts General Hospital</org> in 1905 was
                 established the first attempt to link medicine with the social problems of the
                     <add>patient</add> founded on the belief that adequate medical care <del><gap
-                        extent="one or two words"/>attention</del> must consider the social needs of
+                        extent="one or two words"/> attention</del> must consider the social needs of
                 the patient. Out of that <add>attempt -- now called medical social work --</add> has
                 developed a greater feeling of social responsibility on the part of physicians in
                 many sections of the country; <add>has brought medicine into its own as a <emph
                         rend="underline">great social force</emph>.</add></p>
             <p>With that background of progressive development, with that record of achievement in
                 human welfare, it seems well-nigh incredible that this Commonwealth should be one of
-                the only two in the <place reg="United States">United States</place> which forbids
+                the only two in the United States which forbids
                 physicians to prescribe scientific means of contraception where the imperative
                 health and welfare needs of their patients demand it. That, to me, seems a challenge
                 to the citizens of this State; a challenge for them to demand that minority pressure
@@ -110,7 +115,7 @@
                 imbeded in our way of living.</p>
             <p>With all its emphasis on the materials of defense, this great national effort is
                 proceeding, and must proceed, on the belief that a nation is no stronger than its
-                people. Only a few months ago, Surgeon General <person reg="Parran, Thomas">Thomas
+                people. Only a few months ago, Surgeon General <person reg="Parran, Thomas, Jr.">Thomas
                     Parran</person> of the United States, spoke these significant words. He said:
                     “<q who="PARTH">The people of this nation must be physically tough, mentally
                     sound and moreally strong. If they are not, we can leave our planes on paper,
@@ -126,12 +131,12 @@
                 more children than they can care for properly; forced to lower their already low
                 living standards; forced to perpetuate their condition of poverty because they
                 cannot plan their families.</p>
-            <p>Is it any wonder so many children in <place reg="United States">America</place> today
+            <p>Is it any wonder so many children in America today
                 are undernourished; so many mothers die in child-birth; so many babies are born
                 dead!</p>
             <p>I say in all seriousness that this nation cannot afford to permit such a condition to
                 exist for long, if it has any regard for its national strength.</p>
-            <p>Fifteen years ago, following the <org>Sixth International Neo-Malthusian and Birth
+            <p>Fifteen years ago, following the <org reg="International Neo-Malthusian and Birth Control Conference, 6th">Sixth International Neo-Malthusian and Birth
                     Control Conference</org> in <place reg="New York,NY">New York</place>, I urged
                 that President <add><person reg="Coolidge, Calvin">Coolidge</person> and later Pres
                         <person reg="Hoover, Herbert">Hoover</person></add> appoint a Population
@@ -139,7 +144,7 @@
                 remedy them. Apparently <del>the time then was not ripe for such a move.</del>
                 <add>such proposals were ignored but</add>
                 <del>It is more than ripe today.</del> If the present Administration in <place
-                    reg="Washington D.C.">Washington</place> wishes to make truly effective its
+                    reg="Washington DC">Washington</place> wishes to make truly effective its
                 drive for national defense, it will take immediate steps to begin a coordinated
                 program to <emph rend="underline">strengthen our human resources</emph>. It will
                 integrate efforts already made for the welfare of our people; it will provide the
@@ -147,7 +152,7 @@
                 of making the economic burden of bearing children less heavy. And when it does these
                 things, it will truly be seeking to strengthen the nation for defense of its
                 freedom.</p>
-            <p>I've attempted to discuss the meaning of planned parenthood for individuals and for
+            <p>I’ve attempted to discuss the meaning of planned parenthood for individuals and for
                 the nation. Now to discuss with you your problem here in Massachusetts.</p>
         </div>
         <div type="section">
@@ -160,7 +165,7 @@
                     Holmes</person>. <add>Only</add> a few years ago he said: “<q who="HOLJO">If
                     imparting knowledge of how to space births -- how to safeguard mothers -- and to
                     help married people produce normal, vigorous children; if that be encouraging
-                    morality -- then I'm immoral. In true fact, birth control education is an
+                    morality -- then I’m immoral. In true fact, birth control education is an
                     expression of the highest form of morality -- morality dedicated to the great
                     end of preventing human suffering -- saving the lives of mothers and children --
                     fostering community health and welfare. this is what I mean by morality; <emph
@@ -171,11 +176,11 @@
                     reg="Kinsolving, Arthur B.">Arthur B. Kinsolving</person>; <person
                     reg="Compton, Karl">Karl Compton</person>; Reverend <person
                     rend="Elliot, Frederick M.">Frederick M. Elliot</person>; Dr. <person
-                    reg="Rock,John">John Rock</person>; Bishop <person reg="Abott, H.P. Almon">H.P.
+                    reg="Rock, John">John Rock</person>; Bishop <person reg="Abott, H.P. Almon">H. P.
                     Almon Abbott</person> of <place>Kentucky</place> -- and hundreds of other men
                 and women whose daily lives are testimony to that true morality: <emph
                     rend="underline">the service of mankind</emph>.</p>
-            <p>Morality isn't static; it deepens with the growth of knowledge. Once in human
+            <p>Morality isn’t static; it deepens with the growth of knowledge. Once in human
                 history, quinine was refused to malaria sufferers in the name of morality.
                 Vaccination against smallpox, immunization, the germ theory of disease, the use of
                 anesthesia, the cell theory of lifee -- all these were opposed once in the name of
@@ -244,8 +249,5 @@
                 today in Massachusetts. And much more rests upon your acceptance of that challenge
                 than <add>simply</add> the repeal of an ancient blue law.</p>
         </div>
-
-
-
     </docBody>
 </doc>

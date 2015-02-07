@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Article">
     <mepHeader>
         <prepDate>2011-09-08 CH</prepDate>
         <prepDate>2011-09-15 EK indexed</prepDate>
+        <prepDate>2014-03-26 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1918-11-00">Nov 1918</docDate>
         <docTitle>
@@ -11,20 +12,21 @@
         </docTitle>
         <idno>msp320091</idno>
         <sourceDesc>
-            <bibl><title>The Birth Control Review</title>, Nov. 1918, p. 7.</bibl>
-            <bibl>not filmed</bibl>
+            <bibl><title type="journal">Birth Control Review</title>, Nov. 1918, p. 7.</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
-            <name/>
+            <name id="MBH">Unknown</name>
         </respStmt>
     </mepHeader>
     <headNote resp="MSPP"><p>Margaret Sanger published this short note beneath a letter to the
-            editor written by "<person reg="Unidentified">M. B. H.</person>" asking "Don't you think
-            you over emphasize the woman's side of the problem to the exclusion of the man's?. . .
-            .Shouldn't the instruction in the methods of Birth control be given to men and more
-            stress laid upon appealing to them to take this responsibility?"</p>
-        <p>For Sanger's published views, see "<xref from="226268.xml">A Parents' Problem or Women's?," Mar. 1919.</xref></p>
+            editor written by "<person reg="Unknown">M. B. H.</person>" asking "<q who="MBH">Don't
+                you think you over emphasize the woman's side of the problem to the exclusion of the
+                man's?. . . . Shouldn't the instruction in the methods of Birth control be given to
+                men and more stress laid upon appealing to them to take this
+            responsibility?</q>"</p>
+        <p>For Sanger's published views, see "<xref from="226268.xml"><title type="article">A
+                    Parents' Problem or Women's?</title>," Mar. 1919.</xref></p>
         <index level1="birth control" level2="movement" level3="goals and strategies"/>
         <index level1="men" level2="reproductive choices and decisions"/>
         <index level1="women" level2="reproductive choices and decisions"/>

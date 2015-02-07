@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed Draft Article">
     <mepHeader>
         <prepDate>2011/05/24 CE</prepDate>
         <prepDate>2011/06/21 CE Corrections</prepDate>
+        <prepDate>2014-03-18 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1942-05-25">25 May 1945</docDate>
         <docTitle>
@@ -12,15 +13,16 @@
         <idno>msp227219</idno>
         <sourceDesc>
             <bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College.</bibl>
-            <bibl><title>MSM</title> S72:0360.</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title>, S72:0360.</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
             <name/>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP">Another version can be found on S72:0347. <index
-            level1="birth control" level2="war and"/>
+    <headNote resp="MSPP"><p>For another version. see <title>Margaret Sanger Microfilm</title>
+            S72:0347. </p>
+        <index level1="birth control" level2="war and"/>
         <index level1="birth control" level2="in marriages"/>
         <index level1="child spacing"/>
         <index level1="child welfare"/>
@@ -36,178 +38,143 @@
     </headNote>
     <docBody>
         <head>IS THIS THE TIME TO HAVE A CHILD?</head>
-        <byline>By <person>MARGARET SANGER</person></byline>
+        <byline>By <person reg="Sanger, Margaret">MARGARET SANGER</person></byline>
         <head><emph rend="underline">SYNOPSIS</emph></head>
-        <p>Many people these days are writing on the subject of “war brides”,
-            and “war babies”. As one who lived through the last war, studied the
-            effect of war conditions on the infants born then, also as the
-            mother of three children, I feel qualified to add my voice of
+        <p>Many people these days are writing on the subject of “war brides”, and “war babies”. As
+            one who lived through the last war, studied the effect of war conditions on the infants
+            born then, also as the mother of three children, I feel qualified to add my voice of
             “advice” to the others.</p>
-        <p>First of all the problem has always been and is more than ever now, a
-            serious one. The emotional and spiritual need of many women for a
-            child to replace the husband taken from her is great. Her abiding
-            desire to create something in the image of the husband who may not
-            return frequently blinds her to a consideration of other less
-            emotional but equally important factors. to be considered</p>
-        <p>It is difficult for the young wife to make herself calmly answer
-            these questions. Will I be able to support this child in the event
-            that my husband does not return--or even until he returns? Will my
-            child suffer in the event of a prolonged war and the severe
-            rationing of food, as children are suffering in
-                <place>Europe</place>? Will my anxiety for the return of my
-            husband affect the child even before he is born? What sort of world
+        <p>First of all the problem has always been and is more than ever now, a serious one. The
+            emotional and spiritual need of many women for a child to replace the husband taken from
+            her is great. Her abiding desire to create something in the image of the husband who may
+            not return frequently blinds her to a consideration of other less emotional but equally
+            important factors. to be considered</p>
+        <p>It is difficult for the young wife to make herself calmly answer these questions. Will I
+            be able to support this child in the event that my husband does not return--or even
+            until he returns? Will my child suffer in the event of a prolonged war and the severe
+            rationing of food, as children are suffering in <place>Europe</place>? Will my anxiety
+            for the return of my husband affect the child even before he is born? What sort of world
             am I bringing him into?</p>
-        <p>Is there any serious hereditary defect in my family or my husband's
-            family which might be passed on to a child? Is my own physical
-            condition good enough for my body to be able to stand the strains of
-            pregnancy? Aside from these considerations there are other things to
-            be considered now. There is scientific evidence to back up the
-            effect of a mother's worry on the health of her child. Many
-            endocrinologists agree that under such trying conditions as war,
-            women should not bear children.</p>
-        <p>But against all these considerations of science, caution and common
-            sense, there is that first strong emotional urge for the woman left
-            behind by her soldier husband to bear a child in his likeness. That
-            this urge has outweighed everything else can be seen by the rapidly
-            increasing birth rate, the bumper crop of more than 2,500,000 babies
-            last year, the prospects for an even larger number this year, with
-            conditions very much more trying and uncertain than they were a year
-            ago.</p>
-        <p><place reg="Pearl Harbor, Hawaii">Pearl Harbor</place> has done more
-            than all the scolding, scorning, lecturing of the priests and
-            prophets could ever do to raise the birth rate--even among the much
-            maligned of college groups who have been scorned for the smallness
-                <add>size</add> of their families.</p>
-        <p>The human answer to the question “Is this the time to have a child?”
-            can be found among those young women of child-bearing age who are
-            deciding this difficult question for themselves. I interviewed ten
-            of them, with varying opinions. I bow to their judgments, present
-            their arguments to you, and assure you from the results that the
-            country need not fear race suicide.</p>
-        <p>The doctor son of a friend of mine announced to his startled mother a
-            few weeks ago. “Helen and I are going to have a baby.”</p>
-        <p>It was too late for anything but congratulations, all his mother
-            could do was inquire. “Do you think this is a good time for it?”</p>
+        <p>Is there any serious hereditary defect in my family or my husband’s family which might be
+            passed on to a child? Is my own physical condition good enough for my body to be able to
+            stand the strains of pregnancy? Aside from these considerations there are other things
+            to be considered now. There is scientific evidence to back up the effect of a mother’s
+            worry on the health of her child. Many endocrinologists agree that under such trying
+            conditions as war, women should not bear children.</p>
+        <p>But against all these considerations of science, caution and common sense, there is that
+            first strong emotional urge for the woman left behind by her soldier husband to bear a
+            child in his likeness. That this urge has outweighed everything else can be seen by the
+            rapidly increasing birth rate, the bumper crop of more than 2,500,000 babies last year,
+            the prospects for an even larger number this year, with conditions very much more trying
+            and uncertain than they were a year ago.</p>
+        <p><place reg="Pearl Harbor, HI">Pearl Harbor</place> has done more than all the
+            scolding, scorning, lecturing of the priests and prophets could ever do to raise the
+            birth rate--even among the much maligned of college groups who have been scorned for the
+            smallness <add>size</add> of their families.</p>
+        <p>The human answer to the question “Is this the time to have a child?” can be found among
+            those young women of child-bearing age who are deciding this difficult question for
+            themselves. I interviewed ten of them, with varying opinions. I bow to their judgments,
+            present their arguments to you, and assure you from the results that the country need
+            not fear race suicide.</p>
+        <p>The doctor son of a friend of mine announced to his startled mother a few weeks ago.
+            “Helen and I are going to have a baby.”</p>
+        <p>It was too late for anything but congratulations, all his mother could do was inquire.
+            “Do you think this is a good time for it?”</p>
         <p>“Helen wants it,” he explained simply.</p>
-        <p>Nelson, the son, is a fully accredited surgeon, enlisted in the navy
-            for the duration, and expects to be sent off at any minute. Helen is
-            a doctor almost through her internship at <org>Bellevue
-                Hospital</org>. She is a very competent young person, with
-            obviously good reasons for anything she does. Nelson's mother put
-            the same question, “Do you think this is a good time to have a
-            baby?” to her. “I'd go simply mad,” Helen said, “if anything
-            happened to Nelson and I were left behind without some human
-            expression of our love. It's the only thing that reconciles me to
-            the possible tragedies of the future.”</p>
+        <p>Nelson, the son, is a fully accredited surgeon, enlisted in the navy for the duration,
+            and expects to be sent off at any minute. Helen is a doctor almost through her
+            internship at <org>Bellevue Hospital</org>. She is a very competent young person, with
+            obviously good reasons for anything she does. Nelson’s mother put the same question, “Do
+            you think this is a good time to have a baby?” to her. “I’d go simply mad,” Helen said,
+            “if anything happened to Nelson and I were left behind without some human expression of
+            our love. It’s the only thing that reconciles me to the possible tragedies of the
+            future.”</p>
         <p>“How about your job?”</p>
-        <p>“Oh, I've figured that all out. I'll be through my internship three
-            months before the baby is due, and I'll keep on with it until
-            then.”</p>
-        <p>Helen thinks all women with medical training ought to be drafted into
-            the <org reg="United States Army">army</org> or <org
-                reg="United States Navy">navy</org>. As soon as she is able
-            after having her child, she is going to go to work again wherever
-            she is needed and take her baby with her. She is in the fortunate
-            position of being able to earn enough to pay for a trained nurse to
-            care for the baby while she is away from home.</p>
-        <p>Not many women can have a baby and keep on with their work like
-            Helen. But in the next few months thousands of girls and women will
-            have to make the same decision about whether or not to have a baby.
-            They must make it knowing that the husbands they love and marry may
-            not be with them to help bring up their babies. In almost every case
-            therefore, the woman will have to make this heroic, even tragic,
-            decision. That many men feel the decision should be that of the
-            woman can be seen from the many army letters that come to the
-                <org>Planned Parenthood Federation of America, Inc</org>. at 501
-            Madison Avenue, <place reg="New York City, New York">New York
-                City</place>. Most of the letters these days are from the young
-            soldiers themselves who want their wives to have a knowledge of baby
-            spacing so that the decision will be entirely theirs, not the result
-            of emotion and accident. They write that they will be able to go off
-            and be better soldiers if relieved of the fear they may have left a
-            child behind for their wives to support in their absence. All of
-            them say they want families when they return.</p>
-        <p>Sally was the next young friend with whom I talked. She is
-            twenty-six, and a bride of three months. Her husband is a salesman
-            subject to call at any minute into the army.</p>
-        <p>“Sally, isn't it time you were thinking about having a baby?” I asked
-            her the other day.</p>
-        <p>She looked at me with horror, as though she could not believe me
-            serious. But I could tell the question had been troubling her deeply
-            by the way the words tumbled out. “Have a baby now? In this horrible
-            period when Joe may have to go into the war any minute? Why, I might
-            never see him again. Why should I mess up things worse than they
-            already are? What right have I to bring a baby into the world when I
-            don't even know what's going to happen in the future. I've got no
-            way of earning a living. What good is a one-finger typist? I
-            couldn't even earn enough to keep myself alive, much less provide
-            for a child. That's a crazy suggestion, M. S., to tell me to have a
-            baby now.”</p>
-        <p>I asked my friend, Peggy, what she thought about it. Peggy already
-            has one child. She is thrillingly in love with her husband and is
-            obsessed by the fear that he will be taken and that she may lose
-            him. She wants to have another baby now more than if she thought he
-            were going to be home. Her desire to perpetuate her husband's
-            personality outweighs in her mind all other considerations.</p>
-        <p>Barbara, on the other hand, definitely has decided not to have
-            another baby now. When she married at 26, she made up her mind she
-            would have a family of four. She still has approximately fifteen
-            years ahead of her in which to have the other three. Her first baby,
-            now six months old, was a Caesarian delivery, which automatically
-            limits her safety in future pregnancies.</p>
-        <p>“To have another baby now would be unfair all the way around,” she
-            said to me. “It would be a double burden and worry for my husband as
-            well as for myself. I'm a trained nurse. Even if I'm not drafted, I
-            feel I ought to offer my services to my country, in its time of
-            need. That would mean leaving my baby with some perfect stranger.
-            There'll be plenty of time for me to have another baby later
-            on.”</p>
-        <p>For the woman with children who must remain and care for the home
-            there is another argument against having a baby now. In addition to
-            the nutritional and economic obstacles, there is the effect on the
-            other children. Life will be hard enough for them with their father
-            away. If their mother's nerves are in good condition, she will
-            perhaps be able to allay their fears. But if her nerves are always
-            on the ragged edge, as will undoubtedly be the case if she is about
-            to bear another child, they will be deprived of the calm and
-            peaceful home life to which they are entitled.</p>
-        <p>One certain thing I discovered from my informal survey; the American
-            nation is in no danger of extinction. Eight of the ten wives with
-            whom I spoke intend to have babies right away, war or no war. This
-            is true in spite of the troubled question so many of the
-            sophisticated young people ask themselves, “What right have I to
-            bring a child into a world which provides no security for it? Isn't
-            the country going to be snowed under with mountainous taxes which
-            will have to be paid by generations still unborn? Why should I add
-            an other life to help shoulder that burden?”</p>
-        <p>I agree with them that the world of tomorrow is going to be a
-            different world, how different none of us yet knows. Of one thing
-            all true Americans are certain. The children born today will still
-            have the privilege of growing up in a democracy. In their hands will
-            be the opportunity to do any remaking that may be needed.</p>
-        <p>It is up to us to leave American Civilization of the future in good
-            hands. Whether that can best be served by women having children
-            during the war period is a question for each woman to decide for
-            herself, according to the factors which govern her individual
+        <p>“Oh, I’ve figured that all out. I’ll be through my internship three months before the
+            baby is due, and I’ll keep on with it until then.”</p>
+        <p>Helen thinks all women with medical training ought to be drafted into the <org
+                reg="United States Army">army</org> or <org reg="United States Navy">navy</org>. As
+            soon as she is able after having her child, she is going to go to work again wherever
+            she is needed and take her baby with her. She is in the fortunate position of being able
+            to earn enough to pay for a trained nurse to care for the baby while she is away from
+            home.</p>
+        <p>Not many women can have a baby and keep on with their work like Helen. But in the next
+            few months thousands of girls and women will have to make the same decision about
+            whether or not to have a baby. They must make it knowing that the husbands they love and
+            marry may not be with them to help bring up their babies. In almost every case
+            therefore, the woman will have to make this heroic, even tragic, decision. That many men
+            feel the decision should be that of the woman can be seen from the many army letters
+            that come to the <org>Planned Parenthood Federation of America, Inc</org>. at 501
+            Madison Avenue, <place reg="New York, NY">New York City</place>. Most of the
+            letters these days are from the young soldiers themselves who want their wives to have a
+            knowledge of baby spacing so that the decision will be entirely theirs, not the result
+            of emotion and accident. They write that they will be able to go off and be better
+            soldiers if relieved of the fear they may have left a child behind for their wives to
+            support in their absence. All of them say they want families when they return.</p>
+        <p>Sally was the next young friend with whom I talked. She is twenty-six, and a bride of
+            three months. Her husband is a salesman subject to call at any minute into the army.</p>
+        <p>“Sally, isn’t it time you were thinking about having a baby?” I asked her the other
+            day.</p>
+        <p>She looked at me with horror, as though she could not believe me serious. But I could
+            tell the question had been troubling her deeply by the way the words tumbled out. “Have
+            a baby now? In this horrible period when Joe may have to go into the war any minute?
+            Why, I might never see him again. Why should I mess up things worse than they already
+            are? What right have I to bring a baby into the world when I don’t even know what’s
+            going to happen in the future. I’ve got no way of earning a living. What good is a
+            one-finger typist? I couldn’t even earn enough to keep myself alive, much less provide
+            for a child. That’s a crazy suggestion, M. S., to tell me to have a baby now.”</p>
+        <p>I asked my friend, Peggy, what she thought about it. Peggy already has one child. She is
+            thrillingly in love with her husband and is obsessed by the fear that he will be taken
+            and that she may lose him. She wants to have another baby now more than if she thought
+            he were going to be home. Her desire to perpetuate her husband’s personality outweighs
+            in her mind all other considerations.</p>
+        <p>Barbara, on the other hand, definitely has decided not to have another baby now. When she
+            married at 26, she made up her mind she would have a family of four. She still has
+            approximately fifteen years ahead of her in which to have the other three. Her first
+            baby, now six months old, was a Caesarian delivery, which automatically limits her
+            safety in future pregnancies.</p>
+        <p>“To have another baby now would be unfair all the way around,” she said to me. “It would
+            be a double burden and worry for my husband as well as for myself. I’m a trained nurse.
+            Even if I’m not drafted, I feel I ought to offer my services to my country, in its time
+            of need. That would mean leaving my baby with some perfect stranger. There’ll be plenty
+            of time for me to have another baby later on.”</p>
+        <p>For the woman with children who must remain and care for the home there is another
+            argument against having a baby now. In addition to the nutritional and economic
+            obstacles, there is the effect on the other children. Life will be hard enough for them
+            with their father away. If their mother’s nerves are in good condition, she will perhaps
+            be able to allay their fears. But if her nerves are always on the ragged edge, as will
+            undoubtedly be the case if she is about to bear another child, they will be deprived of
+            the calm and peaceful home life to which they are entitled.</p>
+        <p>One certain thing I discovered from my informal survey; the American nation is in no
+            danger of extinction. Eight of the ten wives with whom I spoke intend to have babies
+            right away, war or no war. This is true in spite of the troubled question so many of the
+            sophisticated young people ask themselves, “What right have I to bring a child into a
+            world which provides no security for it? Isn’t the country going to be snowed under with
+            mountainous taxes which will have to be paid by generations still unborn? Why should I
+            add an other life to help shoulder that burden?”</p>
+        <p>I agree with them that the world of tomorrow is going to be a different world, how
+            different none of us yet knows. Of one thing all true Americans are certain. The
+            children born today will still have the privilege of growing up in a democracy. In their
+            hands will be the opportunity to do any remaking that may be needed.</p>
+        <p>It is up to us to leave American Civilization of the future in good hands. Whether that
+            can best be served by women having children during the war period is a question for each
+            woman to decide for herself, according to the factors which govern her individual
             case.</p>
-        <p>One democratic right which greater numbers of women are enjoying
-            during this war and which was denied to most during the last right
-            is the to <emph>decide</emph> for themselves whether they shall have
-            babies or not. Today there are more than 800 birth control services
-            in the United States. There were none during the last war. <add>The
-                    <org>Brownsville clinic</org> had been opened and promptly
-                closed by the police</add>. Today, through the combined services
-            of the <org reg="United Service Organization">USO</org> and the <org
-                reg="Young Women's Christian Association">YWCA</org>, young
-            women troubled by problems relating to war are able to seek wise
-            council under the leadership of <add>Dr.</add>
-            <person reg="Nelson, Janet Fowler">Janet Fowler Nelson</person>.
-            There are more than 500 marriage council groups throughout the
-            country which aim to give young women a better understanding of
-            themselves, of their problems. Young women who wish to postpone
-            their babies until steadier times are given the address of the
-            nearest birth control clinic, just as those young women who feel
-            that they are physically and economically able to care for a child
-            are encouraged to add a new American to the nation.</p>
+        <p>One democratic right which greater numbers of women are enjoying during this war and
+            which was denied to most during the last right is the to <emph>decide</emph> for
+            themselves whether they shall have babies or not. Today there are more than 800 birth
+            control services in the United States. There were none during the last war. <add>The
+                    <org>Brownsville clinic</org> had been opened and promptly closed by the
+                police</add>. Today, through the combined services of the <org
+                reg="United Service Organization">USO</org> and the <org
+                reg="Young Women's Christian Association">YWCA</org>, young women troubled by
+            problems relating to war are able to seek wise council under the leadership of
+                <add>Dr.</add>
+            <person reg="Nelson, Janet Fowler">Janet Fowler Nelson</person>. There are more than 500
+            marriage council groups throughout the country which aim to give young women a better
+            understanding of themselves, of their problems. Young women who wish to postpone their
+            babies until steadier times are given the address of the nearest birth control clinic,
+            just as those young women who feel that they are physically and economically able to
+            care for a child are encouraged to add a new American to the nation.</p>
     </docBody>
 </doc>

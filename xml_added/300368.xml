@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "file:/S:/TRANSCRIPTIONS/XML%20Drafts/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Article ">
     <mepHeader>
         <prepDate>2007/07/17 CH proofread and added xref </prepDate>
+        <prepDate>2014-03-05 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1924-04-00 ">Apr 1924</docDate>
         <docTitle>
@@ -10,8 +11,8 @@
         </docTitle>
         <idno>msp300368</idno>
         <sourceDesc>
-            <bibl><title>The Thinker</title>Apr. 1924, pp. 49-51.</bibl>
-            <bibl><title>MSM</title>C16:219</bibl>
+            <bibl><title type="journal">The Thinker</title>Apr. 1924, pp. 49-51.</bibl>
+            <bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title> C16:219</bibl>
         </sourceDesc>
     </mepHeader>
     <headNote resp="MSPP">
@@ -25,55 +26,55 @@
                 <xref from="305275.xml">Birth Control in China and Japan</xref>
             </title>," February 1924. One article has not been found.</p>
         <index level1="birth control" level2="opposition to"/>
-        <index level1="Catholic Church" level2="birth control and abortion and"></index>
-        <index level1="Catholic Church" level2=""></index>
-        <index level1="birth control" level2="movement" level3="goals and strategies"></index>
-        <index level1="birth control" level2="movement" level3="MS on"></index>
-        <index level1="eugenics" level2="MS on"></index>
-        <index level1="birth control" level2="health benefits and risks"></index>
-        <index level1="women" level2="freedom and rights of"></index>
+        <index level1="Catholic Church" level2="birth control and abortion and"/>
+        <index level1="Catholic Church" level2=""/>
+        <index level1="birth control" level2="movement" level3="goals and strategies"/>
+        <index level1="birth control" level2="movement" level3="MS on"/>
+        <index level1="eugenics" level2="MS on"/>
+        <index level1="birth control" level2="health benefits and risks"/>
+        <index level1="women" level2="freedom and rights of"/>
     </headNote>
     <docBody>
         <head>THE BIRTH CONTROL MOVEMENT IN 1923</head>
-        <byline>By <person reg="Sanger, Margaret">Margaret Sanger</person>, <place
-                reg="New York City, NY">104 5th Avenue., N.Y. City</place></byline>
-        <dateline>Add if needed, using <date value="YYYY-MM-DD "/>and <place/></dateline>
+        <byline>By <person reg="Sanger, Margaret">Margaret Sanger</person>, 104 5th Avenue., <place
+                reg="New York, NY">N.Y. City</place></byline>
         <p>In the case of every great movement for the betterment of the human race there are four
             steps to the goal. These are: Agitation, Education, Organization, Legislation. The Birth
             Control movement began in this country only a few years ago with agitation. The
             attention of the people had to be arrested and so the law was challenged, through the
-            publication of my little paper “<title>The Woman Rebel</title>,” and through the opening
-            of a Birth Control Clinic in <place reg="Brownsville, NY">Brownsville, Brooklyn</place>.
-            Since those days it has passed through much of the second and third stages. Tremendous
-            efforts have been made to educate the people to the idea of Birth Control. Education has
-            been carried on by means of Birth Control Conferences, held in various cities of the
-                <place reg="United States of America">United States</place>, and also in <place
-                reg="London, England">London</place>, where the <org reg="Fifth International Neo-Malthusian Conference">Fifth International
-                Conference</org> in July, 1922, was attended by a large American delegation.
-            Organization has been going on hand in hand with the work of Education. The
+            publication of my little paper “<title type="journal">The Woman Rebel</title>,” and
+            through the opening of a Birth Control Clinic in <place reg="Brooklyn, NY"
+                >Brownsville, Brooklyn</place>. Since those days it has passed through much of the
+            second and third stages. Tremendous efforts have been made to educate the people to the
+            idea of Birth Control. Education has been carried on by means of Birth Control
+            Conferences, held in various cities of the <place>United States</place>, and also in
+                <place reg="London, England">London</place>, where the <org
+                reg="International Neo-Malthusian and Birth Control Conference, 5th">Fifth
+                International Conference</org> in July, 1922, was attended by a large American
+            delegation. Organization has been going on hand in hand with the work of Education. The
                 <org>American Birth Control League</org> was formed in October, 1921, and since then
             branches have come into being in almost all the cities where conferences and large Birth
             Control meetings have been held. We now face the work of securing legislation. Bills
-            were introduced in the early part of 1923 in the legislatures of <place reg="NY">New
-                York</place> and <place reg="CT">Connecticut</place>, and important and impressive
-            hearings were held by the committees in charge of these bills. No success attended these
-            bills, but the first step has been taken and this step will be followed up by vigorous
-            work in succeeding sessions.</p>
+            were introduced in the early part of 1923 in the legislatures of <place>New York</place>
+            and <place>Connecticut</place>, and important and impressive hearings were held by the
+            committees in charge of these bills. No success attended these bills, but the first step
+            has been taken and this step will be followed up by vigorous work in succeeding
+            sessions.</p>
         <p>But the work of the advocates of Birth Control has been by no means easy. With every step
             forward there are renewed efforts on the part of our arch-enemies to hinder the progress
             of enlightenment. The seat of most of the opposition is to be found in the <org>Roman
                 Catholic Church</org>. This enemy is ceaselessly active and openly determined to
             exterminate the Birth Control movement in America. In 1921 it illegally broke up a
-            meeting planned to be held in the New York <org>Town Hall</org>--a meeting that was peaceably held
-            afterwards in the <org>Park Theater</org>. It opposed the holding of meetings in <place
-                reg="Cincinnati, OH">Cincinnati</place>, in <place reg="Albany, NY">Albany</place>,
-            in <place reg="Milwaukee, WI">Milwaukee</place>, in <place reg="Hagerstown, MD"
-                >Hagerstown</place>, Md., and in numerous other cities. In some places, as in
-            Albany, the municipal authorities lent themselves to the design of the Catholic Church;
-            in others, as in Cincinnati, the mayor and managers of the hotel or hall where the
-            meeting was to be held, stood firm. They upheld the law and the Constitution. They
-            refused to be intimidated by a blustering mob directed by the wily leaders in Church
-            politics.</p>
+            meeting planned to be held in the New York <org>Town Hall</org>--a meeting that was
+            peaceably held afterwards in the <org>Park Theater</org>. It opposed the holding of
+            meetings in <place reg="Cincinnati, OH">Cincinnati</place>, in <place reg="Albany, NY"
+                >Albany</place>, in <place reg="Milwaukee, WI">Milwaukee</place>, in <place
+                reg="Hagerstown, MD">Hagerstown</place>, Md., and in numerous other cities. In some
+            places, as in Albany, the municipal authorities lent themselves to the design of the
+                <org reg="Roman Catholic Church">Catholic Church</org>; in others, as in Cincinnati,
+            the mayor and managers of the hotel or hall where the meeting was to be held, stood
+            firm. They upheld the law and the Constitution. They refused to be intimidated by a
+            blustering mob directed by the wily leaders in Church politics.</p>
         <p>In the press the opposition also is vigorous and unceasing. Through the reports of
             sermons and speeches, through interviews and letters to the Editor, the opponents of
             Birth Control are continually endeavoring to reach the public ear and to poison the mind
@@ -81,8 +82,8 @@
             progress of the movement, and the idea of Birth Control is gradually penetrating and
             permeating the consciousness of the nation.</p>
         <p>What the Birth Control movement stands for cannot be better summarized and explained than
-            by quoting the manifesto of the <org>American Birth Control League</org>, as adopted at
-            the time of its formation in October, 1921. The League then subscribed to the following
+            by quoting the manifesto of the American Birth Control League, as adopted at the time of
+            its formation in October, 1921. The League then subscribed to the following
             Principles:</p>
         <p>The complex principles now confronting America as the result of the practice of reckless
             procreation are fast threatening to grow beyond human control.</p>
@@ -93,8 +94,8 @@
             these unwanted types has to be borne by the healthy elements of the nation. Funds that
             should be used to raise the standard of our civilization are diverted to the maintenance
             of those who should never have been born.</p>
-        <p>In addition to this great evil we witness too appalling waste of women's health and
-            women's lives by too frequent pregnancies. These unwanted pregnancies often provoke the
+        <p>In addition to this great evil we witness too appalling waste of women’s health and
+            women’s lives by too frequent pregnancies. These unwanted pregnancies often provoke the
             crime of abortion, or alternatively multiply the number of child workers and lower the
             standard of living.</p>
         <p>To create a race of well-born children it is essential that the function of motherhood
@@ -102,7 +103,7 @@
             conception remains a matter of chance.</p>
         <p>We hold that children should be</p>
         <p>1. Conceived in love;</p>
-        <p>2. Born of the mother's conscious desire;</p>
+        <p>2. Born of the mother’s conscious desire;</p>
         <p>3. And only begotten under conditions which render possible the heritage of health.
             Therefore we hold that every woman must possess the power and freedom to prevent
             conception except when these conditions can be satisfied.</p>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-point<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "file:/S:/TRANSCRIPTIONS/XML%20Drafts/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
     <mepHeader>
         <prepDate>2003/07/2 RK</prepDate>
@@ -7,7 +7,9 @@ point<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "fil
         <prepDate>2004/07/27 CH</prepDate>
         <prepDate>2004/08/09 CH</prepDate>
         <prepDate>2004/08/13 CH</prepDate>
-        <prepDate>2007/08/28 CH Oxygen update</prepDate><prepDate>2001/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
+        <prepDate>2007/08/28 CH Oxygen update</prepDate>
+        <prepDate>2001/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
+        <prepDate>2014-03-18 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1919-07-00">Jul 1919</docDate>
         <docTitle>
@@ -15,7 +17,7 @@ point<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "fil
         </docTitle>
         <idno>msp304523</idno>
         <sourceDesc>
-            <bibl><title>The Birth Control Review</title>, July 1919, 3-4</bibl>
+            <bibl><title type="journal">Birth Control Review</title>, July 1919, 3-4</bibl>
             <bibl><title>Margaret Sanger Microfilm</title> C16:123</bibl>
         </sourceDesc>
         <respStmt>
@@ -41,12 +43,12 @@ point<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "fil
     <docBody>
         <head>Vanderlip's Speech -- A Warning Note</head>
         <byline>
-            <emph rend="italics">An Editorial by Margaret Sanger</emph>
+            <emph rend="italics">An Editorial by <person reg="Sanger, Margaret">Margaret
+                    Sanger</person></emph>
         </byline>
-        <p>The birth control movement in <place reg="United States of America">America</place> has
-            heretofore centered its interest upon two points. The first of these is woman's freedom.
-            The other is relief for the economically oppressed workers through limitation of
-            offspring.</p>
+        <p>The birth control movement in <place reg="United States">America</place> has heretofore
+            centered its interest upon two points. The first of these is woman's freedom. The other
+            is relief for the economically oppressed workers through limitation of offspring.</p>
         <p>This has been the movement's development in most countries, except
             <place>England</place>. There it has been very definitely based upon the principle that
             failure to control the birth rate consciously and sufficiently has a constant tendency
@@ -77,20 +79,21 @@ point<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "fil
             discover that the vital points on the address were those which dealt with the European
             food situation, as it arises out of over-population.</p>
         <p>Here are some of the facts which Mr. Vanderlip brought out:</p>
-        <p rend="blockquote">"<q who="VANFR">Europe has increased its population since the
-                Napoleonic wars from 175,000,000 to 440,000,000. Now just think of those figures-
-                175,000,000 to 440,000,000! Now Europe did not become any more productive. She
-                probably does not raise a very great amount more food than she did a hundred years
-                ago. How has she fed those people?...</q>"</p>
-        <p rend="blockquote">"<q who="VANFR"><emph rend="italics">The British government will have
-                    to get five or six million Englishmen out of England and nearer to the source of
-                    the food supply.</emph> It is that fact that we must grasp; that these
-                industries must be kept going in these highly industrialized European countries if
-                the people are to live. Take England -- the most thickly populated country in the
-                world -- 700 to the square mile. They have built up that whole island into an
-                industrial community that can live only by selling abroad a great part of the
-                product of the factories, and with the proceeds of that export buying more raw
-                material and the foods for the population......</q>"</p>
+        <p rend="blockquote">"<q who="VANFR"><place>Europe</place> has increased its population
+                since the Napoleonic wars from 175,000,000 to 440,000,000. Now just think of those
+                figures- 175,000,000 to 440,000,000! Now Europe did not become any more productive.
+                She probably does not raise a very great amount more food than she did a hundred
+                years ago. How has she fed those people?...</q>"</p>
+        <p rend="blockquote">"<q who="VANFR"><emph rend="italics">The <org
+                        reg="United Kingdom Goverment">British government</org> will have to get
+                    five or six million Englishmen out of England and nearer to the source of the
+                    food supply.</emph> It is that fact that we must grasp; that these industries
+                must be kept going in these highly industrialized European countries if the people
+                are to live. Take England -- the most thickly populated country in the world -- 700
+                to the square mile. They have built up that whole island into an industrial
+                community that can live only by selling abroad a great part of the product of the
+                factories, and with the proceeds of that export buying more raw material and the
+                foods for the population......</q>"</p>
         <p rend="blockquote">"<q who="VANFR">English industry has made a red ink overdraft on the
                 future by underpaying labor so that it did not receive enough to live efficiently
                 and you know that in the mill towns of England there grew up a secondary race of
@@ -110,12 +113,13 @@ point<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "fil
         <p>Mr. Vanderlip speaks, of course, as a financier. But whether one is a financier, a
             reformer or a revolutionist, the facts that he points out are the facts that must be
             faced. No matter what our theories or our faiths, these facts stand, they grow
-            increasingly ominous, and the necessity that they be dealt with grows more insistent.</p>
+            increasingly ominous, and the necessity that they be dealt with grows more
+            insistent.</p>
         <p>What do these facts mean to America -- to the people of America? They mean, first of all,
             that upon America will be made increasing demands for food for Europe. We have already
             been supplying England, <place>France</place> and a great part of <place>Italy</place>.
-            Plans are already under way to "<soCalled>feed <place>Germany</place></soCalled>" if a
-            peace satisfactory to those in power, politically and commercially, is made. </p>
+            Plans are already under way to "feed <place>Germany</place>" if a peace satisfactory to
+            those in power, politically and commercially, is made. </p>
         <p>We know, too, that while supplying food to England and France, we went through a period
             of scarcity and unprecedented high prices. We know that this period was also marked by
             high mortality among the civilian population. Witness for instance, the influenza
@@ -127,10 +131,10 @@ point<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "fil
             the <place>Philippines</place>, <place reg="Puerto Rico">Porto Rico</place>, and why
             have we virtually held a protectorate over <place>Cuba</place>? Why is American capital
             so interested in <place>Mexico</place>? Why is it that we go to <place>South
-            America</place> for much of our meat supply -- and only within the past few years? Why
-            do American packers control much of the cattle and most of the packing industry in South
-            America? What is the meaning of our heavy importations of rice? Is our situation
-            different from that of England, except in degree?</p>
+                America</place> for much of our meat supply -- and only within the past few years?
+            Why do American packers control much of the cattle and most of the packing industry in
+                <place>South America</place>? What is the meaning of our heavy importations of rice?
+            Is our situation different from that of England, except in degree?</p>
         <p>A look at our populations statistics may shed some light upon the question. In 1880 our
             population was a little over 50,000,000. Ten years later it had increased to
             approximately 63,000,000. In 1900 it was approximately 76,000,000. In 1910 it lacked but
@@ -146,9 +150,8 @@ point<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "fil
             tremendously increasing numbers.</p>
         <p>It took <place>Russia</place>, with the highest birth rate in Europe, forty years -- from
             1871 to 1911--to increase her population 77 per cent. In but 38 years, we have more than
-            doubled our own population. It took <place>Japan</place> sixty-five years to double her
-            population, and her government has been making a studied effort to increase the number
-            of Japanese.</p>
+            doubled our own population. It took Japan sixty-five years to double her population, and
+            her government has been making a studied effort to increase the number of Japanese.</p>
         <p>In view of these facts. it is high time for people living in America to give careful
             attention to the population problem. It is especially important that those of us who
             advocate Birth Control should at once begin to make an intensive and exhaustive study of

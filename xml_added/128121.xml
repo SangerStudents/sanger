@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed Speech">
     <mepHeader>
         <prepDate>2011/06/03 RT initial tag</prepDate>
@@ -7,6 +7,7 @@
         <prepDate>2011/06/10 RT corrections</prepDate>
         <prepDate>2011/07/07 CH/EK proof</prepDate>
         <prepDate>2011/ 07/07 EK Corrections/index </prepDate>
+        <prepDate>2014-03-21 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1937-01-27">27 Jan 1937</docDate>
         <docTitle>
@@ -15,35 +16,38 @@
         <idno>msp128121</idno>
         <sourceDesc>
             <bibl>Margaret Sanger Papers, Library of Congress</bibl>
-            <bibl>LCM 129:480</bibl>
+            <bibl>Library of Congress Microfilm 129:480</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
             <name id="USCCA">United States Circuit Court of Appeals</name>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>Sanger gave this 15-minute radio address at the 17th Annual Convention
-            of the <org>Federation of Jewish Women's Organizations</org> held at the Hotel Astor in
-                <place>New York</place>. It was broadcast on WMCA. Sanger's speech was opened with
-            the following announcement: "Margaret Sanger, who is recognized as the leader of the
-            birth control movement both in America and abroad, will speak today on the subject
-            "Woman and the Future". Mrs. Sanger has devoted her life to the cause of womanhood, and
-            the success which she has won gives her the right to speak with authority on this topic.
-            Mrs Sanger..."</p>
+    <headNote resp="MSPP">
+        <p>Sanger gave this 15-minute radio address at the <org
+                reg="Federation of Jewish Women's Organizations, 17th Annual Conference">17th Annual
+                Convention of the <org>Federation of Jewish Women's Organizations</org></org> held
+            at the Hotel Astor in <place>New York</place>. It was broadcast on <org
+                reg="WMCA (New York)">WMCA</org>. Sanger's speech was opened with the following
+            announcement: "<person reg="Sanger, Margaret">Margaret Sanger</person>, who is
+            recognized as the leader of the birth control movement both in America and abroad, will
+            speak today on the subject "Woman and the Future". Mrs.
+            Sanger has devoted her life to the cause of womanhood, and the success which she has won
+            gives her the right to speak with authority on this topic. Mrs Sanger..."</p>
         <index level1="birth control" level2="distribution of information about"/>
         <index level1="birth control" level2="laws and legislation" level3="Comstock act"/>
-        <index level1="birth control" level2="legal cases" level3="U.S. V. One Package of Japanese contraceptives'"/>
+        <index level1="birth control" level2="legal cases"
+            level3="U.S. V. One Package of Japanese contraceptives'"/>
         <index level1="birth control" level2="laws and legislation" level3="doctors-only bills"/>
-        <index level1="birth control" level2="and war"/> 
+        <index level1="birth control" level2="and war"/>
         <index level1="women" level2="freedom and rights of"/>
     </headNote>
     <docBody>
-
-        <p>Just four years ago the Federation of Jewish Women's Organizations at whose annual
+        <p>Just four years ago the Federation of Jewish Women’s Organizations at whose annual
             convention I am speaking today, went on record in support of the legalization of birth
             control. It is in great measure due to the active help of this organization and other
             groups of courageous women, such as the <org>National Council of Jewish Women</org>, the
-                <org>General Federation of Women's Clubs</org>, the <org
+                <org>General Federation of Women’s Clubs</org>, the <org
                 reg="Young Women's Christian Association">Y.W.C.A.</org>, that the birth control
             movement is today celebrating a glorious victory and looking forward to the inspiring
             and constructive work which lies ahead.</p>
@@ -79,10 +83,11 @@
             regard to birth control.</p>
         <p>The decision, handed down on November 30, 1936, comes as a result of an informed public
             opinion, as the result of the support of organizations such as this Federation. “<q
-                who="USCCA">We are satisfied</q>”, said the judges, “<q who="USCCA">that this statute
-                embraced only such articles as Congress would have denounced as immoral if it had
-                understood all the conditions under which they were to be used.</q>” That is, birth
-            control as we understand it today, would not have been included in the statute.“<q who="USCCA">It's design</q>” the decision continues, “<q who="USCCA">was not to
+                who="USCCA">We are satisfied</q>”, said the judges, “<q who="USCCA">that this
+                statute embraced only such articles as Congress would have denounced as immoral if
+                it had understood all the conditions under which they were to be used.</q>” That is,
+            birth control as we understand it today, would not have been included in the statute.“<q
+                who="USCCA">It’s design</q>” the decision continues, “<q who="USCCA">was not to
                 prevent the importation, sale, or carriage by mail of things which might
                 intelligently be employed by conscientious and competent physicians for the purpose
                 of saving life or promoting the well-being of their patients.</q>”</p>
@@ -125,9 +130,9 @@
             incomes, our lives. It is simple common sense to control the number of children in a
             family, in order that they may be cherished and loved, cared for properly and raised to
             become useful and happy citizens.</p>
-        <p>Children should be wanted. They should be conceived in marital love, born of the parents'
+        <p>Children should be wanted. They should be conceived in marital love, born of the parents’
             conscious desire and given the heritage of healthy bodies and sound minds.</p>
-        <p>I believe that the bearing and nurture of children are not the aim and end of women's
+        <p>I believe that the bearing and nurture of children are not the aim and end of women’s
             existence. I want to see the woman of the future liberated, spiritually free, conscious
             of her creative powers. I want to see her using them with vision and intelligence, for
             greater happiness, for security, for peace. To do this, woman must first liberate

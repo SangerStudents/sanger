@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed speech">
     <mepHeader>
         <prepDate>2010/02/03 ac</prepDate>
         <prepDate>2011/07/13 NC</prepDate>
         <prepDate>2011/08/18 EK</prepDate>
+        <prepDate>2014/03/12 EK clean regs</prepDate>
+
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1932-04-20">20 April 1932</docDate>
         <docTitle>
@@ -53,15 +55,15 @@
             courageous groups of women are not only standing behind us but standing with us shoulder
             to shoulder in spirit!</p>
         <p> I want to take this opportunity to tell you something of the work in <place
-                reg="Washington, D.C."> Washinton</place>, where I have been for the past five
-            months. In the Congressional trenches, you might say. Our little group of workers,
-            valiant and undaunted, were veritable <emph rend="underline">shock troops</emph> in
-            trying to get our bill through <org reg="United States Congress">Congress</org>. A bill which dares to ask that women have free
-            access to scientific knowledge of their own bodies through the medium of the medical
-            profession.</p>
+                reg="Washington, DC"> Washinton</place>, where I have been for the past five months.
+            In the Congressional trenches, you might say. Our little group of workers, valiant and
+            undaunted, were veritable <emph rend="underline">shock troops</emph> in trying to get
+            our bill through <org reg="United States Congress">Congress</org>. A bill which dares to
+            ask that women have free access to scientific knowledge of their own bodies through the
+            medium of the medical profession.</p>
         <p> We arrived there to find the very air surcharged with the present and immediate problems
             of the day.</p>
-        <p> War debts, Reparations, Moratoriums, Unemployment Relief, Sales' Tax, War in <place
+        <p> War debts, Reparations, Moratoriums, Unemployment Relief, Sales’ Tax, War in <place
                 reg="Manchuria, China">Manchuria</place>, Peace Conference, Tariffs, Budget
             Balancing; Light Wines and Beers, Prohibition, Bonuses. No basic plan for their
             solution.</p>
@@ -71,14 +73,14 @@
         <p> To the busy, frantic, hectic driven Congressman, the announcement of the subject was
             like a message from Mars, less interesting, or some planet even more remote.</p>
         <p> Some days as many as forty calls were made and if we succeeded in getting two interviews
-            it was a good day's work.</p>
+            it was a good day’s work.</p>
         <p> The great difficulty was in getting to see any of them before the bill had been
             introduced–“busy”, “in conference”, “committee meetings”, delegations arriving, desks
             heaped with letters–come back tomorrow–come back next week. Anything to put you off and
             get you out. We always came back promptly on the hour!</p>
         <p> When we finally had the opportunity of an interview we found the great majority of men
                 <emph rend="underline">un-informed</emph>. They believed in birth control for
-            themselves; but the right of another to have knowledge? Well? He'd have to think <emph
+            themselves; but the right of another to have knowledge? Well? He’d have to think <emph
                 rend="underline">that over</emph>!</p>
         <p> Those who were informed were full of fears–fear of public opinion, fear of the opponents
                 <emph rend="underline">mainly</emph></p>
@@ -94,20 +96,23 @@
         <p> The result has been achieved because of persistent, determined activity expressed in
             letters, telegrams, telephones, visitors, constituents, who would not be turned away or
             silenced by the conventional polite routine letters or dismissal. Southern constituents
-            demanded point blank <q who="UNK">will <emph rend="underlined">you introduce</emph> this bill?</q>
-            Knowing their earnestness he replied that he would and he did.</p>
+            demanded point blank <q who="UNK">will <emph rend="underlined">you introduce</emph> this
+                bill?</q> Knowing their earnestness he replied that he would and he did.</p>
         <p> Being of a trusting and believing nature.</p>
-        <p> House–Bill referred to Ways and Means.</p>
-        <p> Judiciary.</p>
+        <p> House–Bill referred to <org
+                reg="United States House of Representatives, Committee on Ways and Means">Ways and
+                Means</org>.</p>
+        <p><org reg="United States Senate, Judiciary Committee">Judiciary.</org></p>
         <p><person reg="Hancock, Frank">FRANK HANCOCK</person></p>
         <p><person reg="Hatfield, Henry">SENATOR HATFIELD</person></p>
-        <p> And now that our bill has been introduced in Congress-–one in the <org reg="United States House of Representatives">House
-                of Representatives</org> and one in the <org reg="United States Senate"
-            >Senate</org>. Date for Hearings has been set. This meeting tonight! This award! This
-            recognition by representative progressive women–-<emph rend="blockquotes">FIGHTING GIBRALTAR–ALL MEANS THAT</emph></p>
+        <p> And now that our bill has been introduced in Congress-–one in the <org
+                reg="United States House of Representatives">House of Representatives</org> and one
+            in the <org reg="United States Senate">Senate</org>. Date for Hearings has been set.
+            This meeting tonight! This award! This recognition by representative progressive
+                women–-<emph rend="blockquotes">FIGHTING GIBRALTAR–ALL MEANS THAT</emph></p>
         <p rend="blockquotes"><emph rend="underline">WE ARE ON OUR WAY</emph>!</p>
         <p> Who can compute the tremendous sufferings saved the human race when this bill shall be
-            passed? I verily believe when fear shall be removed from women's lives that heaven will
+            passed? I verily believe when fear shall be removed from women’s lives that heaven will
             be millions of miles nearer the earth.</p>
         <p> The Social and economic chaos of today stems back to the prolific reckless breeding of
             our forebears. Countless men and women are today entangled and enmeshed in the ignorance
@@ -123,6 +128,7 @@
             like doomed souls are crushed beneath the weight of a cruelly prolific nature.</p>
         <p rend="blockquotes"> IT IS THESE WOMEN WHO WE ARE DEDICATED TO FREE.</p>
         <p> This medal, this award shall be the pledge to bind us together and spur us on in the
-            continuation of our fight for the liberation of <emph rend="blockquotes">WOMANKIND</emph>.</p>
+            continuation of our fight for the liberation of <emph rend="blockquotes"
+                >WOMANKIND</emph>.</p>
     </docBody>
 </doc>

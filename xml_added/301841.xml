@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Article">
     <mepHeader>
         <prepDate>2011-07-27 NC</prepDate>
+        <prepDate>2014-03-25 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1948-00-00">1948</docDate>
         <docTitle>
@@ -11,28 +12,24 @@
         </docTitle>
         <idno>msp301841</idno>
         <sourceDesc>
-            <bibl><title>One Hundred Fifty Years of Birth Control: Malthus (1798) to Cheltenham,
-                    England (1948)</title>(New York: 1948), pp. 1.</bibl>
+            <bibl><title type="book">One Hundred Fifty Years of Birth Control: Malthus (1798) to
+                    Cheltenham, England (1948)</title> (New York: 1948), pp. 1.</bibl>
         </sourceDesc>
-        <respStmt>
-            <resp/>
-            <name/>
-        </respStmt>
     </mepHeader>
     <headNote resp="MSPP"><index level1="birth control" level2="movement" level3="history of"
         /></headNote>
     <docBody>
         <head>Preface</head>
-        <p>In the 150 years since <person reg="Malthus, Thomas">Malthus</person> expounded the law
+        <p>In the 150 years since <person reg="Malthus, Thomas Robert">Malthus</person> expounded the law
             that population tends to outstrip available food supplies, mankind has paid a terrible
-            price for the inability to heed the brilliant clergyman's warning. the reckless
+            price for the inability to heed the brilliant clergyman’s warning. the reckless
             exhaustion of land, water, timber, minerals to provide inadequate subsistence for ever
             increasing people has at last forced mankind into a realization that our civilization is
             doomed, not because of the atom bomb, but because man is reluctant to bring his physical
             numbers into a sane balance with the resources of nature. </p>
         <p>We have reached the limits in spending the resources of posterity in saving ten million
             lives today so that fifty million may starve tomorrow. Not more than a fifth of this
-            earth's people eat what we know is an adequate diet. More than half are chronically
+            earth’s people eat what we know is an adequate diet. More than half are chronically
             undernourished or starving. </p>
         <p>The great Movement for birth control was British in its inception, British in its
             development, an essential and integral part of our never ceasing Anglo-Saxon struggle
@@ -44,7 +41,7 @@
             physician of <place reg="Boston, MA">Boston</place> -- Dr. <person
                 reg="Knowlton, Charles">Charles Knowlton</person> -- which was distributed by
                 <person reg="Bradlaugh, Charles">Charles Bradlaugh</person> and <person
-                reg="Besant, Anne">Anne Besant</person> that brought them to the Bar of Justice in
+                reg="Besant, Annie">Annie Besant</person> that brought them to the Bar of Justice in
             England in a famous and historical trial. But in the United States while Dr. Knowlton
             was promptly and without due publicity sent to jail, the Besant and Bradlaugh trial was
             heralded throughout the land as a challenge to free speech and their victory a triumph

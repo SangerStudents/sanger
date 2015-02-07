@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed Speech">
     <mepHeader>
         <prepDate>2011-07-29 NC</prepDate>
+        <prepDate>2014-03-25 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1951-02-00"><supplied resp="MSPP">Feb 1951</supplied></docDate>
         <docTitle>
@@ -11,23 +12,24 @@
         <idno>msp240655</idno>
         <sourceDesc>
             <bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-            <bibl><title>MSM</title>S72:0629</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S72:0629</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
             <name id="UNK">Unknown</name>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>Sanger drafted this speech to be recorded and played for the <org>Human
-                Betterment Foundation</org> meeting in February 1951 in <place>Des Moines,
-                IA</place>.</p><p>Handwritten corrections made by unknown author, have not been
-            included. Those made by Sanger have been kept.</p><p>For draft versions see S72:0618,
-            0619, 0633, and C16:0431.</p><index level1="sterilization" level2="MS on"/><index
-            level1="sterilization" level2="methods of"/><index level1="birth control"
-            level2="methods" level3="sterilization"/></headNote>
+    <headNote resp="MSPP"><p><person reg="Sanger, Margaret">Sanger</person> drafted this speech to
+            be recorded and played for the <org>Human Betterment Foundation</org> meeting in
+            February 1951 in <place>Des Moines, IA</place>.</p><p>Handwritten corrections made by
+            unknown author, have not been included. Those made by Sanger have been kept.</p><p>For
+            draft versions see <title>Margaret Sanger Microfilm</title> S72:0618, 0619, 0633, and
+            C16:0431.</p>
+        <index level1="sterilization" level2="MS on"/>
+        <index level1="sterilization" level2="methods of"/>
+        <index level1="birth control" level2="methods" level3="sterilization"/></headNote>
     <docBody>
         <p>Dear Friends of the Human Betterment Federation of Des Moines:</p>
-
         <p>It is with regret that I can not be present at your Annual Meeting to tell you how much I
             admire your efforts in your Educational Campaign to prevent parents or would-be parents
             from passing on to unborn generations the inheritable diseases they themselves are
@@ -39,7 +41,7 @@
             lacking or nil, but create problems in each country. Such children form our army of
             delinquents and become social burdens, ending their lives in institutions, such as
             reform schools and Penitentiaries.</p>
-        <p>It is my firm belief that men and women off mental or physical maladjustment <emph
+        <p>It is my firm belief that men and women of mental or physical maladjustment <emph
                 rend="underline">would not want</emph> to bring children into the world with their
             handicaps if they knew <emph rend="underline">how</emph> to prevent it. There is no use
             expecting this group of people to practice contraception. The risk is too great. There
@@ -85,7 +87,7 @@
             see that inmates applying for parole should be <add>voluntarily</add> sterilized before
             they leave the Institution. A proper sympathetic lecture to these inmates regarding the
             benefits of sterilization would bring their consent and acquiescence to the operation
-                <add>as has been shown in reports in California. </add>
+                <add>as has been shown in reports in <place>California</place>. </add>
             <del>Mrs. Sanger</del>
             <add>I want to</add> congratulate the Federation on its splendid educational campaigns
             awakening the public as to the danger to our civilization to allow the perpetuation of
@@ -103,11 +105,11 @@
             pox, etc.</p>
         <p>We should work to extend this campaign to the entire country. Federal funds should be
             made available for such operations when needed. It would be the best <add>National</add>
-            investment. It would be a better use of tax payers' money to pension the sterilized
+            investment. It would be a better use of tax payers’ money to pension the sterilized
             couple rather than paying a dole to increase the size of the family as it is being done
             in various countries. “<q who="UNK">Our babies are dying, give us more babies</q>,” is
             the illogical cry of the dark ages.</p>
-        <p>Again I want to say I regret not being with you today, but let's say better luck next
+        <p>Again I want to say I regret not being with you today, but let’s say better luck next
             time.</p>
 
 

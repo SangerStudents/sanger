@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "file:/S:/TRANSCRIPTIONS/XML%20Drafts/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published article">
     <mepHeader>
         <prepDate>2009/07/16 LL</prepDate>
+        <prepDate>2014-03-10 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1931-04-00">April 1931</docDate>
         <docTitle>
-            <titlePart>Birth Control Steps Out: A Note on the Senate
-                Hearing</titlePart>
+            <titlePart>Birth Control Steps Out: A Note on the Senate Hearing</titlePart>
         </docTitle>
         <idno>msp101885</idno>
         <sourceDesc>
             <bibl>
-                <title>People</title> April 1931, 27-28. </bibl>
-            <bibl>LCM S71:0220</bibl>
+                <title type="journal">People</title> April 1931, 27-28. </bibl>
+            <bibl>Margaret Sanger Papers, Library of Congress, LCM S71:0220</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
@@ -21,138 +21,109 @@
         </respStmt>
     </mepHeader>
     <headNote resp="MSPP">
-        <p><emph rend="Underline">People</emph> editor introduces article with
-            brief summary and mentions Sanger's testimony for the Gillett
-            Bill.</p>
-        <index level1="birth control" level2="laws and legislation"
-            level3="MS on"/>
+        <p><title type="journal">People</title> editor introduces article with brief summary and
+            mentions Sanger's testimony for the Gillett Bill.</p>
+        <index level1="birth control" level2="laws and legislation" level3="MS on"/>
         <index level1="Congressional bills" level2="S.4582" level3="1931"/>
         <index level1="birth control" level2="laws and legislation"
             level3="Postal Code and Regulations"/>
     </headNote>
     <docBody>
         <head>BIRTH CONTROL STEPS OUT</head>
-        <head type="sub">A NOTE ON THE SENATE HEARING</head>
+        <head type="sub">A NOTE ON THE <org reg="United States Senate">SENATE</org> HEARING</head>
         <byline>By MARGARET SANGER</byline>
         <p>The essential object of the <org
-                reg="National Committee on Federal Legislation for Birth Control"
-                >Committee on Federal Legislation for Birth Control</org> in
-            presenting the bill <name type="law">S. 4582</name>, was to amend
-            the federal laws so that motherhood shall be conscious and
-            controlled. This was the first time such a bill had been introduced
-            and this bill as presented by our Chairman Senator <person
-                reg="Gillett, Frederick Huntington">Gillett</person> may yet be
-            the future foundation of The Mother's Bill of Rights.</p>
-        <p>We want mothers to have proper scientific instruction through the
-            channels of the medical profession which will enable them to control
-            the size of the family.</p>
-        <p>We want them to have such knowledge that they may space the period
-            between the births of children in consideration of the mother's
-            health, the father's earning capacity and the future welfare of the
-            child.</p>
-        <p>We want parenthood to be regarded as something beyond and above a
-            casual accident or a punishment as a result of shiftlessness and
-            recklessness.</p>
-        <p>Parenthood when it is responsible can be a noble trust or a proud
-            commission--an honored assignment-- and this can be accomplished
-            only by taking it out of the sphere of accident and placing it in
-            the sphere of conscious responsibility.</p>
-        <p>The laws that this bill S.4582 will amend have classed the
-            information relating to the prevention of conception with obscenity,
-            pornography, indecency and abortion; such information does not
-            belong there.</p>
-        <p>Section 211 was passed by <org>Congress</org> in 1873. At that time
-            there was very little known regarding the subject, the technique of
-            contraception, but in spite of these laws there has been a gradual
-            awakening as to its need and necessity for more complete
-            information. These laws make no exception for medical societies,
-            medical schools, journals, reprints or books or a scientific
-            character. These laws make no exception to physicians in their
-            regular practice, nor for hospitals or clinics, nor for the patients
-            of such doctors; nor for any of the other organizations, so
-            necessary for the proper distribution of medical supplies.</p>
-        <p>These laws interfere with the publication of authorized scientific
-            and medical books, for no publisher will risk or jeopardize his
-            freedom in the publication of any book where there is a law against
-            its circulation.</p>
-        <p>The laws interfere with the importation of articles of research and
-            reports from clinics of other countries which would gradually
-            advance the knowledge of the medical profession in this country on
-            this subject. The medical schools are unable today to obtain
-            scientific data from other universities or from laboratories or from
-            scientific research going on in other parts of the world.</p>
-        <p>These laws interfere with the proper dissemination of this
-            information in many states of the Union where there are laws
-            enabling the physicians to give such advice within their own states.
-            There are today in this country over fifty legally established,
-            medically directed birth control clinics especially designed for the
-            purpose of instructing patients who are entitled to receive such
-            instruction under the law of the state in which they reside. These
-            clinics are distributed throughout twelve states, and this law,
-            section 211, makes it a crime for me or for anyone to send to a
-            mother or sister or relative, poor or diseased as she may be, the
-            address of any of those clinics, several of which may be operating
-            legally in her own state.</p>
-        <p>This law interferes with the transportation of supplies from the
-            manufacturer to the clinics, or from the retail druggist to the
-            doctors operating in their respective states. No one is enabled to
-            send the address of these clinics to anyone else except in violation
-            of the federal law.</p>
-        <p>Our annual reports covering the work of these clinics carrying data
-            regarding the effect of contraception or describing the articles
-            used by the patients cannot be sent to doctors or to other clinics
-            without a violation of the law.</p>
-        <p>The bill that was introduced and upon which the committee has not yet
-            acted, requests that certain exceptions be made in this law.</p>
-        <p>We ask that the section shall not apply to information when published
-            within or without the <place reg="United States of America">United
-                States</place> by any governmental agency, medical society,
-            medical school or medical journal, nor to reprints after any such
-            publication.</p>
-        <p>We ask that it shall not apply to any licensed physician or hospital
-            or clinic when sent by them to any other physician, hospital or
-            clinic. We ask that it shall not apply to anyone who may send the
-            name and address of any physician, hospital, or clinic, where such
-            advice is legally given.</p>
-        <p>We also ask that it shall not apply to any of the articles that may
-            be used for this purpose when sent by wholesale or retail dealers in
-            medical supplies to the physicians, hospitals or clinics, or when
-            sent by a physician to any of his patients.</p>
+                reg="National Committee on Federal Legislation for Birth Control">Committee on
+                Federal Legislation for Birth Control</org> in presenting the bill <name type="law"
+                >S. 4582</name>, was to amend the federal laws so that motherhood shall be conscious
+            and controlled. This was the first time such a bill had been introduced and this bill as
+            presented by our Chairman Senator <person reg="Gillett, Frederick">Gillett</person> may
+            yet be the future foundation of The Mother’s Bill of Rights.</p>
+        <p>We want mothers to have proper scientific instruction through the channels of the medical
+            profession which will enable them to control the size of the family.</p>
+        <p>We want them to have such knowledge that they may space the period between the births of
+            children in consideration of the mother’s health, the father’s earning capacity and the
+            future welfare of the child.</p>
+        <p>We want parenthood to be regarded as something beyond and above a casual accident or a
+            punishment as a result of shiftlessness and recklessness.</p>
+        <p>Parenthood when it is responsible can be a noble trust or a proud commission--an honored
+            assignment-- and this can be accomplished only by taking it out of the sphere of
+            accident and placing it in the sphere of conscious responsibility.</p>
+        <p>The laws that this bill S.4582 will amend have classed the information relating to the
+            prevention of conception with obscenity, pornography, indecency and abortion; such
+            information does not belong there.</p>
+        <p><name type="law" reg="United States Criminal Code, Section 211">Section 211</name> was
+            passed by <org reg="United States Congress">Congress</org> in 1873. At that time there
+            was very little known regarding the subject, the technique of contraception, but in
+            spite of these laws there has been a gradual awakening as to its need and necessity for
+            more complete information. These laws make no exception for medical societies, medical
+            schools, journals, reprints or books or a scientific character. These laws make no
+            exception to physicians in their regular practice, nor for hospitals or clinics, nor for
+            the patients of such doctors; nor for any of the other organizations, so necessary for
+            the proper distribution of medical supplies.</p>
+        <p>These laws interfere with the publication of authorized scientific and medical books, for
+            no publisher will risk or jeopardize his freedom in the publication of any book where
+            there is a law against its circulation.</p>
+        <p>The laws interfere with the importation of articles of research and reports from clinics
+            of other countries which would gradually advance the knowledge of the medical profession
+            in this country on this subject. The medical schools are unable today to obtain
+            scientific data from other universities or from laboratories or from scientific research
+            going on in other parts of the world.</p>
+        <p>These laws interfere with the proper dissemination of this information in many states of
+            the Union where there are laws enabling the physicians to give such advice within their
+            own states. There are today in this country over fifty legally established, medically
+            directed birth control clinics especially designed for the purpose of instructing
+            patients who are entitled to receive such instruction under the law of the state in
+            which they reside. These clinics are distributed throughout twelve states, and this law,
+            section 211, makes it a crime for me or for anyone to send to a mother or sister or
+            relative, poor or diseased as she may be, the address of any of those clinics, several
+            of which may be operating legally in her own state.</p>
+        <p>This law interferes with the transportation of supplies from the manufacturer to the
+            clinics, or from the retail druggist to the doctors operating in their respective
+            states. No one is enabled to send the address of these clinics to anyone else except in
+            violation of the federal law.</p>
+        <p>Our annual reports covering the work of these clinics carrying data regarding the effect
+            of contraception or describing the articles used by the patients cannot be sent to
+            doctors or to other clinics without a violation of the law.</p>
+        <p>The bill that was introduced and upon which the committee has not yet acted, requests
+            that certain exceptions be made in this law.</p>
+        <p>We ask that the section shall not apply to information when published within or without
+            the <place reg="United States">United States</place> by any governmental
+            agency, medical society, medical school or medical journal, nor to reprints after any
+            such publication.</p>
+        <p>We ask that it shall not apply to any licensed physician or hospital or clinic when sent
+            by them to any other physician, hospital or clinic. We ask that it shall not apply to
+            anyone who may send the name and address of any physician, hospital, or clinic, where
+            such advice is legally given.</p>
+        <p>We also ask that it shall not apply to any of the articles that may be used for this
+            purpose when sent by wholesale or retail dealers in medical supplies to the physicians,
+            hospitals or clinics, or when sent by a physician to any of his patients.</p>
         <p>This bill as presented is conservative, logical and constructive.</p>
-        <p>There is nothing in this bill which we ask of Congress which compels
-            the use of contraception by any individual or group which may for
-            religious or other personal reasons object to it. There is nothing
-            compelling anyone to use such information but we do ask the member
-            of Congress to give to millions of mothers who desire it throughout
-            the country the right to have proper scientific information through
-            the proper channels by qualified medical persons.</p>
-        <p>We want no wholesome distribution of indecency nor pornography. We
-            leave the law exactly as it was except we remove the subject of
-            prevention of conception from it and place it in the hands of the
-            medical profession where it rightly belongs.</p>
-        <p>Most of us believe that the original object of these laws was to
-            prevent the dissemination of pornographical literature through the
-            United States mails and to restrict its entrance into this country
-            at a time when little was known about scientific contraception. We
-            fully concur in this restriction.</p>
-        <p>We believe, however, that to place medical or scientific information
-            or literature in this class is unjust, unfair to the inhabitants of
-            this country; that it places a great hardship upon the future
-            progress and achievements of our welfare activities.</p>
-        <p>The effect of keeping this law on the statue books is to increase
-            surreptitious, harmful, unscientific information which increases
-            crime, multiplying abortions.</p>
-        <p>This law in effect has already been responsible directly and
-            indirectly for the deaths of approximately one million mothers and
-            for the deaths of fifteen millions of children many of whom were
-            born unwanted and in conditions of hardship, poverty, cruelty, and
+        <p>There is nothing in this bill which we ask of Congress which compels the use of
+            contraception by any individual or group which may for religious or other personal
+            reasons object to it. There is nothing compelling anyone to use such information but we
+            do ask the member of Congress to give to millions of mothers who desire it throughout
+            the country the right to have proper scientific information through the proper channels
+            by qualified medical persons.</p>
+        <p>We want no wholesome distribution of indecency nor pornography. We leave the law exactly
+            as it was except we remove the subject of prevention of conception from it and place it
+            in the hands of the medical profession where it rightly belongs.</p>
+        <p>Most of us believe that the original object of these laws was to prevent the
+            dissemination of pornographical literature through the United States mails and to
+            restrict its entrance into this country at a time when little was known about scientific
+            contraception. We fully concur in this restriction.</p>
+        <p>We believe, however, that to place medical or scientific information or literature in
+            this class is unjust, unfair to the inhabitants of this country; that it places a great
+            hardship upon the future progress and achievements of our welfare activities.</p>
+        <p>The effect of keeping this law on the statue books is to increase surreptitious, harmful,
+            unscientific information which increases crime, multiplying abortions.</p>
+        <p>This law in effect has already been responsible directly and indirectly for the deaths of
+            approximately one million mothers and for the deaths of fifteen millions of children
+            many of whom were born unwanted and in conditions of hardship, poverty, cruelty, and
             disease.</p>
-        <p>The effect of keeping this law on our statue books is to keep alive
-            hypocrisy, evasion, and increase a general disregard for laws.</p>
-        <p>There is nothing to be gained by keeping on the statue books laws
-            that are known to be inimical to personal health, family happiness
-            and racial development.</p>
-
-
+        <p>The effect of keeping this law on our statue books is to keep alive hypocrisy, evasion,
+            and increase a general disregard for laws.</p>
+        <p>There is nothing to be gained by keeping on the statue books laws that are known to be
+            inimical to personal health, family happiness and racial development.</p>
     </docBody>
 </doc>

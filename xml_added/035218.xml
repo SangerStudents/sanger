@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Article">
     <mepHeader>
         <prepDate>2011/06/22 CE</prepDate>
-        <prepDate>2011/08/5 RT</prepDate><prepDate>2011/11/16 CH correcting index entry format</prepDate><prepDate>2011-11-21 CH correct typo</prepDate>
+        <prepDate>2011/08/5 RT</prepDate>
+        <prepDate>2011/11/16 CH correcting index entry format</prepDate>
+        <prepDate>2011-11-21 CH correct typo</prepDate>
+        <prepDate>2014/03/12 EK clean regs</prepDate>
+        
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1938-00-00">1938</docDate>
         <docTitle>
@@ -19,7 +23,7 @@
             <name id="CAO">Court of Appeal for Ontario</name>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>For other articles in the <title>Britannica Book of
+    <headNote resp="MSPP"><p>For other articles in the <title type="book">Britannica Book of
                 the Year</title> series, see <xref from="320976.xml"
                     ><title>Birth Control, 1944</title></xref>; <xref
                 from="320980.xml"><title>Birth Control, 1946</title></xref>;
@@ -40,8 +44,7 @@
         <p>For a typewritten draft, see S71:0964</p>
         <index level1="birth control" level2="clinics and leagues"/>
         <index level1="birth control" level2="distribution of information about"/>
-        <index level1="birth control" level2="laws and legislation"
-            level3="Massachusetts"/>
+        <index level1="birth control" level2="laws and legislation" level3="Massachusetts"/>
         <index level1="birth control" level2="legalization of"/>
         <index level1="birth control" level2="legal cases" level3="U.S. v. One Package of Japanese contraceptives"/>
         <index level1="birth control" level2="medical community and"/>
@@ -53,15 +56,14 @@
         <index level1="family planning"/>
         <index level1="Germany" level2="birth control in"/>
         <index level1="Germany" level2="population policies of"/>
+        <index level1="Iceland" level2="birth control in"/>
         <index level1="Japan" level2="birth control in"/>
         <index level1="Japan" level2="population policies of"/>
-        <index
-            level1="National Committee on Federal Legislation for Birth Control"/>
+        <index level1="National Committee on Federal Legislation for Birth Control"/>
+        <index level1="Puerto Rico" level2="birth control in"/>
         <index level1="population" level2="birth control and"/>
-        <index level1="United States" level2="government"
-            level3="birth control and"/>
-        <index level1="United States" level2="government"
-            level3="public health programs"/>
+        <index level1="United States" level2="government" level3="birth control and"/>
+        <index level1="United States" level2="government" level3="public health programs"/>
     </headNote>
     <docBody>
         <div type="section">
@@ -75,11 +77,9 @@
         <div type="section">
             <head type="sub"><place>United States</place>. --</head>
             <p>Birth control under medical direction became legal on Nov. 30,
-                1936, when the <org
-                    reg="United States Circuit Court of Appeals, Second District"
+                1936, when the <org reg="United States Circuit Court of Appeals, Second District"
                     >U.S. Circuit Court of Appeals for the Second District</org>
-                rendered a decision in the <name type="case"
-                    reg="United States vs. One Package of Japanese Contraceptives"
+                rendered a decision in the <name type="case" reg="United States vs. One Package of Japanese Contraceptives"
                     >test case</name> of Dr. <person reg="Stone, Hannah Mayer"
                     >Hannah M. Stone</person>, of the <org>Birth Control
                     Clinical Research Bureau</org>, that the Federal obscenity
@@ -99,17 +99,16 @@
                 control as an integral part of medical practice and education
                 during 1937. This was one of the most important milestones in
                 the movement. A report by a special committee was adopted by the
-                association's <org
-                    reg="American Medical Association, House of Delegates">House
+                association’s <org reg="American Medical Association, House of Delegates">House
                     of Delegates</org>. The association is investigating
                 contraception and will promote the teaching of birth control in
                 medical school. The importance of its attitude and activities is
                 outstanding.</p>
-            <p>The <title>Journal of Conception</title>, the only technical
+            <p>The <title type="journal">Journal of Conception</title>, the only technical
                 publication devoted to the biological and clinical aspects of
                 human fertility and its control, completed its second year under
                 the auspices of the Birth Control Clinical Research Bureau,
-                    <place reg="New York City, NY">New York</place>, and its 200
+                    <place reg="New York, NY">New York</place>, and its 200
                 affiliated clinics. The scope of the Clinical Research Bureau
                 was expanded. It has provided this service to 61,000 mothers,
                 serves as a clearing house of information, and promotes new
@@ -135,8 +134,7 @@
         </div>
         <div type="section">
             <head type="sub"><place>Bermuda</place>. --</head>
-            <p>Upon the invitation of the <org
-                    reg="Bermuda Department of Health">Department of
+            <p>Upon the invitation of the <org reg="Bermuda Department of Health">Department of
                     Health</org>
                 <person reg="Sanger, Margaret">Margaret Sanger</person> visited
                 Bermuda to help establish birth control centres.</p>
@@ -144,7 +142,7 @@
         <div type="section">
             <head type="sub"><place>Canada</place>. --</head>
             <p>The <org reg="Court of Appeal for Ontario">Ontario Court of
-                    Appeals</org> dismissed an appeal from a magistrate's
+                    Appeals</org> dismissed an appeal from a magistrate’s
                 decision in a test case turning on whether an admitted violation
                 of a statute was “<q who="CAO">for the public good</q>,” a
                 victory for birth control.</p>
@@ -176,7 +174,7 @@
         <div type="section">
             <head type="sub">Japan. --</head>
             <p>Impressive progress is being made in Japan under the leadership
-                of <person reg="Kato Shidzue Ishimoto">Baroness
+                of <person reg="Kato, Shidzue Ishimoto">Baroness
                 Ishimoto</person>.</p>
         </div>
         <div type="section">

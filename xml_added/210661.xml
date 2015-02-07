@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Published Article">
     <mepHeader>
         <prepDate>2003/07/15 SR</prepDate>
         <prepDate>2003/07/23 SR</prepDate>
         <prepDate>2004/07/02 CH</prepDate>
+        <prepDate>2014--03-07 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1923-01-00">Jan 1923</docDate>
         <docTitle>
@@ -11,8 +13,8 @@
         </docTitle>
         <idno>msp210661</idno>
         <sourceDesc>
-            <bibl><title>The Birth Control Review</title>, Jan. 1923, 3-4</bibl>
-            <bibl><title>Margaret Sanger Microfilm</title> S70:956</bibl>
+            <bibl><title type="journal">Birth Control Review</title>, Jan. 1923, 3-4</bibl>
+            <bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S70:956</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
@@ -31,43 +33,45 @@
     <docBody>
         <head>Facing the New Year</head>
         <p>No year has been more eventful, more crowded with drama and significance than the twelve
-            months just finished. The <title>first American Birth Control conference</title>; the
-            illegal breaking up of the Town Hall meeting and our subsequent exposure of the powers
-            of darkness; our triumphant completion of the meeting in the Park Theatre; our
-            successful incorporation of the <org>American Birth Control League</org>; the increasing
-            support and championship of Birth Control by the finest contemporary intellects of the
-            world; the organization of State leagues and the awakening of public interest in this
-            profound and immediate problem--such are only a few of the events that should inspire us
-            to new and increased endeavor. The year 1922 also marks the successful circling of the
-            globe by the doctrine of Birth Control. Despite the efforts at suppression by the
-            Imperial Japanese government, <person>Margaret Sanger</person> was warmly greeted in the
-            leading cities of the island empire; and the Birth Control movement has struck roots in
-            the land of the <title>Mikado</title>. We should also mention the dignified conference
-            held in <place reg="London, England"> London</place> last July, and the adhesion to our
-            movement of so distinguished a figure as that brilliant economist <person>John Maynard
-                Keynes</person>. But if we have succeeded in impressing public opinion, in awakening
-            interest, we face at the beginning of 1923 great difficulties.</p>
+            months just finished. The <org>first American Birth Control conference</org>; the
+            illegal breaking up of the <org>Town Hall</org> meeting and our subsequent exposure of
+            the powers of darkness; our triumphant completion of the meeting in the <org>Park
+                Theatre</org>; our successful incorporation of the <org>American Birth Control
+                League</org>; the increasing support and championship of Birth Control by the finest
+            contemporary intellects of the world; the organization of State leagues and the
+            awakening of public interest in this profound and immediate problem--such are only a few
+            of the events that should inspire us to new and increased endeavor. The year 1922 also
+            marks the successful circling of the globe by the doctrine of Birth Control. Despite the
+            efforts at suppression by the Imperial Japanese government, <person
+                reg="Sanger, Margaret">Margaret Sanger</person> was warmly greeted in the leading
+            cities of the island empire; and the Birth Control movement has struck roots in the
+                <place reg="Japan">land of the Mikado</place>. We should also mention the dignified
+            conference held in <place reg="London, England"> London</place> last July, and the
+            adhesion to our movement of so distinguished a figure as that brilliant economist
+                <person reg="Keynes, John Maynard">John Maynard Keynes</person>. But if we have
+            succeeded in impressing public opinion, in awakening interest, we face at the beginning
+            of 1923 great difficulties.</p>
         <p>The year 1922 marked for us the renewed efforts of our arch-enemies to hinder the
             progress of enlightenment. The seat of this opposition is to be found in the <org>Roman
                 Catholic Church</org>. This enemy is ceaselessly active and openly determined to
-            exterminate the Birth Control movement in <place reg="United States of America"
-            >America</place>. The incident of the Town Hall meeting illustrates the extent our
-            opponents may go. The <place reg="Cincinnati, OH"> Cincinnati</place> episode, recounted
-            elsewhere in this issue, shows the attempt of the Roman Catholic Church and such
-            subsidiary bodies as the <org>Knights of Columbus</org>, to use the weapon of boycott to
-            stop the progress of Birth Control. Last month we invited our enemies to come out into
-            the open. The Knights of Columbus threatened the managers of the Hotel Gibson with the
-            cancellation of their annual banquet, if they permitted the use of the Hotel Gibson
-            ballroom for the Birth Control conferences. To the everlasting credit of the managers of
-            the hotel and the <person reg="George Carrel"/> Mayor of Cincinnati, they stood firm.
-            They upheld the law and the Constitution. They refused to be intimidated by this
-            blustering mob, directed by the wily directors of Church politics. The conference was
-            held, the Knights of Columbus banquet was cancelled. Let us not fail to record here our
-            deep gratitude and appreciation for this noble support of the sacred American traditions
-            of free speech and free thought. Cincinnati is to be congratulated for the fine courage
-            and steadfastness of her mayor, her citizens, and the management of the Hotel Gibson, in
-            resisting the threats of the Catholic machine. Our movement is an educational one in
-            more ways than one.</p>
+            exterminate the Birth Control movement in <place reg="United States">America</place>.
+            The incident of the Town Hall meeting illustrates the extent our opponents may go. The
+                <place reg="Cincinnati, OH"> Cincinnati</place> episode, recounted elsewhere in this
+            issue, shows the attempt of the <org>Roman Catholic Church</org> and such subsidiary bodies as the
+                <org>Knights of Columbus</org>, to use the weapon of boycott to stop the progress of
+            Birth Control. Last month we invited our enemies to come out into the open. The Knights
+            of Columbus threatened the managers of the <org>Hotel Gibson</org> with the cancellation
+            of their annual banquet, if they permitted the use of the Hotel Gibson ballroom for the
+            Birth Control conferences. To the everlasting credit of the managers of the hotel and
+            the <person reg="Carrel, George">Mayor of Cincinnati</person>, they stood firm. They upheld the
+            law and the Constitution. They refused to be intimidated by this blustering mob,
+            directed by the wily directors of Church politics. The conference was held, the <org>Knights
+            of Columbus</org> banquet was cancelled. Let us not fail to record here our deep gratitude and
+            appreciation for this noble support of the sacred American traditions of free speech and
+            free thought. Cincinnati is to be congratulated for the fine courage and steadfastness
+            of her mayor, her citizens, and the management of the Hotel Gibson, in resisting the
+            threats of the Catholic machine. Our movement is an educational one in more ways than
+            one.</p>
         <p>Our handicaps are great. They seem greater than ever before. We have the equipment for
             the greatest single movement on the earth--almost. No one can deny that we have the
             vision, the fighting energy, an ever-growing knowledge of the cause from its scientific

@@ -1,96 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc PUBLIC "Public Speeches and Articles of Margaret Sanger" "http://www.nyu.edu/projects/sanger/webedition/xml_added/meptei3xMSP.dtd">
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
 <doc type="Typed Article">
     <mepHeader>
         <prepDate>2011-07-29 NC</prepDate>
+        <prepDate>2014-04-01 CH clean regs</prepDate>
         <docAuthor>Margaret Sanger</docAuthor>
         <docDate value="1951-09-18">18 Sept 1951</docDate>
         <docTitle>
             <titlePart><supplied resp="MSPP">Historical Interview with Cardinal
-                    Tisserant</supplied></titlePart>
+                Tisserant</supplied></titlePart>
         </docTitle>
         <idno>msp236643</idno>
         <sourceDesc>
             <bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
-            <bibl><title>MSM</title> S77:0066</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S77:0066</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
             <name/>
         </respStmt>
     </mepHeader>
-    <headNote resp="MSPP"><p>For a draft version see S77:0055. No published
-    version was found.</p>
+    <headNote resp="MSPP"><p>For a draft version see <title>Margaret Sanger Microfilm</title>
+            S77:0055. No published version was found.</p>
         <index level1="Catholic Church" level2="birth control and"/>
-        <index level1="Catholic Church" level2="MS on"/> 
+        <index level1="Catholic Church" level2="MS on"/>
         <index level1="Tisserant, Eugene"/>
-        <index level1="Italy" level2="population policies of"/> 
+        <index level1="Italy" level2="population policies of"/>
         <index level1="Japan" level2="overpopulation and"/>
         <index level1="birth control" level2="opposition to"/>
         <index level1="Blanchard, Paul"/>
-        <index level1="birth control" level2="methods" level3="safe period"/>        
+        <index level1="birth control" level2="methods" level3="safe period"/>
     </headNote>
     <docBody>
         <head>HISTORICAL INTERVIEW</head>
         <dateline><date value="1951-09-18">Sept. 18, 1951</date></dateline>
-        <p>At 3:30 today, Sept. 18th. I arrived promptly at the
-                address--<org>St. Phillip's Church</org>----to meet again the
-            now Cardinal <person reg="Tisserant, Eugene">Tisserant</person>.
-                <person reg="Macdonald, Angus">Angus Macdonald</person> has been
-            anxious for several years to have us meet to discuss the possibility
-            of getting the <org>Vatican</org> to a better understand of the harm
-            done to the world by the Roman Catholic opposition to Birth Control.
-            I had met Mnsr. Tisserant some years ago before he was a
-            Cardinal----As he is French--a rather handsome head and face with
-            hair and beard turning grey. His red cap and belt, rather impressive
-            with the surroundings of priests in black robes, ushering, quietly
-            and softly, into the presence of the Cardinal.</p>
-        <p>We talked of Angus and his business problems. Then I launched into
-            the population of <place>Italy</place>. He talked on and on for at
-            least the first thirty or forty minutes with scarcely a stop for a
-            question. I let him talk as no one could stop him. Italy was not
-            overpopulated except in spots--plenty of land if people would only
-            move out in it. <place>India</place> not overpopulated if they would
-            not allow the cows, the scared cow to eat their produce. Lots of
-            space in India for the population--get rid of the cows. <place
-                reg="United States">America</place> thru the Colorado River
-            project will soon be able to send water to all the land and supply
-            food for another 75,000,000 people (million if you please). He
-            rambled over the world. <place>Spain</place>--<place>South
-                America</place>, <place>Africa</place>, then
-                <place>Japan</place>. I looked surprised at all this and
-            repeated-Japan? Yes, he said, that's the only country thats
-            overpopulated. <person reg="Blanchard, Paul">Paul
-            Blanchard</person>'s book is all wrong, he said. Catholics do not
-            insist that people have large families, but pleasure without pain
-            can not be countenanced by the church----! ! No chance to check on
-            that one. He skipped over that fact. I do not believe he believes
-            that tale either.</p>
-        <p>When I got a chance to inject an idea, I remarked that it only needed
-            one pleasure in a whole year to give a couple a baby every year. Oh
-            no, said he, some women have a difficult time to get pregnant! ! We
-            were going on a merry--go--round. His replies were so stereotyped
-            and false--it became laughable to take him sincerely. Then he was
-            concerned that the negro population of U.S.A. was increasing faster
-            than the white race. My fault for Birth Control work among the
-            intelligent, while the less intelligent were increasing. I said,
-            “No,” not my fault. Your church is the cause of a birth rate. By
-            denying the right of people to get Birth Control. <place
-                reg="South Carolina"><place reg="North Carolina"
-                    >Carolina</place></place> has no Catholics,
-                <place>Connecticut</place> has few Catholics. But I retorted,
-            it's the political Catholics everywhere who block our progress--long
-            time in that safe period--injuries to women--Catholic women at
-            Clinic are not Catholic. Mexicans had Catholic.</p>
-        <p>I hope to jot down as memory comes back the various things talked
-            about. We left each other in a friendly spirit. Russian new
-            experiment--breeding mules with pigmies, questionable if I got that
-            correct. His English began to wane. An hour had passed--I hope I got
-            under his skin on the safe period. When I said a cow, a mare would
-            kick male to hell if he came near her when she was not ready. The
-            safe period is for the man--not for the women. He was interested in
-            this: rather</p>
-
-
+        <p>At 3:30 today, Sept. 18th. I arrived promptly at the address--<org>St. Phillip’s
+                Church</org>----to meet again the now Cardinal <person reg="Tisserant, Eugene"
+                >Tisserant</person>. <person reg="Macdonald, Angus">Angus Macdonald</person> has
+            been anxious for several years to have us meet to discuss the possibility of getting the
+                <org>Vatican</org> to a better understand of the harm done to the world by the Roman
+            Catholic opposition to Birth Control. I had met Mnsr. Tisserant some years ago before he
+            was a Cardinal----As he is French--a rather handsome head and face with hair and beard
+            turning grey. His red cap and belt, rather impressive with the surroundings of priests
+            in black robes, ushering, quietly and softly, into the presence of the Cardinal.</p>
+        <p>We talked of Angus and his business problems. Then I launched into the population of
+                <place>Italy</place>. He talked on and on for at least the first thirty or forty
+            minutes with scarcely a stop for a question. I let him talk as no one could stop him.
+            Italy was not overpopulated except in spots--plenty of land if people would only move
+            out in it. <place>India</place> not overpopulated if they would not allow the cows, the
+            scared cow to eat their produce. Lots of space in India for the population--get rid of
+            the cows. <place reg="United States">America</place> thru the Colorado River project
+            will soon be able to send water to all the land and supply food for another 75,000,000
+            people (million if you please). He rambled over the world.
+                <place>Spain</place>--<place>South America</place>, <place>Africa</place>, then
+                <place>Japan</place>. I looked surprised at all this and repeated-Japan? Yes, he
+            said, that’s the only country thats overpopulated. <person reg="Blanchard, Paul">Paul
+                Blanchard</person>’s book is all wrong, he said. Catholics do not insist that people
+            have large families, but pleasure without pain can not be countenanced by the
+            church----! ! No chance to check on that one. He skipped over that fact. I do not
+            believe he believes that tale either.</p>
+        <p>When I got a chance to inject an idea, I remarked that it only needed one pleasure in a
+            whole year to give a couple a baby every year. Oh no, said he, some women have a
+            difficult time to get pregnant! ! We were going on a merry--go--round. His replies were
+            so stereotyped and false--it became laughable to take him sincerely. Then he was
+            concerned that the negro population of U.S.A. was increasing faster than the white race.
+            My fault for Birth Control work among the intelligent, while the less intelligent were
+            increasing. I said, “No,” not my fault. Your church is the cause of a birth rate. By
+            denying the right of people to get Birth Control. <place reg="South Carolina"><place
+                    reg="North Carolina">Carolina</place></place> has no Catholics,
+                <place>Connecticut</place> has few Catholics. But I retorted, it’s the political
+            Catholics everywhere who block our progress--long time in that safe period--injuries to
+            women--Catholic women at Clinic are not Catholic. Mexicans had Catholic.</p>
+        <p>I hope to jot down as memory comes back the various things talked about. We left each
+            other in a friendly spirit. Russian new experiment--breeding mules with pigmies,
+            questionable if I got that correct. His English began to wane. An hour had passed--I
+            hope I got under his skin on the safe period. When I said a cow, a mare would kick male
+            to hell if he came near her when she was not ready. The safe period is for the man--not
+            for the women. He was interested in this: rather</p>
     </docBody>
 </doc>

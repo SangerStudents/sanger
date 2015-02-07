@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+    <mepHeader>
+        <prepDate>2014-05-07 JK initial tag</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1941-04-13">13 Jul 1941</docDate>
+        <docTitle>
+            <titlePart>
+                <supplied resp="Interview with the Corning Leader"/>
+            </titlePart>
+        </docTitle>
+        <idno>msp421946</idno>
+        <sourceDesc>
+            <bibl><title type="article">'Goal is in Sight' Says Mrs. Sanger, Birth Control Advocate,
+                    Corning Native</title>, <title type="journal">Corning Leader</title>, Jul. 13,
+                1941.</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="CL">Corning Leader</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="birth control" level2="distribution of information about"/><index
+            level1="birth control" level2="class-based"/><index level1="birth control"
+            level2="access to"/>
+        <index level1="birth control" level2="American opinion on"/>
+    </headNote>
+    <docBody>
+        <head>Goal is in Sight' Says <person reg="Sanger, Margaret">Mrs. Sanger</person>, Birth
+            Control Advocate, <place reg="Corning, NY">Corning</place> Native</head>
+
+        <p>“Our sweat, blood and tears have not been in vain,” <q who="CL">declared Margaret Sanger
+                after 27 years of single-hearted devotion to the cause of birth control.</q> “The
+            goal is in sight.”</p>
+        <p>
+            <q who="CL">This goal, Mrs. Sanger explained, was to make it possible for the </q>“very
+            poorest, migratory slum mother to have easily accessible, the best information about
+            birth control. Already three states, <place>North Carolina</place>, <place>South
+                Carolina</place>, and <place>Alabama</place>, have included the dissemination of
+            birth control knowledge in their public health service.” </p>
+    </docBody>
+</doc>

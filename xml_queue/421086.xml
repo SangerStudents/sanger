@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="(Published article) ">
+    <mepHeader>
+        <prepDate>2014/04/04 VS initial tagging</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="(1936-01-17) ">17 Jan, 1936</docDate>
+        <docTitle>
+            <titlePart>Sanger's Speech in Central College Bengalore</titlePart>
+        </docTitle>
+        <idno>msp421086</idno>
+        <sourceDesc>
+            <bibl><title>The Hindu</title></bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="HINDU">The Hindu</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">Sanger gave a speech on "Birth Control to the South Indian Science
+        Association at the Central College in Bangalore, India. Sastra Vaidya Pravine, and S. Subba
+        Rao presided. A summary was published as "Birth Control," The Hindu, Jan. 18, 1936. <index
+            level1="birth control" level2="international"/>
+        <index level1="India" level2="birth control in"/>
+    </headNote>
+    <docBody>
+        <head>Birth Control</head>
+        <byline>Mrs. <person reg="Sanger, Margaret">Sanger</person>'s Address at <place
+                reg="Bangalore, India">Bangalore</place></byline>
+        <dateline>Jan. 16 <date value="1936-01-16 "/>Bangalore<place/></dateline>
+        <p> “To you in <place>India</place> who have given to the world marvelous temples that have
+            been built by your great men in the past and handed on to use (westerners) to admire-
+            and we do admire them- the time is now come to make another kind of temple, the ‘human
+            temple’ and the ‘human body.’ Let us begin to make our bodies fit and perfect
+            instruments to house that soul that we may summon to take its place in the mystery of
+            human beings.”</p>
+        <p><supplied resp="MSPP"> [Parts of this article that were not related to Margaret Sanger
+                were omitted]</supplied></p>
+        <q who="HINDU"><p> Mrs. Margaret Sanger said that birth control was the key-not of a new
+                moral and spiritual awakening. It was not only a health or economic expedient. It
+                was a moral and social principle. That principle was interlocked with the spiritual
+                advancement of nations and with the race as well. </p></q>
+        <q who="HINDU"><p> Many British Bishops and clergymen, Mrs. Sanger said, had been pleading
+                for some time past that the members of the Christian faith should come forth and
+                lead the movement so that it might be a constructive force in civilization and not
+                to close their eyes and ears to its human appeal. </p></q>
+    </docBody>
+</doc>

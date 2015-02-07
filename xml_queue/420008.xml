@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2001-11-13 MH</prepDate>
+        <prepDate>2002-08-29 KH</prepDate>
+        <prepDate>2004/07/07 CH</prepDate>
+        <prepDate>2007-05-31 CH Oxygen update</prepDate>
+        <prepDate>2014-03-05 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1914-05-00">May 1914</docDate>
+        <docTitle>
+            <titlePart>The Ban</titlePart>
+        </docTitle>
+        <idno>msp420008</idno>
+        <sourceDesc>
+            <bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 3, May 1914, 24</bibl>
+            <bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title> C16:0538</bibl>
+        </sourceDesc>
+    </mepHeader>
+    <headNote>
+      <index level1="birth control laws and legislation" level2="Comstock Laws"
+      <index level1="Woman Rebel, The"/>
+      <index level1="censorship"/>
+    </headNote>
+    <docBody>
+        <head>THE BAN</head>
+        <p><title type="journal">The Woman Rebel</title> is not going to be suppressed by the <org
+                reg="United States Post Office">Post Office</org> until it has accomplished the work
+            which it has undertaken.</p>
+        <p>Unthinkingly many comrades have fallen into Postmaster <person reg="Morgan, Edward M."
+                >Morgan</person>'s trap, laid for the downfall of the <title type="journal">Woman
+                Rebel</title>, and have refused to subscribe, thinking the paper will be suppressed
+            again and they will not receive their copy.</p>
+        <p>It is true, friends--this may happen many times. As no one has yet ever decided what
+            "obscenity" is, one is always liable to prosecution under this clause. I make no promise
+            of being good nor framing my language so scientifically technical that only those with
+            medical training can understand it. But I do promise I shall live up to the aim as
+            expressed in the first issue. The subscriber who is willing to back up this fight and
+            take a chance shall get the paper--SOMEWAY.</p>
+        <p>Those who will not subscribe because of the above-mentioned reason, to all purposes
+            unknowingly and unintentionally have lined up with the Post Office officials who are
+            trying to suppress the paper, for it is only by financial and moral support that the
+                <title type="journal">Woman Rebel</title> can exist.</p>
+        <p>The Post Office cannot suppress this paper. Only you can do this!</p>
+    </docBody>
+</doc>

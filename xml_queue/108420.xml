@@ -1,0 +1,68 @@
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    <persName role="auth">EDWARD M. MORGAN</persName> and <persName role="auth"
+                        >THOMAS F. MURPHY</persName> TO <persNaME ROLE="recip">Margaret
+                        Sanger</persNaME>
+                    <date when="1914-04-02">April 2, 1914</date>
+                </title>
+            </titleStmt>
+            <publicationStmt>
+                <idno>doc.MSDA.108420</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="collection"><title>Margaret Sanger Papers, , Library of
+                    Congress</title>MSP DLC</bibl>
+                <bibl>
+                    <title>LCM 11:198</title>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <p>Preliminary encoding of a sample document in 1914 collection, prepared for TAPAS
+                testing.</p>
+            <p>Will develop a taxonomy file to track subjects.</p>
+        </encodingDesc>
+    </teiHeader>
+    <text type="A">
+        <front>
+            <note resp="MSPP">
+                <p>Under <term type="legal"> 480 of the Postal Laws and Regulations"></term>
+                    regarding obscene materials, local postmasters were required to contact the
+                        <persName rend="Lamar, William"><supplied>William Lamar</supplied>
+                    </persName>Assistant Attorney General for the <org>Post Office Department</org>
+                    for a determination on whether specific matter deposited in the mail was obscene
+                    under <term type="legal">Section 211 of the U.S. Criminal Code</term>, and
+                    therefore unmailable. The Assistant Attorney General could suppress either
+                    individual issues of a publication, as in the case of <title type="journal">The
+                        Woman Rebel</title>, or he could suppress an entire publication.</p>
+            </note>
+        </front>
+        <body>
+            <dateline>
+                <date>April 2, 1914</date>
+                <placeName>
+                    <settlement>New York, New York</settlement>
+                </placeName>
+            </dateline>
+            <salute>Dear Madam:</salute>
+            <p>In accordance with advice from the <persName rend="Lamar, William"><supplied>William
+                        Lamar</supplied>
+                </persName> Assistant Attorney General for the <org>Post Office Department</org>,
+                you are informed that the publication entitled <title type="journal">“The Woman
+                    Rebel”</title>, for <date>March 1914</date>, is unmailable under the provisions
+                of <law>Section 211 of the Criminal Code</law> as amended by the <law>Act of
+                        <date>March 4, 1911</date></law>.</p>
+            <p>Copies of the <date>March 1914</date> issue found in the mail are held at
+                    <place>Washington Bridge Station</place> of the New York Post Office where they
+                may be obtained by calling for the same and exhibiting this letter.</p>
+            <closer>Very respectfully, <p><persName rend="Morgan, Edward">E. M.
+                    Morgan</persName>(stamped)</p>
+                <p>Per <persName rend="Murphy, Thomas F."/>Th. F. Murphy, (singed)</p>
+                <p>Assistant Postmaster</p></closer>
+        </body>
+    </text>
+</TEI>

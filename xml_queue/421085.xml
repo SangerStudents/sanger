@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="(Published article) ">
+    <mepHeader>
+        <prepDate>2014/04/09 VS initial tagging</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="(1936-01-14) ">14 January, 1936</docDate>
+        <docTitle>
+            <titlePart>Summary and quotes published as "Calicut Speech," in The Hindu, Jan. 18,
+                1936</titlePart>
+        </docTitle>
+        <idno>msp421085</idno>
+        <sourceDesc>
+            <bibl><title>The Hindu</title></bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="HINDU">The Hindu</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">Sanger spoke at a public meeting in Paran Square, Calicut, India on Jan.
+        14, 1936; a summary was published in <title type="journal">The Hindu</title>. <index
+            level1="India" level2="birth control in"/>
+        <index level1="India" level2="overpopulation and"/>
+        <index level1="Sanger, Margaret" level2="seaking tours" level3="1935-1936 (India)"/>
+    </headNote>
+    <docBody>
+        <head>Address at Calicut</head>
+        <byline>(From our Correspondent)</byline>
+        <dateline>Jan. 15<date value="1936-01-15"/> Calicut<place/></dateline>
+        <div>
+            <q who="HINDU"><p> The need for adopting birth-control methods in the interests of
+                    humanity at large was stressed by Mrs. <person reg="Sanger, Margaret">Margaret
+                        Sanger</person>, addressing a well-attended public meeting held at the
+                        <place>Paran Square</place>, last evening, under the presidentship of Dr.
+                        <person reg="Mugaseth, Kobad Dhunjibhai">Mugaseth</person>. </p></q>
+            <q who="HINDU"><p> The President extended a hearty welcome to Mrs. Sanger on behalf of
+                    the citizens of Calicut and said that Mrs. Sanger was doing propaganda for the
+                    last so many years on the need for adopting birth-control methods. They were
+                    glad to have her among them that day and hear her views on the subject. </p></q>
+            <q who="HINDU"><p> Mrs. Sanger, in the course of her speech, said that the main reason
+                    for the controversy about the subject was due to the fact that most of those who
+                    were opposed to it had misunderstood it. After working for a number of years
+                    among the people in a slum district of <place reg="New York, NY">New
+                        York</place>, she came to the conclusion that in the interests of their
+                    womanhood and country, It was necessary to adopt birth-control methods. She
+                    firmly believed that if people knew the sufferings of the women at the time of
+                    child birth, they would do everything possible to help them to gain the
+                    knowledge of birth-control and make them healthy women. Though the work was in
+                    progress for the last 21 years, no law had been changed and there was the same
+                    opposition, intolerance, or bigotry, in all countries, denying the women the
+                    chance of gaining knowledge which would free them from sickness, poverty, etc.
+                    Birth-control meant conscious control of the birth-rate by preventing
+                    conception. After explaining the harm that was being done to the country and
+                    families by frequent births, she dealt at length on the methods fo rechecking
+                    frequent pregnancy. </p></q>
+        </div>
+
+
+
+        <div>
+            <p><supplied resp="MSPP"> The following clipping reports from the same event, but an
+                    unknown newspaper.</supplied></p>
+        </div>
+        <div>
+            <head type="sub"> Mrs. M. Sanger on Birth Control </head>
+            <p> (From our own Correspondent)</p>
+            <p>
+                <place reg="Calicut, India">Calicut</place>, Jan. 15. </p>
+            <q who="HINDU"><p> Mrs. Margaret Sanger, of the <org
+                        reg="Birth Control Clinical Research Bureau">International Information
+                        Centre on Birth Control</org>, addressed a large gathering, yesterday
+                    evening, on birth control, at the Paran Square. Dr. Kh. D. Mugaseth presided.
+                </p></q>
+            <q who="HINDU"><p> Dr. Mugaseth, introduced the speaker. </p></q>
+            <p>
+                <q who="HINDU">Mrs. Sanger referred to the condemnation of the birth control
+                    propaganda and said that <person reg="Stevenson, Robert Louis">Robert Louis
+                        Stevenson</person> had said</q> “Condemnation is misunderstanding.” <q
+                    who="HINDU">It was not fit to condemn a thing before its various aspects had
+                    been studied.</q>
+            </p>
+            <q who="HINDU"><p> Proceeding Mrs. Sanger said that what birth control meant was the
+                    control of birth rate and the number of births could be lowered either by
+                    prevention of birth, or control over birth rate by conscious individual control.
+                    In the process of preventing birth they were not in any way taking away life. In
+                    preventing birth there was no interference with life and for that they had to be
+                    single or unmarried in life. </p></q>
+            <q who="HINDU"><p> In controlling birth they had to use their intelligence to suit their
+                    needs. To be conscious of their acts and responsibilities necessarily involved
+                    that they should be free from the animal kingdom, which was impossible in the
+                    majority of cases. </p></q>
+            <q who="HINDU"><p> She emphasized the need for bringing the population under control.
+                    She could not imagine what the population of <place>India</place> would be after
+                    hundred years if allowed to go on unchecked. <place>Italy</place> had a large
+                    population within the last few decades and 25 per cent of their surplus
+                    population within the last few decades and 25 per cent of her surplus population
+                    had to emigrate to <place reg="United States">America</place>. </p></q>
+            <q who="HINDU"><p> She knew that in India the marriage-able age had been raised but that
+                    was not enough. Men and women should be allowed to marry only after they had
+                    reached adolescence, that is, at the age of 23. </p></q>
+        </div>
+    </docBody>
+</doc>

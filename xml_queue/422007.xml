@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="(Published Statement)">
+    <mepHeader>
+        <prepDate>2014/07/01 CH proof tags</prepDate>
+        <prepDate>2014-08-15 CH proof and enter</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docAuthor>Ligaya Fruto</docAuthor>
+        <docDate value="(1955-09-22)"><supplied resp="MSPP">22 Sept 1955</supplied></docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Interview at the Pacific Club</supplied></titlePart>
+        </docTitle>
+        <idno>msp422007</idno>
+        <sourceDesc>
+            <bibl><title type="article">Planned Parenthood Held Answer to War Danger</title>, <title
+                    type="journal">Honolulu Star-Bulletin</title>, Sept. 24, 1955</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="HSB">Honolulu Star-Bulletin</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><index level1="birth control" level2="and war"/>
+        <index level1="conferences" level2="International Conference on Planned Parenthood"
+            level3="1955 (5th)"/>
+        <index level1="Italy" level2="overpopulation and"/>
+        <index level1="Japan" level2="overpopulation and"/>
+        <index level1="Catholic Church" level2="birth control and"/>
+        <index level1="India" level2="birth control movement in"/>
+        <index level1="midwives" level2="birth control and"/>
+        <index level1="Japan" level2="birth control in"/>
+    </headNote>
+    <docBody>
+        <head>Planned Parenthood Held Answer to War Danger</head>
+        <byline>By <person reg="Fruto, Ligaya">LIGAYA FRUTO</person></byline>
+        <q who="HSB"><p>Birth control is the answer to war, according to <person
+                    reg="Sanger, Margaret">Mrs. Margaret Sanger,</person> the world's foremost
+                exponent of <org reg="Planned Parenthood Federation of America">planned
+                    parenthood.</org></p>
+            <p>Mrs. Sanger was in <place reg="Honolulu, HI">Honolulu</place> Thursday on the <name
+                    reg="S.S. President Cleveland" type="ship">President Cleveland.</name></p>
+            <p>She is on her way to <place>Japan</place> for the <org
+                    reg="International Conference on Planned Parenthood and Overpopulation, Fifth"
+                    >Fifth International Conference on Planned Parenthood and
+                Overpopulation.</org></p></q>
+        <p>"We've seen the three countries which are overpopulated-<place>Italy,</place>
+            <place>Germany,</place> and Japan," <q who="HSB">Mrs. Sanger said at an interview at the
+                    <org>Pacific Club</org>, where a luncheon was given for her by the <org>Watumull
+                    Foundation.</org></q></p>
+        <p>"They had to branch out to other countries and finally move on to war.</p>
+        <p>"With the terrible lesson of war fresh in their minds, the peoples of these countries are
+            now looking for something like birth control so they will not be urged into another
+            war."</p>
+        <q who="HSB"><p>MRS. SANGER said that 22 countries from the East and the West will be
+                represented in the planned parenthood conference in Japan.</p></q>
+        <p>"They are all interested in knowing what to do," she stated.</p>
+        <q who="HSB"><p>Even Catholic countries like Italy are now receptive to the idea of birth
+                control, according to Mrs. Sanger.</p></q>
+        <p>"In all the time that I have worked for birth control," she went on, "the greatest
+            opposition that I have met has come from the American Catholic groups in <place
+                reg="New York, NY">New York.</place></p>
+        <p>"Even in Italy, there is now a group of brilliant scientists and professional people that
+            is working to do away with the <person reg="Mussolini, Benito">Mussolini</person>
+            laws.</p>
+        <p>"They never had a law against birth control until Mussolini made one, and you know what
+            Mussolini was."</p>
+        <q who="HSB"><p>Mrs. Sanger emphatically asserted that she had never met with any hostility
+                in her work to propagate birth control.</p>
+            <p>She said that birth control had been practiced "way back in old-<place>Egypt</place>"
+                and in <place>France</place> during the days of <person reg="Bonaparte, Napoleon"
+                    >Napoleon.</person></p>
+            <p>SHE EXPRESSED gratification at the success of the birth control program in
+                    <place>India,</place> although it has been introduced in that country only in
+                the last few years.</p></q>
+        <p>"In India, we are doing it with moving pictures," she said. "In the slums, we are doing
+            what we can do with children, showing the disadvantages when the parents cannot support
+            their children, and the difficulties to the family when children come too fast."</p>
+        <q who="HSB"><p>The Japanese are not going to build birth control clinics, she said, but
+                utilize their midwives to teach birth control to the people.</p></q>
+        <p>"In Japan, they have so many midwives and not enough doctors," she explained.</p>
+        <p>"It will be the first country to use midwives to go into homes and teach the
+            mothers."</p>
+
+
+    </docBody>
+</doc>

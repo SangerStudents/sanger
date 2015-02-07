@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+    <mepHeader>
+        <prepDate>2014-08-13 CH proof tags</prepDate>
+        <docAuthor><person>Frances Wayne</person></docAuthor>
+        <docDate value="1916-05-27">27 May 1916</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Interview with the Denver Post</supplied></titlePart>
+        </docTitle>
+        <idno>msp422040</idno>
+        <sourceDesc>
+            <bibl><title type="article">Woman Rebel Scores Roosevelt as Enslaver of Mothers in USA</title>, <title type="journal">Denver Post</title>, May 27, 1916.</bibl>
+            
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="DP">Denver Post</name>
+            <name id="UNK">Unknown</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger was interviewed at the Shirley Hotel before her lecture on "Birth Control" at the Marble Hall.</p><index level1="Woman Rebel, The"/>
+        <index level1="eugenics"/>
+        <index level1="Goldman, Emma"/>
+        <index level1="obscenity"/>
+        <index level1="overpopulation"/>
+        <index level1="poverty" level2="family size and"/></headNote>
+    <docBody>
+        <head>WOMAN REBEL SCORES ROOSEVELT AS ENSLAVER OF MOTHERS IN U.S.</head>
+        <byline>(By <person reg="Wayne, Frances">FRANCES WAYNE.</person>)</byline>
+        <p>"<person reg="Roosevelt, Theodore">Colonel Roosevelt,</person> whose specialty is Americanism, has done more to enslave the women of <place reg="United States">America</place> and to cheat the children of America than any other man or organization in the country has done."</p>
+        <p><q who="DP">This opinion of the leader of the <org reg="Progressive Party">Progressive party</org> was expressed by <person reg="Sanger, Margaret">Margaret Sanger,</person> who has come to <place reg="Denver, CO">Denver</place> on her tour of the cities of the country to deliver a lecture on <title type="article">"Birth Control"</title> at <org>Marble hall</org> tomorrow evening.</p>
+        <p>The "woman rebel," as Mrs. Sanger is called and known, sat in a high-backed chair in her room at the <org>Shirley hotel</org> this morning, looking like a picture of a demure, ultra-feminine gentlewoman more interested in darning socks than defying the government.</p>
+        <p>Mrs. Sanger is slight, with a face of peculiar brightness, due perhaps to the whiteness of her complexion, the sparkles of dark brown eyes and the shadowy quality of her black hair.</p>
+        <p>When she left the usual path in which the women of her class are ordained to walk by custom and tradition, Margaret Sanger chose the work of a nurse-a nurse to the pitiful women of the slums of <place reg="New York, NY">New York</place> who year by year add one more to the city's mass of hopeless human beings who are heirs of poverty.</p>
+            <div type="section"><head type="sub">PREACHES BOLD DOCTRINE AND DEFIES AUTHORITIES</head>
+            <p>The helplessness of these women drove the iron of courage into Margaret Sanger's soul and sent her forth to preach the bold doctrine that women who have nothing to give these children must cease having them.</p>
+            <p>To reach the public, Mrs. Sanger started a paper and named it the <title type="journal">Woman Rebel.</title> Deliberately she published statements which the Comstockian authorities held were a defiance of the federal law pertaining to obscenity.</p>
+            <p>Returning from a trip to <place>England,</place> Margaret Sanger was arrested by federal officers and brought to trial.</p></q>
+            <p>"My trial brought the over-burdened women of America clamoring about the court and the judge ordered an acquittal.</p>
+            <p>"It is such a foolish law and such foolish people as Roosevelt that are responsible for the overcrowding of our home for mental defectives; that insure tenants for our insane asylums, prisons and alms' houses, because, when a man of Colonel Roosevelt's personality and influence begins to talk, people, especially women, listen."</p>
+            <q who="DP"><p>Being opposed to the methods whereby Roosevelt encourages large families, willy-nilly, Margaret Sanger is also opposed to the methods resorted to by <person reg="Goldman, Emma">Emma Goldman</person> in her birth control propaganda.</p></q>
+            <p>"The subject about which I speak is a sacred one and to have effective results must be treated scientifically and with dignity, delicacy, and tact.</p>
+            <p>"If I can't raise the subject of 'better babies or no babies' out of the muck I will take my bag and go back to nursing.</p>
+            <p>"Education is, of course, the thing we are after. The large amount of talk on eugenics that we have heard doesn't reach far enough: it doesn't get to the poor at all and leaves the better classes merely cynical.</p>
+            <p>"You know," she said with a smile, "I preach that the child who comes to the home of the rich an unwanted being is as bad off as the child who comes to the overcrowded hovels of the thoughtless poor.</p>
+            <p>"What we need in this country are babies that are wanted and for whom there is not only a present but a future.</p>
+            <p>"We do not overlook the fact that many children of poor parents have grown out of their poverty and escaped its blight to become useful citizens. But they have had something to start with: health, fresh air, good blood. They haven't been huddled in tenements and fed on husks. They have been born where there is room to play."</p>
+        <p><q who="DP">In her speaking itinerary, Mrs. Sanger has had varying degrees of success. In <place>Akron, Ohio,</place> the police said,</q> <q who="UNK">"nothing doing."</q> In <place reg="St. Louis, MO">St. Louis,</place> a meeting at the fashionable <org>City club</org> was crowded to the doors, and in <place reg="Indianapolis, IN">Indianapolis</place> she shared honors with <person reg="Osborn, Thomas Mott">Thomas Mott Osborn</person> in the largest meeting in the <org reg="National Conference of Charities and Correction">convention of National Charities and Corrections.</</p></div>
+    </docBody>
+</doc>

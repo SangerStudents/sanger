@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed draft review">
+    <mepHeader>
+        <prepDate>2003/07/08 KSM</prepDate>
+        <prepDate>2004/04/22 CH correcting after research</prepDate>
+        <prepDate>2004/07/27 CH</prepDate>
+        <prepDate>2014-03-10 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1920-00-00">
+            <supplied resp="MSPP">1920</supplied>
+        </docDate>
+        <docTitle>
+            <titlePart><title>Problems of Population and Parenthood: A Review by Margaret
+                    Sanger</title></titlePart>
+        </docTitle>
+        <idno>msp101904</idno>
+        <sourceDesc>
+            <bibl> Margaret Sanger Papers, Library of Congress</bibl>
+            <bibl>LCM 128:0637</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="UNK">Unknown</name>
+            <name type="ID-STOMA" id="STOMA">Marie Stopes</name>
+            <name id="BNBC">British National Birth-rate Commission</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>Corrections made by hand by <person reg="Sanger, Margaret">Margaret Sanger</person>.
+            Sanger may have submitted this review to the <title>New York Tribune</title>; Published
+            version not found. For an earlier draft of the review see LCM 128:634.</p>
+        <index level1="birth control" level2="opposition to"/>
+        <index level1="Cox, Harold"/>
+        <index level1="England" level2="fertility rates"/>
+        <index level1="fertility rates" level2="in England"/>
+        <index level1="population" level2="birth control and"/>
+        <index level1="population" level2="British Empire and"/>
+        <index level1="population control" level2="government policies" level3="in England"/>
+        <index level1="Stopes, Marie C."/>
+    </headNote>
+    <docBody>
+        <head>Problems of Population and Parenthood: A Review by Margaret Sanger</head>
+        <p>The "<title type="book">Problems of Population and Parenthood</title>" is the second
+            report of the <org rend="underline">British National Birth-rate Commission</org>,
+            1918-1920. It is an exhaustive tome consisting of many hundreds of pages and is divided
+            into two parts: the evidence taken for and against the control of Parenthood; and the
+            findings of the Commission. To the cursory reader this is a splendid-looking effort
+            toward a (solution) or one of the fundamental problems of the human race. Upon closer
+            examination, however, we find two interesting facts that rather take away some of the
+            value. In the first place, this Commission is <emph rend="underline"
+                >self-appointed.</emph> One would imagine that <del>if</del>this Commission had
+                <del>not</del> been appointed by the <org reg="United Kingdom Government">British
+                Government</org>, <del>
+                <unclear>at least it</unclear>
+            </del>and operated and functioned under <del>some indirect</del><add>direct</add>
+            sanction of official interest. <del>But such is not the case.</del> The people involved
+            gathered together under this <del>distinctly Anglo-Saxon</del>title on their own
+            initiative. Even if <del>there</del>
+            <add>this</add> were so, we might not object were it not for the second weakness: among
+            the forty-<del>one</del> members of the Commission ten are clergymen; eight are medical
+            men; <del>only</del> two <del>are</del> biologists; <del>thirteen</del>
+            <del>and</del>twelve are women <add>whose interests are social-reform work;</add>the
+            balance being laymen of varying import. Naturally the findings of such a self-appointed
+            group <del>of enthusiasts</del>must be retrograde and reactionary. It is a curious
+            example of the credibility of mankind that it accepts the opinions of unscientific minds
+            upon purely scientific subjects!</p>
+        <p>The deeper we go into this massive book, the more amazed we become. The witnesses called
+            before the Commission represent some of the most vital levels of thought in
+                <place>England</place>, and <place reg="United States">America</place>. Among the
+            host we find <person reg="Webb, Sidney">Sidney Webb</person>, <add>Judge <person
+                    reg="Neil, Henry">Neil</person> and</add>, Judge <person
+                reg="Lindsey, Benjamin Barr">Lindsey</person>
+            <add>of <place reg="United States">U.S.A</place></add> Sir <person
+                reg="Doyle, Arthur Conan">Arthur Conan Doyle</person>, Sir <person
+                reg="Osler, William">William Osler</person>, Dr. <person reg="Stopes, Marie">Marie
+                Stopes</person>, Sir <person reg="Haggard, H. Rider">Rider Haggard</person>, Mr.
+                <person reg="Cox, Harold">Harold Cox</person> the editor of the <title
+                type="journal">Edinburgh Review</title>, <add>Mrs. <person reg="Booth, Evangeline"
+                    >Booth</person>
+                <org>Salvation Army</org></add>, <person reg="Lloyd-George, William">W.L.
+                George</person>, and many, many others.<del>What a hodge-podge of individuals. The
+                list of witnesses almost reads as though the Commission had put alot of names in a
+                hat and chosen them blindfolded, not and again luckily finding a significant
+                individual.</del></p>
+        <p>Yet even with this, the hopeful student might seek to find real good in <emph
+                rend="underline">any</emph> effort to solve the problem. Unfortunately, every page
+            but adds to the conclusions already listed. Many problems are taken up, but the
+            essential one concerning the population question and the fall of the birth rate and its
+            effect upon the country was <del>not convincing</del>
+            <add>neither thorough nor convincing</add> Having proved <add>what is already
+                known</add> that the birth rate <emph rend="underline">had fallen</emph> in England
+            they next proceed to <del>reluctantly</del>discuss the <emph rend="underline"
+                >causes</emph>. These are classified under infant mortality, venereal diseases and
+            birth control. Much of the evidence taken deals with the classification of the causes of
+            infant mortality, and a large proportion is found to be due to the infection of infants
+            by parents with venereal diseases! On this subject much valuable evidence was given by
+            Sir William Osler and Sir <person reg="Donkin, Bryan">Bryan Donkin</person>. They
+            pointed out that if these diseases are to be checked they must be dealt with as diseases
+            and the moral consideration entirely eliminated. If everyone could be persuaded to live
+            clean lives the problem would be solved, but in the meanwhile as this conduct seems
+            impossible for all people we cannot adopt measures to prevent the disease and at the
+            same time retain the risk of incurring them as a deterrent to immorality. And the
+            findings of the Commission resulted in a whitewashing of the prevalent system which
+            permits the cure of venereal diseases, but provides no adequate method to prevent
+            them!</p>
+        <p>The evidence taken on birth control was particularly interesting. It was pointed out that
+            the conscious use of artificial methods to prevent conception were employed by the
+            better classes, upper middle and artisan classes, while the population is recruited from
+            the lower or unfit! The question of the use of these methods, and how far they are
+            injurious to health seemed to be the bone of contention. Dr. Marie Stopes made an
+            excellent report and as she is <del>one of the greatest living</del><add>an able</add>
+            biologist <add>having made a special study of birth control</add> her testimony and
+            experiences are valuable. Harold Cox's testimony was also intelligent and far-reaching.
+            The only suggestion given by various other witnesses was such as to invite the
+            production of still greater <del>hords</del> hordes of <del>the unfit</del><add>unwanted
+                progeny</add>. No suggestions were given to stop the production of the unfit or
+            diseased, or feeble minded. There was some talk of the motherhood pension system--in
+            other words the placing of a premium on motherhood, rather than the control of the
+            unfit. One suggestion was immigration to the Colonies, as if these parts of the world
+            desired their ranks to be recruited by the feeble minded, the physical and mentally
+            unfit, etc. One witness carried on the idea, or maybe more, that the Empire should have
+            a greater volume of population in order to hold its preeminent position in the sun. In
+            other words, as someone recently said: <add>The Commission asked the women of England
+                to</add> enter into a "<q who="BNBC">cradle competition to save the Empire</q>."</p>
+        <p>Need it be said that the conclusions of this Commission are worthless? They merely
+                <del>carry on</del><add>sanction</add> what is in existence to-day and put the seal
+            of approval on the unscientic control of birth and population. The interested reader
+            will do well to read the various resolutions made by different groups on the subject of
+            voluntary restriction of the birth rate. (See pages clxii-clxvi). It is unfortunate that
+            we are unable to treat this section at length because of the limits of space. The
+            Commission condemned <add>the practice of</add> birth control.</p>
+        <p>Dr. Marie Stopes objected to the grounds upon which this decision was predicated and
+            addressed a letter to each signer of the Reservation against birth control: "<q
+                who="STOMA">As possibly you are aware, I consider that the question of the right use
+                of sound hygienic methods of Birth Control as one of the very greatest
+                importance.</q>" She goes on to say that she noticed that this particular member had
+            signed the reservation against birth control:"<q who="STOMA">Had the grounds of your
+                objection been stated to be a religious or moral conviction, I should,
+                    <del>have</del>
+                <add>of</add> course, have had <add>no</add> more to say, but you state above you
+                signature that you base your condemnation of all scientific methods of control on
+                'medical evidence</q>."</p>
+        <p>Dr. Stopes inclosed a self-addressed and stamped envelope for reply and a ready-prepared
+            slip. In their replies not one quoted a page of the report containing medical evidence.
+            In fact, there is not a line of reliable evidence throughout the report which would
+            substantiate the decision against birth control. It is only one of the glaring
+            weaknesses and ill-devised work of this self-appointed body of <del>enthusiasts</del>
+            <add>non-experts</add>.</p>
+        <p>One sentence in the report seems to me to give the key to the Commission's entire state
+            of mind: "<q who="BNBC">It is for the women of the Empire to save the Empire by securing
+                its continuance for the fulfilment of its beneficient mission in the world</q>."
+        </p>
+    </docBody>
+</doc>

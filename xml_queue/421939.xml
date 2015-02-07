@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+    <mepHeader>
+        <prepDate>2014-04-14 CH transcribe and encode</prepDate>
+        <prepDate>2014-04-18 EK correct proof</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="19
+            16-04-27">27 Apr 1916</docDate>
+        <docTitle>
+            <titlePart>Interview on Chicago</titlePart>
+        </docTitle>
+        <idno>msp421939</idno>
+        <sourceDesc>
+            <bibl><title type="article">Mrs. Sanger Explains Where Most Chicago Babies Come
+                    From</title>," <title type="journal">The Day Book</title>, Apr. 27, 1916, Vol.
+                5, No. 180, pp.1-2</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="DB">Day Book</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Margaret Sanger was interviewed while in Chicago on her 1916 American
+            tour. For related speeches from this tour see "<xref from="128003.xml">Birth
+                Control</xref>," Apr. 25, 1916 and "<xref from="236132.xml">Birth Control (Chicago
+                Address to Women)</xref>," Apr. 25-May 7, 1916.</p>
+        <index level1="birth control" level2="class-based"/>
+        <index level1="birth control" level2="lack of knowledge of"/>
+        <index level1="birth control" level2="lack of knowledge of"
+            level3="negative consequences of"/>
+        <index level1="birth rate"/>
+        <index level1="child labor"/>
+        <index level1="women" level2="employment of"/>
+        <index level1="working classes" level2="birth control and"/>
+    </headNote>
+    <docBody>
+        <head>Mrs. Sanger Explains Where Most Chicago Babies Come From</head>
+        <q who="DB"><p>What makes <place reg="Chicago, IL">Chicago</place> grow? Where do thebabies
+                come from? From what districts do the increase of business customers, the increase
+                of population, that cause rising land values, come from?</p>
+            <p><person reg="Sanger, Margaret">Margaret Sanger</person>, birth control advocate
+                answers. She says working class women, pro rata, woman for woman, breed and bring to
+                the daylight of Chicago three times as many babies as the women of the rich and
+                well-to-do class.</p></q>
+        <p>"I am getting the figures on Chicago," <q who="DB">said Mrs. Sanger to a <title
+                    type="journal">Day Book</title> reporter at <org>Congress Hotel</org> today.</q>
+            "And I am sure that the showing in Chicago will be much the same as that of <place
+                reg="Paris, France">Paris</place> and of <place reg="Berlin, Germany"
+            >Berlin</place>.</p>
+        <p>"The women on the fashionable Lake Shore drive have the money to pay physicians to tell
+            the growing daughters, young married women, how to take care of themselves. They know
+            how to stop babies from coming when babies are not wanted. Skilled physicians give these
+            women this knowledge on how to stop the babies from coming."</p>
+        <p>"In the stockyards district, or any other swarming working class district, babies and
+            babies come and these babies are not welcome. They arrive because the mothers don't have
+            the same knowledge as the women on the Lake Shore drive."</p>
+        <p>"A survey in Paris showed 32 births per 1,000 among women in a residential district of
+            rich. In a poor working class district, a typical one, the birth rate was 116 per
+            1,000."</p>
+        <p>"In Berlin the rate was 47 per 1,000 among the well-to-do women and 157 per 1,000 among
+            the poor."</p>
+        <q who="DB">
+            <p>Mrs. Sanger lectures Sunday night in <org reg="Little Theater of Chicago">Little
+                    theater</org>, <org reg="Fine Arts Building">Fine Arts bldg</org>. Her
+                secretary, <person reg="Mindell, Fania">Fania Mindell</person>, said today that all
+                seats have been sold, with more calls coming, and the lecture may be given in
+                Assembly hall, Fine Arts bldg. Several hundred were turned away Tuesday night in
+                    <org reg="Worker's Institute">Workers' Institute</org>.</p>
+            <p>The big main proposition she stands for is that working class women should have the
+                same information about birth control, regulation of the number of children to a
+                family, that rich women have.</p>
+            <p>The Sanger woman was a trained nurse 14 years in obstetric cases and personally
+                served mothers in several thousand births. She is herself the mother of two superb
+                children, and has won her way against terrific opposition by force of an unusual
+                personality.</p></q>
+        <p>"Of course, it is not pleasant for some girls to face the facts of birth control," she
+            said. "But I would urge upon any wife of an underpaid <supplied>man chance?</supplied>
+            that it is far more unpleasant for her to find herself burdened down with half a dozen
+            children she never wished for, helpless, starved, shoddily clothed children dragging at
+            her skirts and she only a dragged-out shadow of the woman she once was."</p>
+        <p>"Women of the working class, especially wage workers, should not have more than two
+            children at the most. The average workingman can support no more and the average working
+            woman can take care of no more in decent fashion."</p>
+        <p>"It has been my experience that more children are not really wanted, but that the women
+            are compelled to have them either from lack of foresight or through ignorance of the
+            hygiene of preventing conception."</p>
+        <p>"It is only the workers who are ignorant of the knowledge of how to prevent bringing
+            children into the world to fill the hospitals and jails, factories and mills, insane
+            asylums and premature graves."</p>
+        <p>"The working class can use direct action by refusing to supply the labor market with
+            children to be exploited, by refusing to populate the earth with slaves."</p>
+    </docBody>
+</doc>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="(Published article) ">
+    <mepHeader>
+        <prepDate>2014/04/09 VS initial tagging</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="(1936-12-29) ">29 December, 1936</docDate>
+        <docTitle>
+            <titlePart>Statement on the Confernce on Contraceptive Research and Clinical
+                Practice</titlePart>
+        </docTitle>
+        <idno>msp421101</idno>
+        <sourceDesc>
+            <bibl><title>New York Times</title></bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="TIMES">New York Times</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">The New York Times reposted a statement Sanger made on the opening of the
+        Conference in New York at the Hotel Roosevelt. For Sanger's complete opening speech, see
+            <xref from="101798.xml">Address to the Conference on Contraceptive Research and Clinical
+            Practice</xref>
+        <index level1="birth control" level2="distribution of information about"/>
+        <index level1="birth control" level2="medical community and"/>
+        <index level1="Birth Control Clinical Research Bureau"/>
+        <index level1="birth control clinics and leagues" level2="research benefits of"/>
+        <index level1="birth control methods" level2="efficacy of"/>
+    </headNote>
+    <docBody>
+        <head>Birth Control Aid Received By 56,000</head>
+        <byline>Mrs. Sanger Reports Clinical Work Nearly 100% Effective, but Urges Wider Scope. Says
+            Millions Need Help.</byline>
+        <div>
+            <head type="sub"> She Asks Further Assistance of Science to Reduce Costs- New Researches
+                Revealed. </head>
+            <q who="TIMES"><p> Clinical birth control methods are approaching 100 per cent success;
+                    but cheaper, easier and equally harmless means must be found to help the
+                    millions to whom present methods are economically or geographically unavailable,
+                    Mrs. <person reg="Sanger, Margaret">Margaret Sanger</person>, director of the
+                        <org>Birth Control Clinical Research Bureau</org>, declared yesterday.
+                </p></q>
+        </div>
+        <div>
+            <p>
+                <supplied resp="MSPP">Part of this section has been omitted.</supplied></p>
+        </div>
+        <div>
+            <head type="sub"> Bureau’s Work Reviewed</head>
+            <p> “The outstanding achievement of this bureau,” <q who="TIMES">Mrs. Sanger said</q>,
+                “has been to inform, teach, instruct and give contraceptive advice to more than
+                56,000 women who voluntarily appealed to us for this advice. The records of these
+                women may truly be looked upon as a veritable human laboratory for research and
+                correlations. </p>
+            <p> “We have been fortunate in enlisting the cooperation of competent physicians and
+                have amassed a wealth of incontrovertible evidence supporting the feasability and
+                desirability of contraceptive practice. The evidence seems to be on our side, for in
+                all the studies we have made we find, when our teachings are followed and adhered
+                to, there is the record of 96.4 to 97 per cent success. </p>
+            <p> “The birth-control movement has arrived at a stage in its development where it
+                definitely can help that part of the population accessible to hospitals, doctors or
+                in the health services where properly qualified doctors are available, but we must
+                go further and supply the demand of women in the submerged sections who are
+                clamoring for cheap and effective means to control the size of the family. </p>
+            <p> “We must have methods that are cheaper, easier to apply and as harmless as those
+                which we now use have proven to be. The scientist must come to our aid. We want his
+                cooperation, his wisdom, his impersonal courage and vision.”</p>
+        </div>
+        <div>
+            <head type="sub"> Praises Recent Court Verdict</head>
+            <p>
+                <q who="TIMES">Mrs. Sanger praised a <name
+                        reg="United States v. One Package of Japanese Pessaries">recent
+                        decision</name> of the <org>United States Circuit Court of Appeals</org>,
+                    which held that</q> “the Federal statutes were not designed to obstruct the
+                circulation of articles which may be intelligently employed by conscientious
+                physicians for the purpose of saving life and promoting well-being.” </p>
+            <p> “In our effort to clear away this legal rubbish,” <q who="TIMES">Mrs. Sanger
+                    added</q>, “we have uncovered many obstacles, but we cannot go much farther,
+                either onward or upward, without the help of the scientific mind.” </p>
+        </div>
+        <div>
+            <p>
+                <supplied resp="MSPP">Part of this section has been omitted</supplied></p>
+        </div>
+    </docBody>
+</doc>

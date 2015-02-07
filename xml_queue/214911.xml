@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+    <mepHeader>
+        <prepDate>2014/04/11 YG</prepDate>
+        <prepDate>2014/04/16 CH proof tags</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1938-10-22">22 Oct 1938</docDate>
+        <docTitle>
+            <titlePart>Interview with The Memphis Commerical Appeal</titlePart>
+        </docTitle>
+        <idno>msp214911</idno>
+        <sourceDesc>
+            <title type="article">Birth Control Clinic Wins Sanger Praise</title>
+        <title type="journal">Memphis Commercial Appeal</title>, Oct. 23, 1938.
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="MCA">The Memphis Commercial Appeal</name>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">This text is a summarizes comments <person reg="Sanger, Margaret">Sanger</person>made at the end of a
+        speaking tour in <place>Memphis, Tennessee</place>. 
+       
+        <index level1="birth control" level2="in Tennessee"/>
+        <index level1="birth control clinics and leagues"/>
+        <index level1="birth control movement" level2="MS on"/>
+    </headNote>
+
+    <docBody>
+        <div>
+            <head>Interview with The Memphis Commercial Appeal</head>
+        </div>
+
+             <div>
+            <p>Mrs. Margaret Sanger, nationally known birth control authority who has been here a
+                week for a series of lectures, left Memphis last night, equipped with at least three
+                convictions: </p>
+            <p> 1. Memphis’ public health work is being carried on efficiently and advantageously. </p>
+            <div><head type="sub">Clinic Is Progressing</head></div>
+            <div><p>2. The birth control clinic set up and sponsored by the <org>Memphis Birth Control
+                Committee</org> is progressing, doing excellent work in advising and aiding the many needy
+                (and mostly young) mothers. </p>
+            <p>3. Work of this clinic should be incorporated into activities of the public health
+                clinic at <org>John Gaston Hospital</org>because it was established only as a proving ground
+                to show the real need of a similar public clinic. The favor with which she was
+                generally received in Memphis is indicative of success in this aim, although not
+                necessarily in the near future. </p>
+            <p>Mrs. Sanger spoke to numerous grous, some physicians
+                and nurses only, some for the public at large. But on each occasion, Mrs. Sanger
+                stressed last night before boarding her train for New York, she was cordially and
+                very favorably received. </p></div>
+            <div><head type="sub">Definite Gains Seen</head></div>
+           <div> <p>“I was particularly impressed with the
+                reception I had with every medical group. The best people of every community
+                throughout my first trip to <place>Tennessee</place> were always present. No, I don’t expect any
+                new idea to leap into execution, but we are definitely making progress. This is
+                evidenced by the fact that while in Tennessee I spoke before 16 meetings. In Memphis
+                alone my audiences totaled at least 2500.” </p>
+            <p>Mrs. Sanger was guest of honor last night
+                at the home of <person reg="Long, Elizabeth B.">Mrs. Jerome P. Long</person>of 1513 Linden. Returning to New York with her
+                were <person reg="Blodgett, Marguerite">Mrs. Stephen Blodgett</person>, also of <place reg="New York, NY">New York</place>, and Mrs. Long. 
+                She will go to <place reg="Tucson, AZ">Tucson, Ariz.</place>, soon. </p>
+            <p>“This morning I visited our clinic,” she said. “There I saw three young
+                mother, typical of the thousands we instruct yearly. One of them was the mother of
+                nine children, with another coming along. She was the oldest. The other two,
+                however, were girls in their 20s, both the mother of two or three. This is the type
+                and age that need our help most.” </p>
+        </div>
+    </docBody>
+</doc>

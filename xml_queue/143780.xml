@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed statement">
+    <mepHeader>
+        <prepDate>2010/04/28 AC</prepDate>
+        <prepDate>2010/04/29 CH proof and correct</prepDate>
+        <prepDate>2014-03-11 CH correct errors</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1938-11-12">12 Nov 1938</docDate>
+        <docTitle>
+            <titlePart>Statement After Tour of Southern States</titlePart>
+        </docTitle>
+        <idno>msp143780</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Library of Congress</bibl>
+            <bibl>Library of Congress Microfilm 130:754</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <index level1="mortality rates" level2="infant"/>
+    <index level1="mortality rates" level2="maternal"/>
+    <index level1="population growth" level2="regulation of"/>
+    <index level1="poverty"/>
+    <index level1="Southern States"/>
+    <headNote resp="MSPP">
+        <p>This is a press release issued by the <org>Birth Control Clinical Research Bureau</org>.
+            A handwritten addition was made by one of Sanger's secretarial staff. </p>
+    </headNote>
+    <docBody>
+        <head>Statement from Mrs. <person reg="Sanger, Margaret">Margaret Sanger</person>,
+            Director</head>
+        <div>
+            <p>On my return from a recent tour of several Southern states, I am more than ever
+                convinced that it must become a necessary government function to provide birth
+                control service through public health agencies to those who cannot afford the
+                services of private physicians. Civic officials and leaders of social welfare
+                organizations where I visited all regard birth control as the most immediate and
+                important step in the solution of the problems of the various blighted areas, to
+                halt “human erosion”. Everywhere meetings were overcrowded, not
+                by the curious, not by those seeking personal information, but mostly by officials
+                and those actively working among the indigent and the unfit, who sought knowledge
+                and a fresh viewpoint for constructive social work.</p>
+            <p>In one community I visited, 50% of the total area was designated as
+                    blighted</soCalled>”, yet this area contains 54% of the population,
+                58% of the child population 10 years of age and under, 67% of the white and 83% of
+                the children appearing in <org>Juvenile Court</org>s on delinquency charges, 82% of
+                the relief clients, 80% of the tuberculosis cases, 70% of the infant and maternal
+                mortality among the white population, and 90% among the colored. This is the area of
+                poor housing, inadequate income, dependency and disease. Yet this area is only one
+                of thousands throughout the nation. Any slum section of <place
+                    reg="New York, NY">New York</place> or <place reg="Chicago, IL"
+                    >Chicago</place> would reveal the same conditions, in practically the same
+                proportion, creating similar problems.</p>
+            <p>While it is true that the <org reg="United States Government">Federal
+                    Government</org> is spreading out its protective hands and building new homes
+                for the occupants in these slum sections, it is the consensus of opinion that
+                environment alone will not change the habits of this population, and within 10
+                years, with their unchecked potency for child-bearing, there will naturally be an
+                extension of the problem, and an even greater tax burden placed upon the small
+                portion of the population left to pay the bills.</p>
+            <p>It is now known that 13 of the Southern States have populations of which over 97% are
+                native-born, providing an unparalleled opportunity for a reconstruction program to
+                improve not only the environment but the innate quality of our national life. Here
+                indeed is material to excite the imagination.</p>
+            <p> I found nothing but the most receptive attitude on the part of the people themselves
+                towards receiving birth control advice, and also I found the will to give this
+                service among those in closest touch with the human need. But obstacles come from
+                the top, from a few officials and arrogant clergymen who set their wills against
+                public good, and intimidate nurses, social workers, and medical agencies from
+                providing this service to parents who vainly ask it. It is at their doors that the
+                increasing human misery in these groups must be laid. They are trying to solve 20th
+                century problems with the dogma of the dark ages, and men and women everywhere must
+                refuse them this power.</p>
+            <p>Very soon there will be a request made to <org reg="United States Congress"
+                    >Congress</org> by the Federal Government for a new appropriation of
+                $850,000,000 to improve public health. No doubt a large portion of this huge sum
+                asked of the tax-payers, will be sought to increase existing health and welfare
+                services for mothers and children. No greater service could be given to the mothers
+                and to the children among that enormous group of 20,000,000 individuals dependent
+                upon some form of public aid, than to provide birth control knowledge to enable them
+                to help themselves by not adding to their own misery through increasing the number
+                who must share it. In 1937, out of the 2,000,000 babies born in this country,
+                1,100,000 were born to parents on relief with incomes of less than $1000 a year.</p>
+        </div>
+        <div>
+            <head type="sub">Three Suggestions</head>
+            <p>It behooves, therefore, the mean and women who have the welfare of the future of this
+                country at heart to ask, nay to demand, of their Representatives in Congress, that
+                included in the provisions of this legislation must be the right of these parents to
+                obtain birth control information through health agencies supported by public funds.
+                Such a measure will not only give constructive, immediate relief to millions of
+                families, and prevent additional suffering, but would be the greatest forward step
+                ever taken on a national scale to raise the level of intelligence of the nation’s
+                population, and the quality of life.</p>
+            <p>There are two other suggestions I would like to make: (1) Throughout the country our
+                institutions are overcrowded with the insane, the feeble-minded, and the diseased.
+                Thousands of human beings, buried alive, who can contribute nothing to their
+                generation other than to use up the vital energies of those who must care for them.
+                The cost of maintaining our derelict population is nothing compared to the loss of
+                creative effort which might be utilized in other channels. Why should our Benevolent
+                Federal Government not make a constructive investment in the quality of our future
+                citizenship by offering pensions to all those in the child-bearing age with
+                transmissible or hereditary diseases who will agree to sterilization? Here truly is
+                a system of pensioning that will bring its own reward.</p>
+            <p>Couple this with another appropriation <add>as an aid to marriage</add> for those
+                healthy, intelligent young men and women, skilled artisans, professionals,
+                agriculturists, who wish to marry and would welcome a family, if only there were
+                some provision to tide them through possible emergencies in first few years until
+                they could become entirely self-supporting. Money spent of a population of sound
+                minds in healthy bodies that must inevitably promote and insure individual and
+                national welfare. </p>
+        </div>
+    </docBody>
+</doc>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Interview) ">
+    <mepHeader>
+        <prepDate>2014/06/17 AS</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1959-04-04">04 April 1959</docDate>
+        <docTitle>
+            <titlePart>Around Your Home "Interview With Margaret Sanger"</titlePart>
+        </docTitle>
+        <idno>msp421961</idno>
+        <sourceDesc>
+            <bibl><title type="journal"><org>Tucson Daily Citizen</org></title></bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="TDC">Tucson Daily Citizen</name>
+            <name id="FLW">Frank Lloyd Wright</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><index level1="planned parenthood"/></headNote>
+    <docBody>
+        <head>Oriental Art Dominates Home of <person reg="Sanger Slee, Margaret">Mrs.
+            Slee</person></head>
+        <byline>By <person reg="Milburn, Betty">Betty Milburn</person></byline>
+
+        <q who="TDC"><p>Interesting people just naturally have interesting houses.</p>
+        <p>And Margaret Sanger Slee is no exception.</p>
+        <p>She lives in a delightfully unusual house in <place reg="Tucson, Arizona">Catalina Vista,</place> surrounded by treasures she and her late husband collected from all over the world.</p></q>
+        <p>"In 1952, I asked <person reg="Wright, Frank Lloyd">Frank Lloyd Wright</person> to design a house for me. He asked <q who="FLW">'on how many acres?,'</q> and when I said a 150 by 135 foot lot, he gasped with horror and declined," laughed Mrs. Slee.</p>
+        <p>"So then I asked <person reg="Brown, Arthur">Arthur Brown</person> to be my architect. Now, of course, I'm delighted that Mr. Wright declined, because Mr. Brown did a perfect house for me-exactly what I wanted!"</p>
+        <q who="TDC"><p>Mrs. Slee explained that she does not care for boxes or square, regular rooms.</p></q> <p>"And I didn't want to look out and see the ground. I wanted to see sky, flowers and trees."</p>
+        <q who="TDC"><p><person reg="Caffrey, H.E.">H.E. Caffrey</person> was the contractor and Mrs. Slee did the interior decor.</p></q><p>"I just put in the house the things I owned," <q who="TDC">she said.</q></p>
+        <q who="TDC"><p>And what fabulous things they are! She collected them throughout a lifetime spent traveling throughout the world, as the founder of and crusader for <org reg="Planned Parenthood Federation of America">planned parenthood</org> and also as the wife of an oil executive who had lived in the <place>Orient</place> since 1910.</p>
+        <p>Mrs. Slee's home is of contemporary design, and makes use of such 20th century techniques as curved fiberglass walls and stainless steel mantles. Yet its contemporary simplicity makes it a perfect background for exquisite furnishings and art objects of all ages and cultures.</p></q>
+    </docBody>
+</doc>

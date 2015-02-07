@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="(Published Statement)">
+    <mepHeader>
+        <prepDate>2014/07/01 CH proof tags</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1958-09-13">13 Sep. 1958</docDate>
+        <docTitle>
+            <titlePart>Statement on the New York City Hospital Ban on Birth Control</titlePart>
+        </docTitle>
+        <idno>msp421988</idno>
+        <sourceDesc>
+            <bibl><title type="article">At 71, Mrs. Sanger Scores Dr. Jacobs</title>, <title type="journal">New York
+                    Times</title>, Sept. 14, 1958, p. 59</bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="NYT">New York Times</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><index level1="Catholic Church" level2="birth control and"/>
+        <index level1="New York" level2="birth control in"/>
+        <index level1="conferences" level2="International Conference on Planned Parenthood"
+            level3="1958 (6th)"/>
+        <index level1="International Planned Parenthood Federation"/>
+        <index level1="birth control" level2="religion and"/>
+        <index level1="birth control" level2="opposition to"/></headNote>
+    <docBody>
+        <head>AT 71, MRS. SANGER SCORES DR. JACOBS</head>
+        <byline>By <person reg="Asbury, Edith Evans">EDITH EVANS ASBURY</person></byline>
+        <q who="NYT"><p><person reg="Sanger, Margaret">Margaret Sanger,</person> founder of the
+                birth control movement in the <place>United States,</place> said yesterday she was</q>
+                "delighted at the leadership taken by the different religions in defense of birth
+                control" <q who="NYT">in the controversial city hospital policy.</p></q>
+        <p>"It comes a little late, but it is never too late," <q who="NYT">Mrs. Sanger said. She
+                was interviewed by telephone on the eve of her seventy-first birthday, which she
+                will celebrate today.</q></p>
+        <q who="NYT"><p>Mrs. Sanger lives in <place reg="Tucson, AZ">Tucson,</place>
+                Ariz.,</place> next door to her son, <person reg="Sanger, Stuart">Dr. Stuart
+                    Sanger.</person> Another son, <person reg="Sanger, Grant">Dr. Grant
+                    Sanger</person> of <place reg="Mount Kisco, NY">Mount Kisco,</place> reached
+                Tucson yesterday to join the birthday celebration.</p>
+            <p>Mrs. Sanger said it was time the fight for birth control was not leftM</q> "to those of us
+                in <org>Planned Parenthood</org> who have been fighting all these years."</p>
+            <q who="NYT"><p>Mrs. Sanger faced strong opposition and was even sentenced to jail, when, as a young
+                nurse in <place reg="New York, NY">New York City,</place> she sought to disseminate
+                birth control information.</p>
+            <p>She was moved to action by dismay over young mothers in the slums. She said they were
+                overburdened by more children than they were physically able to bear or care
+                for.</p></q>
+        <p>"Laws have changed since then, and public opinion has changed, but the fight must still
+            go on, because we still have strong opposition," she said yesterday.</p>
+        <p>"I am amazed that New York City, where I founded the <org reg="Brownsville Clinic">first birth control clinic</org> in the
+            country, is still so backward. I have just come back from <place reg="Honolulu, Hawaii"
+                >Honolulu,</place> where they have birth control therapy in city hospitals. Imagine,
+            more advanced than New York!"</p>
+        <q who="NYT"><p>Mrs. Sanger said she believed that the public airing of the controversy in
+                New York City would prove</q> "beneficial to all, including the Catholics." <q who="NYT">She
+                described the ban on birth control therapy in city hospitals by <person
+                    reg="Jacobs, Morris A.">Dr. Morris A. Jacobs,</person> Commissioner of
+                Hospitals, as a </q> "disgraceful policy."</p>
+        <p>"Many catholics across the country have told me they disapprove of this one position of
+            their church," she said.</p>
+        <p>"Many of them come to our clinics. A look at statistics will prove that Catholics are
+            having smaller families."</p>
+        <q who="NYT"><p>Mrs. Sanger is still active. With the aid of two secretaries she handles
+                correspondence from all parts of the world. She is president of the
+                    <org>International Planned Parenthood Federation</org> and plans to go to the
+                organization's <org reg="International Conference on Planned Parenthood, Sixth"
+                    >international conference</org> at <place>New Delhi, India,</place> next year.</p>
+            <p>In her spare time, she paints, concentrating on the deserts and mountains in Arizona.
+                She has eight grandchildren. Six are the children of Dr. Grant Sanger and his
+                    <person reg="Sanger, Edwina">wife.</person></p></q>
+
+    </docBody>
+</doc>

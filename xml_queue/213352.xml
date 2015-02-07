@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="(Published Article) ">
+    <mepHeader>
+        <prepDate>2014/06/1947 YG</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1947-06-30">30 June 1947</docDate>
+        <docDate value="1947-07-01">01 July 1947</docDate>
+
+        <docTitle>
+            <titlePart>Moratorium on Babies</titlePart>
+        </docTitle>
+        <idno>msp213352</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Smith College</bibl>
+            <bibl><title>Margaret Sanger Microfilm Smith College Collections</title> S77:49</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="NYDN">New York Daily News</name>
+            <name id="NYT">New York Times</name>
+            <name id="EI">Evening Independent</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger's statements to the press on leaving for
+            <place>England</place>were picked up by newspapers in both the <place>United
+                States</place> and England. Sanger's handwritten statement was likely written on
+            arriving in <place>London</place>. Other quotes, taken from newspapers have been added
+            on. Additional quotes taken from "10 year Moratorium on Europe Babies Urged," NY Post,
+            July 1, 1947 "American Birth Control Pioneer Stirs British Anger," Evening Independent,
+            and "Mrs. Sanger's Plan Opposed by Britons," NY Times, July 14, 1947.</p>
+        <index level1="Europe" level2="birth control in"/>
+        <index level1="birth control" level2="and war"/>
+        <index level1="birth control" level2="civilization and"/>
+        <index level1="war" level2="overpopulation and"/>
+    </headNote>
+    <docBody>
+        <head>Moratorium on Babies</head>
+        <p>My message to the parents of the children in starving countries is to declare a
+            Moratorium on the birth rate for the next ten years. Why ten years? I am asked. Because
+            it is going to take from six to ten years for the world to get settled again and the
+            conditions of poverty misery hunger and strife which exist in the world today are not
+            the conditions in which to have and rear happy and healthy children. </p>
+        <p>Women in war torn countries write me that they are giving birth to death not to life. To
+            bring children into these conditions is not kind nor fair to those already born and to
+            those unborn. So again I say to hungry mothers and fathers-declare the Moratorium on the
+            birth rate, with which we can make a better world.</p>
+        <p><supplied rend="MSPP">The following quotes came from the New York Daily News.</supplied>
+            <q who="NYDN">A 10-year moratorium on babies in the world’s hungry countries was urged
+                yesterday by <person reg="Sanger, Margaret">Mrs. Margaret Sanger Slee</person>,
+                noted advocate of planned parenthood, as she left <place reg="LaGuardia Airport"
+                    >LaGuardia Field</place> for a family planning conference in England.</q>Those
+            countries should not have another child for a decade, <q who="NYDN">she said.</q>They
+            should do all in their power to help keep women from having children for that
+            period-until the food and economic situations are adjusted there.<q who="NYDN">She said
+                her plan “definitely” includes England. </q>I think the adults who are living today
+            could be moved into those countries where they need labor,<q who="NYDN">she
+                continued.</q>Use the manpower that’s there today, and don’t bring any more children
+            into the world to starve. <q who="NYDN">Somebody asked who would fight the wars, and
+                    <person reg="Sanger, Margaret">Mrs. Slee</person>replied,</q>At least there
+            would be fewer people to be battered to death.<q who="NYDN">Mrs. Slee left on the
+                American Overseas Flagship Eire. She said that while abroad she also will work on
+                arrangements for an international population conference to be held in <place
+                    reg="Oxford, England">Oxford</place>next year. This will deal with the problem
+                of populations in relation to the food supplies and natural resources of countries.
+                She said all overpopulated countries, including <place>India</place>,
+                    <place>China</place>, and <place>Japan</place>, would be invited to send
+                representatives.</q>In this country we have achieved a favorable balance of
+            population and resources,<q who="NYDN">she stated.</q> This situation has contributed
+            greatly to the raising of our national standard of living.</p>
+        <p>But it will do us little good if in the end European and Asiatic countries, and some of
+            our possessions, continue to overflow their boundaries, crowd their resources and breed
+            themselves into new famines. Many of them will ultimately breed themselves into another
+            war. For these reasons the whole world should be interested in intelligent limitations
+            of populations.</p>
+        <p><supplied rend="MSPP">The following quotes came from the New York Times.</supplied>
+            <q who="NYT">Mrs.Sanger’s Plan Opposed by Britons</q>I suppose my ideas will upset all
+            my friends, <q who="NYT">Mrs. Sanger said. </q>Unsound? Not a bit of it. There is pretty
+            heavy overcrowding in <place reg="England">Britain</place>. Adults could be moved to
+            other countries instead of having babies here while food is short.</p>
+        <p><supplied rend="MSPP">The following quotes came from the Evening Independent.</supplied>
+            <q who="EI">It all started when gray-haired little Mrs. Sanger stepped off a plane and
+                told the press:</q>It’s pretty certain that the world won’t be able to produce
+            enough food to support any more babies for at least 10 years.<q who="EI">So, she said,
+                women should stop having babies for 10 years-- in Britain, especially. She wanted
+                <org>the United Nations</org>to recommend baby quotas for all countries.</q></p>
+
+        <p/>
+    </docBody>
+</doc>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="(Published Speech) ">
+    <mepHeader>
+        <prepDate>2014/06/17 AS encoded</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="(1957-05-22) ">22 May 1957</docDate>
+        <docTitle>
+            <titlePart>Washington PPA 21st Birthday Celebration</titlePart>
+        </docTitle>
+        <idno>msp421962</idno>
+        <sourceDesc>
+            <bibl><title type="journal"><org>The Washington Post</org></title></bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="WP">The Washington Post</name>
+            <name id="UNK">Unknown</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger spoke before the <org>Washington Planned Parenthood Association</org> at
+            the home of <person reg="Myers, Louise Chase">Louise Chase Myers.</person></p>
+        <index level1="birth control" level2="distribution of information about"/>
+        <index level1="birth control" level2="access to"/>
+        <index level1="Washington D.C." level2="birth control"/>   
+        <index level1="birth rate" level2="increase in"/> 
+        <index level1="birth rate" level2="efforts to reduce"/>
+        <index level1="planned parenthood"/>
+        <index level1="birth control" level2="socio-economic benefits of"/>
+        <index level1="family planning, principles of"/>
+    </headNote>
+    <docBody>
+        <head>U.S. Birth Rate Now Exceeds India's</head>
+        <byline>By <person reg="Edstrom, Eve">Eve Edstrom</person></byline>
+        <q id="WP"><p><person reg="Sanger, Margaret">Margaret Sanger</person> yesterday declared supporters of the birth control program are
+                bringing it back to the people for whom it was intended-the low income families.</p>
+            <p>And <place reg="Washington, D.C.">Washington,</place> she said, is pioneering in helping low-income parents to learn how
+                families can be limited.</p>
+            <p>Still battling for her cause at age 73, the founder of the <org reg="National Birth Control League">American birth control
+                movement</org> is in town to help <org>Washington's Planned Parenthood Association</org> celebrate
+                its 21st birthday.</p></q>
+        <p>A <q who="UNK">"coming of age"</q>
+            <q who="WP"> party in honor of the event is scheduled this evening at the home of <person reg="Myers, George Hewitt, Mr. and Mrs.">Mr.
+                and Mrs. George Hewitt Myers,</person> 2310 S st. nw. Mrs. Myers worked staunchly with Mrs.
+                Sanger during the several legal fights to permit dissemination of birth control
+                information.</q></p>
+        <q who="WP"><p>Washington's Planned Parenthood group currently is sending a social worker
+                into low-income housing developments to acquaint families with its program and to
+                refer them for medical advice.</p></q>
+        <p>"The program never was intended for middle-class families who could afford to go to
+            doctors, who were not so tied down with children that they were prevented from getting
+            to clinics," Mrs. Sanger said.</p>
+        <p>"It was intended for low-income families but it must be brought to them. The success of
+            the Washington program in getting information to those who need it has caused <place reg="Chicago, Illinois">Chicago,</place>
+            <place reg="Kansas City, Missouri">Kansas City</place> and <place reg="Dallas, Texas">Dallas</place> to adopt the same approach."</p>
+        <q who="WP"><p>Mrs. Sanger began crusading for birth control in 1914 after having nursed a
+                young woman who later died in childbirth. She vowed then to go to the root of the
+                trouble</p></q>
+        <p>"so women could have babies only when their health and purses permitted."</p>
+        <q who="WP"><p>At that time, she said, the campaign had dramatic appeal because many persons
+                were aroused over the</p></q>
+        <q who="UNK">"wretched effects</q>
+        <p><q who="WP">that lack of family planning had on mothers' health.</q></p>
+        <q who="WP"><p>With the improvement in maternal health and child welfare in this country,
+                she continued, the need to battle for birth control is not so glaringly
+                apparent.</p>
+            <p>But</p></q>
+        <p>"to people who care about what their own children and grandchildren are going to face,"
+                <q who="WP">Mrs. Sanger said it is</q> "alarming" <q who="WP">that this <place reg="United States">Nation</place> is so
+                far behind other countries in birth control programs.</q></p>
+        <q who="WP"><p>Emphasizing that our birth rate now is higher than <place>India's,</place> Mrs. Sanger noted
+                that India, <place>Japan,</place> and a number of other countries are financing programs to bring
+                birth control information to their people.</p>
+            <p>Our failure to act similarly, she said, comes because</p></q>
+        <p>"we don't have fun with ideas any more, everything is pleasant, we have nice
+            conversations and don't battle with the opposition."</p>
+        <q who="WP"><p>Regarding the recent local battle of the Planned Parenthood Association to be
+                admitted to <org>United Community Services</org> for financial support, Mrs. Sanger said she
+                was against Planned Parenthood chapters becoming Chest members because they become
+                weak and ineffective.</p>
+            <p>Just back from <place reg="Honolulu, Hawaii">Honolulu</place> and off to <place reg="London, England">London</place> soon, Mrs. Sanger is not expected to ever
+                stop fighting for her cause-but her fight cannot be interpreted as one against large
+                families. With a wide smile, she states that one of her two doctor sons has six
+                children but, she adds,</p></q>
+        <p>"they were planned-or so they tell me."</p>
+
+        <p/>
+    </docBody>
+</doc>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+	<mepHeader>
+		<prepDate>2011/05/06 CH Initials</prepDate>
+		<prepDate>2014-03-18 clean regs and errors</prepDate>
+		<prepDate>2015-01-22 CH proof tags and enter</prepDate>
+		<docAuthor>Margaret Sanger</docAuthor>
+		<docDate value="1927-05-02">2 May 1927</docDate>
+		<docTitle>
+			<titlePart>
+				<title type="article">Foreword to <title type="book">Sex Problems in
+					India</title></title>
+			</titlePart>
+		</docTitle>
+		<idno>msp321952</idno>
+		<sourceDesc>
+			<bibl>N. S. Phadke, <title type="book">Sex Problems in India</title> (<place
+					reg="Bombay, India">Bombay</place>, 1929), v-vii</bibl>
+
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="eugenics" level2="MS on"/>
+		<index level1="India" level2="birth control in"/>
+		<index level1="marriage" level2="reforms"/>
+		<index level1="unfit to reproduce" level2="MS on"/>
+	</headNote>
+	<docBody>
+		<head>FOREWORD</head>
+		<p>In this book, "<title type="book">Sex Problems in India</title>," Prof. <person
+				reg="Phadke, Narayan Sitaram">Phadke</person> treats the various problems in the
+			light of modern practical science. His chapter on "<title type="article">The Vindication
+				of Birth Control</title>" is especially sound and clearly stated.</p>
+		<p>The plea the author makes for <title type="article">Eugenic Marriages</title> is the plea
+			of the far-sighted patriot, whose desire is that the country of his allegiance shall
+			grow strong on sound biological principles.</p>
+		<p>There is knowledge in the world to-day, which, if placed at the disposal of the people
+			for their guidance, would help to eliminate some of the most persistent social evils of
+			this country. Many of these evils keep cropping up generation after generation, while
+			efforts to deal with them, especially in <place>Europe</place> and <place
+				reg="United States">America</place>, are mainly palliative. I refer to infant
+			mortality, child labour, maternal mortality, and other problems arising out of the
+			increasing hordes of inert, unfit multitudes being born into the world each year.</p>
+		<p>In the western countries where the effort to solve such problems by legislative methods
+			has practically failed, we have had to resort to a large expenditure to keep alive those
+			very types whose multiplication causes dysgenic conditions. Our hospitals, as well as
+			institutiions for the feeble-minded and insane, are overcrowded. The cost of maintaining
+			these institutions casts a tremendous burden upon the normal person. This lessens the
+			ability of the healthy normal classes to rear larger families, with the conseqence that
+			the birth rate is of so differential a character it constitutes a problem and in some
+			countries it has become an alarming factor. The future of western civilization is
+			threatened by this stupendous error.</p>
+		<p>This is only one angle of the social side of birth control. There is another which is
+			also treated by the author in a masterly fashion: that of the individual woman. He asks
+			that marriage shall be based on love and affection. That it shall be consumated only
+			after maturity. That children shall be born to parents only when there is that
+			development of the body and mind which modern students of psychology claim is necessary
+			for the parents as well as essential to the well-being of the child born.</p>
+		<p>A country cannot keep pace in the world today when its population is bowed down by large
+			families, misery and poverty.</p>
+		<p>A nation ignoring the researches advanced by modern science, relentlessly holding to
+			customs outworn and proven inadequare, cannot claim equal recognition with those
+			countries which have left behind them outworn dogma and mediaeval superstitions.</p>
+		<p>The <title type="book">Sex Problems in India</title> are doubtless much the same
+			fundamentally as the problems of other countries. But in the occident an effort is being
+			made to solve such problems fearlessly and honestly.</p>
+		<p>Prof. Phadke has undertaken this task for <place>India</place>. I heartily recommend his
+			book to those who are seeking guidance along these lines.</p>
+		<closer><dateline><place reg="Geneva, Switzerland">GENEVA</place>, <date value="1927-05-02"
+					>2nd May, 1927</date>.</dateline>
+			<person reg="Sanger, Margaret">MARGARET SANGER</person>.</closer>
+
+	</docBody>
+</doc>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Autograph draft speech">
+	<mepHeader>
+		<prepDate>2014/06/12 MM</prepDate>
+		<prepDate>2014/12/05 EK clean regs</prepDate>
+		<prepDate>2014/12/16 EK Correct proofs</prepDate>
+		<prepDate>2015-01-09 CH proof tags and enter</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docDate value="1924/12/02">2 Dec 1924</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">The Need for Birth Control in America speech notes</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp236386</idno>
+		<sourceDesc>
+			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
+			<bibl><title type="journal">Margaret Sanger Papers Microfilm, Smith College
+					Collections</title>, S70:1054</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="HUGVI">Hugo, Victor</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Notes on <title type="speech">The Need for Birth Control</title>, a speech which Sanger
+			delivered at Edwards Hall in the <org>Yale University Divinity School</org>. For a later
+			variation see, "<xref from="129046.xml">The Necessity of Birth Control</xref>," Dec. 19,
+			1928. A list of books, typed on the last page of the document appears below:</p>
+		<p>
+			<list>
+				<item><person reg="Inge, William Ralph">W. R. Inge</person>, <title type="book"
+						>Outspoken Essays,</title> first and second series.</item>
+				<item><person reg="East, Edward Murray">E. M. East</person>, <title type="book"
+						>Mankind at the Crossroads</title>.</item>
+				<item><person reg="Cox, Harold">Harold Cox</person>, <title type="book">The Problem
+						of Population</title>.</item>
+				<item><person reg="Wells, H. G.">H. G. Wells</person>, <title type="article"
+						>Introduction</title> to Margaret Sanger's <title type="book">Pivot of
+						Civilization</title>.</item>
+				<item><person reg="Dawson, Bertrand">Dawson of Penn</person>, <title type="speech"
+						>Married Love. Address to the Bishops at <org>Lambeth
+						Conference</org></title>, published in this country by the <org>American
+						Birth Control League</org>.</item>
+				<item><person reg="MacDougal, William">William MacDougal</person>, <title
+						type="book">Is America Safe for Democracy?</title>.</item>
+				<item><person reg="Crookshank, Francis Graham">Crookshank</person>, <title
+						type="book">The Mongol in Our Midst</title>.</item>
+			</list>
+		</p>
+		<index level1="birth control" level2="rationales for"/>
+		<index level1="birth control" level2="definitions of"/>
+		<index level1="mortality rates" level2="infant"/>
+		<index level1="mortality rates" level2="maternal"/>
+		<index level1="mentally diseased and disabled"/>
+		<index level1="child labor"/>
+		<index level1="eugenics" level2="MS on"/>
+		<index level1="immigration" level2="MS on"/>
+		<index level1="child welfare"/>
+		<index level1="birth control methods" level2="MS on"/>
+	</headNote>
+	<docBody>
+		<p><person reg="Hugo, Victor">Victor Hugo</person>: <q who="HUGVI">There is no force in the
+				world like that of an idea whose hour has come</q>.</p>
+		<p>
+			<list>
+				<item>a. Pressure of populations upon food supply.</item>
+				<item>b. Reconciling} <supplied resp="MSPP">humanitarian</supplied> Democracy
+					Christianity} with race improvement</item>
+			</list>
+		</p>
+		<p>What is bc?</p>
+		<p>B.C. is the conscious control of the <supplied resp="MSPP">birth</supplied> rate by
+			Scientific means that prevent <add>the</add> conception of human life.</p>
+		<p>History supports fact that <add>nature ruthless</add> pestilence, <unclear resp="MSPP"
+				>floods</unclear>, crime war always operated to <unclear resp="MSPP"
+				>settle</unclear> population.</p>
+		<p>Barbarism, Savagery, Early <unclear resp="MSPP">civilization</unclear>, killed off old,
+				<add>infants</add>.</p>
+		<p><person>Plato</person>, <person>Aristotle</person>
+			<person>Seneca></person>.</p>
+		<p>Middle ages to end of 18 Century.</p>
+		<p>Knowledge &amp; practice of BC will end need for <del>abortion</del>
+			<add>foeticide</add>.</p>
+		<p><person reg="Bertillon, Jacques">Bertillon</person>.</p>
+		<p>Two classes--</p>
+		<p>
+			<list>
+				<item><place reg="Paris, France">Paris</place>--23--116</item>
+				<item><place reg="Berlin, Germany">Berlin</place>--57--147</item>
+				<item><place reg="London, England">London</place>--60-200</item>
+			</list>
+		</p>
+		<p>1 <gap extent="two words" reason="illegible"/></p>
+		<p>2 slums, child labor.</p>
+		<p>Charities 8 Billions--</p>
+		<p><add><person reg="Wells, H. G.">Wells</person> statement-- Intelligence slow
+					<unclear>growth</unclear></add>Disease, <supplied resp="MSPP">Defectives.
+				Delinquents. Dependents.</supplied>.</p>
+		<p>Regulation useless-- Infant <supplied resp="MSPP">mortality</supplied> 200,000 400,000
+			parents ignorant} too close, <supplied resp="MSPP">frequent pregnancy</supplied>
+			interrupted drugs--</p>
+		<p>Maternal mortality 20,000, mother-- tb. kidney 4 out of 7 die tb.</p>
+		<p>Feeble-minded.</p>
+		<p>
+			<person reg="Meyers, William Starr">Dr. <supplied resp="MSPP">Myers</supplied></person>
+			<supplied resp="MSPP">Statement</supplied>
+		</p>
+		<p><org reg="Juke Family">Jukes</org> &amp; <org reg="Kallikak Family">Kallikaks</org>--</p>
+		<p>Insane-- parole--</p>
+		<p>Child labor--older children pushed out to compete.</p>
+		<p><org reg="New York Society for the Prevention of Cruelty to Children">Society for
+				Prevention of Cruelty</org>.</p>
+		<p>If register for parents <add>child</add> to choose parents}</p>
+		<list>
+			<item>health certificate</item>
+			<item>wages--table</item>
+			<item><unclear>plans</unclear>--</item>
+			<item>chimney sweep</item>
+			<item>talent</item>
+			<item>
+				<unclear>carpenter</unclear>
+			</item>
+			<item>genius</item>
+			<item>
+				<gap extent="one word" reason="illegible"/>
+			</item>
+		</list>
+		<p>Immigration laws--keep out undesired types.</p>
+		<p>International problem <place>England</place>'s colonies, <place>Japan</place>-- <place
+				reg="United States">USA</place>
+			<place>China</place>, <gap extent="one word" reason="illegible"/></p>
+		<p>When B C should be practiced 7 reasons--</p>
+		<p>Three methods-- Continence <supplied resp="MSPP">Sterilization</supplied> Chemical &amp;
+				<supplied resp="MSPP">mechanical</supplied></p>
+		<p>Laws--</p>
+		<p>Clinics--3000 cases</p>
+		<p>letters--ministers--</p>
+		<p>Gentlemen of the new generation.</p>
+		<p>Throw off blinders of prejudice &amp; ignorance which has kept motherhood in bondage.
+			Have we not paid enough for this.</p>
+		<p/>
+	</docBody>
+</doc>

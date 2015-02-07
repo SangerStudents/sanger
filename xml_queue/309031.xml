@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Letter">
+    <mepHeader>
+        <prepDate>2014-06-25 CH proofed </prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1916/04/--"/>
+        <docTitle>
+            <titlePart>Letter to Mother Earth</titlePart>
+        </docTitle>
+        <idno>msp309031</idno>
+        <sourceDesc>
+            <bibl><title type="journal">Mother Earth</title><title type="article">A Letter from
+                    Margaret Sanger</title>April, 1916, pp. 492-93</bibl>
+            <bibl><title>Margaret Sanger Microfilm Edition</title> C1:132</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="birth control laws and legislation" level2="MS on"/>
+        <index level1="birth control" level2="distribution of information about"/>
+        <index level1="Sanger, William" level2="arrest, trial and imprisonment"/>
+        <index level1="Goldman, Emma"/>
+        <index level1="birth control" level2="arrests and imprisonment"/>
+        <index level1="law breaking and direct action"/>
+    </headNote>
+    <docBody>
+        <head>A LETTER FROM <person reg="Sanger, Margaret">MARGARET SANGER</person></head>
+        <p>THERE seems to be general dissatisfaction among the readers of <title type="journal"
+                >MOTHER EARTH</title> over the result of my trial.</p>
+        <p>Many of them have written me that the law remains unchanged. That any man or woman may
+            still be rushed into prison, whose case may not be "dismissed."</p>
+        <p>True-all too true.</p>
+        <p>The Socialists have been telling us this for years. They have been telling us that
+            "direct action" does not accomplish anything until the laws are changed.</p>
+        <p>You have taken an interest in my trial. You have written letters to <person
+                reg="Dayton, A.G.">Judge Dayton,</person>
+            <person reg="Content, Harold A.">U.S. Dist. Attorney</person> and other officials
+            requesting the dismissal of my case-You have pleaded the Cause of Birth Control thru
+            thousands of letters to these officials-you have been heard-the authorities dismissed
+            the case, as you requested-and now you are disappointed and "mad" at ME because they did
+            it.</p>
+        <p>I made no requests of the authorities: on the contrary I informed them, before the case
+            was dismissed, that I should continue my work until working women in <place
+                reg="The United States">America</place> should have the same freedom to get Birth
+            Control knowledge as the women of wealth.</p>
+        <p>I have tried to tell you that going into jail or staying out of it was of slight
+            importance to me. My work-my Cause, is the cry of anguish which comes to me from the
+            women of <place reg="United States, Southern">the Cotton Belt</place>-the cry of working
+            women tortured with the dread of child bearing and begging for relief from it. I am free
+            and have relieved nearly three hundred of these women in the past four weeks: to
+            continue to do this work-via direct action-is my Cause.</p>
+        <p><person reg="Sanger, William">William Sanger</person> went to jail-the law remained the
+            same-I did not go to jail-you say the law remains the same. Then the Socialists must be
+            right. Will <person reg="Goldman, Emma">Emma Goldman</person>'s trial change the law, or
+            will it serve as William Sanger's and my case has served-as precedents only? Opinions
+            expressed by several prominent members of the legal profession have been to the effect
+            that the "dismissal" of my case by the <org reg="United States, Government of"
+                >Government</org> is of far greater value as a precedent than an acquittal by a
+            jury.</p>
+        <p>Comrades-let's on with our work and stop quibbling.</p>
+        <byline>M.H.S.</byline>
+
+
+    </docBody>
+</doc>

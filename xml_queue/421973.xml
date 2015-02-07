@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published statement">
+    <mepHeader>
+        <prepDate>2014-06-25 CH proofed </prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1916-05-23">23 May 1916</docDate>
+        <docTitle>
+            <titlePart><supplied>Statement on Censorship in <place reg="St. Louis, MO">St.
+                Louis</place></supplied></titlePart>
+        </docTitle>
+        <idno>msp421973</idno>
+        <sourceDesc>
+            <bibl><title type="article">Mrs. Sanger Says She'll Speak; Not Dismayed by Halt</title> May 23, 1916.</bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="SLT">St. Louis Times</name>
+            <name id="UNK">Unknown</name>
+            <name id="SILSE">Silverman, Sergeant</name>
+            
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>After her speech scheduled for May 22 at the
+            <org>Victoria Theatre</org> was cancelled, Sanger gave a press statement at the
+            <org>Hotel Jefferson</org> in St. Louis.</p>
+        <index level1="Missouri" level2="birth control in"/>
+        <index level1="birth control" level2="arrests and imprisonment"/>
+        <index level1="birth control movement" level2="MS on"/></headNote>
+    <docBody>
+        <head>MRS. SANGER SAYS SHE'LL SPEAK; NOT DISMAYED BY HALT</head>
+        <q who="SLT"><p><div type="section"><head type="sub">Birth Control Advocate, Prevented From Giving Address Announces She'll Lecture in Public Hall-To Extend Stay.</head></div></p>
+        <p>Mrs. <person reg="Sanger, Margaret">Margaret Sanger</person> of <place reg="New York, NY">New York,</place> the militant advocate of birth control, who failed to deliver her scheduled lecture at the Victoria Theater Monday night, said Tuesday she would remain in St. Louis an extra day in order to lecture at a public hall. Heading a throng of 1200, she pounded vainly upon the outer doors for admission to the Victoria Monday night, but the house remained "dark." She attempted to speak from her automobile, but, on advice of the counsel, stopped when <person reg="Silverman, Sergeant">Sergt. Silverman</person> gave her two minutes</p></q> <q who="SILSE">"to cease or submit to arrest."</q></p>
+        <q who="SLT"><p>At Hotel Jefferson Tuesday <person reg="Sanger, Margaret">Mrs. Sanger</person> said she would sue the management of the theater for $5000 and would remain in St. Louis another day in order to deliver her public lecture, which she declared would be given in some hall to be announced later. Mrs. Sanger spoke at noon at the <org reg="St. Louis City Club">City Club,</org> and is scheduled to speak Tuesday evening at the <org reg="St. Louis Town Club">Town Club.</org></p>
+        <p>Mrs. Sanger declared Tuesday the treatment accorded her Monday night</p></q> <p>"was simply outrageous."</p>
+        <p>"My acquittal in New York is proof that my lectures are within the law. My itinerary required that I leave St. Louis Tuesday night, but I will remain until Thursday to deliver the public lecture I came here to deliver. Discouraged? Not a bit! This objection to my talk by the narrow-minded has only aided our movement and heartened me."</p>
+        <p><q who="SLT"><div type="section"><head type="sub">CROWD TUMULTUOUS.</head></div></p>
+        <p>Mrs. Sanger's "reception" at the Victoria Theater, when she arrived in an automobile accompanied by <person reg="Taylor, Clara">Miss Clara Taylor,</person> a nurse, <person reg="Caplan, L.C.">Dr. L.C. Caplan</person> and <person reg="O'Hare, Frank P.">Frank P. O'Hare,</person> ranged from tumultuous approval to hisses and catcalls.</q></p>
+        <q who="UNK"><p>"Break in the door!"</q> <q who="SLT">a man yelled loudly. Cheers followed.</q></p>
+        <q who="UNK"><p>"Too many children go to war," shouted a woman. "Let us know the truth."</q> <q who="SLT">Cheers and groans intermingled. Apparently the crowd was in a mood to storm the doors when Sergt. Silverman appeared. Mrs. Sanger stood on the seat of the automobile and began to talk. Sergt. Silverman gave his ultimatum of two minutes or jail. Mrs. Sanger began to talk. Sergt. Silverman took out his watch. Mrs. Sanger talked one minute and 59 seconds, and the lecture was over.</p></q>
+
+
+        <p/>
+    </docBody>
+</doc>

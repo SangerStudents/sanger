@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Autograph draft">
+    <mepHeader>
+        <prepDate>2010/04/07 AC</prepDate>
+        <prepDate>2014-03-11 CH clean regs and others</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1936-00-00">1936</docDate>
+        <docTitle>
+            <titlePart>Response to 'My Gandhi' by J. H. Holmes</titlePart>
+        </docTitle>
+        <idno>msp236724</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title>, S71:880</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp>
+                <name id="HOLJO">Holmes, John Haynes</name>
+            </resp>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="birth control"/>
+        <index level1="India"/>
+        <index level1="Gandhi, Mahatma"/>
+        <index level1="population" level2="birth control and"/>
+    </headNote>
+    <docBody>
+        <head><title type="book">My Gandhi</title> by <person reg="Holmes, John Haynes">J. H.
+                Holmes</person></head>
+        <p>The interesting story of <add>Mr. Holmes</add> meeting <person reg="Gandhi, Mohandas K."
+                >Gandhi</person> is not only delightful in its details but gives one such a vivid
+            picture of Mr. Holmes--No one could possibly believe, that one who has met over the
+            years thousands &amp; thousands of people from all <unclear reason="illegible"
+                >stations</unclear> &amp; from all nations classes &amp; casts confessed to have
+            “missed the excitement of <gap reason="illegible" extent="one word"/> great <gap
+                reason="illegible" extent="one word"/> because of my reluctance to grasp &amp; seize
+            for my own Satisfaction some portion of their meager stores of time &amp; strength.”</p>
+        <p> All through the book is this same humility of a great Soul--(as J H H certainly is) not
+            only could he not venture or trespass on the time of Gandhi in person but was reluctant
+            to take his time in reading his letters. I agree with Mr. Holmes in describing
+            Gandhi--not as a King with the material personally &amp; pageantry of a King--“<q
+                who="HOLJO">For it was the Spirit not the flesh which clothed this man in more than
+                majesty</q>” How splendid that the author met some of Gandhis dearest friends
+                <person reg="Slade, Mirabehu">Mirabehu Slade</person>, <person
+                reg="Nardu, Lawrence Housman Saronjin">Lawrence Housman Saronjin Nardu</person>, and
+            others. <person reg="Nehru, Jawaharlal">Nehru</person> Splendid too that <gap
+                reason="illegible" extent="one word"/> his advice Gandhi did not come to <place
+                reg="United States">America</place>.</p>
+        <p> It was my good fortune to visit Gandhi for three days in 1936 at his ashram at <place
+                reg="Wardha, India">Warda</place>. I am forever grateful to Mr. Holmes for sending a
+            letter to the Mahatma before my arrival telling him what I was in India to do.</p>
+        <p> Even tho Gandhi &amp; I did not see eye to eye on methods to control the birth rate, our
+            ideas on nearly every other subject clicked.</p>
+        <p> Just after reading <title type="book">My Gandhi</title>--someone kindly sent me <person
+                reg="Sheean, Vincent">Vincent Sheean</person>’s book on Gandhi.</p>
+        <p> There too one finds a modesty &amp; humility in his approach--which it is good to know
+            has feet by two outstanding Americans. </p>
+
+
+    </docBody>
+</doc>

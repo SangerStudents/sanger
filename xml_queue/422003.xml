@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="(Published Statement)">
+    <mepHeader>
+        <prepDate>2014/07/01 CH proof tags</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="(1917-01-27)"><supplied resp="MSPP">27 Jan. 1917</supplied></docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Statement on Ethel Byrne's Hunger Strike</supplied></titlePart>
+        </docTitle>
+        <idno>msp422003</idno>
+        <sourceDesc>
+            <bibl><title type="article">Birth Control Women Launch Drive for
+                    Law</title>, <title type="journal">Chicago Daily Tribune</title>, Jan. 27, 1917</bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="CDT">Chicago Daily Tribune</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><index level1="jails and imprisonment" level2="Blackwell's Island Workhouse (New York)"/>
+        <index level1="National Committee on Federal Legislation for Birth Control"/>
+        <index level1="National Committee on Federal Legislation for Birth Control" level2="birth control bills"/>
+        <index level1="birth control movement" level2="goals and strategies"/>
+        <index level1="birth control laws and legislation" level2="Federal"/>
+        <index level1="New York" level2="birth control laws and legislation"/>     
+    </headNote>
+    <docBody>
+        <head>BIRTH CONTROL WOMEN LAUNCH DRIVE FOR LAW</head>
+
+        <dateline><date value="Jan. 27"/>
+            <place reg="New York, NY">New York</place></dateline>
+        <q who="CDT"><p>The first result of the hunger strike and forcible feeding of <person reg="Byrne, Ethel">Mrs. Ethel
+                Byrne</person> at <org reg="Blackwell's Island Penitentiary">Blackwell's Island</org> came tonight.</p>
+            <p>A drive on <org reg="United States Congress">congress</org> Tuesday by <person reg="Fassett, Lillian Griffs">Mrs. Lillian Fassett</person> and others to get national
+                legislation favoring birth control is being organized.</p>
+            <p>Meanwhile Mrs. Byrne, hunger striking in protest against her conviction and
+                imprisonment for disseminating birth control information, gave up her battle.</p>
+            <p>It was not until Mrs. Byrne, having gone 108 hours without food or water, collapsed
+                that <person reg="Lewis, Burdett G.">Commissioner Lewis</person> established a precedent in American prison annals by
+                ordering her forcibly fed.</p>
+            <p>Later the prisoner apparently abandoned all resistance and allowed attendants to feed
+                her. She said she would not feed herself but would not object to being fed.</p>
+            <p>Visitors, including Mrs. Sanger, were denied permission to visit the prisoner.</p></div>
+            <p><div type="section">
+                    <head type="sub">Calls Sister Critically Ill.</head>
+                </div></p></q>
+        <p>"My sister," said <person reg="Sanger, Margaret">Mrs. Margaret Sanger,</person> leader of the birth control movement, "is in very
+            critical condition since she was rolled in a blanket and milk, eggs and a stimulant
+            forced into her stomach through a rubber tube.</p>
+        <p>"As for helping my sister, we are balked at every turn. The women of the <org reg="Committee of 100">committee of one
+            hundred,</org> Mrs. Fassett, <person reg="Finch, Mrs. Amos">Mrs. Amos Finch</person> and others have therefore concentrated on getting
+            favorable action by congress.</p>
+        <p>"A canvas of congressmen will be made by Mrs. Fassett and the others and one of our
+            friends chosen to introduce the proposed law.</p>
+        <p>"The bill has not been completely drafted, but it will seek the nullification of the
+            federal statute against the dissemination of birth control information and the
+            establishment of the righ to tell poor women who need it, all about it."</p></div>
+        <p><div type="section">
+                    <head type="sub">Explains "Hunger Strike."</head>
+                
+            <p><q who="CDT">Mrs. Sanger explained today that her sister is hunger striking "against the action of
+                the course in refusing her the right to test the constitutionality of the <place reg="New York, NY">New York</place>
+                anti-birth control law."</p>
+            <p>Describing it as</q> "the most outrageous piece of legislation on the statute books,"
+                Mrs. Sanger declared that it keeps poor working people in ignorance, while those
+                with money and intelligence can get the forbidden information and use it.</p>
+        <p>"Birth control is a new movement in this country," she said, "and misunderstood. Its only
+            object is to prevent the birth of more children than the parents can give good health,
+            good minds, and a good chance to win the battle of life. It is not opposed to the birth
+            rate, as such."</p></div>
+    </docBody>
+</doc>

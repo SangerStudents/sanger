@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published/Draft/Speech/Article">
+    <mepHeader>
+        <prepDate>2014/04/23 VS intital tags</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1933-05-17"> 17 May, 1933</docDate>
+        <docTitle>
+            <titlePart>Hotel Boise Speech</titlePart>
+        </docTitle>
+        <idno>msp421942</idno>
+        <sourceDesc>
+            <bibl><title type="article">Birth Control Speaker Urges Sensible Laws</title><title
+                    type="journal">Idaho Statesman</title> May 18, 1933</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="IS">Idaho Statesman</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger also appeared at the Owyhee Hotel in Boise the next day.</p>
+        <index level1="birth control" level2="and marriage"/>
+        <index level1="birth control" level2="distribution of information about"/>
+        <index level1="birth control" level2="medical justifications"/>
+        <index level1="birth control" level2="medical community and"/>
+        <index level1="birth control" level2="politicians and"/>
+        <index level1="birth control laws and legislation" level2="MS on"/>
+        <index level1="&quot;unfit&quot; to reproduce" level2="social burden of"/>
+    </headNote>
+    <docBody>
+        <head>Birth Control Speaker Urges Sensible Laws</head>
+        <div>
+            <q who="IS"><p> Speaking in the crystal ball room of <org>Hotel Boise</org>, Friday
+                    evening, <person reg="Sanger, Margaret">Margaret Sanger</person>, advocate of
+                    birth control, told why she had spent the last 20 years of her life trying to
+                    amend a law which was passed more than 60 years ago.</p></q>
+            <q who="IS"><p> She declared that were it possible for birth control information to be
+                    given legally, the country would benefit and future citizens would be of a
+                    higher type of human beings. The bill now pending on <org
+                        reg="United States Congress">congress</org> is in the <org
+                        reg="Judiciary Committee of the United States Congress">judiciary
+                        committee</org>, of which Senator <person reg="Borah, William Edgar"
+                        >Borah</person> is a member.</p></q>
+            <p> “Birth control laws were passed by congress 63 years ago,” <q who="IS">she said.</q>
+                “A federal law now exists which makes it impossible for scientific or medical
+                literature or supplies to be sent through the mails or common carriers.”</p>
+        </div>
+        <div>
+            <head type="sub"> Doctors Not Exempted</head>
+            <p> “<name reg="United States Penal Code">This law</name> makes no exemption to the
+                medical profession, nor to hospitals nor to medical colleges. It makes it a crime of
+                five years in prison or $5,000 fine for anyone to send or receive through the <org
+                    reg="United States Postal Service">U.S. mails</org> any information on birth
+                control. It also makes it a crime to send the address of a doctor or of a hospital
+                or clinic through mails where such information might be obtained.</p>
+            <p> “The state laws are different. Nearly all of the state laws exclude and exempt the
+                medical profession so that it is perfectly legal for a doctor in the state of
+                    <place>Idaho</place> to give oral information to his patients.</p>
+        </div>
+        <div>
+            <head type="sub"> Trying to Save Lives</head>
+            <p> “We are trying to change this federal law. We are trying to amend this congressional
+                law to exempt hospitals, doctors and medical colleges from the penalty of the law.
+                Our bill is now in the judiciary committee of the <org reg="United States Senate"
+                    >senate</org>, of which Senator Borah is a member. By the amending of this law
+                through our bill, we can save thousands of woman and save the state tax payers from
+                filling up institutions with a generation of children who are bound to become a
+                burden upon society,” <q who="IS">she said.</q></p>
+            <q who="IS"><p> Out of about 250 present, 125 signed cards saying they were interested
+                    in Mrs. Sanger’s work, and 60 who expressed a desire for a clinic in <place
+                        reg="Boise, ID">Boise</place>. This matter will be discussed with Mrs.
+                    Sanger today.</p></q>
+            <q who="IS"><p> There were 95 at the luncheon at the <org>Owyhee hotel</org> Friday noon
+                    to meet Mrs. Sanger.</p></q>
+        </div>
+    </docBody>
+</doc>

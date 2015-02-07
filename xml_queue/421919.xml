@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Publishe article">
+    <mepHeader>
+        <prepDate>2014/04/16 VS initial tags</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1937-01-17 ">17 January, 1937</docDate>
+        <docTitle>
+            <titlePart>Overpopulation: A Cause of War</titlePart>
+        </docTitle>
+        <idno>msp421919</idno>
+        <sourceDesc>
+            <bibl><title type="article">Urges Birth Control To Keep World Peace</title><title
+                    type="journal">New York Times</title> January 18, 1937</bibl>
+            <bibl><title type="article">Overcrowding Peril Discussed By Mrs. Sanger</title><title
+                    type="journal">Washington Post</title> January 18, 1937</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="NYT">New York Times</name>
+            <name id="WP">Washington Post</name>
+            <name id="LUBIS">Lubin, Isador</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">Sanger spoke at the Washington Town Hall, the event also featured Rev.
+        Russel J. Clinchy and Frederick C. Howe. Text is drawn from coveratge in <title
+            type="journal">New York Times</title> and <title type="journal">Washington Post</title>.
+            <index level1="birth control" level2="and war"/>
+        <index level1="birth control" level2="war and"/>
+        <index level1="birth rate" level2="population growth and"/>
+        <index level1="Italy" level2="overpopulation and"/>
+        <index level1="Japan" level2="overpopulation and"/>
+        <index level1="overpopulation" level2="threat to peace as"/>
+        <index level1="population" level2="war and"/>
+        <index level1="United States" level2="population growth in"/>
+        <index level1="Germany" level2="population policies of"/>
+    </headNote>
+    <docBody>
+        <head>Urges Birth Control to Keep World Peace</head>
+        <dateline>Jan. 17 <date value="1937/01/1937"/> and <place reg="Washington, D.C."
+                >Washington</place></dateline>
+        <div>
+            <q who="NYT"><p> Asserting that rapidly increasing populations of
+                    <place>Germany</place>, <place>Italy</place> and <place>Japan</place> are a
+                    menace to peace because of the “inevitable need” for territorial expansion, Mrs.
+                        <person reg="Sanger, Margaret">Margaret Sanger</person> pleaded tonight
+                    before a <org>Washington Town Hall</org> audience that birth control was
+                    necessary if world peace was to be assured. </p></q>
+            <q who="NYT"><p> The international leader of the birth-control movement scored the
+                    motives of Chancellor <person reg="Hitler, Adolf">Hitler</person> and Premier
+                        <person reg="Mussolini, Benito">Mussolini</person> in urging population
+                    increases in their countries. She declared that war was inevitable unless the
+                    rapid gain in births was halted. </p></q>
+            <p>
+                <q who="NYT">Mrs. Sanger said health officials estimated that 3.1 acres were needed
+                    to produce food and clothing necessary for one person to live ideally; 1.8 acres
+                    necessary for health, and 1.2 acres were absolutely necessary for existence. She
+                    pointed out that, within a few years, the tillable land in the three countries
+                    would not be sufficient to sustain life properly, and then, she added,</q> “the
+                explosion will come.” <q who="NYT">Japan’s “seizure” of <place>Manchukuo</place> and
+                    Italy’s conquest of <place>Ethiopia</place>, she said, were necessary for them
+                    to acquire the land to sustain the populations and offer some outlet for their
+                    surplus populations.</q>
+            </p>
+            <p>
+                <q who="NYT">In so far as the <place>United States</place> was concerned, Mrs.
+                    Sanger said, of the 4,500,000 births recorded during the present depression, 65
+                    per cent came in families on relief. She declared that</q> “relief is not a
+                temporary situation,” <q who="NYT">and that the problem could be best solved through
+                    birth control.</q></p>
+            <p> “We have increased that strata of our population that we do not need,” <q who="NYT"
+                    >she said.</q></p>
+        </div>
+        <div>
+            <head> Overcrowding Peril Discussed by Mrs. Sanger</head>
+            <q who="WP"><p> Birth control, crop control, the machine age and the slaughter of the
+                    AAA’s little pigs were debated last night at the Town Hall of Washington after
+                    Mrs. Margaret Sanger spoke on “Overpopulation- A Cause of War.”</p></q>
+            <q who="WP"><p> Mrs. Sanger called for a 25-year moratorium on population increase in
+                    the world as a method of assuring peace, but members of the discussion panel
+                    contended that redistribution of natural resources and more efficient methods of
+                    distributing the products of industry was the solution. </p></q>
+            <q who="WP"><p> Contending that warlike tendencies in Germany, Italy and Japan were the
+                    result of overpopulation, Mrs. Sanger advocated making birth control an
+                    important function of every State and municipal health department. She warned
+                    that the world is approaching the day when it cannot support its population.
+                </p></q>
+            <p>
+                <q who="WP"><person reg="Lubin, Isador">Isador Lubin</person>, commissioner of
+                        <org>Labor Statistics, Department of Labor</org>, declared the world has not
+                    yet begun to intelligently approach the problem of supporting its
+                    population.</q>
+                <q who="LUBIS">“We have a fetish that everyone should work all of the time,”</q>
+                <q who="WP">he said.</q>
+                <q who="LUBIS">“We must utilize the full capacity of industrial machines and to
+                    distribute work and income that persons could retire early and live
+                well.”</q></p>
+            <q who="WP"><p> Both Lubin and Mrs. Sanger agreed that while crops were being plowed
+                    under and pigs slaughtered in this country because of “overproduction,” the
+                    farmers were not producing enough to support the population.</p></q>
+            <q who="WP"><p> The Rev. <person reg="Clinchy, Russell J.">Russell J. Clinchy</person>,
+                    pastor of the <org>Mount Pleasant Congregational Church</org>, said the
+                    intelligent approach to birth control called for discarding the theory that
+                    relations between married couples not intended to produce children were carnal.
+                </p></q>
+            <q who="WP"><p> The audience cut short a speech by <person reg="Howe, Frederick C."
+                        >Frederick C. Howe</person>, special assistant to the <org
+                        reg="United States Secretary of Agriculture">Secretary of Agriculture</org>,
+                    while he was contending that lust for power was responsible for wars and
+                    advocating restricting the freedom of the press. The audience demanded Howe put
+                    his remarks in a question to Mrs. Sanger. </p></q>
+        </div>
+    </docBody>
+</doc>

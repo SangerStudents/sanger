@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="(Published article) ">
+    <mepHeader>
+        <prepDate>2014/04/04 VS initial tagging</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="(1934-12-04) ">4 Dec., 1934</docDate>
+        <docTitle>
+            <titlePart>Interview with the El Paso Herald Post</titlePart>
+        </docTitle>
+        <idno>msp421060</idno>
+        <sourceDesc>
+            <bibl><title>El Paso Herald</title></bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="HERALD">El Paso Herald</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">Sanger gives an interview with the El Paso Herald, explaining the need for
+        sterilization laws and education for students about birth contrl. <index
+            level1="birth control" level2="distribution of information about"/>
+        <index level1="birth control" level2="lack of knowledge of"
+            level3="negative consequences of"/>
+        <index level1="birth control" level2="in California"/>
+        <index level1="sterilization" level2="benefits and risks of"/>
+        <index level1="sterilization" level2="MS on"/>
+        <index level1="sterilization" level2="in United State"/>
+    </headNote>
+    <docBody>
+        <head>Sterilization Laws Are Emergency War Measures, Mrs. Sanger Says</head>
+        <div>
+            <p>
+                <q who="HERALD">The sterilization law is an absolute emergency war measure against
+                    conditions which we have no other way to fight, believes Mrs. Margaret Sanger,
+                    who will be known in history as the first woman to fight fearlessly and
+                    intelligently for birth control.</q>
+            </p>
+            <p> “I think California has the best law on sterilization and one that has been working
+                over a period of five years,” <q who="HERALD">she said.</q> “It is one that can be
+                followed with the greatest security for anyone who has fears of being taken
+                advantage of. It goes hand in hand with an educational campaign for those who should
+                be and are to be sterilized. Results are that there are more demands in California
+                for sterilization by persons who are made to realize the benefit and why they should
+                be, than can be met. </p>
+        </div>
+        <div>
+            <head type="sub"> Future Debt</head>
+            <p> “We have long substituted philanthropy and charity for recognition of evil to
+                society. Now the demand for more and more charity has increased incompetency and
+                piled up staggering debt future generations will have to pay, because of our
+                short-sightedness in not following up laws which have been passed.”</p>
+            <p>
+                <q who="HERALD">The evil from parole of incompetents from prisons and institutions
+                    is another question which people should take a stand against, Mrs. Sanger
+                    believes</q>. </p>
+            <p> “In most cases the officials are glad to get the inmates out of prisons or
+                institutions, when the disease has been abated. Generally, those persons leave a
+                child at home,” <q who="HERALD">she said.</q> “The institution takes no precaution
+                against the increase of those persons’ progeny. </p>
+            <p> “Sterilization is the only way to protect society from persons who have not the
+                moral responsibility to practice birth control.”</p>
+            <p>
+                <q who="HERALD">The knowledge of sterilization has made a great change in the
+                    acceptance of it, Mrs. Sanger maintains.</q>
+            </p>
+            <p> “It used to be thought the operation injured the individual. It is known now that
+                the operation is a minor one with the man and though a larger one with the woman
+                does not in any way affect the vital functions,” <q who="HERALD">she said.</q>
+            </p>
+        </div>
+        <div>
+            <head type="sub"> Promiscuity </head>
+            <p> “Certainly, they know more than their grandparents knew,” <q who="HERALD">she
+                    said.</q> “But whether promiscuity and birth control are practiced generally
+                among young people is a debatable one,” <q who="HERALD">she said.</q> “I believe
+                when we find such conditions in one locality we are inclined to put the stamp on the
+                country as a whole. I think when young people may have a smattering of knowledge and
+                act and talk wisely, we jump to conclusions in assuming they know more than they do. </p>
+            <p> “However, there are certain young girls in circles of the so-called better families
+                who are accepted with the others today, whereas yesterday they ran in ‘separate
+                herds’ and were known as ‘hussies’.” </p>
+            <p>
+                <q who="HERALD">An encouraging phase in the matter of birth control education is the
+                    general information that is</q> "learned in the study of science and hygiene in
+                schools today,” <q who="HERALD">Mrs. Sanger believes.</q>
+            </p>
+            <p> “You can’t teach boys and girls the danger of social diseases without giving a
+                general idea of the ways to combat it,” <q who="HERALD">she said.</q>
+            </p>
+        </div>
+    </docBody>
+</doc>

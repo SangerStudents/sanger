@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Review">
+	<mepHeader>
+		<prepDate>2011/05/23 CE</prepDate>
+		<prepDate>2011/05/24 CE Corrections</prepDate>
+		<prepDate>2011/06/21 CE Corrections</prepDate>
+		<prepDate>2014-03-18 CH clean regs</prepDate>
+		<docAuthor>Margaret Sanger</docAuthor>
+		<docDate value="1928-07-00">Jul 1928</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied>
+					<title type="article">Book Review of <title type="book">THE AGE OF
+							REASON</title></title>
+				</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp302114</idno>
+		<sourceDesc>
+			<bibl><title type="journal">Birth Control Review</title>July 1928, p. 218.</bibl>
+		</sourceDesc>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="Book Review"/>
+	</headNote>
+	<docBody>
+		<head>A NEW BOOK.</head>
+		<div type="section">
+			<p>“<title type="book">The Age of Reason</title>” is a delightful book. Every chapter
+				leaves you thinking, guessing, pondering, until the end when it finishes with a
+				masterly climax. Many references to Birth Control are made throughout in a friendly
+				spirit.</p>
+			<p>The book brings your thinking up-to-date, and presents you with charming characters
+				who fascinate as well as irritate.</p>
+			<p>Those with a scientific trend of thought will enjoy is fully, but it is good reading
+				for all. The conflict of science and religion goes on in a family of biologists, the
+				father of which is married to the daughter of a clergyman.</p>
+			<byline>
+				<person reg="Sanger, Margaret">M.S.</person>
+			</byline>
+		</div>
+		<div type="notes">
+			<note><title type="book">The Age of Reason</title>, Sir <person reg="Gibbs, Phillip"
+					>Phillip Gibbs</person>, $2.50, <org>Doubleday, Doran and Company</org>, <place
+					reg="Garden City, NY">Garden City, New York</place>, published June 29.</note>
+		</div>
+	</docBody>
+</doc>

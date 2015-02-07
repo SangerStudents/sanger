@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="(Published Interview) ">
+    <mepHeader>
+        <prepDate>2014/31/01 YG initial encoding</prepDate>
+        <prepDate>2014/02/07 CH proof tags</prepDate>
+        <prepDate>2014/02/07 YG correct tags</prepDate>
+        <prepDate>2014-11-10 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1936-02-05">05 Feb 1936</docDate>
+        <docTitle>
+            <titlePart>Interview with the<title type="journal">Rangoon Gazette</title></titlePart>
+        </docTitle>
+
+        <idno>msp421091</idno>
+        <sourceDesc>
+            <bibl><title type="article">"Dr. Sanger in Rangoon: Leader of Birth Control
+                    Movement,"</title>
+                <title type="journal">Rangoon Gazette</title>, 5 Feb 1936.</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="RG">Rangoon Gazette</name>
+            <name id="CRAFR">Crane,Frederikc</name>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">The first of two interviews published in the <title type="journal">Rangoon
+            Gazette</title> For the second interview see <xref from="421092.xml">February 6,
+            1936</xref>
+        <index level1="birth control" level2="access to" level3="international"/>
+        <index level1="Gandhi, Mahatma"/>
+        <index level1="conferences"
+            level2="International Neo-Malthusian and birth Control Conference" level3="1925 (6th)"/>
+        <index level1="birth control movement" level2="history of"/>
+    </headNote>
+    <docBody>
+        <head>Dr. Sanger in Rangoon</head>
+        <head type="sub">Leader of Birth Control Movement</head>
+        <div>
+            <p>
+                <q who="RG"> Dr. <person reg="Sanger, Margaret">Margaret Sanger</person>,
+                    internationally recognized as the leader of the birth control movement, arrived
+                    in <place reg="Rangoon, Burma">Rangoon</place>yesterday from
+                        <place>India</place>. This is Dr. Sanger’s first visit to India, although
+                    she has already visited almost every other country in the world.</q>
+            </p>
+            <p>“Parenthood when it is responsible can be a noble trust, a proud commission, an
+                honored assignment- but this can be accomplished only by taking it out of the sphere
+                of accident and placing it in the sphere of conscious responsibility. We can then
+                trust that every child will be a wanted child, born to its rightful heritage of
+                love, care and comfort.” <q who="RG">This is Dr. Sanger's message to <place
+                        reg="Burma">Burma</place>as it has been to every country she has visited,
+                    since she began her crusade for birth control twenty-one years ago.</q></p>
+            <p><q who="RG">Dr. Sanger herself is surprised at the fruitful results of her visit to
+                    India. She spoke at the <org reg="All-India Women's Conference">All-India
+                        Women's Conference</org>'s annual meeting at <place reg="Travancore, India"
+                        >Travancore</place>at the end of December. As a result a resolution was
+                    passed to ask the municipalities and hospitals in India to give free advice
+                    concerning birth control and the spacing of children. There were eight-five for
+                    the resolution and twenty-four against.</q></p>
+        </div>
+        <div>
+            <head type="sub">Meets <person reg="Gandhi, Mohandas K.">Mr. Gandhi</person></head>
+            <p>“Just prior to my departure for <place reg="Burma">Burma</place>, I had an
+                interview--a rather prolonged interview, it lasted two days-- with Mr. Gandhi,” <q
+                    who="RG">Dr. Sanger said to a Rangoon Gazette reporter. </q>“I was his guest and
+                had a very receptive and hospitable visit. We discussed the regulating of the size
+                of the family among the poorer families, for the well-to-do are already aware of the
+                various methods and have the means to practice them. The children of the poor only
+                come into this world to die off in large numbers. Mr. Gandhi agreed that there
+                should be regulation of families, but we differed as to methods to achieve this. He
+                was of the opinion that the correct method was continence. I opposed him, and said
+                that, although this might be practicable in small groups who could sublimate their
+                energies, it was not for the greater masses in their humdrum every day existence. I
+                put forward my arguments to support my statement against continence and said that I
+                thought birth control was much more scientific, less injurious and more conducive to
+                the happiness of the whole family.”</p>
+            <p><q who="RG">Dr. Sanger will leave tomorrow for <place reg="Singapore"
+                        >Singapore</place>. She hopes to meet medical men in Rangoon and, if
+                    possible, to organize a meeting.</q>
+            </p>
+        </div>
+        <div>
+            <head type="sub"><q who="RG">A Romantic Career</q></head>
+            <p><q who="RG">Mrs. Sanger has had a career which without exaggeration has been
+                    romantic. She was born in <place reg="Corning, NY">a small factory town in
+                            <place reg="New York">New York State</place>.</place> Of Irish
+                    parentage, she was the sixth in a family of eleven children. On her mother’s
+                    side she is related to the famous translator of <person reg="Khayyam, Omar">Omar
+                        Kheyyani</person>, <person reg="Fitzgerald, Edward">Edward
+                        Fitzgerald</person>; her <person reg="Higgins, Michael Hennessy"
+                        >father</person> was a Civil War veteran, a liberal, and a
+                philosopher.</q></p>
+
+            <p><q who="RG">The American fight for birth control was launched by Margaret Sanger in
+                    1914 when she invented the phrase “birth control,” launched the “<title
+                        type="journal">Woman Rebel</title>” magazine, and founded <org
+                        reg="Birth Control League of America">the first birth control organization
+                        in America</org>.</q></p>
+            <p><q who="RG">The “<title type="journal">Woman Rebel</title>” was suppressed, and Mrs.
+                    Sanger was indicted by the <org reg="United States Government">Federal
+                        Government</org>. Between her indictment and appearance for trial, she
+                    studied in <place reg="England">England</place> and <place reg="Netherlands"
+                        >Holland</place>, grounding herself in the social and economic aspects of
+                    the question and learning methods in the birth control clinics of Holland. In
+                    England her case aroused such sympathy that a letter in her behalf was addressed
+                    to <person reg="Wilson, Woodrow">President Wilson</person>President Wilson by
+                        <person reg="Bennett, Arnold">Arnold Bennett</person>, <person
+                        reg="Murray, Gilbert">Gilbert Murray</person>, <person reg="Wells, H.G."
+                        >H.G. Wells</person>, and other prominent people. When she returned home for
+                    trial, protests poured in to the <person reg="Clayton, Henry Delamar"
+                        >judge</person> and to the President, and in the face of this support, the
+                    case was dropped.</q></p>
+        </div>
+        <div>
+            <head type="sub"><q who="RG">Opens Clinic </q></head>
+            <p>
+                <q who="RG">Her next move was to test the New York State law by opening a clinic in
+                    the slum section of <place reg="Brooklyn, NY">Brooklyn</place>in 1916. As a
+                    trained nurse she saw the misery caused by too frequent pregnancies among the
+                    poor and resolved to help the mothers of <place reg="United States"
+                        >America</place> obtain safe, harmless birth control information. After ten
+                    days the clinic was raided by the police, Mrs. Sanger was convicted and spent a
+                    month in jail, but on appeal a judicial opinion was handed down permitting
+                    doctors to give contraceptive advice </q><q who="CRAF"> “for the cure or
+                    prevention of disease.” </q>
+            </p>
+            <p><q who="RG">Taking advantage of this decision, Mrs. Sanger opened the <org>Birth
+                        Control Clinical Research Bureau</org> in <place reg="New York, NY">New York
+                        City</place> in 1923. This clinic, the oldest in America and the largest in
+                    the world, has been operating ever since and serves as a teaching centre for
+                    clinics throughout the country. </q></p>
+            <p><q who="RG">In the spring of 1929 this clinic, too, was raided but the protests of
+                    physicians, lawyers, and an outraged public made it quickly apparent that a
+                    mistake had been made. Mrs. Sanger received an official apology and the court
+                    decision fully exonerated the clinic physicians.</q></p>
+            <p><q who="RG">Meanwhile Mrs. Sanger was developing the national and international
+                    aspects of the subject. In 1921 she organized the <org
+                        reg="First American Birth Control Conference">First American Birth Control
+                        Conference</org>, held in New York. The meeting was attended by men and
+                    women prominent in medicine and the social sciences and their participation and
+                    offers to help the cause did much to establish the movement.</q>
+            </p>
+        </div>
+        <div>
+            <head type="sub">World Tour</head>
+            <p><q who="RG">The following year Mrs. Sanger made a world tour, speaking in <place
+                        reg="China">China</place>, <place reg="Japan">Japan</place>, and <place
+                        reg="Hawaii">Hawaii</place>. Great impetus was given to birth control in the
+                        <place reg="Asia">Orient</place>through this visit.</q></p>
+            <p><q who="RG">An <org
+                        reg="International Neo-Malthusian and Birth Control Conference, Sixth (New York)"
+                        >International Birth Control Conference</org> was held in New York under her
+                    leadership in 1925, and two years later she was instrumental in calling together
+                    the <org reg="World Population Conference, 1927, Geneva"> World Population
+                        Conference in Geneva</org>. </q></p>
+            <p><q who="RG">Resigning the presidency of the <org reg="American Birth Control League">
+                        American Birth Control League</org>, which she had founded, Margaret Sanger
+                    organized the <org
+                        reg="National Committee on Federal Legislation for Birth Control"> National
+                        Committee on Federal Legislation for Birth Control</org> in 1929,to secure
+                    the amendment of the federal laws which forbid the sending of contraceptive
+                    information or supplies by mail or common carrier. Realizing that these federal
+                    laws must be amended of birth control information is to be given by clinics and
+                    hospitals to the poor who need it most, the Committee was organized for a
+                    nation-wide educational campaign. Its membership includes leading
+                    public-spirited men and women - doctors, teachers, ministers, welfare workers,
+                    nurses, editors, economists, and home-makers. It comprises many thousands of
+                    individuals who have given their personal endorsement to the birth control
+                    movement and the legislative aims of the Committee. </q></p>
+        </div>
+        <div>
+            <head type="sub">Campaign to Amend Laws</head>
+            <p><q who="RG">Actively aiding in the campaign to amend the federal laws is an imposing
+                    list of medical, social, educational, religious, and political organizations.
+                    The success of Mrs. Sanger’s work during the last five years may be measured in
+                    part by the number and kinds of groups which have passed resolutions in support
+                    of her efforts to amend the federal laws. Outstanding among these are the <org
+                        reg="Federal Council of
+                        Churches of Christ in America"
+                        >Federal Council of Churches of Christ in America</org>, regional
+                    conferences of the <org reg="Methodist Episcopal Church">Methodist Episcopal
+                        Church</org>, the <org
+                        reg="General Convention of the House of Bishops and House of Deputies of the Protestant
+                    Episcopal Church"
+                        >General Convention of the House of Bishops and House of Deputies of the
+                        Protestant Episcopal Church</org>, state medical societies and state public
+                    health associations, state Conferences of Social Work, <org
+                        reg="League of Women Voters">Leagues of Women Voters</org>, <org
+                        reg="Parents and Teachers Association">Parents and Teachers
+                        Associations</org>, and, during the last year, the <org>General Federation
+                        of Women’s Clubs</org> composed of 2,000,000 members and the <org>American
+                        Association of University Women</org>, representing 450,000 college women.
+                </q></p>
+            <p><q who="RG">Bills have been introduced into each <org reg="United States Congress"
+                        >Congress</org> since 1930 and hearings, with attendant publicity, have been
+                    held. </q></p>
+            <p><q who="RG">A happy recognition of Mrs. Sanger’s services was given by the
+                        <org>American Women’s Association</org> which in 1931 presented to her its
+                    medal for distinguished achievement. During this year her autobiography, <title
+                        type="book">“My Fight for Birth Control</title>,” was published. Mrs. Sanger
+                    is also the author of <title type="book">“Motherhood in Bondage </title>,”
+                        <title type="book">“Happiness in Marriage</title>,” <title type="book"
+                        >“Woman and the New Race </title>,” <title type="book">“The Pivot of
+                        Civilization </title>.” She founded the <title type="journal">“Birth Control
+                        Review”</title> and was its editor for eleven years.</q>
+            </p>
+            <p><q who="RG">Among her major activities during the least few years are the
+                    organization of the <org>American Conference on Birth Control and National
+                        Recovery</org>, held in <place reg="Washington, DC">Washington</place> in
+                    January, 1934, the introduction of bills now pending in Congress and the gradual
+                    enlightenment of the National Committee through regional and state chairmen.
+                </q></p>
+        </div>
+    </docBody>
+</doc>

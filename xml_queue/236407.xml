@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Autograph draft speech">
+	<mepHeader>
+		<prepDate>2014/12/05 SC encode</prepDate>
+		<prepDate>2014-12-19 CH proof tags</prepDate>
+		<prepDate>2015-01-22 CH enter tag corrections</prepDate>
+		<docAuthor>
+			<person><person reg="Sanger, Margaret">Margaret Sanger</person></person>
+		</docAuthor>
+		<docDate value="1924/01/10">10 Jan 1924</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Speech to the Second Meeting of the American Birth Control
+					League notes</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp236407</idno>
+		<sourceDesc>
+			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
+			<bibl>
+				<title type="mf">Margaret Sanger Microfilm, Smith College Collections</title>
+				S70:1060 </bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="TWAMAR">Twain, Mark</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Sanger likely used these speech notes when she made the opening address at the Second
+			Annual Meeting of the <org>American Birth Control League</org>, held in <place
+				reg="New York, NY">New York</place>. Other speakers included <person
+				reg="Ackermann, Frances B.">Frances B. Ackermann</person>, <person
+				reg="Kennedy, Anne">Anne Kennedy</person>, and <person reg="Porritt, Annie Goodrich"
+				>Annie Goodrich Porritt</person></p>
+		<index level1="American Birth Control League"/>
+		<index level1="birth control movement" level2="history of"/> 
+	</headNote>
+	<docBody>
+
+		<p>I wonder how many of you here tonight realize just how much <unclear resp="MSPP"
+				>significant</unclear> this gathering is <del>means</del>. How many of you realize
+			that this meetingof intelligent representative citize4ns brought together by an interest
+			in birth <del>means</del>
+			<add>control</add> represent the year of struggle and effort. Ten years! </p>
+		<p> Ten years of battling against ignorance and prejudice. A ten year fight for the right to
+			get people to talk and to think about the greatest problems that confront the human
+			race.</p>
+		<p>For there are few subjects which leave so large a practical segregation and at the same
+			time cut so deeply into the foundation of social evolution as birth control There are
+			few other questions of Equal obscurity and yet none perhaps which can show so unequalled
+			a leap in our Social Vista as birth control has done in so brief a period of time </p>
+		<p>The fundamental reason for such interest are two. That civilization is confronted with
+			two serious problems. 1 That of the pressure of population upon the food supply. 2 That
+			of reconsidering Humanitarian with race improvement. </p>
+		<p>Many of us realize that birth control is the key to their birth.</p>
+		<p>Mark Twain said: "<q who="TWAMA">everybody talks about the weather but no one ever seems
+				to do anything about it</q>"-</p>
+		<p>Well- The american B.C League is doing something about these problems.</p>
+		<p>We believe that words, theories, sentiment, sympathy are all very well in but we have got
+			to have intelligent thinking put into intelligent action.</p>
+		<p>If the programs for birth control is to grow, to expand, if it is even to hold the ground
+			it has gained through untold sacrifice and seemingly hopeless effort, we must have
+			cooperation courageous cooperation of individual and organizations who accept the truth
+			of birth control but do nothing about it. We need more English Courage in <place
+				reg="United States">America</place>. </p>
+		<p>We need the build of intellectual courage such as <person reg="Inge, William Ralph">Dean
+				Inge</person>, <person reg="Shaw, Bernard">Bernard Shaw</person>, <person
+				reg="Keynes, John Maynard">John Maynard Keynes</person>, <person
+				reg="Dawson, Bertand">Lord Dawson</person> the Kings physician, leave a private
+			conviction publically expressed. </p>
+		<p>These men have the courage to express their private convictions, publically.</p>
+		<p>Nor have they lost in the estimation of the British public by doing so-</p>
+		<p>The ABCL is calling for the cooperation of the medical <supplied resp="MSPP"
+				>professionals</supplied> for scientific research, for investigative and unbiased
+			study.</p>
+	</docBody>
+</doc>

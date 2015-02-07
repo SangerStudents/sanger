@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="(Published article) ">
+    <mepHeader>
+        <prepDate>2014/04/11 VS initial tagging</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="(1935-09-17) ">17 September, 1935</docDate>
+        <docTitle>
+            <titlePart>Statement at the national Committee on Federal Legislation for Birth
+                Control</titlePart>
+        </docTitle>
+        <idno>msp421065</idno>
+        <sourceDesc>
+            <bibl><title>New York World Telegram</title></bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="NYWT">New York World Telegram</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="Mussolini, Benito" level2="policy of"/>
+        <index level1="Africa" level2="birth control in"/>
+        <index level1="Italy" level2="birth control in"/>
+        <index level1="India" level2="overpopulation and"/>
+        <index level1="India" level2="population policies of"/>
+    </headNote>
+    <docBody>
+        <head>Dictators Seen as Nearsighted By Mrs. Sanger</head>
+        <byline>They Fail to Realize That Big Population Problesm Are the Cause of War, She
+            Says.</byline>
+        <byline>Forced <place>Ethiopia</place> Crisis</byline>
+        <byline>Birth Control by Immunization on Way - To Establish Clinics in
+            <place>India</place>.</byline>
+        <dateline>September 17, 1935 <date value="1935-09-17 "/><place/></dateline>
+        <div>
+            <p> “Dictators have no use for birth control because they are near-sighted,” <q
+                    who="NYWT">said <person reg="Sanger, Margaret">Margaret Sanger</person> today,
+                    shaking her roan colored hair.</q> “They seem to realize that constantly
+                increasing populations are potentially the strongest cause of war.” </p>
+            <q who="NYWT"><p> Mrs. Sanger, vivacious and good-humored after 21 years of fighting for
+                    the spreading of knowledge about birth control, today accepted an invitation
+                    from the <org>All India Women’s Conference</org> and plans to sail next month to
+                    establish clinics and bureaus in India. </p></q>
+        </div>
+        <div>
+            <head type="sub"> Real Basis for War. </head>
+            <p> “As a result of unlimited increase in population in <place>Italy</place>,” <q
+                    who="NYWT">said Mrs. Sanger,</q> “<person reg="Mussolini, Benito"
+                    >Mussolini</person> is eager to gain new colonial territory in
+                    <place>Africa</place> for his overflow. That’s the real basis for the Ethiopian
+                situation.”</p>
+            <q who="NYWT"><p> Mrs. Sanger told her plans at the office of the <org>National
+                        Committee on Federal Legislation for Birth Control</org>. </p></q>
+            <p> “We’re getting ahead fast,” <q who="NYWT">she said.</q> “In the future, and not very
+                far into the future either, birth control will be effective through immunization. It
+                will run for a half year depending on the dosage, just as small pox is staved off.
+                But we still have a long way to go. “ </p>
+        </div>
+        <div>
+            <head type="sub"> India’s Population Jumped. </head>
+            <p> “The population of India jumped from 318,000,000 in 1921 to 352,000,000 in 1931. And
+                they still kill girl babies and many widows still commit suicide on their husband’s
+                funeral pyres. What is to become of poor India? Well, I’ll see about that.”</p>
+            <q who="NYWT"><p> Mrs. Sanger disclosed that records of the <org
+                        reg="Birth Control Clinical Research Bureau">New York clinic</org> show that
+                    of the thousands of persons who asked for birth control guidance there had been
+                    only two per cent of failure for technical reasons and five percent for human
+                    reasons in the system taught. </p></q>
+        </div>
+    </docBody>
+</doc>

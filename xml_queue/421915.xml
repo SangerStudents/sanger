@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="(Published article) ">
+    <mepHeader>
+        <prepDate>2014/04/09 VS initial tagging</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="(1937-09-22) ">22 September, 1937</docDate>
+        <docTitle>
+            <titlePart>Public Letter on the East</titlePart>
+        </docTitle>
+        <idno>msp421915</idno>
+        <sourceDesc>
+            <bibl><title>Los Angeles Daily News</title></bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="LADN">Los Angeles Daily News</name>
+            <name id="NYT">New York Times</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">Sanger released a press statement in Honolulu after her trip to China was
+        canceled by the Japanese invasion. Text taken from coverage in the <title type="journal">Los
+            Angeles Daily News</title> and the <title type="journal">New York Times</title>. <index
+            level1="birth control" level2="access to" level3="international"/>
+        <index level1="birth control" level2="lack of knowledge of"
+            level3="negative consequences of"/>
+        <index level1="birth control" level2="socio-economic benefits of"/>
+        <index level1="birth control" level2="suppression of"/>
+        <index level1="birth control laws and legislation" level2="in Japan"/>
+        <index level1="Germany" level2="population policies of"/>
+        <index level1="Italy" level2="overpopulation and"/>
+        <index level1="Japan" level2="overpopulation and"/>
+        <index level1="overpopulation" level2="threat to peace as"/>
+        <index level1="population growth" level2="regulation of"/>
+    </headNote>
+    <docBody>
+        <head>Exponent of Birth Control Despairs of Orientals</head>
+        <div>
+            <p><supplied resp="MSPP">Part of this section has been omitted</supplied></p>
+        </div>
+        <div>
+            <p>
+                <q who="LADN">From <place reg="Honolulu, HI">Honolulu</place> Miss <person
+                        reg="Sanger, Margaret">Sanger</person> sent these comments:</q> “Population
+                pressure is a cause of war, and <place>Japan</place>, <place>Italy</place> and
+                    <place>Germany</place>, through failure to control their birthrates, are
+                justifying predictions that they would become the world’s ‘danger spots’.” </p>
+            <p><supplied resp="MSPP">Part of this section has been omitted</supplied></p>
+            <p> “Japan had 64,000,000 persons when I was there in 1922, and since then the
+                population has increased steadily from 800,000 to 1,000,000 a year,” <q who="LADN"
+                    >she said</q>. “But despite the annexation of <place>Manchukuo</place>, Japan is
+                still land-hungry. It has become, with Germany and Italy, a destroyer of
+                civilization through ruthless waging of arrogant warfare against innocent, peaceful
+                peoples.</p>
+            <p> “All these nations refuse to control their birthrate, and they refuse to give to
+                women the simple knowledge that could save the lives of untold thousands of women. </p>
+            <p> “Women’s progress in Japan has been retarded- the women have not been able to
+                maintain the advances they had made as far back as 1922. Reactionary forces, soon
+                after the earthquake, set up a strong, bureaucratic, militaristic government, and
+                since then women have not been allowed the natural freedom of evolutionary progress.
+                Women are not granted degrees in their colleges and universities, and of all the
+                women who have been allowed to attend medical universities, only 16 have been
+                granted medical degrees, through ‘special dispensation.’”</p>
+            <p><supplied resp="MSPP">Part of this section has been omitted</supplied></p>
+            <p> “In Japan,” <q who="LADN">she said</q>, “a campaign of public health is just raising
+                its head, and a new health institute which will provide an opportunity for mothers
+                in outlying districts to receive medical aid, but not birth control aid, will open
+                next year. But one can never foresee what may happen in a militaristic country, and
+                so the future is still dark and overclouded.” </p>
+            <p><supplied resp="MSPP">Part of this section has been omitted</supplied></p>
+        </div>
+        <div>
+            <head> Mrs. Sanger Assails ‘Population’ Nations</head>
+            <byline> She Cites Japan as a Present Aggressor That Has Refused to Limit Its Births </byline>
+            <p><supplied resp="MSPP">Part of this section has been omitted</supplied></p>
+            <p> “As far back as 1925,” <q who="NYT">she wrote</q>, “Professor <person
+                    reg="Thompson, Warren">Warren Thompson</person>, in his brilliant analysis of
+                the population problem, named Italy, Japan and Germany as ‘danger spots’ of the
+                world. Japan is fulfilling that prophecy, and not only are these countries the
+                danger spots of the world, but they are the destroyers of our civilization through
+                their ruthless method of waging arrogant warfare against innocent, peaceful peoples. </p>
+            <p> “All of these three nations refuse to control their birth rates and they also refuse
+                to give to their women and to their mothers the simple knowledge which could save
+                the lives of thousands upon thousands of these women and avoid the destitution,
+                misery and enslavement of large masses of their population.”</p>
+            <p>
+                <q who="NYT">Mrs. Sanger said Japan</q> “is keenly disappointed over the natural
+                resources of Manchukuo and is still land-hungry.”</p>
+            <p><supplied resp="MSPP">Part of this section has been omitted</supplied></p>
+        </div>
+    </docBody>
+</doc>

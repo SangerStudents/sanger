@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published interview">
+    <mepHeader>
+        <prepDate>2014-06-25 CH proofed </prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1916-01-10">10 Jan 1916</docDate>
+        <docTitle>
+            <titlePart>Interview on Woman Rebel Case</titlePart>
+        </docTitle>
+        <idno>msp421998</idno>
+        <sourceDesc>
+            <bibl><title type="article">Fights to Teach Birth Control</title>Jan. 17, 1916, p. 3</bibl>
+            <bibl><title>MSM</title></bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="CDT">Chicago Daily Tribune</name>
+            <name id="STORO">Stokes, Rose Pastor</name>
+            <name id="CARAL">Carpenter, Alice</name>
+        </respStmt>
+    </mepHeader>
+    <index level1="birth control" level2="distribution of information about"/>
+    <index level1="birth control" level2="lack of knowledge of" level3="negative consequences of"/>
+    <index level1="birth control" level2="morality of"/>
+    <index level1="Woman Rebelm The" level2="legal case"/>
+    <index level1="Woman Rebel, The" level2="suppression of"/>
+    <index level1="Woman Rebel, The" level2="birth control and"/>
+    <index level1="obscenity"/><headNote resp="MSPP"><p>Sanger gave an interview at her home, 26 Post Avenue, on her upcoming obscenity trial.</p> <index level1="xxxx"/></headNote>
+    <docBody>
+        <head>FIGHTS TO TEACH BIRTH CONTROL</head>
+        
+        <dateline><date value="1916/01/10">Jan. 10</date><place reg="New York, NY">New York</place></dateline>
+        <q who="CDT"><p>The trial of <person reg="Sanger, Margaret H.">Mrs. Margaret H. Sanger</person> will begin Tuesday in the federal building before <person reg="Clayton, Henry DeLamar">Federal Judge Clayton,</person> where she will be called upon to answer the charges of disseminating literature advocating birth control. Mrs. Sanger has refused to have any counsel, despite the advice of her friends, and is going to plead her own case.</p>
+        <p>At a dinner Monday at the <org>Hotel Brevoort,</org> at which will be present a number of her friends, Mrs. Sanger expects to explain what her case will be in the trial. At her home at 26 Post avenue Mrs. Sanger gave a history of the case and told what she intends to do.</p>
+        <p><div type="section"><head type="sub">Poor Families Largest.</head></div></p></q>
+        <p>"I found out," she said, "in my nursing experience so many facts about the overcrowding of children and the condition of the mother and the children that I thought something should be done. Only poor women were having large families, and the rich women who could give their children more comfort were not having children.</p>
+        <p>"I studied abroad and came back with my mind made up to give to the <place>United States</place> the benefit of my experience. I found that nowhere in this country were there any facts relative to the social problems as applied to large families or population.
+        <q who="CDT"><p><div type="section"><head type="sub">Her Publication Suppressed.</head></div></p></q>
+        <p>"I was astonished at this and it was then that I began to publish the <title type="journal">Woman Rebel</title> to call attention to the conditions, and addressed to the working women of America. The publication seemed innocuous to me, but the postal authorities suppressed the first edition and seven editions out of nine were suppressed and confiscated because they discussed the most innocent side of the subject.</p>
+        <p>"My question was whether working women can afford to keep large families and whether they are willing to hear discussion on the subject. I was not allowed to give the message to the working women. I insisted then and now that a discussion of this was right and fitting and the subject should be brought up.</p>
+        <q who="CDT"><p><div type="section"><head type="sub">Would Change the Law.</head></div></p></q>
+        <p>"If, as charged, my discussion of the subject comes under section 211 of the obscenity law, then that section should be done away with.</p>
+        <p>"I believe sincerely that the double standard of morals for men and women is due primarily to ignorance of birth control. Men are afraid of having large families; therefore, they do not feel that they can marry young and have children. The result is that they do not marry and the result is much of the immorality of today.</p>
+        <p>"I expect to conduct my own defense in my trial. I do not intend to make a high flown and oratorical defense, and I do not see why I should go to the big expense of having a lawyer. It will be a simple speech, for to me it is a simple subject, so I will try to take the place of an attorney. I think-I feel sure-that I will be acquitted, and it will be the greatest victory to the freedom of the press since the days of our forefathers."</p>
+        <q who="CDT"><p><div type="section"><head type="sub">Many Don't Know How.</head></div></p>
+        <p>Mrs. <person reg="Stokes, Rose Pastor">Rose Pastor Stokes,</person> a member of the dinner committee, said to a reporter:</p></q>
+        <q who="STORO"><p>"The question has interested me very much. Every one knows that well to do people are breaking the law regarding birth control all the time, and the legislatures themselves join in that. They cannot understand that everybody does not know how to control and restrict birth. An overwhelming majority of people cannot get the knowledge.</p>
+        <p>"We see the result in ever increasing numbers of children, most of whom die. By the time the ones who die have been buried, with the consequent expense, nothing is left for the others to live on, and they are starved and miserable. I think that birth control would regulate and end this."</p></q>
+        <q who="AC"><p><div type="section"><head type="sub">"A Grave Social Problem."</head></div></p></q>
+        <q who="CDT"><p>Miss <person reg="Carpenter, Alice">Alice Carpenter,</person> who is also a member of the dinner committee, said:</p></q>
+        <q who="CARAL"><p>"I am on the side of Mrs. Sanger because I believe the problem of birth control to be one of the grave social problems of our day. In my own personal experience I have found many poor families who are struggling to give their children a better education than they themselves have had and are handicapped by the fact that there are too many mouths to feed."</p></q>
+    </docBody>
+</doc>

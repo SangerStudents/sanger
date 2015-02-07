@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="(Published article) ">
+    <mepHeader>
+        <prepDate>2014/04/11 VS initial tagging</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="(1926-12-00) ">December, 1926</docDate>
+        <docTitle>
+            <titlePart>What Is the Greatest Need Now in the Sex Life of the Nation?</titlePart>
+        </docTitle>
+        <idno>msp321985</idno>
+        <sourceDesc>
+            <bibl><title>The Greenwich Village Quill</title></bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="GVQ">The Greenwich Village Quill</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">Part of a themed issue on "Sex Needs," Sanger's response was the first
+        published. Other responses were published by various authors in this volume. <index
+            level1="African-Americans" level2="discrimination of"/>
+        <index level1="birth control" level2="lack of knowledge of"
+            level3="negative consequences of"/>
+        <index level1="birth control" level2="physical justifications for"/>
+        <index level1="birth control" level2="rights associated with"/>
+        <index level1="birth control" level2="socio-economic benefits of"/>
+        <index level1="birth control" level2="suppression of"/>
+        <index level1="censorship" level2="in United States"/>
+        <index level1="divorce"/>
+        <index level1="eugenics" level2="MS on"/>
+        <index level1="children" level2="rights of"/>
+        <index level1="feminism and feminists" level2="MS on"/>
+        <index level1="marriage"/>
+        <index level1="men" level2="sexual fulfillment of"/>
+        <index level1="prostitution" level2="MS on"/>
+        <index level1="sex education" level2="birth control and"/>
+        <index level1="sterilization" level2="MS on"/>
+        <index level1="women" level2="freedom and rights of"/>
+    </headNote>
+    <docBody>
+        <div>
+            <head>What Is the Greatest Need Now in the Sex Life of the Nation?</head>
+            <byline>A Symposium</byline>
+            <head type="sub"> By <person reg="Sanger, Margaret">Margaret Sanger</person>
+            </head>
+            <p> The greatest need in the sex life of <place reg="United States">the nation</place>
+                is ADULT sex instruction. </p>
+            <p> Volumes have been written on sex instruction for children while adults must flounder
+                about for sane instruction or assume they know it all. </p>
+            <p> Plain physiological facts are essential and necessary for adults. Each day brings me
+                letters from hundreds of men and women showing the need for the simplest and
+                plainest intruction about the sex functions. </p>
+            <p>
+                <q who="GVQ">(In the letter that accompanied this answer by Margaret Sanger, there
+                    is one sentence we cannot refrain from quoting,</q> “Of course I want laws
+                changed; but ye gods! The plainest facts of life are unknown to millions of people;
+                there is no sex vocabulary known because of colossal ignorance.” <q who="GVQ">-
+                    Asso. Ed.)</q>
+            </p>
+        </div>
+    </docBody>
+</doc>

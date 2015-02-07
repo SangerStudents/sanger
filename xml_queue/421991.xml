@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="(Published Speech)">
+    <mepHeader>
+        <prepDate>2014/07/01 CH proof tags</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1956-05-31">31 May 1956</docDate>
+        <docTitle>
+            <titlePart>Speech to the Planned Parenthood Center of Buffalo</titlePart>
+        </docTitle>
+        <idno>msp421991</idno>
+        <sourceDesc>
+            <bibl><title type="article">Mrs. Sanger Reports on Visit to Asia</title>, <title type="journal">Buffalo
+                    Courier-Express</title>, May 31, 1956, p. 9</bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="BCE"/>
+        </respStmt>
+    </mepHeader>
+    <index level1="Japan" level2="overpopulation and"/>
+    <headNote resp="MSPP">Sanger spoke to the annual luncheon of the Planned Parenthood Center of
+        Buffalo at the Hotel Statler, 107 Delaware Ave. 14202. Other speakers included <person
+            reg="Abbott, Lois P.">Lois P. Abbott</person> and <person reg="Greenberger, Jane">Jane
+            Greenberger.</person><index level1="xxxx"/>
+        <index level1="India" level2="overpopulation and"/>
+        <index level1="International Planned Parenthood Federation"/>
+        <index level1="eugenics" level2="birth control and"/>
+        <index level1="eugenics" level2="positive"/>
+        <index level1="birth control" level2="distribution of information about"/>
+    </headNote>
+    <docBody>
+        <head><person reg="Sanger, Margaret">Mrs. Sanger</person> Reports On Visit to
+                <place>Asia</place></head>
+        <q who="BCE"><p>Population problems in <place>Japan</place> and <place>India</place> are
+                being met by the governments in a realistic way, Mrs. Margaret Sanger said here
+                yesterday. She spoke at the annual luncheon of the <org>Planned Parenthood Center of
+                        <place reg="Buffalo, NY">Buffalo</place></org> at <org>Hotel
+                Statler.</org></p>
+            <p>Mrs. Sanger, president of the <org>International Planned Parenthood Federation</org>
+                visited Japan and India in 1954 and spoke before the <org>House of Peers</org> in
+                Japan. She predicted that if the present plans are carried out Japan and India will
+                be in two generations "the most culturally and eugenically advanced countries in the
+                world."</p>
+            <p><div type="section">
+                    <head type="sub">Industry's Aid</head>
+                </div></p>
+            <p>In India, she said, each medical school will teach the subject of family planning,
+                industry will disseminate all available information to the workers and social
+                agencies are instructed to give all the information possible in their work.</p></q>
+        <p rend="MSPP">The remainder of the article, which did not deal with Sanger's appearance, was not included.</p>
+
+
+    </docBody>
+</doc>

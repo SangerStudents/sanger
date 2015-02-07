@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Autograph Draft">
+    <mepHeader>
+        <prepDate>AW Initial Tag</prepDate>
+        <prepDate>2014-04-13 EK clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="0000-00-00">n.d.</docDate>
+        <docTitle>
+            <titlePart>Is Motherhood Sacred?</titlePart>
+        </docTitle>
+        <idno>msp236406</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S73:0104</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>No further information has been found for this document.</p>
+        <index level1="birth rate" level2="consequences of"/>
+        <index level1="motherhood"/>
+    </headNote>
+    <docBody>
+        <head>Is Motherhood Sacred?</head>
+        <p><person>Pres Bank of England</person>--</p>
+        <p>Reminded me of <person reg="Wells, H.G.">H.G. Wells</person> prophecy.</p>
+        <p>Conditions of Social &amp; Economic chaos today stem back to the careless, reckless, <gap
+                extent="one word" reason="illegible"/> prolific breeding of our forebears who while
+            giving up service to such ideas as the “Sacred work of Mother” the “<q>Sacredness of
+                Motherhood</q>” did nothing to dignify or to enoble <add>it</add> or to protect the
+            fundamental rights of mothers or to give them knowledge &amp; freedom whereby Mothers
+            could bring into the world only the number of children she could bear &amp; rear as a
+            service to the Country &amp; to the race.</p>
+        <p>Motherhood throughout the ages has been the stepping stones for Oligarchies Kingdoms
+            &amp; Democracies. It has been the upon this Sacred function that Tyrants &amp; War
+            Lords have ascended to heights of renown.</p>
+    </docBody>
+</doc>

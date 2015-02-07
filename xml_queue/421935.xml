@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="(Published Speech">
+    <mepHeader>
+        <prepDate>2014/04/04 Initials</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="(1952-04-26) ">26 April 1952</docDate>
+        <docTitle>
+            <titlePart>Speech to the El Paso Planned Parenthood
+                Center</titlePart>
+        </docTitle>
+        <idno>msp421935</idno>
+        <sourceDesc>
+            <bibl><title>El Paso Times</title></bibl>
+            <bibl><title>MSM</title></bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="EPT">El Paso Times</name>
+            <name id="HP">Herald Post</name>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><person reg="Sanger, Margaret">Margaret Sanger</person>addressed the 15th anniversary meeting
+        of the <org>El Paso Planned Parenthood Center</org>, at the Country Club, on April
+        26. Quotes from the El Paso Times follow the Herald Post article. <index
+            level1="birth control" level2="access to"/>
+        <index level1="birth control" level2="access to"/>
+        <index level1="birth control" level2="American opinion on"/>
+        <index level1="birth control" level2="class-based"/>
+        <index level1="birth control" level2="civilization and"/>
+        <index level1="birth control" level2="morality of"/>
+    </headNote>
+    <docBody>
+        <head>Speech to the El Paso Planned Parenthood</head>
+        <head type="sub">Margaret Sanger Plans Tour in Far East</head>
+        <head type="sub">Praises Work Here</head>
+        <div>
+            <p>Mrs. Sanger praised the work of the three clinics in El Paso.
+                “This is one of the most encouraging spots in the nation,” <q who="HP">she told local workers</q>
+            “You are doing wonderful work in <place reg="El Paso, Texas">El Paso</place>. I
+                am also proud of the men here. They have given complete backing
+                to their wives who are members of the clinic staffs. I am
+                pleased at the support given to the work by the people and
+                officials of El Paso. </p>
+        </div>
+        <div>
+            <head type="sub">Plan Foreign Program</head>
+            <p>
+                <q who="HP">Mrs. Sanger outlined her plans for expanding planned
+                    parenthood programs in <place>India</place>, <place>Japan</place>and <place>China</place>. She will
+                    leave early in the fall to supervise the establishment of
+                    new units in those countries. </q> “There is still a great
+                need for constructive work in the Far East,” <q who="HP">she
+                    said.</q> “Fifteen countries have asked for our help in
+                setting up new programs. “The work is easiest in India, where
+                the officials speak English and have been trained in English
+                schools.” </p>
+        </div>
+        <div>
+            <p><supplied resp="MSPP">Remaining text taken from the El Paso Times
+                    article.</supplied></p>
+        </div>
+        <div>
+            <head type="sub">Margaret Sanger Discusses Reasons for Birth
+                Control</head>
+            <p>“We were lucky in <place reg="United States">America</place>to have opposition,” <q who="EPT">she said.</q>
+                “It brought out the strength and conviction that we were right. We
+                had something to fight for and against. We don’t mind the
+                opposition, we just want the opportunity to express our views.”</p>
+            <p>
+                “If the public health departments do not take it upon themselves
+                to instruct the poor, ignorant people, they will multiply in
+                numbers not only in poor physical condition but also in low
+                mental conditions. If we keep on like this, we shall be
+                reproducing toward a race of morons,” <q who="EPT">she asserted.</q></p>
+               <p> “It is a benighted opposition who ties the hands of our public health
+                authorities . This opposition is cruel because these people will
+                be forced to continue having the children they do not want or
+                cannot afford to have.” </p>
+                <p>“I knew then that birth control was a
+                human, a physical need,” she said. </p>
+        </div>
+
+
+    </docBody>
+</doc>

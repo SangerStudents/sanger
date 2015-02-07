@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="(Published Speech)">
+    <mepHeader>
+        <prepDate>2014/07/01 CH proof tags/prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="(1926-03-27)">27 Mar. 1926</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">War and Overpopulation</supplied></titlePart>
+        </docTitle>
+        <idno>msp422006</idno>
+        <sourceDesc>
+            <bibl><title type="article">20th Century Club Hears Mrs. Sanger</title>, <title type="journal">Boston Daily Globe</title>, Mar. 28, 1926, p. A13</bibl>
+            
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="BDG">Boston Daily Globe</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">Sanger spoke to the 20th Century Club in Boston. She shared the podium with H.A. Overstreet who spoke on "What Shall We do with the Older Generation."<index level1="overpopulation" level2="MS on"/>
+        <index level1="birth rate" level2="population growth and"/>
+        <index level1="birth control" level2="lack of knowledge of" level3="negative consequences of"/>
+        <index level1="birth control" level2="and marriage"/> 
+    </headNote>
+    <docBody>
+        <head>20TH CENTURY CLUB HEARS MRS SANGER</head>
+        <div><q who="BDG"><p><person reg="Sanger, Margaret">Mrs. Margaret Sanger</person> of <place reg="New York, NY">New York,</place> before the <org>Twentieth Century Club</org> yesterday discussed "War and Overpopulation." and <person reg="Overstreet, Harry Allen">Prof H.A. Overstreet</person> of New York answered the question he earlier asked: "What Shall we do with the Older Generation?"</p></q>
+        <p>Mrs. Sanger said:</p> <p>"There are two phases of the population question which concern the serious, scientific thought of the world-and one is the pressure of population on the food supply, which I will not attempt to take up here."</p>
+        <q who="BDG"><p>She then referred to the book by <person reg="East, Edward M.">Prof East,</person> <title type="book">"Mankind at the Crossroads."</title></p></q>
+        <p>"The other side of the problem concerns the reconciling humanitarianism with the races of men," she said. "There are two ways of controlling population-by increasing the death rate or decreasing the birth rate. We have increased the types of men in <place reg="United States">America</place> and we no longer think of disease and the inroads of the feeble-minded as necessary to increase and multiply."</p></div>
+        <div type="section"><head type="sub">Cites Progress</head>
+        <q who="BDG"><p>"What does it mean in our time that in 1923 we spent $8,000,000,000 on the diseased and defectives, this being a function of public charity? Is that expenditure, to wipe out disease? It means that 10 years from now we will double the amount to be expended in the same cause.</p>
+        <p>"If we are as we consider ourselves really a very generous, big-hearted people, if we apply the same efficiency to clear up our conditions here, as we do in other matters, we should wipe out this condition in one generation. We establish milk stations, but we allow thousands of parents to remain in utter ignorance of the conditions of proper living.</p>
+        <p>"People with 10 children don't want to be told how to raise additional children. The mothers of these much prefer to be told how to keep them alive without the coming of the extra 11th child."</p>
+        <q who="BDG"><p>The speaker opposed child labor outside the family. <place>England,</place> <place>Japan,</place> <place>Italy</place> and <place>Australia,</place> she says, have great child labor and population problems.</p></div>
+        <div type="section"><head type="sub">Marriage Problems</head>
+        <p>Mrs. Sanger then said that marriage should be preceded in all lands by education as to motherhood and that control of child-bearing be given until the economic ways of preservation were fully studied and understood.</p></q> <p>"We want," said the speaker, "to have young married couples accorded a year or two after marriage just to play together and develop the cultural side of their relations."</p>
+        <p>"It is not an easy thing for men and women to live together now as they did 40 or 50 years ago. We are trying to leave these young people to enjoy themselves; we are trying to recreate and build up new homes and we want to make women free."</p></div>
+        
+    </docBody>
+</doc>

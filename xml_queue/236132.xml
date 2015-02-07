@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed draft speech">
+    <mepHeader>
+        <prepDate>2004/08/01 MPL</prepDate>
+        <prepDate>2004/08/06 CH</prepDate>
+        <prepDate>2007/06/25 CH Oxygen update</prepDate>
+        <prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
+        <prepDate>2011-11-30 CH typos</prepDate>
+        <prepDate>2014-04-01 CH clean regs</prepDate>
+        <prepDate>2014-04-09 EK entered proofreading corrections</prepDate>
+        <prepDate>2014-02-22 CH added references to other 1916 speeches in the headnote.</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1916-04-00">
+            <supplied resp="MSPP">Apr.- May 1916</supplied>
+        </docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Birth Control</supplied> (Chicago Address to
+                Women)</titlePart>
+        </docTitle>
+        <idno>msp236132</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title>S70:759</bibl>
+        </sourceDesc>
+        <respStmt>
+            <name id="EMERA"> Emerson, Ralph Waldo</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>During her <place>United States</place> tour, <person reg="Sanger, Margaret">Margaret
+                Sanger</person> spoke three times in <place reg="Chicago, IL">Chicago</place>,
+            giving a speech called "<title type="article">Birth Control</title>," at the <org>West
+                Side Auditorium</org> on April 25 and May 7, and at the <org>Little Theater of
+                Chicago</org> on Apr. 30. She was scheduled to appear before the Chicago Woman's
+            Club on Apr. 11, but the event was canceled because Sanger was perceived as too
+            controversial. For a newspaper report of Sanger's April 25 speech, see "<xref
+                from="321958.xml">Birth Control</xref>."</p>
+        <p>Sanger made many handwritten changes to the document which may have been the base text
+            for several of her appearances. In an effort to offer the most complete version
+            possible, the editors have opted to include all the text, even those paragraphs she may
+            have omitted for some of appearances.</p><p>For other speeches given on that tour, see
+                "<xref from="128002.xml">Woman and Birth Control</xref>," "<xref from="101859.xml"
+                >Birth Control and Society</xref>," Apr.-June, 1916, and "<xref from="128003.xml"
+                >Condemnation is Misunderstanding</xref>," Apr.-Jun. 1916.</p>
+        
+        <index level1="abortion" level2="health risks of"/>
+        <index level1="birth control" level2="access to"/>
+        <index level1="birth control" level2="class-based"/>
+        <index level1="birth control" level2="health benefits and risks of"/>
+        <index level1="birth control" level2="lack of knowledge of"/>
+        <index level1="birth control" level2="natural law and"
+        <index level1="birth control methods" level2="douche"/>
+        <index level1="birth control methods" level2="efficacy of"/>
+        <index level1="birth control methods" level2="safe period"/>
+        <index level1="birth control" level2="socio-economic benefits of"/>
+        <index level1="censorship"/>
+        <index level1="Christianity"/>
+        <index level1="men" level2="sexuality and"/>
+        <index level1="mortality rates" level2="infant"/>
+        <index level1="physicians" level2="birth control and"/>
+        <index level1="physicians" level2="MS on"/>
+        <index level1="sex education"/> 
+        <index level1="women" level2="reproductive choices and decisions"/>
+        <index level1="women" level2="freedom and rights of"/>
+         <index level1="working classes"/>
+    </headNote>
+    <docBody>
+        <head rend="underline">Chicago Address to Women.</head>
+        <p>We are regimented by conventions. Habits and customs control us. We are ever afraid of
+            the untried, of the unknown. Instead of making of life a wide expanse of social
+            development we allow ourselves to be herded into narrow tracks through fear of
+            conventions. We are the victims of habit, not only of action but of thought. Our parents
+            thought so and so; and we think so and so. The world expects us to do so and so, and so
+            and so we do.</p>
+        <p>The earth is a globe, it revolves around the sun, it rotates on its axis: its inhabitants
+            have learned <emph rend="underline">this</emph> much in spite of opposition. And the
+            whole HISTORY of Civilization is the history of the STRUGGLE between those obeying the
+            OLD laws and those establishing the NEW.</p>
+        <p>
+            <add rend="underline">And</add> Every age adopts that which was considered UTOPIAN in
+            the last and wonders how its forefathers could have been so blind, backward, stupid,
+                <add>for</add> Progress infuses itself into everything and woe to him who would
+            impede its course. </p>
+        <p><person reg="Bruno, Giordano">Bruno</person> was burned to death because he chose to
+            teach the Italian people scientific truths about religion in the Italian language
+            instead of using the dead languages which had been employed to cloak the REAL EMPTINESS
+            of its dogmas.</p>
+        <p><person rend="underline">Socrates</person> was poisoned because he dared to combat the
+            SUPERSTITIONS of his people. Not long after his death, the citizens of <place
+                reg="Athens, Greece">Athens</place>, his countrymen, recognized the INJUSTICE of his
+            sentence, and executed <emph rend="underline">his</emph> accuser. Socrates thereby
+            became a demi-god.</p>
+        <p><person>Jesus Christ</person> was crucified because he attempted to SUPERCEDE the ritual
+            of <person>Moses</person>. As time rolled on the opinions of men CHANGED until
+            Christianity became an established dogma which it meant DEATH to dispute. Though he who
+            does dispute it may be imprisoned, slandered and persecuted, if he has courage in his
+            belief future ages may exalt HIM to a divinity and PERSECUTE others in his name as he
+            was persecuted in the name of his predecessor. SUCH is the HOMAGE of the world.</p>
+        <p>Now we realize that Christianity <del>came but to LAY</del>
+            <add>has come &amp; has lain</add> CHAINS on the human mind, and <del>to</del>
+            <add>has</add> imposed upon mankind the weary struggle to RECOVER the freedoms it had
+            obtained.</p>
+        <p><add>Christianity turned the hands of Civilization back 1000 years it turned them back
+                2000 years for woman and</add> Today we find ourselves engaged in a relentless
+            struggle with the SAME POWERS OF OPPRESSION which wrought from us the liberties our
+            forefathers obtained <emph rend="underline">for</emph> and gave to us for
+            preservation.</p>
+        <p>Today we are engaged in a GREAT STRUGGLE FOR WOMAN'S LIBERTY,! for the freedom of HER OWN
+            BODY, for her RELEASE from the domination and control, of CHURCH AND STATE.</p>
+        <p>Birth Control is the first step toward the goal of <del>her</del><add>this</add> freedom.
+            She can never gain political, social or spiritual freedom so long as her body remains
+            THE SLAVE OF IGNORANCE. No woman <add>can</add>call herself free who cannot choose the
+            time to be a mother or not as she sees fit. And women of today REBEL against spending
+            the whole of their adult lives in bringing children into the world. Out of this
+            rebellion, out of this impulse, out of this desire <add>for voluntary motherhood</add>
+            has risen the Birth Control movement in the United States.</p>
+        <p> I believe that this is the <del><emph rend="underline">first</emph> great movement since
+                the Civil War,<add>most revolutionary movement of the day</add> and THE MOST
+                IMPORTANT ISSUE of the Twentieth Century. Its advocates <add>too</add> have been
+                SLANDERED, PERSECUTED, JAILED because they have voiced THE CRY OF WORKING WOMAN for
+                    <del>their</del>
+                <add>her</add> BODILY FREEDOM.</del>
+        </p>
+        <p>In nearly every country in the world today the great mass of educated and wealthy women
+            PRACTICE SOME METHOD OF BIRTH CONTROL, though in the same countries the WORKING WOMEN
+            are kept in ignorance of this knowledge.</p>
+        <p>It is said by physicians and others who work among the working women, that as soon as she
+            rises out of the lowest stages of ignorance and poverty her FIRST STEP is to seek
+            information of some practical means to <del>limit her family</del>
+            <add>control the size of her family</add>.</p>
+        <p>Everywhere she seeks for knowledge on the subject very seldom can she find it, because
+            the medical profession refuses to give it to her and others with whom she comes in daily
+            contact are as ignorant as herself of the subject.</p>
+        <p>The consequence is she must accept <add>any</add> stray bits of information wholly
+            UNRELIABLE and UNINFORMED. The result is that quacks and abortionists thrive on her
+                <emph rend="underline">innocence</emph> and ignorance is perpetuated.</p>
+
+        <p>In my opinion the proper authorities to give <add>special &amp; scientific</add> advice
+            on Birth Control are the DOCTORS and NURSES <add>&amp; midwives-</add>. No other class
+            of men or women are so AWARE of the NEED of this knowledge among the working people as
+            they. YET THEY HAVE REMAINED SILENT! The time has come when they MUST TAKE THEIR STAND
+            in their progressive movement. For though the subject is largely <emph rend="underline"
+                >social</emph> and <emph rend="underline">economic</emph> yet it is in the main
+                <emph rend="underline">physical</emph> and <emph rend="underline">medical</emph>,
+            and the object of those advancing the cause is to open the doors of the medical
+            profession, who in turn will force open the doors of the laboratories, where our
+            chemists will give the women of the twentieth century reliable and scientific means of
+            contraception hitherto unknown.</p>
+        <p> A meeting of this kind is somewhat new, but undeniably important. It may be
+            DISAPPOINTING to some of you to hear that I am NOT going to give you information to
+            prevent conception in this meeting. <add>I take for granted that every woman in this
+                audience -- is serious minded &amp; wishes to learn some thing about the sacred
+                truths of her body sex functions. It is not the best place to give knowledge.</add>
+        </p>
+        <p>You have a LAW in <place reg="Illinois">this State</place> which FORBIDS your getting
+            this information <add>about abortions</add>. <del>from me NOW</del> but it does <emph
+                rend="underline">ALLOW</emph> your PHYSICIAN to instruct you <add>in prevention of
+                conception</add>. </p>
+        <p>I do not intend to VIOLATE this LAW, nor to IMPOSE any legal defense of my cause upon
+            your consideration, <emph rend="underline">UNLESS YOU WOMEN OF CHICAGO desire me to do
+                so</emph>.! I do intend however to give you special information concerning your
+            bodies which Every <add>adult</add>Women Should Know and which it is well within
+                <del>your RIGHTS</del> for you to hear. <add>my<gap reason="illegible"/> rights to
+                tell you</add>. </p>
+        <p>The FIRST subject which we shall take up is:</p>
+
+        <div type="section">
+            <head type="sub"><emph rend="underline">HOW CONCEPTION TAKES PLACE</emph>.!</head>
+            <p>It is important that every adult man and woman should know and clearly understand
+                what CONCEPTION means and how <add>it</add> occurs.</p>
+            <p>WHEN ONCE THIS IS THOROUGHLY KNOWN IT WILL BE IMPOSSIBLE TO <emph rend="underline"
+                    >CONFUSE</emph> BIRTH CONTROL WITH ABORTION as the <add>ignorant</add> opponents
+                of this movement are so fond of doing.</p>
+            <p>I regret that I shall have time only to go very briefly into the subject to give you
+                a general idea of what actually occurs.</p>
+            <p>In every woman's <add>body there are two</add> ovaries <add>and within them</add>
+                there are embedded millions of ovules or eggs. They are present in every female at
+                birth, and as</p>
+            <p><gap extent="one page" reason="missing"/>fertilized ovum any attempt at removing it
+                or preventing its development or further growth is called ABORTION. <add>B.C. is not
+                    abortion!</add></p>
+            <p>That there is almost no other country in the world where so many abortions occur as
+                in the <place>United States</place> is a fact worthy of consideration and interest.
+                That the laws in these same United States are the most rigid and the penalty the
+                heaviest for any action toward abolishing abortion (by prevention of conception) of
+                any country is also worthy of interest.</p>
+            <p>Abortion is the most common as well as one of the most SERIOUS disturbances of
+                pregnancy yet it is said that ONE out of EVERY FIVE pregnancies terminate abruptly
+                in abortion.</p>
+            <p>It is roughly estimated that at least <emph rend="underline">250,000</emph> abortions
+                occur in the United States EACH YEAR while <emph rend="underline">50,000</emph>
+                women die from their effects.</p>
+            <p><del>There</del>
+                <add>One of the most tragic facts today </add>
+                <del>no doubt</del>is that <add>our</add> women are apt to look upon an abortion as
+                of little consequence and to treat it <del>accordingly</del>
+                <add>lightly</add>. An abortion should be regarded as IMPORTANT <add>serious</add> a
+                matter as a confinement and REQUIRES AS MUCH ATTENTION as the birth of a child at
+                full term.</p>
+            <p>It is only the women of wealth who can afford to give an abortion the proper care and
+                treatment both at the same time and afterwards. Consequently THESE WOMEN seldom
+                suffer any serious consequences from its occurrence.</p>
+            <p>It is the WORKING WOMEN, whose means are limited <add>cheapest men incompetent</add>
+                and who must continue AT WORK before they have recovered from the effects of an
+                abortion, who are the GREAT ARMY OF SUFFERERS and it is from among THESE WOMEN that
+                the DEATHS due to abortions usually ensue.</p>
+            <p>If women had the knowledge to prevent conception there would be almost NO NECESSITY
+                for abortion.!! It is because abortions occuring so frequently among the working
+                women today -- the suffering, illness and death resulting from the carelessness of
+                their performance, -- that has urged me to make ANY SACRIFICE and direct my efforts
+                to make it possible for these women to obtain: CLEAN, HARMLESS KNOWLEDGE OF THE
+                MEANS TO PREVENT CONCEPTION and thereby PREVENT ABORTIONS and <emph rend="underline"
+                    >the NECESSITY FOR THEM</emph>!</p>
+            <p>During my nursing experience in <place reg="New York, NY">New York</place> I came in
+                contact with some of the midwives and had occasion to view their appliances which
+                they use in their profession. I was HORRIFIED at the filthy condition of the
+                scissors, forceps, brushes, etc. their kit contained.</p>
+            <p>IS IT ANY WONDER THAT DEATHS OF THE POORER WOMEN MOUNT SO HIGH?</p>
+            <p>The more I see of women who have had abortions and the more I see of the RESULTS of
+                abortions, the more convinced I am of their INJURIOUS effect on women and the
+                stronger do I urge the knowledge of the prevention of conception.</p>
+            <p>The results of abortion are usually of far more serious effect on the woman's health
+                than a full term child birth. There is the possibility of the womb not returning to
+                its natural size but remaining large and heavy and tending to fall away from its
+                proper position in the body.</p>
+            <p>Then one abortion so often leaves the uterus in a condition to conceive very easily
+                again, and unless prevention is strictly followed another pregnancy will SURELY
+                occur. Frequent abortions have a tendency to establish sterility or barrenness in
+                the woman as well as result in pelvic ailments.</p>
+            <p>There are many cases of women suffering from tuberculosis, kidney disease, heart
+                disease, pelvic deformities, etc. to whom pregnancy stimulates the disease and often
+                means death, so that the physician must perform an abortion in order that her health
+                and life may be preserved. THERE IS NO LAW AGAINST THE PHYSICIAN'S DOING THIS, yet
+                our laws <add>must state</add>
+                <del>make</del> it a CRIME for that physician to inform that same woman how to
+                prevent conception and thereby prevent abortion and its tragic suffering.</p>
+            <p><emph rend="underline"> KNOWLEDGE TO PREVENT CONCEPTION IS THE ONLY CURE FOR
+                    ABORTION.</emph></p>
+            <p>May the women of this country rise up and demand the REPEAL of the laws which force
+                such abhorrent conditions upon them <add>&amp; demand this knowledge to prevent
+                    abortion.</add></p>
+            <p>Naturally one of the first questions asked by all concerned is:</p>
+        </div>
+        <div type="section">
+            <head type="sub"><emph rend="underline">ARE PREVENTIVE MEASURES CERTAIN?</emph></head>
+            <p>It is always difficult to say that ANYTHING is CERTAIN in its result. A surgeon would
+                not succeed with the most serious operation was he not most particular to take every
+                precaution and insist that all directions be faithfully carried out.</p>
+            <p>IT IS THE SAME WITH PREVENTION. There is EVERY REASON to believe that if the
+                directions are carefully followed in preventive methods some means are quite
+                certain.</p>
+            <p>The educated women have been practicing methods of prevention for nearly a
+                half-century and have found them certain and safe. Of course -- if a woman is TOO
+                INDOLENT or TOO INDIFFERENT to <add>(douche)</add>to take precautions and to give
+                herself certain attentions in cleanliness and hygiene, then NOTHING can be certain,
+                but I have found most women desirous and anxious <emph rend="underline">for
+                    knowledge</emph>, no matter what inconvenience it implied.</p>
+            <p><del>One</del>
+                <add>Another</add> of the questions so often asked by women who are fearful to use
+                preventatives is:</p>
+        </div>
+        <div type="section">
+            <head type="sub">
+                <emph rend="underline">ARE PREVENTIVE METHODS INJURIOUS TO HEALTH?</emph></head>
+            <p>A <person reg="Unknown">very prominent authority</person> claims that there is far
+                more injury to a woman's health <emph rend="underline">to live in CONSTANT
+                    FEAR</emph> of pregnancy than the use of all the preventive measures in the
+                world. It is further claimed by some physicians that some preventive is absolutely
+                necessary and even helpful to a nervously weak woman in helping her to regain her
+                health. But much depends upon THE KIND of method used.</p>
+            <p>Strong solutions of anti-septics for the douche are one of the many injurious
+                methods. When they are ABOVE THEIR PROPER STRENGTH they are liable to injure the
+                delicate membranes of the parts. The same solutions in weaker proportions <add><emph
+                        rend="underline">bichloride tablets in bag. salt</emph></add>act as a
+                cleanser and are seldom injurious. <add>but as</add> Every woman is susceptible to a
+                greater or lesser degree to all drugs, <del>and</del>
+                <add>it is best</add> if possible a physician should advise the use of them.</p>
+            <p>There are also certain mechanical methods <add>buttons etc wishbone pessaries</add>
+                employed by some women which might give rise to an irritation and cause disease, but
+                the temporary use of the same would be quite harmless.</p>
+            <p>In employing any preventive measure there is almost NO DANGER TO THE MAN'S HEALTH at
+                all. Even the habit of coitus-interruptus which is so commonly practiced everywhere
+                is not considered as dangerous to his health as was formerly thought, but on the
+                other hand is considered by many prominent authorities as injurious to the woman's
+                nervous system. In fact it is considered the cause of many nervous disturbances in
+                women. <add>(explain)</add></p>
+        </div>
+        <div type="section">
+            <head type="sub">DO PREVENTIVE METHODS LEAD TO STERILITY?</head>
+            <p>This question is often asked by women early in marriage, who desire to use preventive
+                methods for a period, until it becomes economically possible to care for a
+                    <del>child</del>
+                <add>family</add>. It is feared that the use of preventives will cause sterility,
+                and when a child is desired the woman will be unable to conceive.</p>
+            <p><add>Physicians agree that</add> There is no ground for this fear. It has been shown
+                by hundreds of cases where parents have lost a child, that though they had practiced
+                prevention for four, five, or even ten years, conception has taken place when
+                desired. Personally, I know a patient who gave birth to a child after 20 years' use
+                of preventives.</p>
+            <p>As mentioned before, strong solutions should be especially avoided in this respect.
+                But it is well to get the advice of your family physician and bring these questions
+                before him. <add>It all depends upon the proper method used.</add></p>
+        </div>
+        <div type="section">
+            <head type="sub">IS THERE A SAFE PERIOD?</head>
+            <p>There are some women who believe there is a safe period in the month when CONCEPTION
+                    <del>does</del>
+                <add>can</add> NOT take place. That if intercourse does not occur from four days
+                before menstruation until a week after it has ceased, in the time remaining
+                conception will not occur.</p>
+            <p>There are many women who have found this to be true in their own experience, but most
+                medical authorities DENY its infallibility, and personally I have known of more
+                abortions resulting from this method that those with whom it has been successful. IT
+                IS NOT WISE TO TRUST TO IT.</p>
+            <p>There are also many women, and a few men, who claim that intercourse is intended only
+                for procreation, and that it should not take place unless a child is desired. In
+                this way no preventives are necessary.</p>
+            <p>I must admit I that held this view for years, and I have a <del>lingering regard
+                    for</del>
+                <add>interest in</add> it still. I believe the sexual act involves a CREATIVE ENERGY
+                which can be directed into channels for creative work and self-expression.</p>
+            <p>I lay special stress on CREATIVE WORK, which in my estimation draws on different
+                forces in the body than mechanical, physical or routine labor.</p>
+            <p>But I know, too, that the sexual life of man differs greatly in nature and the course
+                of its development from the sexual activity of woman, and also that the MAJORITY of
+                men and women today are doing VERY LITTLE creative work, which leaves almost the
+                only outlet for their creative energy through the sexual act.</p>
+            <p>The consequence is, all modern life FORCES a sexual outlet through intercourse, and
+                IT IS ONLY THE FEW EXCEPTIONS who are able to live up to this theory, even if it is
+                accepted.</p>
+            <p>When once we throw down the bars of Puritanical bigotry and look upon sex and its
+                expression apart from procreation as a fundamental basis of all life, we shall come
+                to realize that all the repressive measures employed by legislatures and laws cannot
+                solve our sex problem. Let us rather BEAUTIFY them and direct their flow into
+                creative channels for the benefit of society, and look upon sex as <person
+                    reg="Emerson, Ralph Waldo">Emerson</person> did when he said: "<q who="EMERA"
+                    >Work your passions into poetry</q>".</p>
+            <p>A new world awaits humanity when women shall raise the standard of sex and raise man
+                to its level, of <emph rend="underline">beauty</emph> and <emph rend="underline"
+                    >significance</emph> and <emph rend="underline">recognize</emph> and <emph
+                    rend="underline">accept</emph> and <emph rend="underline">understand</emph> it,
+                instead of suppressing and denying <del>it</del>
+                <add>&amp; debasing it</add>.</p>
+        </div>
+        <div type="section">
+            <head type="sub">WHEN SHOULD WOMEN AVOID HAVING CHILDREN?</head>
+            <p>It is well for a woman not to give birth to a child:</p>
+            <p>1. Before she is AT LEAST <emph rend="underline">twenty-two</emph> years of age;
+                better twenty-five if possible.</p>
+            <p>2. From TWO to THREE years after the birth of the LAST child, in order to properly
+                nurse and care for the last child and to allow the mother to renew her strength for
+                the next.</p>
+            <p>3. Whenever a woman or man suffers from diseases such as tuberculosis, gonorrhea,
+                syphilis, cancer, epilepsy, pelvic deformities, insanity, drunkenness, and mental
+                diseases. </p>
+            <p>4. When parents, though healthy themselves, find that their children are physically
+                or mentally defective.</p>
+            <p>5. Whenever the conditions of life and the uncertainty of livelihood do not give the
+                prospect of bringing up children decently and of giving them a better chance than
+                the parents have had. </p>
+            <p> AND FOR WORKING WOMEN <add>She should not have a large family</add></p>
+            <p>6. So long as society remains indifferent to the needs of the worker's children. </p>
+            <p> 7. So long as <del>child slaves still</del><add>her children must</add> toil in
+                mills and factories.</p>
+            <p>8. So long as a system of society exists in which children must compete in the labor
+                market with their fathers for their daily bread.</p>
+            <p>9. Let us remember that so long as the mothers of the race must breed <emph
+                    rend="underline">in ignorance</emph>, they shall continue to fill insane
+                asylums, penitentiaries, jails and almshouses with their offspring and provide the
+                trenches of the world with their flesh and blood that has already <emph
+                    rend="underline">reddened every battlefield in history.</emph><add>other
+                    page</add><gap extent="one page" reason="missing"/></p>
+            <p>Some of those who take their stand against Birth Control do so by the thought that we
+                have no right to destroy potential life.</p>
+            <p>A little study of human and animal physiology would convince them that every celibate
+                male and female as well as married men insistently and inevitably waste MYRIADS of
+                germ cells which had the potentiality of fusion with an ovum and consequently
+                produced a child had the opportunity been given them.<add> If it's a crime to
+                    prevent creation then its a crime to refuse to marry a man--</add></p>
+            <p>For the supposed sake of one or two of these myriad sperms <add>cells</add> which
+                must NATURALLY and INEVITABLY die <add>any way</add> they
+                    <del>encourage</del><add>insist upon</add> the production of babies in rapid
+                succession, which are weakened by their proximity which might otherwise have been
+                sturdy and healthy, had they been conceived further apart from each other.</p>
+            <p>Such people, while awake to the claims of the unborn and even the unconceived,
+                continue to be BLIND to the claims of the woman's health and will force a woman to
+                BEAR and BRING FORTH a child ANNUALLY. When each child following so rapidly its
+                predecessor saps and exhausts the vital strength which is available for the making
+                of the offspring which lowers the vitality of each child and EVENTUALLY MURDERS THE
+                WOMAN who bears them.</p>
+            <p>Dr. <person reg="Ploetz, Alfred">Ploetz</person> found that the death rate of the
+                FIRST BORN infants is 220 a thousand.</p>
+            <p>The death rate of the SEVENTH is 330 a thousand. While that of the TWELFTH is 600 a
+                thousand. So that when "Nature has its way" and twelve children come to sap a
+                woman's vitality so little strength has she left that nearly 60 percent of these
+                later ones die.</p>
+            <p>WE FIND THAT EVEN <emph rend="underline">NATURE</emph> TENDS TOWARD BIRTH
+                CONTROL!!</p>
+            <p>But what a hideous waste of vitality! What a hideous orgy of agony. For mothers to
+                produce in anguish, DEATH-DOOMED and SUFFERING INFANTS.</p>
+            <p>To those who protest that we have no right to interfere with THE COURSE OF NATURE one
+                must point out that the whole of CIVILIZATION, <emph rend="underline">EVERYTHING
+                    THAT SEPARATES MAN FROM ANIMALS</emph>, is an INTERFERENCE with what people
+                commonly call NATURE.</p>
+            <p>Railroads, boats, bridges, walking upright, living in houses, <add>shaving</add>,
+                wearing clothes, cooking and talking all in the beginning were AGAINST Nature. We
+                have come to realize that all civilization means the CONTROL and DIRECTION of
+                Nature.</p>
+            <p>Actions differ in their relative positions in the scale of things. ONLY THOSE ACTIONS
+                ARE WORTHY WHICH LEAD THE RACE ONWARD TO A HIGHER AND FULLER COMPLETION AND TO THE
+                PERFECTING OF ITS POWERS, <del>which</del> steer the race into the main current of
+                that stream of life and <del>vitality</del> which courses through us and impels us
+                forward.</p>
+            <p>We <add>who advocate Birth Control</add> are trying to raise the STANDARD and
+                HEIGHTEN the sacredness of human life, promote the well-being and happiness of
+                    <del>the hopeless</del>
+                <add>humanity</add>
+                <del>and</del>
+                <add>we are</add> trying to <add>intelligently</add> solve some of the MOST
+                DIFFICULT AND URGENT PROBLEMS of our times.</p>
+            <p>We recognize the importance of <del>everything that</del>
+                <add>safeguarding</add>the DIGNITY of <del>the individual woman</del>,
+                    <add>motherhood,</add> and we want to raise <del>her</del>
+                <add>it</add> from the DEGRADATION OF SERVILITY and SEX SLAVERY to a
+                <del>high</del>, <add>far higher,</add> and GLORIFIED <add>privilege</add>
+                <del>womanhood</del>.</p>
+            <p><add>For we believe that</add> It is the SACRED DUTY of all who dare to hand on the
+                terrific gift of LIFE to hand it on in a vessel as fit and perfect as it can be
+                fashioned, so that the body may be the STRONGEST and MOST BEAUTIFUL <add>INSTRUMENT
+                    possible, in the service of the Soul we summon to play its part in the mystery
+                    of material being</add>.</p>
+        </div>
+    </docBody>
+</doc>

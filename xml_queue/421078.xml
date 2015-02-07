@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="(Published article) ">
+    <mepHeader>
+        <prepDate>2014/04/09 VS initial tagging</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="(1934-07-10) ">10 July, 1934</docDate>
+        <docTitle>
+            <titlePart>Statements on Birth Control and Peace</titlePart>
+        </docTitle>
+        <idno>msp421078</idno>
+        <sourceDesc>
+            <bibl><title>Dagens Nyheter</title></bibl>
+            <bibl><title>LCM 20:169</title></bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="DAGEN">Dagens Nyhter</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">This is an exerpt from a translation of an article of a Swedish newspaper,
+            <title type="journal">Dagens Nyheter</title>. <index level1="birth control"
+            level2="access to" level3="international"/>
+        <index level1="birth control" level2="war and"/>
+        <index level1="conferences"
+            level2="International Neo-Malthusian and Birth Control Conference" level3="1922 (5th)"/>
+        <index level1="war" level2="causes of"/>
+        <index level1="birth control" level2="and war"/>
+    </headNote>
+    <docBody>
+        <head>Fewer Children the Best Front Against War</head>
+        <div>
+            <head type="sub"> U.S.A. Has the Greatest Percentage of Deaths in Childbirth</head>
+            <p> “For five minutes my proposal concerning a change in <place reg="United States"
+                    >U.S.A.</place>’s sixty-year old <name reg="United States Penal Code">Birth
+                    Control Law</name> was actually elevated to law,” <q who="DAGEN">related Mrs.
+                        <person reg="Sanger, Margaret">Margaret Sanger</person>, known over the
+                    whole world as the foremost pioneer for Birth Control, and now on a visit to
+                        <place reg="Stockholm, Sweden">Stockholm</place>.</q> “But afterwards an
+                elderly gentleman in the <org reg="United States Senate">Senate</org> woke up and
+                protested, and so the work of many years for a change in this vital problem was
+                stopped for the time being. But next year it will go through.”</p>
+            <q who="DAGEN"><p> Mrs. Sanger, who is traveling in <place>Europe</place> with the
+                    intention of starting an international movement for organized Birth Control, and
+                    has no arrived in Stockholm, is a lady with a gallant and tumultuous past. And
+                    that she did little on her own part to avoid the storms one can see immediately
+                    in her red Irish hair and clear blue American eyes. She has been called
+                    America’s most slandered woman, and that is quite correct. To begin a campaign
+                    for legalized birth control twenty-five years ago in American must have been a
+                    task with many risks. Between 1921, when she called together the first <org
+                        reg="First American Birth Control Conference">Birth Control Conference</org>
+                    in America, and now, when her proposition became law, if only for five minutes,
+                    lie many defeats and many personal persecutions, but also many glorious
+                    victories. Her first step on the way to which her experience as a child in a
+                    large and poor family drove her was an article in her own paper, “<title
+                        type="journal">The Woman Rebel</title>,” which was followed immediately by a
+                    commitment. She eluded the action by escaping to <place>England</place>, and
+                    when, a year later she returned to the United States, such a strong European
+                    opinion stood back of her that the authorities found it advisable to forget the
+                    little incident of by-gone days. Nevertheless, since then she has served a
+                    month’s imprisonment. </p></q>
+        </div>
+        <div>
+            <head type="sub"> Birth Control the Only Way to Peace</head>
+            <p> “To me it was quite clear,” <q who="DAGEN">she declares,</q> “that now since all the
+                countries have closed their boundaries to other nations the only solution to the
+                problem of peace is control of population. If you do not choose this method, there
+                is only one other, a lowering of the standard of living. And the end is that women
+                become the slaves of militarism, that the countries need colonies, the colonies new
+                soldiers for their defense, and so on, in one vicious circle.</p>
+            <p> “In America, as I said, the law on this question is 60 years old and has never been
+                changed. As a consequence of this we have the highest percentage of deaths in
+                childbirth in the whole world. Thanks to the somewhat varying laws of the different
+                states we have finally come so far that we have nearly 140 more or less officially
+                tolerated clinics for birth control information, of which one is mine, and in my
+                work I have had occasion to help 50,000 women. But much still needs to be done, and
+                that is why I am making this trip. I shall go to <place reg="Soviet Union"
+                    >Russia</place> to study their organizations for women and how they solve the
+                problem home - work. But before this I shall meet with some of my friends here in
+                order to talk with them and form a group to continue work. From <place>India</place>
+                an inquiry has also come asking I will come there and take part in a congress which
+                represents 11 million women. And, as I said, the next time my proposed law
+                concerning permission from doctors and other medical scientists to render positive
+                enlightenment regarding Birth Control comes up, I believe it will be difficult to
+                count the minutes of its duration.”</p>
+            <q who="DAGEN"><p> Wednesday, at one o’clock at Moseback there will be a meeting between
+                    Mrs. Sanger and Swedish doctors and others who are interested.</p></q>
+        </div>
+    </docBody>
+</doc>

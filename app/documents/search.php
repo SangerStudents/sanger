@@ -979,7 +979,8 @@ else {
 			}
 
 			for($i=0;$i<sizeof($category);$i++) {
-				$catNameQuery = "SELECT name AS cat_name FROM test_cat WHERE id=$category[$i]";
+				$categoryi = $category[$i]; 
+				$catNameQuery = "SELECT name AS cat_name FROM test_cat WHERE id=$categoryi";
 				if ($_GET['verbose']) { //debugging
 					echo "<p>Category name query is: $catNameQuery</p>"; 
 				} 
@@ -991,7 +992,7 @@ else {
 				if($i>0) {
 					$query .= "and ";
 				}
-				$query .= "docs_cat".$i.".cat_id=\"$category[$i]\" AND docs_cat".$i.".doc_id = d.id ";
+				$query .= "docs_cat".$i.".cat_id=\"$categoryi\" AND docs_cat".$i.".doc_id = d.id ";
 			}
 		}
 

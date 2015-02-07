@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Interview">
+    <mepHeader>
+        <prepDate>2014-07-02 AS encoded</prepDate>
+        <prepDate>2014-08-15 CH proof and edit</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1945-08-10"><supplied resp="MSPP">10 Aug 1945</supplied></docDate>
+        <docTitle>
+            <titlePart>Interview with the Daily Collegian</titlePart>
+
+        </docTitle>
+        <idno>msp422034</idno>
+        <sourceDesc>
+            <bibl>
+                <title type="article">Margaret Sanger Explains Birth Control Movement</title>,
+                    <title type="journal">Daily Collegian</title>, Aug. 10, 1945, p. 4</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="DC">Daily Collegian</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger gave this interview to the college newspaper of the Pennsylvania
+            State University in State College, PA.</p>
+        <index level1="birth control" level2="conferences on"/>
+        <index level1="birth control" level2="as a term"/>
+        <index level1="Planned Parenthood Federation of America"/>
+        <index level1="Woman Rebel, The" level2="suppression of"/>
+        <index level1="Comstock Laws"/>
+        <index level1="birth control" level2="opposition to"/></headNote>
+    <docBody>
+        <head>Margaret Sanger Explains Birth Control Movement</head>
+        <p>"Birth control is a conscious control of the birth rate by means of preventing
+            conception," <q who="DC"><person reg="Sanger, Margaret">Mrs. Margaret Sanger,</person>
+                originator of the birth control movement, gives as her definition of the work she
+                has been doing for more than 30 years.</q></p>
+        <q who="DC"><p>Mrs. Sanger is in <place reg="State College, PA">State College</place>
+                visiting her brother Coach <person reg="Higgins, Robert A.">Bob Higgins,</person>
+                professor of physical education.</p>
+            <p>She points out that birth control does not mean to limit or interfere with life,
+                because life is not there to destroy. Many people, Mrs. Sanger said, at first
+                believed that it advocates abortion, which is very far from the idea.</p>
+            <p>The first organization started in 1921. Now called "<org>The Planned Parenthood
+                    Federation of America</org>," it has its own <org
+                    reg="Birth Control Clinical Research Bureau">research bureau</org> which is the
+                largest of its kind in the world. It gives marriage counseling to more than 6,000
+                new patients each year.</p>
+            <p>Mrs. Sanger said that her first publication, "<title type="journal">The Woman
+                    Rebel</title>" was published for the express purpose of exposing the <name
+                    type="law" reg="United States Criminal Code, Section 211">Comstock Law</name>.
+                It lasted almost a year, but each copy was suppressed almost immediately after
+                printing. Today the organization publishes the scientific <title type="journal"
+                    >"Journal of Fertility"</title> and the <title type="journal">"Birth Control
+                    News,"</title> which is distributed to its members.</p>
+            <p>When asked about other hindrances that faced her and the organization, she said that
+                the big trouble today is in getting religious leaders to see the value of this
+                movement and to secure their help. However, many clergymen have helped, and more are
+                pointing in that direction.</p>
+            <p>Mrs. Sanger said that she has many hobbies, but at the moment painting is occupying
+                her attention. While visiting at the <org reg="Pennsylvania State University"
+                    >College,</org> she is studying painting under <person reg="Pittman, Hobson"
+                    >Hobson Pittman,</person> nationally-known artist and summer instructor at the
+                College.</p></q>
+    </docBody>
+</doc>

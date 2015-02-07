@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+    <mepHeader>
+        <prepDate>2014-06-26 CH transcribe and encode poor photocopy</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1932-01-19">19 Jan 1932</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Speech at Corning, New
+                    York</supplied></titlePart>
+        </docTitle>
+        <idno>msp421906</idno>
+        <sourceDesc>
+            <bibl><title type="article">Mrs. Sanger Pleads for Sound Mind and
+                    Bodies for Every Child</title>, <title type="journal"
+                    >Corning Leader</title>, Jan. 20, 1932</bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="CL">Corning Leader</name>
+            <name id="WELAL">Welington, Anna Ballard</name>
+            <name id="HUGVI">Hugo, Victor</name>
+            <name id="INGWI">Inge,William Ralph</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger gave a speech in Corning, N.Y, her
+            birthplace. The complete speech was not found and the text below was
+            summarized by the press. For an interview Sanger gave the same
+            night, see <xref from="421044.xml">Interview with the Corning
+                Leader</xref></p><p>The left margin of the first column was
+            extremely light and difficult to transcribe.</p><index
+            level1="birth control" level2="class-based"/>
+        <index level1="birth control" level2="economic benefits and risks of"/>
+        <index level1="birth control" level2="civilization and"/>
+        <index level1="birth control" level2="economic benefits and risks of"/>
+        <index level1="birth control" level2="health benefits of"/>
+        <index level1="birth control" level2="population and"/>
+        <index level1="birth control" level2="socio-economic benefits of"/>
+        <index level1="birth rate" level2="population growth and"/>
+        <index level1="Catholic Church" level2="birth control and"/>
+        <index level1="eugenics" level2="birth control and"/>
+        <index level1="eugenics" level2="MS on"/>
+        <index level1="overpopulation" level2="MS on"/>
+        <index level1="&quot;unfit&quot; to reproduce" level2="descriptions of"/>
+        <index level1="&quot;unfit&quot; to reproduce" level2="social burden of"/>
+        <index level1="United States" level2="birth control in"/>
+        <index level1="women" level2="health of"/>
+        <index level1="women" level2="reproductive choices and decisions"/>
+    </headNote>
+    <docBody>
+        <head>Mrs. Sanger Pleads for Sound Mind and Body for Every Child</head>
+        <head type="sub">Former Corning Girl, Birth Control Advocate, is Greeted
+            by Large Audience at First Address Here; Hour Has Struck for Idea
+            She States</head>
+        <q who="CL">
+            <p>It was a dramatic moment in the life of Mrs. <person
+                    reg="Sanger, Margaret">Margaret Sanger</person> formerly
+                Margaret Higgins <gap extent="few words" reason="illegible"/>
+                city Tuesday evening at the <org>Baron Steuben Hotel</org> for
+                the first time in her life this internationally famous advocate
+                of birth control gave a lecture on the project to which she is
+                devoting her life in her <place reg="Corning, NY">home
+                    town</place> before former schoolmates and friends of her
+                    <gap extent="few words" reason="illegible"/> There were over
+                300 present, crowding the hotel ballroom to capacity.</p>
+            <p>While everyone dreams of leaving to their home town and returning
+                some day rich or famous to dazzle friends but seldom do our
+                dreams reach such an actual fruition as marked Margaret Higgins
+                triumphant return to her own city. Leaving her poor, <gap
+                    extent="few words" reason="illegible"/> and unknown, she
+                returned on Tuesday not only comfortably welloff insofar as this
+                world's <gap extent="few words" reason="illegible"/> are
+                concerned, but more importantly, an international figure.
+                Sanger, the recipient of enviable <gap extent="few words"
+                    reason="illegible"/> and a speaker of extraordinary poise,
+                charm and ability. </p></q>
+        <p><q who="CL">A slender woman whose clearly defined features are
+                crowned by a mass of auburn hair, Mrs. Sanger delivered her
+                message in a manner whose forcefulness was inten<gap
+                    extent="few words" reason="illegible"/> by her quiet
+                calmness. <person reg="Wellington, Anna Ballard">Mrs. <gap
+                        extent="few words" reason="illegible"/>
+                    Wellington</person>, who was a guest at a tea at Mrs.
+                Sanger's <gap extent="few words" reason="illegible"/>this past
+                summer and who was impressed by her short talk on this affair,
+                introduced the guest graciously, saying</q> "<q who="WELAN">Mrs.
+                Sanger needs no introduction in Corning. It is with pleasure
+                that I present her at this time</q>." </p>
+        <p><q who="CL">Thanking Mrs. Wellington for her kindness and courage in
+                arranging for the meeting, Mrs. Sanger said </q>"I have always
+            had the hope that someone or some group woudl want me to come back
+            to tell of the work I have been doing for the past 17 years. It was
+                <person reg="Hugo, Victor">Victor Hugo</person> who said '<q
+                who="HUGVI">There is no force in the world so great as that of
+                an idea whose hour has struck.</q>' The hour of birth control
+            has struck. No other subject of equal importance had been left so
+            long in obscurity and in the past few years no other subject has
+            shown such a leap, not only natioally, but internationally. </p>
+        <p>"Officials seemed to think it should not be discussed by a group of
+            intelligent adults. Ten years ago had I endeavored to talk here on
+            that subject I do not doubt but that I would have been met at the
+            door by a group of policemen. <person reg="Shaw, George Bernard"
+                >George Bernard Shaw </person>says it is the most brilliant idea
+            of the century."</p>
+        <p>Mrs. Sanger quoted <person reg="Wells, H. G.">H. G. Wells</person>,
+            who favors birth control measures and <person
+                reg="Inge, William Ralph">Dean Inge</person>, the gloomy dean,
+            who told the <org reg="Lambeth Conference">bishops conference at
+                Lambeth</org> that the '<q who="INGWI">subject has arrived and
+                come to stay. The thing for church to do is not to fight back
+                but to try to direct it so the force may become a constructive
+                good.</q>'"</p>
+        <p>To me this is a signal of a new social awakenening. Birth control and
+            the conscious control of the human race by means that prevent a
+            destruction of human life. It is prevention: you do not destroy.
+            There is no more interference with <gap extent="few words"
+                reason="illegible"/> as if you remain single. Control doesn't
+            mean you have to limit the size of your family. You control your
+            furnace adjusting it to the temperature of the weather but that
+            doesn't mean you have to diminish the fire. So it is in controlling
+            the number of your children. You have the number you want.</p>
+        <p>There are three considerations that should enter into the case.
+            First, the mother's health should be considered. She should not have
+            children in a way that is going to ruin her health. Second, the
+            father's earning capacity must be considered. Statistics show that
+            as the father's earning capacity goes down, the infant mortality
+            rate increases. Third, the standard of living you wish to maintain
+            should be taken into consideration.</p>
+        <p>"Birth control gives you the conscious control of the birth rate.
+            Children are born because their parents want them, not because they
+            are accidents or the casual consequence of reckless abandon. Whey
+            you hear people say '<q who="UNK">why control the birth rate. What
+                we need is the equal distribution of the necessities of
+                life.'</q> There has always been control of the population and there are
+            only two ways of doing this: either by increasing the death rate or
+            decreasing the birth rate. Whether we like it or not we will not
+            control the population through increased death rates. Civilization
+            has progressed beyond this.</p>
+        <p>Nature has been the most ruthless advocate of birth control. Nature
+            has thrust to the wall the old, the weak, the maimed, the mentally
+            deficient until she has perfected her type. Now, Christianity, the
+            feeling that we are our brother's keeper, will no longer allow these
+            people to suffer and die. Civilization thrusts out its hand to the
+            physically and mentally deficient, the sick, the aged. We erect
+            palatial palaces and keep them alive and enact laws which makes them
+            mulitiply <gap extent="few words" reason="illegible"/> their type
+            until the defectives are now breeding three time as fast as normal
+            mothers. Some years ago out of the population of 165 millions only
+            20 millions were classed as intellectuals.</p>
+        <p>"Biological and psychological tests showed that 85 millions had minds
+            of juveniles under 14 years of age; 45 millions had inferior mental
+            growh; 25 millions were very mediocre; and 15 millions were
+            feeble-minded.</p>
+        <p>"Our institutions are filled and overcrowded and we havent't
+            institutions enough to keep them all. One-half is taking care of the
+            other half who should never have been born. They do nothing but
+            clutter up society and make a complicated life for us all.</p>
+        <p>"Legislation has failed to wipe out this great evil, so being
+            generous-hearted the American people have tried to eliminate
+            suffering. As a result over 15 billion dollars is spent caring for
+            diseased defectives and a great deal more than that on crime every
+            year.</p>
+        <p>"The money for this comes out of your pockets. There are two classes
+            of people; I will not call them rich and poor. There is the class
+            with controlled birth rate and the class which does not have
+            controlled birth rate. You will see in every city of the earth, with
+            the exception of the <place reg="Asia">Orient</place>, one group
+            which has small familes. The parents have given consideration to the
+            monther's health. They have brought into the world few children but
+            the great majority live to full maturity. Their children stay
+            longest in school and eventually fill the best positions in life.
+            Out of this group the good things in life have come, social service,
+            child development, the new studies of mankind to help civilization
+            and to carry on the torch of learning.</p>
+        <p>"You hear the cry that the rich do not have enough children. We can
+            do nothing about it until you take the other group off the backs of
+            the rich; until you eliminate the situation where women have to
+            bring into the world year after year like a grinding machine
+            regardless of whether there's a place for them or not. The result is
+            slums, over-crowding, high maternal and infant mortaility rate,
+            child labor, illness, ignorance, nearly every social problem. And
+            you'll never get rid of these results unless you strike at its
+            roots; until you give these mothers safe harmless knowledge whereby
+            they may control the powers of fertility."</p>
+        <p><q who="CL">Mrs. Sanger then told of some of her experiences as a
+                nurse in <place reg="New York, NY">New York City</place>. She
+                told of the mothers in the slum districts, some of them holding
+                what she termed a</q> "three-man job," <q who="CL">working for
+                the family sewing, cooking, mending, scrubbing, working either
+                nights or in the daytime to bring in money to eke out the
+                father's pay, and at the same time preparing to bring a child
+                into the world. She described the hopeless poverty and the
+                ill-health to which the new-born infant fell heir, the joy of
+                the mother when the baby died within a few moments after birth,
+                the anxious queries of the mothers asking what they could do to
+                prevent a reoccurance of of conception, the lack of scientific
+                knowledge, the abundance of back-fence gossip, attempts to
+                prevent birth after pregnancy, cases of blood-poisoning,
+                eventual deaths of mother or possibly the birth of the baby with
+                weak heart or kidneys as a result and finally the distribution
+                of the many children to orphanages.</q></p>
+        <p>"As a result of these conditions we head the list with the largest
+            number of mothers who die needlessly in childbirth. Why? I find
+            first the women who have tuberculosis. Four out of every seven
+            mothers who die in childbirth have that disease. It is legal to take
+            such a woman to a hospital and interrupt pregnancy. Then she is
+            returned home to face the same situation again. Poverty and neglect
+            are the next causes.</p>
+        <p>"There are three essential factors in safe-guarding maternal cases.
+            First, as the father's wage goes up, more children live; as it goes
+            down, fewer children live. Second, if the children are spaced with
+            three or four years between each birth, the mother has an
+            opportunity to regain more vitality and the children are more apt to
+            live. Third, the place in the family where a child comes determines
+            to a certain extent his chance of living. The second child has a
+            better chance to live than the fifth; the fifth than the seventh;
+            the seventh than the 12th. Sixty per cent of all 12th children die. </p>
+        <p>"Now what kind of a world have we? Why should we needlessly bring the
+            12th child into the world to die? Yet poor mothers are doomed to one
+            or two things. Either they resign themselves to the situation or
+            interrupt pregnancy."</p>
+        <p>Mrs. Sanger said that she has received over a million letters from
+            mothers which she summarized as follows: A mother wrote that she was
+            about to have her 10th child. Several had died. She didn't want to
+            know how to have this child safely. She wanted to know how not to
+            have the 11th child.</p>
+        <p>"We rescue babies at a terrific cost during the first year. Then we
+            begin to carry them on to the fifth year; and we carry them and
+            carry them through public schools with lunches and dental clinics
+            and special classes until they are ready to work at 14 or 15 and
+            then they flock to our factory gates and begin to compete with their
+            fathers."</p>
+        <p>Mrs. Sanger described the cruelty of child labor, pointing to the
+            beet fields of <place>Colorado</place> as an example, where infants
+            three years old have had to help with the work. The parents are
+            unable to earn sufficient to support themselves, but they have been
+            allowed to have 11 children in 13 years.</p>
+        <p>"In my estimation it is one of the most cruel things in the world to
+            allow a child to be born into conditions where there is no
+            possiblilty of being allowed to develop. Born in misery with
+            diseased bodies and doomed to stay in that condition."</p>
+        <p>"You have to learn to be anything from a doctor to a lawyer to a
+            cook--except a parent. You may have all the children you want
+            regardless of whether they are mentally deficient and if you have
+            enough of them you may send a picture of your family to the
+            president and he'll send you a medal."</p>
+        <p>Mrs. Sanger pled for the same consideration for the unborn child that
+            is given the American traveler abroad--a passport for babies,
+            guaranteeing for every child born in <place reg="United States"
+                >America</place> a sound mind and sound body.</p>
+        <p>She described the awakening of America to the fact that it must have
+            a qualitative population among its immigrants and its laws to
+            exclude idiots, morons, mentally deficient, criminals, physically
+            deficients.</p>
+        <p>"Why do we refuse to be the dumping ground for <place>Europe</place>
+            and then let these people increase on the inside?"</p>
+        <q who="CL">
+            <p>Mrs. Sanger described the two danger spots of the world, created
+                by this refusal to allow immigrants. <place>Japan</place> with
+                its 65 million people living in a mountainous country about the
+                size of <place>California</place> with few natural resources she
+                stated was one. This country's birth rate has increased so that
+                the country has had to do what the chicken does inside the
+                egg--burst its shell. Japan is in <place>Manchuria</place> and
+                she's there to stay."</p>
+            <p>Italy is the second such country, she said. She predicted that
+                with its rapidly increasing birth rate <place>Italy</place> will
+                some day be forced to burst and will reach over and take a
+                section of its neighbor <place>France</place>. </p>
+            <p>Mrs. Sanger said that are three method of birth control:
+                continence, which is approved by the <org>Roman Catholic
+                    Church</org>; sterilization and mechanical or chemical means
+                of contraception.</p>
+            <p>She urged that the medical profession take over the burden of the
+                third method of birth control and stated that if "the medical
+                profession had done its duty all the agitation about birth
+                control wouldn't be necessary."</p>
+            <p>She gave seven reasons for birth control as follows: 1. any man
+                or woman with a transmissable disease should not have children;
+                2. any woman having a disease like tuberculosis by which
+                pregnancy would endanger her life should not have children until
+                the disease is cured; 3. parents should have no more children if
+                those they already have are sub-normal; 4. children should be
+                properly spaced for the sake of the mother's health and also in
+                consideration of the father's income; 5. young people marrying
+                during adolesence should not have children until they become
+                adults; 6. people should not have children they are unable to
+                support, those unable to support two children 10 years ago, now
+                have 12 in some cases; 7. people should make more of marriage,
+                should consider it as something greater than a mere means of
+                propagating the race.</p>
+            <p>Concerning the seventh reason for birth control, Mrs. Sanger said
+                she belived marriage to be the greatest school for soul
+                development; that it had something fundamentally strengthening
+                to offer the two adults who participating in it; that young
+                people should work together, play together, and learn to know
+                and love each other with firmer, stronger ties than existed
+                during courtship and honeymoon before they become parents of
+                children. She advocated a marriage life of two years before the
+                advent of children.</p></q>
+        <p>"I want the fear of pregnancy eliminated; I want this increased
+            child-bearing of deficient children stopped; I want children to be
+            conceived in love and I want young people to look upon their bodies
+            as holy temples which can and should be used intelligently for the
+            purpose of creaing other life." </p>
+    </docBody>
+</doc>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+
+    <mepHeader>
+        <prepDate>2014-03-12 JK initial tag</prepDate>
+        <prepDate>2014-03-19 CH proof tags</prepDate>
+        <prepDate>2014-03-26 JK correct tags</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1935-12-10">10 Dec 1935</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Speech to Indian Medical
+                    Association, Calcutta</supplied></titlePart>
+        </docTitle>
+        <idno>msp421914</idno>
+        <sourceDesc>
+
+            <bibl><title type="article">Birth Control Propaganda</title><title
+                    type="journal">The Times of India</title> Dec. 11, 1935, p.
+                7</bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="ToI">Times of India</name>
+            <name id="HIN"> Hindu </name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">This is a short summary of <person
+            reg="Sanger, Margaret">Sanger</person>'s speech in <place
+            reg="Calcutta, India">Calcutta</place>, presided over by Mrs.
+            <person reg="Mehta, Soudamini">Soudamini Mehta</person>, on
+        "Organization of Birth Control Clinics" <index level1="India"
+            level2="overpopulation and"/>
+        <index level1="birth control" level2="morality of"/><index
+            level1="birth control" level2="in India"/><index level1="India"
+            level2="birth control in"/>
+        <index level1="India" level2="birth control movement in"/></headNote>
+    <docBody>
+        <head>BIRTH CONTROL PROPAGANDA</head>
+        <head type="sub">Disorderly Scenes at Calcutta Meeting</head>
+        <dateline><date value="1935-12-10"/>December 10, 1935,
+            Calcutta</dateline>
+        <p>“Birth control is the signal of the new social awakening. It has a
+            great significance not only over individual life, but also on the
+            communities and the nations of the future,” <q who="ToI">said Mrs.
+                Margaret Sanger addressing a public meeting at the Albert Hall
+                last night.</q></p>
+        <p><q who="ToI">Replying to the question whether they should practice
+                    “<foreign lang="HIN">Brahmacharya</foreign>” or have
+                unlimited indulgence Mrs. Sanger pointed out that the birth
+                control movement as every other movement had its good and evil
+                sides and those who desired might have spiritual peace and
+                happiness through it.</q>
+        </p>
+        <p><q who="ToI"> Asked why <place>Italy</place> and<place>
+                    France</place> were putting a premium on birth control
+                instead of controlling it Mrs. Sanger said:</q>"Italy is trying
+            to increase her population to make them food for gunfire, but as to
+            France her birthrate is much lower than that of <place
+                reg="Great Britain">Great Britain</place>.”</p>
+    </docBody>
+</doc>

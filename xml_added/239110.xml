@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2011-08-04 NC</prepDate>
+        <prepDate>2012-03-12 CH proofed tags</prepDate>
+        <prepDate>2014-04-08 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1954-01-00">Jan 1954</docDate>
+        <docTitle>
+            <titlePart>Happy Birthday</titlePart>
+        </docTitle>
+        <idno>msp239110</idno>
+        <sourceDesc>
+            <bibl><title type="journal">News of Population and Birth Control</title> No. 21, Jan.
+                1954, pp. 1.</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S72:0880</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="UNK">Unknown</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="birth control" level2="international conferences on"/>
+    </headNote>
+    <docBody>
+        <head>Happy Birthday</head>
+        <p>This modest international monthly bulletin is two years old today. It has certainly lived
+            up to its title. At the <org reg="International Conference on Planned Parenthood, 3rd"
+                >Third International Planned Parenthood Conference</org> in <place
+                reg="Bombay, India">Bombay</place> friends, delegates and sponsors truly from
+            “around the world” were enthusiastic and grateful for this regular source of news and
+            names of persons active in population and planned parenthood work. Another joyous,
+            thankful expression was for sending the News free of charge, which, owing to
+            difficulties of exchange, would otherwise deprive friends and workers of this condensed
+            yet “inspiring” monthly.</p>
+        <p>Small in volume, but “meaty” in content, our <title type="journal">News</title> is read
+            from page to page with high interest and the growing conviction that one belongs to this
+            world movement. An <person reg="Unknown">Indian reader</person> has said it was like “<q
+                who="UNK">a well-boiled and well-flavoured stew, pleasing to the palate and greatly
+                appetizing.</q>” Another comment made time and time again at both the Bombay and
+                <place reg="Stockholm, Sweden">Stockholm</place>
+            <org reg="International Conference on Planned Parenthood, 4th">Conference</org>s was
+            that the bulletin “<q who="UNK">exuded</q>” progress, confidence and enthusiasm.</p>
+        <p>We can all lift up our voices in thanks to <person reg="Brush, Dorothy Hamilton">Dorothy
+                Brush</person>, the editor, whose love for this work pulsates throughout each issue
+            to all who read it. May the <title type="journal">News</title> continue to “increase and
+            multiply” to the far ends of the world for years and years to come!</p>
+    </docBody>
+</doc>

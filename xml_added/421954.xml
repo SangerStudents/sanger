@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2014/04/23 VS initial tags</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1944-10-30">30 October, 1944</docDate>
+        <docTitle>
+            <titlePart>Speech to El Paso Mother's Health Clinic</titlePart>
+        </docTitle>
+        <idno>msp421954</idno>
+        <sourceDesc>
+            <bibl><title type="article">Good Future Seen for babies Born During War</title><title
+                    type="journal"> El Paso Herald Post</title> October 31, 1944</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="EPHP">El Paso Herald Post</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger comments that war babies have a good future, but still cautions
+            against unwanted pregnancies.</p>
+        <index level1="xxxx"/>
+    </headNote>
+    <docBody>
+        <head>Good Future Seen for Babies Born During War</head>
+        <q who="EPHP"><p> The war has helped the planned parenthood movement, Mrs. <person
+                    reg="Sanger, Margaret">Margaret Sanger</person> of <place reg="Tucson, AZ"
+                    >Tucson</place>, president of the <org>Birth Control Federation of
+                America</org>, said in <place reg="El Paso, TX">El Paso</place> today. </p></q>
+        <q who="EPHP"><p> While the war has increased the number of small families with the result
+                that the <place>United States</place> had one million more babies last year than in
+                pre-war times, it has cut down on the number of children per family, Mrs. Sanger
+                said.</p></q>
+        <q who="EPHP"><p> “War babies” have a good future, because their parents are younger and
+                have better health and stamina to give them and because in most instances the babies
+                are “wanted” children, Mrs. Sanger said:</p></q>
+        <p> “However, we must not overlook the fact that the number of illegitimate children, as
+            well as the number of children in orphanages, has increased. That is a bad result, along
+            with the good, of the war.”</p>
+        <q who="EPHP"><p> Mrs. Sanger believes world-wide control of population growth, as well as
+                natural resources, must be considered at the peace table conference. </p></q>
+        <p> “Scientists of the world recognize that peace will depend upon population growth.” <q
+                who="EPHP">Mrs. Sanger said.</q> “If the peace makers do not recognize this factor,
+            which caused our enemies today to seek more space for themselves, the world will
+            continue in chaos and wars.”</p>
+    </docBody>
+</doc>

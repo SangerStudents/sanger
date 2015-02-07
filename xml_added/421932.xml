@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+    <mepHeader>
+        <prepDate>2014-04-02 JK initial tag</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1949-05-04">04 May 1949</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Comments in San
+                Angelo</supplied></titlePart>
+        </docTitle>
+        <idno>msp421932</idno>
+        <sourceDesc>
+            <bibl><title type="article">"M. Sanger Strikes at Evil that Breaks
+                    Up Happiness"</title><title type="journal">San Angelo
+                    Evening Standard</title> May 4, 1949. </bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="SAES">San Angelo Evening Standard</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><person reg="Sanger, Margaret">Sanger</person>
+        attended dinner at the <place reg="San Angelo, TX">San Angelo</place>
+        meeting of the <org>Planned Parenthood League of Texas</org>, at the
+            <org>St. Angelus Hotel</org>. <index level1="planned parenthood"
+            /><index level1="Europe" level2="birth control in"/>
+        <index level1="Europe" level2="MS on"/><index
+            level1="Planned Parenthood Federation of America"/></headNote>
+    <docBody>
+        <head>M. Sanger Strikes At Evil Which Breaks Up Happiness</head>
+        <byline>by <person reg="Wiggins, Alliene">Alliene
+            Wiggins</person>Standard-Time Staff</byline>
+        <p>
+            <q who="SAES">The speaker remarked that she had long since curtailed
+                her attendance at <org
+                    reg="Planned Parenthood Federation of America">Planned
+                    Parenthood</org> meetings in <place reg="United States"
+                    >America</place>, spending most of her time in
+                    <place>Italy</place>, <place>Germany</place>, and
+                    <place>Japan</place>, where she felt the birth control
+                advocacy was more sorely needed. But that,</q> “The famed
+            feminine wiles of southern womanhood, of which I’ve heard all my
+            life [] me. I was convinced by letter than the San Angelo
+            organization could not have this state meeting without my presence;
+            that it needed my advice and encouragement. And what do I find? One
+            of the most efficient organizations possible, and with such an
+            enviable record,” <q who="SAES">Mrs. Sanger said.
+                    <place>Europe</place> has always offered less barriers to
+                her movement; and today, the question of population is of
+            </q>“overwhelming concern because it is increasing far beyond the
+            resources of the countries.” </p>
+    </docBody>
+</doc>

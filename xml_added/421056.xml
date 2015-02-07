@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article ">
+    <mepHeader>
+        <prepDate>2013/11/20 JK encoded</prepDate>
+        <prepDate>2014-08-21 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1933-05-05 ">05 May 1933</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Letter to the Editor of the New York
+                Times</supplied></titlePart>
+        </docTitle>
+        <idno>msp421056</idno>
+        <sourceDesc>
+            <bibl><title type="article">Mrs. Sanger Disputes Some of Mr. Caravati's
+                    Statements</title>
+                <title type="journal">The New York Times</title>, May 10, 1933, 16.
+            </bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">Sanger wrote this to the editor of the New York Times in response to statements made by Henry L.
+        Caravati, executive secretary of the National Council of Catholic Men.<index
+            level1="United States" level2="overpopulation in"/>
+        <index level1="Catholic Church" level2="birth control and"/>
+    </headNote>
+    <docBody>
+        <head>Birth Control.</head>
+        <head type="sub">Mrs. Sanger Disputes Some of Mr. Caravati's Statements</head>
+
+        <p> I wish to correct several statements made by<person reg="Caravati, Henry L."> Henry L.
+                Caravati</person>, executive secretary of the <org>National Council of Catholic
+                Men</org>, in his letter to <org reg="New York Times">The Times</org>. Mr.
+            Caravati states that at Congressional hearings twenty-one responsible and outstanding
+            national organizations made known their disapproval of any attempt to amend the present
+            Federal laws. He failed to state that practically all these organizations were Catholic.
+            Mr. Caravati refers to the <org>American Gynecological Society</org>, but fails to state
+            that in 1925 this outstanding group went on record in favor of amending the present
+            Federal laws. It is significant to note that the medical organizations most directly
+            concerned with the health of American mothers have also gone on record in favor of
+            amending these laws. Mr. Caravati states that it is a matter of record that not more
+            than a few hundred thousand individuals are represented by the religious groups that
+            have publicly expressed their approval of removing the present restrictions. It would be
+            interesting to know where Mr. Caravati obtains his figures, and I am sure that the
+            religious groups endorsing our work would also resent this absurd claim. I agree with
+            Mr. Caravati that it is important that the people of this country be informed of the
+            facts, but these must be presented without religious bias. </p>
+    </docBody>
+</doc>

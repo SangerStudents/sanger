@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc type="Published Interview">
+	<mepHeader>
+		<prepDate>2013/12/18 JK encoded</prepDate>
+		<prepDate>2014-01-22 CH proof tags and enter</prepDate>
+		<docAuthor>Margaret Sanger</docAuthor>
+		<docDate value="1928-03-15">
+			<supplied resp="MSPP">15 Mar 1928</supplied>
+		</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Statement on Overpopulation in Europe</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp321977</idno>
+		<sourceDesc>
+			<bibl><title type="article">Says Europe's Future Lies in Birth Control</title>, <title
+					type="journal">New York Times</title>, Mar. 15, 1928, p. 17</bibl>
+
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="NYT">New York Times</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="Europe" level2="birth control in"/>
+		<index level1="Europe" level2="MS on"/>
+		<index level1="American Birth Control League"/>
+	</headNote>
+	<docBody>
+		<head>Says Europe's Future Lies in Birth Control</head>
+		<head type="sub"><person reg="Sanger, Margaret">Mrs. Sanger,</person> Back, says
+			Overpopulation Threatens to Lead to Food Riots and War. </head>
+		<p><q who="NYT"><place>Europe </place>has become so over-populated that within ten years it
+				must either recognize the necessity for birth control or it will burst its confines
+				and become involved in a chaos of food riots and war, according to Margaret Sanger,
+				birth control advocate, who returned home <supplied resp="MSPP">from</supplied> the
+				Isle de<place> France</place>. Mrs. Sanger spent two years in Europe lecturing and
+				organizing the <org reg="World Population Conference, 1927">Population
+					Conference</org> at <place reg="Geneva, Switzerland">Geneva</place>. </q>“The
+			over-populated condition of Europe is fast becoming acute,” Mrs. Sanger said yesterday,
+			“especially because of our restrictions on immigration.<place> Italy,</place>
+			<place>Germany</place>, <place>Poland </place>and some other countries are particularly
+			cross at us because of the immigration ban. Italy, the greatest foe of birth control in
+			all Europe, is overpopulated.” <q who="NYT">Because she traveled under her second
+					<person reg="Slee, J. Noah H.">husband</person>’s name. Mrs. M. S. Slee, Mrs.
+				Sanger was not found by ship news reporters. She was interviewed late in the
+				afternoon at headquarters of the <org>American Birth Control League</org>, 104 Fifth
+				Avenue.</q> “Birth control in Europe was born of an economic necessity,” Mrs. Sanger
+			said. “Here in <place reg="United States">America</place> it is recognized chiefly as a
+			health measure. The greatest progress is being made in <place>England</place>, where the
+			movement started. There birth control information can be distributed without conflicting
+			with the law. Of course most physicians in England are still afraid to dispense such
+			information because they fear they will lose their ‘grants.’ The <place
+				reg="Scandinavia">Scandinavian countries</place> and Germany are also becoming
+			organized.” <q who="NYT">The fight here, Mrs. Sanger said, will be concurrent with the
+				Birth Control Bill introduced in the Legislature last month. A group of women’s
+				clubs and other organizations have signified their intention to support it, she
+				declared.</q>
+		</p>
+
+
+	</docBody>
+</doc>

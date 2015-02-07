@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published statement">
+    <mepHeader>
+        <prepDate>2012-04-11 AW Initial Tag</prepDate>
+        <prepDate>2012-05-15 CH Proofed Tags</prepDate>
+        <prepDate>2012-05-16 AW Corrected Tags</prepDate>
+        <prepDate>2014-04-10 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1921-11-21">21 Nov 1921</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Reply to Archbishop Hayes</supplied></titlePart>
+        </docTitle>
+        <idno>msp320953</idno>
+        <sourceDesc>
+            <bibl><title type="article">"Birth Control Aid Denied by Academy."</title></bibl>
+            <bibl><title type="journal">New York Times</title>, Nov. 22, 1921.</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>Multiple versions of Sanger's rebuttal were published in the <title type="journal">New
+                York Times</title>, <title type="journal">The New York Tribune</title>, and the
+                <title type="journal">Birth Control Review</title>. The rebuttal was part of a
+            testimony in a hearing ordered by Police Commissioner <person reg="Enright, Richard"
+                >Enright</person> in response to the investigation of police suppression at the
+                <org>Town Hall</org> on November 13, 1921.</p>
+        <p>For the incomplete draft version, see "<title type="journal">Special Children
+                (Rebuttal)</title>" Nov. 1921, <title>Margaret Sanger Microfilm</title> S73:231.</p>
+        <index level1="birth control" level2="the Bible and"/>
+        <index level1="Town Hall raid"/>
+    </headNote>
+    <docBody>
+        <p>I agree with the <person reg="Hayes, Patrick Joseph">Archbishop</person> that a clinic is
+            the proper place to give information on birth control. I wish, however, to point out the
+            fact that there are two sides to the subject under consideration--the practical
+            information as distinct from a theoretical discussion. The latter may be rightly
+            discussed on the public platform and in the press, as the Archbishop himself has taken
+            the opportunity to do. The object of the <org>American Birth Control League</org> is
+            twofold--to arouse public discussion on the theoretical issue as well as to establish
+            clinics where the practical information may be given to mothers through the medical
+            profession.</p>
+        <p>The inference is often made by our opponents that the genius is born at the end of a
+            large family, usually the eleventh or twelfth, or as quoted by the Archbishop, the
+            fifteenth child (<person reg="Franklin, Benjamin">Franklin</person>.) If the Archbishop
+            will recall his <title type="book">Bible</title> history he will find that some of the
+            most remarkable characters were first children--and often the only child, as well. For
+            instance, <person reg="Isaac (Bible)">Isaac</person>, in whose need all the nations were
+            to be blessed, was an only child, born after long years of preparation. Isaac’s only
+            children were twins--<person reg="Jacob (Bible)">Jacob</person>, the father of all
+                <place>Israel</place>, and <person reg="Esau (Bible)">Esau</person>. <person
+                reg="Joseph (Bible)">Joseph</person>, the child of <person reg="Rachel (Bible)"
+                >Rachel</person>, was born late in her life, and she had but one other child.
+                <person reg="Samuel (Bible)">Samuel</person>, who judged Israel for forty years, was
+            an only child, born after years of prayer and supplication on the part of <person
+                reg="Hannah (Bible)">Hannah</person>. <person>John the Baptist</person> was an only
+            child and his parents were well along in years when he was born. By the Roman Catholics,
+                <person reg="Jesus Christ">Jesus</person> himself is said to be <person
+                reg="Virgin Mary">Mary</person>'s first as well as her only child.</p>
+    </docBody>
+</doc>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Autograph draft speech">
+	<mepHeader>
+		<prepDate>12/9/2014 EK transcription</prepDate>
+		<prepDate>12/17/2014 EK Correct proof</prepDate><prepDate>2015-01-9 CH proof tags and enter</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1924-11-21">
+			<supplied resp="MSPP">24 Nov 1924</supplied>
+		</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Bryn Mawr College Liberal Club Speech Notes></supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp 236372</idno>
+		<sourceDesc>
+			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
+			<bibl><title type="mf">Margaret Sanger Papers Microfilm: Smith College Collections</title>, S70:1067</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Notes on speech to the <org>Bryn Mawr College</org>Liberal Club. A final version was not
+			found. Portions of these notes were also used in <person reg="Sanger, Margaret"
+				>Sanger</person>'s "<title type="speech"><xref from="129046.xml">The Necessity of Birth Control</xref></title>,"
+				Dec. 19, 1928.</p>
+		<index level1="birth control" level2="definitions of"/>
+		<index level1="birth control" level2="socio-economic benefits of"/>
+		<index level1="birth control" level2="eugenical justifications for"/>
+		<index level1="population control" level2="food supply and"/>
+		<index level1="population control" level2="natural means"/>
+		<index level1="population control" level2="birth control and"/>
+		<index level1="mentally challenged or diseased"/>
+		<index level1="unfit to reproduce"/>
+		<index level1="mortality rates" level2="maternal"/>
+		<index level1="mortality rates" level2="infant"/>
+		<index level1="immigration restriction"/>
+	</headNote>
+	<docBody>
+		<head>Bryn Mawr</head>
+		<p>There are few subjects which have so large a practical significance, and at the same time
+			cut so deeply into the foundations of Social Evolution, as Birth Control.</p>
+		<p>There have been few other questions of equal importance <emph rend="underline"
+				>left</emph> so long in equal obscurity, &amp; none perhaps which can show so
+			unequaled a leap in our social vista as birth control has done in so brief a period of
+			time.</p>
+		<p>What is B. C.?</p>
+		<p>Our definition is conscious control of birth rate. Scientific means prevent conception of
+			human life.</p>
+		<p>Why--you may ask is it necessary to prevent the conception of human life.</p>
+		<p>Because civilization is confronted with two serious problems.</p>
+		<p>1) That of the pressure of population on the food supply.</p>
+		<p>&amp;</p>
+		<p>2) That of reconciling humanitarianism with race improvement.</p>
+		<p>B. C. is the key to both of these problems.</p>
+		<p>History supports the fact that war famines, pestilence have always operated to settle the
+			population problem. With the development of humanitarianism natures methods tend to be
+			checked. Consequently civilization is menaced by the increasing swarming hordes of
+			diseased, feebleminded &amp; unfit.</p>
+		<p>Dr <person reg="Meyers, William Starr">Myers</person> statement <add>out of 105 million
+				only 15 can be called intellectual.</add></p>
+		<p>Two classes large &amp; small</p>
+		<p>
+			<list>
+				<item>
+					<emph rend="underline">small</emph>
+				</item>
+				<item>health</item>
+				<item>wealth</item>
+				<item>leisure</item>
+				<item>comfort></item>
+				<item>education></item>
+			</list>
+		</p>
+		<p>
+			<list>
+				<item>
+					<emph rend="underline">large</emph>
+				</item>
+				<item>disease</item>
+				<item>poverty</item>
+				<item>ignorance</item>
+				<item>slums</item>
+				<item>overcrowding</item>
+				<item>child labor</item>
+				<item>unemployment</item>
+			</list>
+		</p>
+		<p>Charities &amp; philanthropy increasing to ameliorate these conditions.</p>
+		<p>8 Billions spent on 4 D's-- Disease, defect, <supplied resp="MSPP">delinquent</supplied>,
+				<supplied resp="MSPP">dependence</supplied>. Next year more--more people.</p>
+		<p>Legislation &amp; palliative are useless--get at the root.</p>
+		<p>Maternal mortality--20,000} tb. kidney heart.</p>
+		<p>Infant mortality 200,000} too frequent children too close interrupted <supplied
+				resp="MSPP">pregnancy</supplied>.</p>
+		<p>Feeble minded, 400,000.</p>
+		<p>Insane-- Parole--</p>
+		<p>Child labor, 3 million-- Federal law} older children pushed out to compete.</p>
+		<p>Society for Prevention of Cruelty to Children.</p>
+		<p>If Child could choose its Parents.</p>
+		<p>Ships scanned-- Immigration laws.</p>
+		<p>Our government agents scan the ships coming into these shores for diseased idiots insane
+			or paupers--when found they are promptly returned to land of birth.</p>
+		<p>But while doing this very effective <add>thing</add> &amp; safeguarding <del>act
+				from</del> the country from without--we encourage the propagation &amp;
+			multiplication of the same types from within.</p>
+		<p>We have laws to keep out of the country certain types of people--</p>
+		<p>While we have laws to increase their numbers at home.</p>
+	</docBody>
+</doc>

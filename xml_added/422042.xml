@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Interview">
+    <mepHeader>
+        <prepDate>2014-08-13 CH proof tags</prepDate>
+        <docAuthor><person>Margaret Sanger</person></docAuthor>
+        <docDate value="1916-06-18">18 June 1916</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Interview with the Oregon Daily Journal</supplied></titlePart>
+        </docTitle>
+        <idno>msp422042</idno>
+        <sourceDesc>
+            <bibl><title type="article">Says Birth Control Would Right Wrongs</title>, <title type="journal">Oregon Daily Journal</title>, June 18, 1916, p. 5.</bibl>
+            
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="ODJ">Oregon Daily Journal</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><index level1="voluntary motherhood"/>
+        <index level1="birth control" level2="lack of knowledge of" level3="negative consequences of"/>
+        <index level1="birth rate" level2="efforts to reduce"/></headNote>
+    <docBody>
+        <head>Says Birth Control Would Right Wrongs</head>
+        <q who="ODJ"><p>Birth control, or a knowledge of ways and means of contraception, is to be a boon to suffering motherhood, according to <person reg="Sanger, Margaret">Mrs. Margaret Sanger</person> of <place reg="New York, NY">New York,</place> who is in <place reg="Portland, OR">Portland</place> to lecture on the subject.</p>
+        <p>Not only is it to relieve women of the burden of bearing too many children, but it is to be a large factor in the fight of the poor for economic justice. By limiting the birth-rate, birth control advocates say, the supply of cheap labor will be diminished and with fewer people, there will be more work and greater opportunity.</p></q>
+        <p>"Birth control," said Mrs. Sanger, in her apartment at the <org reg="Portland Hotel">Portland</org> yesterday, "is the keynote in the social awakening. It challenges the idea that women should not try to keep from having children and advances the idea that the real wrong is in having children that they do not want, and for whom they cannot provide.</p>
+        <q who="ODJ"><p>Mrs. Sanger says that birth control already is practiced by perhaps one-third of the women in the <place>United States,</place> judging from the birth rate.</p>
+        <p>Mrs. Sanger was formerly a nurse, and she says it was her work among the poor of New York that made her an advocate of birth control.</p></q>
+    </docBody>
+</doc>

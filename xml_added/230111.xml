@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+	<mepHeader>
+		<prepDate>2003/10/10 NS</prepDate>
+		<prepDate>05/09/2011 AW</prepDate>
+		<prepDate>2014-04-10 CH clean regs</prepDate>
+		<prepDate>2015-01-20 CH proof tags and enter</prepDate>
+		<docAuthor>Margaret Sanger</docAuthor>
+		<docDate value="1925-01-00">Jan 1925</docDate>
+		<docTitle>
+			<titlePart>An Urgent Appeal in the Tresca Case</titlePart>
+		</docTitle>
+		<idno>msp230111</idno>
+		<sourceDesc>
+			<bibl><title type="journal">Birth Control Review</title>, Jan. 1925, p. 4</bibl>
+			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S71:14</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="ACLU">American Civil Liberties Union</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP"><p>The author of the petition that Sanger circulated in this article was
+			the <org>American Civil Liberties Union</org>.</p>
+		<index level1="birth control" level2="propaganda and publicity"/>
+		<index level1="birth control" level2="suppression of"/>
+		<index level1="censorship"/>
+	</headNote>
+	<docBody>
+		<head>An Urgent Appeal in the Tresca Case</head>
+		<p>On November 23, 1923, <person reg="Tresca, Carlo">Carlo Tresca</person>, editor of <title
+				type="journal">Il Martello,</title> an Italian anti-Fascisti weekly, was convicted
+			of the crime of publishing in his paper a two-line advertisement of a book on Birth
+			Control. On November 10, 1924, the <org><place>United States</place> Circuit Court of
+				Appeals</org> affirmed his sentence of a year and a day in <org
+				reg="United States Penitentiary, Atlanta">Atlanta Penitentiary</org>. The
+			miscarriage of justice in this sentence is indicated in the endorsement by a number of
+			prominent people to Mr. Tresca's application to President <person reg="Coolidge, Calvin"
+				>Coolidge</person> for a commutation of sentence. The formal endorsement reads, in
+			part, as follows:</p>
+		<p>"<q who="ACLU">The petitioner was convicted upon one count only in an indictment
+				containing eight counts under <name type="law"
+					reg="United States Criminal Code, Section 211">Section 211 of the U.S. Criminal
+					Code</name>, for offense of causing to be mailed an advertisement giving
+				information as to how and by what means conception may be prevented. The
+				advertisement was of a book, the Italian title of which literally translated, means
+				the art of how not to create children. The other seven counts of the indictment
+				charged the mailing of this book and other books. On these seven counts the
+				petitioner was not convicted, but the owner of the bookstore at which the books were
+				mailed, testified that he himself had mailed the books, and furthermore that he had
+				inserted the advertisement in the paper while petitioner was absent on his vacation.
+				This <person reg="Nieri, Umberto">bookstore owner</person>, subsequently indicted
+				for the same offenses, pleaded guilty and has served four months</q>. </p>
+		<p>"<q who="ACLU">The petitioner's conviction on the eighth count has been sustained by the
+				Circuit Court of Appeals and is undoubtedly sound, though it must be pointed out
+				that not only was there no evidence that he had any actual knowledge of the
+				advertisement but that there was undisputed evidence (a) that he denied actual
+				knowledge of it (b) that he was away on vacation at the time; and (c) that the other
+				man, who subsequently pleaded guilty and served his sentence, was the man who had
+				knowledge of any who inserted the advertisement. It should further be pointed out
+				that the actual issue of the paper containing the advertisement never reached the
+				eye of a single member of the reading public. It was stopped and returned by the
+				post office authorities and only remailed when the offending advertisement had been
+				physically deleted</q>.</p>
+		<p>"<q who="ACLU">Under the circumstances outlined above, it is urged that to cause this man
+				to serve a penitentiary sentence of a year and a day is not in accordance with the
+				real ends of justice. The principal offender in the case received and served four
+				months</q>.</p>
+		<p>"<q who="ACLU">In other similar federal cases, so far as available records show, only
+				small fines have been imposed; and in similar cases under state laws the average
+				sentence was 30 days, and the longest six months</q>."</p>
+		<p>We earnestly appeal to all our readers to join in this protest to President Coolidge
+			against the punishment of an innocent man.</p>
+		<byline>
+			<person reg="Sanger, Margaret">MARGARET SANGER</person>
+		</byline>
+	</docBody>
+</doc>

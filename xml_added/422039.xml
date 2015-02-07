@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Speech">
+    <mepHeader>
+        <prepDate>2014-08-13 CH proof tags</prepDate>
+        <docAuthor><person>Margaret Sanger</person></docAuthor>
+        <docDate value="1916-05-28">28 May 1916</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">My Fight for Birth Control</supplied></titlePart>
+        </docTitle>
+        <idno>msp422039</idno>
+        <sourceDesc>
+            <bibl><title type="article">'Woman Rebel' Tells of Need for Birth Control</title>, <title type="journal">Denver Express</title>, May 28, 1916, p. 8.</bibl>
+            
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="DE">Denver Express</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger spoke on "My Fight for Birth Control," at Denver's Marble Hall on May 28, 1916. For drafts of the texts Sanger used during her American speaking tour in 1916, see "<xref from="236132.xml">Birth Control (Chicago Address on Women)</xref>," "<xref from="101859.xml">Birth Control and Society</xref>," Apr.-June, 1916, “<xref from="128002.xml">Woman and Birth Control</xref>," Apr-July 1916, and "<xref from="128003.xml">Condemnation is Misunderstanding</xref>," Apr.-Jun. 1916.</p><index level1="Woman Rebel, The" level2="birth control and"/>
+        <index level1="Roosevelt, Theodore" level2="MS on"/>
+        <index level1="poverty" level2="family size and"/>
+        <index level1="birth control laws and legislation" level2="MS on"/>
+        <index level1="birth control" level2="distribution of information about"/></headNote>
+    <docBody>
+        <head>"WOMAN REBEL" TELLS NEED OF BIRTH CONTROL</head>
+        <p><q who="DE"><person reg="Sanger, Margaret">Margaret Sanger,</person> the "Woman Rebel," took issue with <person reg="Roosevelt, Theodore">Theodore Roosevelt</person> Sunday night when she declared,</q> "It is about time the race commits suicide if it can't take any better care of its children than it does now."</p>
+        <q who="DE"><p>She spoke at <org>Marble hall,</org> and declared that 300,000 children die annually from poverty and neglect: that 95 percent of these come from parents who average nine children, and that over-production is making the working class a race of slaves bound hand and foot by poverty, disease and mental deficiency.</p>
+        <p>She claims the <place>United States</place> is the only civilized country in the world that has such stringent laws in regard to birth control, she charged that the wealthy are able to evade these laws but the poor are told there is no help for them, as "it is against the law to give information regarding birth control."</p>
+        <p>She said that in <place>New Zealand</place> and <place reg="Netherlands">Holland,</place> where such knowledge is freely given, infant mortality is lowest, and the standard of mortality is highest.</p>
+        <p>Mrs. Sanger left <place reg="Denver, CO">Denver</place> Monday morning for <place reg="Los Angeles, CA">Los Angeles.</place> She will return to Denver the last of June.</p></q>
+    </docBody>
+</doc>

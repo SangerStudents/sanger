@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2014-12-04 CH encode</prepDate>
+        <docAuthor>
+            <person>Margaret Sanger</person>
+        </docAuthor>
+        <docDate value="1924-05-00">May 1924</docDate>
+        <docTitle>
+            <titlePart>Margaret Sanger's Own Corner</titlePart>
+        </docTitle>
+        <idno>msp431009</idno>
+        <sourceDesc>
+            <bibl><title type="journal">Birth Control Review</title>, May. 1924, p. 150</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="UNK">Unknown</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>Under this column name, the <title type="journal">Birth Control Review</title> published
+            letters written to Margaret Sanger with occasional commentary. For others in this series
+            see Margaret Sanger's Own Corner, <xref from="421032.xml">Jan. 1924</xref>, <xref
+                from="421033.xml">Feb. 1924</xref>, <xref from="301463.xml">Mar. 1924</xref>, <xref
+                from="421034.xml">Apr. 1924</xref>, and <xref from="421010.xml">June
+            1924</xref>.</p>
+        <index level1="sterilization"/>
+        <index level1="sterilization" level2="MS on"/>
+        <index level1="client letters"/>
+    </headNote>
+    <docBody>
+        <head>MARGARET SANGER'S OWN CORNER</head>
+        <p> A Correspondent writes “<q who="UNK">I would like to be sterilized if I could be, and
+                would just like to know is meant by it</q>” </p>
+        <p> As this is a not Infrequent request, I am including it my answer in my Corner.</p>
+        <p> Sterilization is an operation which in the female usually takes the form of
+            salpingectomy, that is, cutting the fallopian tubes so that the ova cannot reach the
+            uterus, in the male it usually takes the form of vasectomy. That is, cutting the vas
+            deferens. The female needs to stay in the hospital a week or ten days, while in the male
+            the operation is practically no more than office treatment. Neither operation if
+            properly done is dangerous to the patient. </p>
+        <p> We do not think sterilization advisable for strong, healthy people, for they may change
+            their minds about having children in four or five years’ time. However, is there is
+            taint of insanity or epilepsy in either husband’s or wife’s ancestry, sterilization is
+            advisable. The operation itself will cause no change in physical, mental or emotional
+            life, nor will it deprive either the man or woman of the normal expression of their sex
+            lives. </p>
+        <p> Any surgeon of good standing can do either operation. He must be convinced of its
+            advisability. The prices would parallel those of other operations that are done in the
+            particularly locality. </p>
+        <closer>
+            <person reg="Sanger, Margaret">M S</person>
+        </closer>
+    </docBody>
+</doc>

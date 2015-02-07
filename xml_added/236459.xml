@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Autograph draft speech">
+	<mepHeader>
+		<prepDate>2014-08-19 KH</prepDate>
+		<prepDate>2014-08-20 CH proof tags</prepDate>
+		<docAuthor>Margaret Sanger</docAuthor>
+		<docDate value="1924-00-00">1924</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Birth Control and Progress Speech Fragment</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp236459</idno>
+		<sourceDesc>
+			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
+			<bibl><title>Margaret Sanger Microfilm, Sophia Smith Collection</title>#S70:1064</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>No additional information found on this speech draft.</p>
+		<index level1="birth control" level2="civilization and"/>
+		<index level1="England" level2="birth rate in"/>
+		<index level1="England" level2="MS on"/>
+		<index level1="England" level2="population policies of"/>
+		<index level1="population control" level2="MS on"/>
+		<index level1="population growth"/>
+		<index level1="United States" level2="overpopulation in"/>
+		<index level1="United States" level2="population growth in"/>
+	</headNote>
+	<docBody>
+		<p>Birth Control has become the mark of a superior service of moral responsibility. Someone
+			has recently said that it is the most momentous fact in the history of Mankind.
+			Certainly it is the keynote of a new social era. Because it is not only an expedient of
+			health and economy but it is also a principle which is interlocked with the spiritual
+			progress of the race &amp; the future. B.C. is the conscious control of the birth rate
+			by means that prevent contraception. It is the natural method because it prevents rather
+			than destroys. It does not interfere with the development of pregnancy because
+			contraception is <del>to be</del> prevented. Consequently no life has been allowed to
+			begin. It is the logical outgrowth of a century’s work at improving the conditions of
+			life. The 19th century is known to be the greatest period in our history for
+			humanitarian &amp; ameliorative efforts. When we look back at the social conditions
+			which existed at the end of the 18th century, our gasps with wonder &amp; amazement with
+			the thought that we have come through life at all. <place reg="United States"
+				>America</place> of course was mostly a wilderness with a hand full of people, but
+				<place>Europe</place> was fairly well <add>over</add> populated then &amp;
+				<place>England</place> in particular with her huge civilizations can best serve as a
+			typical example. Streets never unpaved. There were no sewers, refuse garbage &amp; dirt
+			were <gap extent="rest of speech"/></p>
+	</docBody>
+</doc>

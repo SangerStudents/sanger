@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2014-04-15 JK initial tag</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1935-10-31 ">31 Oct 1935</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Interviews with the London Daily
+                    Express, Daily Mirror, and News
+                Chronicle</supplied></titlePart>
+        </docTitle>
+        <idno>msp421923</idno>
+        <sourceDesc>
+            <bibl><title type="article">"Marry Young"</title>,<title
+                    type="journal">Daily Express</title>, Oct. 31, 1935, <title
+                    type="article">Cocktail-Drinking Women-Bad Mothers"</title>,
+                    <title type="journal">Daily Mirror</title>, Oct. 31, 1935,
+                    <title type="article">"Ideal Family"</title>,<title
+                    type="journal">News Chronicle</title></bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="DE">Daily Express</name>
+            <name id="DM">Daily Mirror</name>
+            <name id="NC">News Chronicle</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p><person reg="Sanger, Margaret">Sanger</person> gave
+            press interviews in <place reg="London, England">London</place> en
+            route to<place> India</place>. Text has been taken from the <title
+                type="journal">Daily Mirror</title>, <title type="journal">Daily
+                Express</title>, and the <title type="journal">News
+                Chronicle</title>.</p><index
+            level1="Birth Control International Information Centre"/>
+        <index level1="India" level2="birth control clinics and leagues in"/>
+        <index level1="All India Women's Conference"/><index
+            level1="conferences" level2="All India Women's Conference"
+            level3="1935-36 (10th)"/>
+        <index level1="motherhood"/><index level1="family size" level2="MS on"
+            /><index level1="Family Limitation"/><index level1="child spacing"
+            /><index level1="birth control" level2="in marriages"/></headNote>
+    <docBody>
+        <head>Marry Young</head>
+        <p>“If young people marry early but take their time before having
+            families,” <q who="DE">she said, in an interview in London
+                yesterday,</q> “they are able to plan that adjustment which is
+            so important in marriage. </p>
+        <p>“An only child is a tragedy--especially for the child. I consider
+            that ‘spacing’ of three years between each child is ideal.” </p>
+        <div>
+            <head>Cocktail-Drinking Women-Bad Mothers</head>
+            <q who="DM"><p>Cocktail-drinking, slimming young women inevitably
+                    make bad mothers- unless they receive frank scientific
+                    advice before marriage.</p>
+                <p> This is the view of Mrs. Margaret Sanger, president of the
+                        <org>Birth Control International Information
+                        Centre</org>, who would like every engaged couple to be
+                    told the “facts of life.”</p></q>
+            <p>“In <place>New York</place>,” <q who="DM">she told me,</q>
+                “50,000 young people of both sexes are initiated into the
+                mysteries of sex every year at the clinic run by my
+                organization. </p>
+            <p>“My advice to these young couples is: ‘Want a child from the very
+                start of marriage, so that it is ushered into the world with an
+                invitation instead of being an unwanted guest.’</p>
+            <p>“We feel that an only child is a tragedy. ‘Spacing of three years
+                between children is the ideal. Young people should be encouraged
+                to marry early, but take their time before they begin to have
+                their families. </p>
+            <q who="DM">
+                <p>This kindly woman’s face grew grave when she told me that
+                    time and time again she has been confronted by young women
+                    on the brink of marriage, whose nerves have been destroyed
+                    by alcohol, slimming and late nights.</p></q>
+            <p> “This lack of discipline,” she said, “is common to most
+                countries. It is largely the parents’ fault. We have merely to
+                point out the serious danger to the future race to find that
+                these young people respond and renounce their rackety
+                parties.</p>
+            <p>“The only consolation is that girls who deliberately blind
+                themselves to these perils often have no children; seldom more
+                than one.”</p>
+            <q who="DM">
+                <p> In a few days Mrs. Sanger is sailing to India, where she is
+                    to be a guest-speaker at the <org>All India Women’s
+                        Conference.</org>
+                </p></q>
+            <p>“I must make it clear,” she said, “that I am not going to India
+                to persuade everybody to have a small family. I want rather to
+                convince them of the desirability-- for themselves and
+                posterity-- of having families of the right size and right
+                quality.” </p>
+            <byline>By a Special Correspondent</byline>
+        </div>
+        <div>
+            <head>Ideal Family</head>
+            <q who="NC">
+                <p>Happier homes, fewer divorces, and more stable and permanent
+                    marriages would result if there were an interval of at least
+                    two years between marriage and the birth of the first
+                    child.</p>
+                <p>This is a conviction expressed to me by Mrs. Margaret Sanger,
+                    inventor of the phrase “birth control,” founder of the <org
+                        reg="American Birth Control League">first birth control
+                        organization in <place reg="United States"
+                            >America</place></org> where she is one of the
+                    best-known women.</p></q>
+            <p>“It is all important that the newly married should get acquainted
+                and become adjusted to each other. Children are a secondary
+                consideration in the early years of marriage,” she said to me. </p>
+            <q who="NC"><p>Figures in the <place>United States</place> show that
+                    when children are “postponed” on account of the wife
+                    continuing to work there has been a reduction of the divorce
+                    total, according to Mrs. Sanger.</p>
+                <p>The ideal marriage, she went on, would be between a man of 23
+                    and a woman of 22. The woman would continue her job for two
+                    or three years before having a child.</p>
+                <p>The family could consist of three children, born at intervals
+                    of three years.</p></q>
+            <p>
+                <q who="NC">It is tragic to have only one child, she believes.
+                    But for the average family today a fourth child </q>“can
+                ruin the whole structure of the family,” <q who="NC">and a fifth
+                    child</q> “is enough to drive women to drink.”</p>
+            <p>“Economists have not begun to realize the possibilities in early
+                marriages and small families,” she declared.</p>
+            <p><q who="NC">She pointed out the</q> “splendid national
+                investment” <q who="NC">it would be to encourage early marriages
+                    with the prospect of children “postponed” until the young
+                    couple</q> “got economically on their feet.”</p>
+            <p><q who="NC">Each family would need new quarters and a</q>
+                “complete new set of household equipment.” <q who="NC">This
+                    would </q>“boost things generally.”</p>
+            <p>“In the East I have found very little religious prejudice against
+                birth control,” said Mrs. Sanger, "and no moral prejudice
+                whatsoever.” </p>
+            <p>“If young people marry early but take their time before having
+                    families,”<q who="NC"> she said, in an interview in London
+                    yesterday, </q>“they are able to plan that adjustment which
+                is so important in marriage. </p>
+            <p> “An only child is a tragedy--especially for the child. I
+                consider that ‘spacing’ of three years between each child is
+                ideal.” </p>
+        </div>
+
+
+
+    </docBody>
+</doc>

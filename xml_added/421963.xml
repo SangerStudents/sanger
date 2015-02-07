@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+
+	<mepHeader>
+		<prepDate>2014/06/11 AS encoded</prepDate>
+		<prepDate>2015-01-22 CH proof tags and enter</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docDate value="1955-11-16"><supplied>16 Nov 1955</supplied></docDate>
+		<docTitle>
+			<titlePart><supplied>Interview Aboard the S.S. President Wilson</supplied></titlePart>
+		</docTitle>
+		<idno>msp421963</idno>
+		<sourceDesc>
+			<bibl><title type="article">Birth Control Leader Sees World Hope in New Drug</title>,
+					<title type="journal">Honolulu Star Bulletin</title>, Nov. 17, 1955.</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="HSB">Honolulu Star Bulletin</name>
+			<name id="HOUVE">Houghton, Vera</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP"><p>Margaret Sanger gave an interview while en route home from the Fifth
+			International Conference on Planned Parenthood, held in Tokyo. She was accompanied by
+			Vera Houghton.</p>
+		<index level1="birth control" level2="access to"/>
+		<index level1="birth control" level2="distribution of information about"/>
+		<index level1="conferences" level2="International Conference on Planned Parenthood"
+			level3="1955 (5th)"/>
+		<index level1="planned parenthood"/>
+		<index level1="Planned Parenthood Federation of America"/>
+		<index level1="overpopulation"/>
+		<index level1="birth rate" level2="population growth and"/>
+		<index level1="birth control methods" level2="pill"/>
+		<index level1="birth control movement" level2="international"/>
+		<index level1="India" level2="birth control movement in"/>
+		<index level1="Japan" level2="birth control in"/>
+		<index level1="hormones"/>
+		<index level1="population control" level2="MS on"/></headNote>
+	<docBody>
+		<head>Birth Control Leader Sees World Hope in New Drug</head>
+		<div type="section">
+			<p><q who="HSB">A pill to prevent babies.</q></p>
+			<p><q who="HSB">That may well be the answer to controlling the population of the world
+					in the future. <person reg="Sanger, Margaret">Mrs. Margaret Sanger,</person>
+					international birth control leader, said yesterday aboard the President
+					Wilson.</q></p>
+			<p><q who="HSB">She said this was one of the concrete results of the <org>Fifth
+						International Conference on Planned Parenthood and Overpopulation</org> she
+					recently presided over in <place reg="Tokyo, Japan">Tokyo.</place></q></p>
+			<p>"For the first time biologists and chemists have given us hope-hope of a means to
+				stabilize the birth and death rates.</p>
+		</div>
+		<div type="section">
+			<head type="sub">BIRTH RATE RISES</head>
+			<p>"At present in most countries the birth rate is up and the death rate is down. We'll
+				never have peace until we control the population," <q who="HSB">said Mrs.
+					Sanger.</q></p>
+			<p>
+				<q who="HSB">The pill about which she spoke is the hormone progesterone. Taken under
+					medical direction, it prevents the ovum from conceiving.</q></p>
+			<p>"Experiments in the <place>United States</place> have shown it to be harmless and
+				effective but expensive.</p>
+			<p>Until it can be manufactured synthetically it will be too expensive for mass
+				distribution." <q who="HSB">said Mrs. Sanger.</q></p>
+			<p><q who="HSB">She added, although it is being used in the U.S. today, it is still in
+					the experimental stage.</q></p>
+			<p><q who="HSB">Mrs. Sanger and her traveling companion, <person reg="Houghton, Vera"
+						>Mrs. Vera Houghton</person> of <place reg="London, England">London,</place>
+					international secretary of the <org
+						reg="International Planned Parenthood Federation">Planned Parenthood
+						Federation,</org> stated the conference was the most successful on
+					record.</q></p>
+			<p><q who="HOUVE">"There's been a change of attitude all over the world toward birth
+					control in the past five years,"</q>
+				<q who="HSB">said Mrs. Houghton.</q></p>
+		</div>
+		<div type="section">
+			<head type="sub">INDIAN SUPPORT</head>
+
+			<p><q who="HOUVE">The step which the <org>Indian government</org> took in supporting a
+					birth control program helped remove prejudice,</q><q who="HSB"> she
+				added.</q></p>
+			<p><q who="HSB">Like <place>India,</place>
+					<place>Japan</place> is beginning government birth control programs.</q></p>
+			<p><q who="HSB">But in Mrs. Sanger's opinion the Japanese </q> "are not doing
+				enough."</p>
+			<p><q who="HSB">Mrs. Sanger continued on to the <place>Mainland</place> last night,
+					returning home to <place>Tucson, Arizona.</place></q></p>
+		</div>
+	</docBody>
+</doc>

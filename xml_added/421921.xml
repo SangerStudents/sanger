@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed interview">
+    <mepHeader>
+        <prepDate>2014-04-15 JK initial tag</prepDate>
+        <prepDate>2014-04-14 CH proof/enter tags</prepDate>
+        <prepDate>2014-04-23 JK correct tags</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1937-02-17">17 Feb 1937</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Interview with the United
+                    Press</supplied></titlePart>
+        </docTitle>
+        <idno>msp421921</idno>
+        <sourceDesc>
+            <bibl>Alice Park papers, Hoover Institution on War, Revolution, and Peace.</bibl>
+            <bibl><title>Library of Congress Microfilm 83:457</title></bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="MSPP">Margaret Sanger Papers Project</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger gave this interview with <person
+                reg="Heilman, E.J.">E.J. Heilman </person>in <place
+                reg="Chandler, AZ">Chandler, Arizona</place> on Feb. 17. The
+            published version found had no newspaper information on it. For a
+            typed version see <org>Library of Congress</org> Microfilm 83:457. </p>
+        <index level1="birth control laws and legislation" level2="Federal"
+            /><index level1="birth control"
+            level2="distribution of information about"/><index
+            level1="Comstock Laws"/><index
+            level1="birth control clinics and leagues" level2="in US"
+        /></headNote>
+    <docBody>
+        <head>Birth Control Battle Won, Leader Says</head>
+        <byline>by <org>United Press</org></byline>
+        <dateline>
+            <date value="/1937/-02-19"/>Feb. 19, <place reg="Phoenix, AZ">
+                Phoenix, Ariz.</place></dateline>
+        <p><person reg="Sanger, Margaret">Mrs. Margaret Sanger</person>, famous
+            crusader for birth control, told the United
+                Press today the organization she heads would discontinue
+            its attempt to change <org
+                reg="United States Government">Federal
+            </org>laws banning dissemination of birth control information or
+            appliances.</p>
+        <p>“We shall close our <place reg="Washington, DC"
+                >Washington</place> lobby, which has been maintained for several
+            years, about March 1,” she said. “We believe it no longer is
+            necessary to attempt to change the law in view of the recent <org
+                reg="United States Court of Appeals For the Second Circuit"
+                >Circuit Court of Appeals</org> decision which held birth
+            control appliances and information may be sent through the mails or
+            in interstate commerce.”</p>
+        <p>At the same time, Mrs. Sanger predicted, the number of birth control
+            clinics in the <place>United States</place> would be doubled by the
+            end of 1937 as result of the court ruling. </p>
+        <p> “There are now 320 clinics in this country,” she said. “I believe
+            there will be double that number by the end of this year because it
+            is no longer necessary to ‘bootleg’ information or appliances.”</p>
+        <p> The decision to which Mrs. Sanger referred was one which held that
+            the <person reg="Comstock, Anthony">Comstock </person>Law of 1873,
+            relating to dispatch of “obscene” materials or writings through the
+            mails or in interstate commerce, did not apply to birth control
+            information or appliances. The Court held such information or
+            appliances could be interpreted as health measures. </p>
+        <p> The test case involved shipment of a quantity of birth control
+            devices from <place>Japan</place> to a <place reg="New York, NY">New
+                York</place> <person reg="Stone, Hannah Mayer">woman physician</person>. </p>
+        <p> Mrs. Sanger said a newly-discovered, inexpensive contraceptive she
+            announced last year still was under laboratory tests in New York. </p>
+        <p>The contraceptive, based on rice or corn starch, was designed, she
+            said, “for the masses who cannot afford the commercial
+            contraceptives now available to those in better circumstances, and,
+            as a result, are overburdened with children they cannot care for
+            properly.” The material, she said, now is being used in
+                <place>India</place> and <place>China</place>, but will not be
+            released in this country for at least a year. </p>
+        <p> Mrs. Sanger is spending the winter in an exclusive resort in <place
+                reg="Chandler, AZ">Chandler, Ariz.</place> She said she would go
+            to <place reg="El Paso, TX">El Paso, Tex.</place>, in about a week
+            to open a new birth control clinic. </p>
+        <p>She appeared before a <org
+                reg="United States House of Representatives">House</org>
+            legislative committee late yesterday to speak in favor of a bill
+            proposing to repeal <place>Arizona</place> law which forbids
+            advertisements or contraceptives. </p>
+    </docBody>
+</doc>

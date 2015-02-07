@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Speech">
+    <mepHeader>
+        <prepDate>2013/12/11 JK encoded</prepDate>
+        <prepDate>2014-08-21 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1929-11-18"><supplied resp="MSPP">18 Nov 1929</supplied></docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Mt. Holyoke Lecture</supplied></titlePart>
+        </docTitle>
+        <idno>msp421047</idno>
+        <sourceDesc>
+            <bibl><title type="article">Mrs. Sanger Urges Spread of Education for Relief</title>,
+                    <title type="journal">Mt. Holyoke News</title>, Nov. 23, 1929</bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="MHN">The Mount Holyoke News</name>
+            <name id="HEAAR">Heath, Arthur (Sir)</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger's speech was not located; press coverage provides details.</p>
+        <index level1="American Birth Control League"/>
+        <index level1="conferences" level2="World Population Conference" level3="1927"/>
+        <index level1="child labor"/>
+        <index level1="children" level2="unwanted"/>
+        <index level1="birth rate" level2="efforts to reduce"/></headNote>
+    <docBody>
+        <head>Mrs. <person reg="Sanger, Margaret">Sanger</person> Urges Spread of Education for
+            Relief</head>
+
+        <p>“The United States is particular about who comes into the country from the outside. It
+            has found the selective quota to be a success. Why doesn’t it try a selective quota to
+            judge who should come into the country from the inside?” <q who="MHN">Birth control, she
+                explained, does not mean limiting the number of children in every family in the
+                United States. It merely means the weeding out of the socially undesirable, the
+                unwanted before their conception. The <place> United States</place> spent $9,000,000
+                in 1927 on the four D’s-- disease, defect, delinquency and death, and in the last
+                three years has spent $18,000,000 in crime in one way or another. According to Mrs.
+                Sanger, families that do not want more children, that have too many already, that
+                cannot support them should be given a fair chance to limit their offspring. In the
+                United States there are seven million children under fourteen years of age working
+                in factories or in the field. Many of the parents of these children are getting
+                wages scarcely sufficient to support themselves, much less a large family.
+                Child-labor legislation is helpful in a way, but it does not go far enough. Mrs.
+                Sanger mentioned the various ways of controlling and regulating the birth rate, and
+                said that of course the <org reg="American Birth Control League">Birth Control
+                    League</org> did not intend to force anything upon people who did not wish it.
+                In closing the speaker quoted Sir <person reg="Heath, Arthur">Arthur Heath</person>
+                who has declared:</q> “<q who="HEAAR">There is developing in the United States the
+                greatest experiment in race building the world has ever seen, and birth control is
+                an integral part of that movement</q>.”</p>
+
+        <div>
+            <head>Interviewer Notes Charm of Birth Control Advocate</head>
+            <p>“Birth control inspires parents to consider not only the physical welfare of the
+                child, but to consider its inheritance and its potentialities as a race bearer.”</p>
+        </div>
+
+        <div>
+
+            <head>Noted Mrs. Sanger is Forum Guest</head>
+            <head type="sub">World Leader Will Present Problems Facing Youth</head>
+            <head type="sub">Forum Members Must Present Cards or Pay Admission</head>
+            <head type="sub"> Lecture on Monday</head>
+            <p>
+                <q who="MHN">Margaret Sanger, leader of the birth control movement in the United
+                    States, will speak in the chapel at eight o’clock, Monday evening, November 18.
+                    She is the author of several well-known books, <title type="book">“Women and the
+                        New Race,”</title>
+                    <title type="book">“Happiness in Marriage,”</title>
+                    <title type="book">“What Every Boy and Girl Should Know,”</title> and has been
+                    for some years the editor of the <title type="journal">Birth Control
+                        Review</title>. In addition to her fervent written please for betterment of
+                    a situation to which people everywhere have been careless or wilfully blind for
+                    any number of years, Margaret Sanger has spent her life in crusading for this
+                    cause. After an extensive cultural and medical education and years of practical
+                    observation Mrs. Sanger is well qualified to speak with authority. She has
+                    endured notoriety and even arrest for her staunch views and clear speaking. She
+                    has traveled around the world and held many meetings in <place>Japan</place> and
+                        <place>China</place>, leaving birth control leagues in both countries. She
+                    organized in 1927 the first <org reg="World Population Conference, 1st">World
+                        Population Conference</org> held at <place reg="Geneva, Switzerland"
+                        >Geneva</place>. She presents a problem of vital interest to all those
+                    concerned with the future welfare and happiness of the nation. The lecture is
+                    under the auspices of the Forum and all members will be admitted free of charge.
+                    Fifty cents admittance will be charged to all others wishing to attend Monday
+                    night. Tickets for the Forum’s season program will also be on sale at the door.
+                    Mrs. Sanger will be the guest of honor at a dinner given Monday night, at
+                    Hillside. <person reg="Dresser, Ruth">Mrs. Dresser</person> has opened her
+                    private dining room, and <person reg="Holmes, Sarah">Sarah Holmes</person>,
+                    President of Forum will be the hostess.</q>
+            </p>
+        </div>
+
+
+    </docBody>
+</doc>

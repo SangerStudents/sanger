@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed draft article">
+    <mepHeader>
+        <prepDate>2012-06-20 AW Initial Tag</prepDate>
+        <prepDate>2014-04-17 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1925-00-00"><supplied resp="MSPP">1925</supplied></docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Social Selection</supplied></titlePart>
+        </docTitle>
+        <idno>msp236444</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
+            <bibl><title>Margaret Sanger Microfilm: Smith College Collections</title>
+                S73:0229</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="eugenics" level2="positive"/>
+        <index level1="birth control" level2="civilization and"/>
+    </headNote>
+    <docBody>
+        <p>It is one of the tragedies of civilization that its tendency is to destroy or eliminate
+            those mental and physical superiorities by which it has been built up and which are
+            essential for its maintenance and progress.</p>
+        <p> The development of civilization has brought mankind under influences which have never
+            before come into play. There have arisen various agencies which tend to favor or reduce
+            the prevalence of certain types according to the nature of the institution and the time
+            and place.</p>
+        <p>Our friend <person reg="Vacher de Lapouge, Georges">Lapouge</person> has described the
+            operation of several forms of social selection</p>
+        <list>
+            <item>Military</item>
+            <item>Political } All brought into play as a consequence of the development</item>
+            <item>Religious } of civilization. </item>
+            <item>Moral</item>
+            <item>Legal</item>
+            <item>Economic</item>
+        </list>
+        <p>Military selection eliminates the best male population of the race.</p>
+        <p>Political selection through the effects of the Civil War, the prison, the scaffold and
+            exile gets rid of more independent and courageous spirits and tends thereby to render
+            the population submissive and tractable.</p>
+        <p>Religious selection through celibacy of the clergy and persecution, tends to affect the
+            elimination of the more intelligent and independent minds.</p>
+        <p>Moral and legal selection in general produce dysgenic effects.</p>
+        <p>The economic selection has a most destructive effect upon the superior elements of the
+            race. It makes machines of rare souls. It starves our artists, musicians and poets and
+            reduces the artisan to the state of the unskilled.</p>
+        <p>The racial influence of civilization is bad and the feeble force of natural selection
+            seems powerless to stay the havoc brought by the agencies which result from the
+            development of civilization.</p>
+        <p>Add to these disconcerting facts amount of care, attention, money, effort and energy
+            devoted to the care and perpetuation of the insane, feebleminded and inferior types and
+            one gasps for breath as no remedy appears to grapple with the problem. </p>
+    </docBody>
+</doc>

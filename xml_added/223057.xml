@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Autograph draft article">
+    <mepHeader>
+        <prepDate>2012-06-19 AW Initial Tag</prepDate>
+        <prepDate>2014-04-17 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="0000-00-00">n.d.</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Morality and Birth Control</supplied></titlePart>
+        </docTitle>
+        <idno>msp223057</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
+            <bibl><title>Margaret Sanger Microfilm: Smith College Collections</title>
+                S73:0120</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>No other versions or information has been found on this fragment of text.</p>
+        <index level1="birth control" level2="morality of"/>
+        <index level1="Catholic Church" level2="birth control and"/>
+        <index level1="reproductive responsibility"/>
+    </headNote>
+    <docBody>
+        <p>If people are going to be immoral or promiscuous in their sex relations then at least let
+            them protect Society &amp; the Race from disease &amp; offspring.</p>
+        <p>To my way of thinking the moral question is not effected by contraceptives.</p>
+        <p>Morality begins within one. Nothing outside can make any woman immoral.</p>
+        <p>If the Churches must keep her in ignorance to keep her pure &amp; moral then they have
+            failed in their work &amp; had better give the job over to Science &amp; be done with
+            it.</p>
+    </docBody>
+</doc>

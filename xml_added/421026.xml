@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+	<mepHeader>
+		<prepDate>2013-11-30 JK transcribed</prepDate>
+		<prepDate>2014-12-16 CH encoded</prepDate><prepDate>2015-01-07 CH proof tags and enter</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1921-01-03">3 Jan 1921</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">What Every Man Should Know</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp421026</idno>
+		<sourceDesc>
+			<bibl><title type="article">Short Skirts Help Morals</title>, <title type="journal"
+					>Kansas City Star</title>, Jan. 3, 1921</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="KCS">Kansas City Star</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>For a draft version, see "What Every Man Should Know," Dec. 26, 1920 (MSM S70:877). This
+			article was also published in the <title type="journal">Milwaukee Journal</title>.</p>
+		<index level1="men" level2="sexuality of"/>
+		<index level1="sexuality" level2="MS on"/>
+		<index level1="women" level2="sexuality and"/>
+	</headNote>
+	<docBody>
+		<head>"SHORT SKIRTS HELP MORALS".</head>
+		<head type="sub">Feminist Says It Has Removed the Lure of Draperies.</head>
+		<q who="KCS">
+			<p><dateline><place reg="New York, NY">New York--</place></dateline> Take it from a
+				woman who ought to know, these diaphanous gowns, low-necked dresses and knee-length
+				skirts displayed by the fairer sex haven't led the poor, harrassed, male astray.
+				Perish the thoughts!</p>
+		</q>
+		<p><q who="KCS">The answer? Why these feminine fashions have actually raised the standards
+				of morality among men. So says Margaret E. Sanger, feminist and birth control
+				addvocate of the most "modern school"--and Mrs. Sanger professes to know. She said
+				as much in delivering what she termed her</q> "most intimate lecture to men."<q
+				who="KCS"> She spoke on "What Every Man Should Know."</q>
+		</p>
+		<p> “Woman’s dress hasn’t aroused the worst in men,” <q who="KCS">she declared.</q> “It has
+			removed the lure of draperies. Woman has moved toward a higher plane of morality,
+			because she is accustoming man to view her as she is.</p>
+		<p> “Down on the beach where the girls are barelegged there isn’t half the mischief brewing
+			in the minds of men spectators as in the heads of chaps who used to hang about the drug
+			store corners waiting for a puff of wind. At the beach bare legs are taken for granted.
+			Now that women are wearing knee-length skirts on the streets men will soon take for
+			granted also what used to tempt them on drug store corners.” </p>
+		<q who="KCS"><p> Belief that woman resorts to abbreviated costumes to arouse man is all wrong, according
+			to Mrs. Sanger. She believes it the natural reaction for morals to be raised when necks
+			are lowered. </p></q>
+		<p> “It would be impossible,” <q who="KCS">she said,</q> “to go into every phase of what men should know--
+			especially about women.”</p>
+		<p> “Man can never know the secret emotions of woman. It is high time they should know how
+			woman approaches the mystery of her calling.” </p>
+		<q who="KCS">
+			<p> Mrs. Sanger is the mother of two boys. </p>
+		</q>
+	</docBody>
+</doc>

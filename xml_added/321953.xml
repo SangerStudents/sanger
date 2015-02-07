@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+    <mepHeader>
+        <prepDate>2011/07/07 NC</prepDate>
+        <prepDate>CH 7/22/2011 correction</prepDate>
+        <prepDate>2011-11-21 CH correct typo</prepDate>
+        <prepDate>2014-03-30 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1947-00-00">1947</docDate>
+        <docTitle>
+            <titlePart>Birth Control</titlePart>
+        </docTitle>
+        <idno>msp321953</idno>
+        <sourceDesc>
+            <bibl><title type="book">Grolier Encyclopedia</title> (New York, Grolier Society, 1947),
+                p. 198</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="PLAFR">Place, Francis</name>
+            <name id="CSCPAP">Committee to Study Contraceptive Practices and Allied Problems</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>For typed draft see Library of Congress Microfilm 129:32B</p>
+        <index level1="birth control"/>
+        <index level1="birth control" level2="clinics and leagues"/>
+        <index level1="birth control" level2="distribution of information about"/>
+        <index level1="birth control" level2="laws and legislation" level3="New York "/>
+        <index level1="birth control" level2="legal cases"
+            level3="U.S. v. One Package of Japanese contraceptives"/>
+        <index level1="birth control" level2="movement"/>
+        <index level1="birth control" level2="movement" level3="American"/>
+        <index level1="Birth Control Review, The"/>
+        <index level1="Birth Control Federation of America"/>
+        <index level1="physicians" level2="birth control and"/>
+        <index level1="Woman Rebel" level2="articles in "/>
+    </headNote>
+    <docBody>
+        <head>Birth Control</head>
+        <p>A movement to limit the number of offspring in the family. It dates back to <person
+                reg="Malthus, Thomas Robert">Thomas Malthus</person>, an English clergyman, who in his
+            essay on population in 1798 advocated population control through moral restraint as a
+            social method. A neo-Malthusian, <person reg="Place, Francis">Francis Place</person>, in
+            his <title type="book">Illustrations and Proofs of the Principle of Population</title>, 1822, new
+            ed., 1930, held that moral restraint is not enough and advocated "<q who="PLAFR"
+                >preventives</q>." <person reg="Carlile, Richard">Richard Carlile</person> in
+                <place>England</place> published his <title type="book">Every Woman's Book</title>, 1826, the
+            first book in English exclusively on contraception, both in theory and in practice.
+                <person reg="Owen, Robert Dale">Robert Dale Owen</person> in 1831 published his
+                <title type="book">Moral Physiology</title> which advocated and described methods of
+            contraception, but the first publication by an American physician was <title>The Fruits
+                of Philosophy</title> by <person reg="Knowlton, Charles L.">Charles L.
+                Knowlton</person>, 1832, new ed., 1937. Forty years later the <org
+                reg="Malthusian League">Neo-Malthusian League of England</org> was started as a
+            purely educational movement.</p>
+        <p>In 1914 the words "birth control" came into use, when <person reg="Sanger, Margaret"
+                >Margaret Sanger</person>, a trained nurse, aroused to the need for information of
+            contraceptive methods among the poor with whom she worked, began a national campaign of
+            education, agitation, and organization. Publication of an article on "<title type="article">The
+                Prevention of Conception</title>" in the monthly magazine, <title type="journal">The Woman
+                Rebel</title>, which she sponsored, led to her indictment under federal law. The
+            indictment was dropped in 1916 and that year Mrs. Sanger and her sister <person
+                reg="Byrne, Ethel Higgins">Ethel Byrne</person>, another trained nurse, opened the first
+            control clinic in <place reg="United States">America</place>, in one of the poorest
+            sections of <place reg="Brooklyn, NY">Brooklyn</place>.</p>
+        <p>They were both arrested and served workhouse terms for "maintaining a public nuisance."
+            The case was appealed and a decision handed down by the <org>Appellate Division of the
+                New York State Supreme Court</org> in 1918 established the legal right of physicians
+            in the state to advise on contraception "for the cure or prevention of disease"-a great
+            legal victory.</p>
+        <p>The <title rend="italics" type="journal">Birth Control Review</title> began publication in 1917 and was
+            issued until 1940.Continuous organization resulted in the formation of the <org>American
+                Birth Control League</org> in 1921, and of numerous state and local organizations
+            later. Interest in the movement was widespread. Magazines, pamphlets, literature
+            covering all angles of the problems, and lectures were effective as propaganda, and
+            newspaper publicity which accompanied efforts to stop the movement by interference with
+            the constitutional right of free speech, or by arrests of prominent people, all gave
+            great impetus to the cause and advertised its theories.</p>
+        <p>A second national organization, The <org>Voluntary Parenthood League</org>, was formed in
+            1919, and attempted to change the Federal laws on contraception, but has been inactive
+            of recent years.</p>
+        <p>In 1923 the <org>Birth Control Clinical Research Bureau</org> was opened in <place
+                reg="New York, NY">New York</place> by Mrs. Sanger, with a woman <person
+                reg="Stone, Hannah Mayer">physician</person> as clinician. The growth of clinics
+            continued and in June, 1942, they totaled 805, covering all but four states and
+            extending into <place>Alaska</place>, <place>Hawaii</place>, <place>Puerto Rico</place>,
+            and the <place>Virgin Islands</place>--with 225 in hospitals, 262 in health department
+            quarters, and 352 supported wholly or in part by public funds. Three states, <place
+                reg="North Carolina">North</place> and <place>South Carolina</place> and
+                <place>Alabama</place> had included child spacing in the programs of their state
+            departments of health by 1941.</p>
+        <p>Support for the movement through endorsement of over 1000 organizations, largely the
+            result of the work of the <org>National Committee on Federal Legislation for Birth
+                Control</org>, organized by Mrs. Sanger in 1929, resulted in action. Every poll of
+            public opinion has shown a favorable majority. National and international converences
+            have accentuated the growth of the movement. Action of the <org>American Medical
+                Association</org>, through its <org>Committee to Study Contraceptive Practices and
+                Allied Problems</org> in 1937, which accepted birth control as "<q who="CSCPAP"
+                >desirable for the health and well-being of mothers and children</q>" and
+            recommended that the <org reg="American Medical Association">A.M.A.</org> promote
+            instruction in contraception in the medical schools, was a great step forward. This
+            followed the decision of the <org>United States Circuit Court of appeals for the Second
+                Circuit</org> in the case of <title>U.S. vs. One Package</title>, which stated that
+            the design of the section of the Federal law, on which the suit was based, was "not to
+            prevent the importation, sale, or carriage by mail of things which might intelligently
+            be employed by conscientious and competent physicians for the purpose of saving life or
+            promoting the well-being of their patients."</p>
+        <p>In 1939 <org>Birth Control Federation of America, Inc.</org>, was formed by a merger of
+            the American Birth Control Leage and the Birth Control Clinical Research Burea, and in
+            1942 the organization, at its annual meeting changed its name to the <org>Planned
+                Parenthood Federation of America, Inc.</org>, as more expressive of its aims and
+            purposes. These had grown to include treatment for infertility and education for
+            marriage and parenthood. An increasing number of local planned parenthood organizations
+            were offering expert medical help to childless couples who desire children, or were able
+            to refer these couples to hospitals and private physicians for diagnosis and
+            treatment.</p>
+        <p>The first post-war international sex conference was held in <place
+                reg="Stockholm, Sweden">Stockholm</place> in August, 1946, with the United States
+            among the countries which were represented unofficially to discus the problems raised by
+            the crowded populations of the world. Resolutions endorsing planned parenthood
+            objectives in strong terms were adopted.</p>
+        <byline>MARGARET SANGER</byline>
+    </docBody>
+</doc>

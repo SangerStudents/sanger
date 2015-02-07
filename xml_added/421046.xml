@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Speech">
+    <mepHeader>
+        <prepDate>2013-11-13 JK encoded</prepDate>
+        <prepDate>2014-08-21 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docAuthor/>
+        <docDate value="1932-12-10"><supplied resp="MSPP">10 Dec 1932</supplied></docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Speech to Connecticut Birth Control League, Hartford
+                    Branch</supplied></titlePart>
+        </docTitle>
+        <idno>msp421046</idno>
+        <sourceDesc>
+            <bibl><title type="article">Mrs. Sanger Lectures on Birth Control</title>, <title
+                    type="journal"> The Hartford Courant" </title>, Dec. 10, 1932.</bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="HC">The Hartford Courant</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>No other version of this speech has been found, but it was likely
+            similar to Sanger's <xref from="236563.xml"><org reg="Wesleyan University"
+                    >Wesleyan</org>address,</xref>given Dec. 9, 1932.</p>
+        <index level1="birth control" level2="movement" level3="MS on"/>
+        <index level1="birth control" level2="laws and legislation" level3="Connecticut"/>
+        <index level1="birth control" level2="laws and legislation" level3="State"/>
+        <index level1="birth control" level2="morality of"/>
+        <index level1="birth control" level2="health benefits and risks"/>
+        <index level1="mortality rates" level2="infant"/>
+        <index level1="population growth" level2="regulation of"/></headNote>
+    <docBody>
+        <head>Mrs. Sanger Lectures on Birth Control </head>
+        <div>
+            <head type="sub"> Speaking at St. John's Parish House, She Hits <place reg="Connecticut"
+                    > Conn. </place> Laws on Dissemination of Information</head>
+            <p>
+                <q who="HC">Maintaining that this country should be at least as careful of the type
+                    of citizens born here as it is of the type of citizens admitted, Mrs. Margaret
+                    Sanger of <place>New York</place> presented the case for birth control at a
+                    lecture held under the auspices of the <org reg="Connecticut Birth Control League, Hartford Branch">Hartford Branch</org> of the <org>Connecticut Birth
+                    Control League</org> in the parish house of <org>St. John’s
+                        Church</org>, Saturday afternoon. The lecture was attended by nearly 500
+                    persons, many of whom signed cards pledging support of action to liberalize the
+                    state and Federal laws on dissemination of birth control information.</q>
+            </p>
+        </div>
+
+        <div>
+            <head type="sub">Connecticut Laws Scored.</head>
+
+            <p><q who="HC">Mrs. Sanger repeated her assertion that Connecticut laws on the
+                    dissemination of birth control information are “unique," pointing out that there
+                    are only two other states in the county where even physicians are forbidden to
+                    give even oral information to patients on the subject. The state law which
+                    prohibits the use of contraceptives is unenforceable, she declared, unless the
+                    State proposes to station a policeman in every home. In opening her lecture Mrs.
+                    Sanger pointed out that the old methods of keeping the population relatively
+                    stable such as pestilence, famine, floods, etc., have been largely overcome by
+                    science. It is obvious, she said, that there are only two methods to control the
+                    population, increase deaths or decrease births and the former is much too cruel.
+                    In times past persons have resorted to infanticide as a method of controlling
+                    the number of children, but this is to be deplored, as is abortion, which
+                    followed infanticide as a method of controlling the size of the family, she
+                    said. </q></p>
+        </div>
+
+        <div>
+            <head type="sub">Says Question Affects All. </head>
+
+            <p><q who="HC">Once contraception is generally known there will be no necessity for
+                    either of the previous two methods of control, she said. She pointed out that
+                    the so-called “social problem” group is in a large part composed of families
+                    where contraception is unknown, while in the other group both parents and
+                    children benefit through improved conditions. The question of birth control, she
+                    said, then affects every man and woman, and indirectly every child.</q> “The
+                immigration laws bar certain aliens who are feeble-minded, or who have certain
+                diseases, from admission to this country,” she said. “Certainly if it is desirable
+                to control the rate at which such persons are permitted to multiply once they are
+                here.” <q who="HC">Birth control is desirable to prevent the transmission of
+                    disease, to insure the proper spacing between children so that both mother and
+                    child shall have the benefit of better physical condition, to prevent child
+                    bearing adolescence, to permit families to have no more children than they can
+                    afford, and to permit a period of mutual adjustment after marriage, she said.
+                </q></p>
+        </div>
+
+
+    </docBody>
+</doc>

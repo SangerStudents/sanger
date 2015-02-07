@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2000/07/07 VV</prepDate>
+        <prepDate>2004/07/26 CH</prepDate>
+        <prepDate>2007-05-31 CH Oxygen update</prepDate>
+        <prepDate>2014-03-05 CH clean regs</prepDate>
+        <idno>msp420021</idno>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1914-08-00">Aug 1914</docDate>
+        <docTitle>
+            <titlePart>A QUESTION</titlePart>
+        </docTitle>
+        <sourceDesc>
+            <bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 6, Aug. 1914, 45</bibl>
+            <bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title> C16:559 </bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+        </respStmt>
+    </mepHeader>
+    <headNote>
+        <index level1="Davis, Katharine Bement"/>
+        <index level1="Edelsohn, Rebecca"/>
+        <index level1="women" level2="enslavement of"/>
+    </headNote>
+    <docBody>
+        <head>A QUESTION</head>
+        <p>The question has been asked: What would THE <title type="journal">WOMAN REBEL</title> do
+            with <person reg="Edelsohn, Rebecca">Rebecca Edelson</person> if she were in Dr. <person
+                reg="Davis, Katharine Bement">Katherine B. Davis</person>' position?</p>
+        <p>No woman rebel would ever find herself in such a degraded position. The view of the
+            revolutionary woman is expressed adequately enough in other columns of this number.</p>
+        <p>We have no respect for the type of so-called "modern" and "advanced" woman who becomes a
+            willing and efficient slave of the present system, the woman who curries favors of
+            capitalists and politicians in order to gain power and the cheap and fulsome praise of
+            cheaper and more fulsome newspapers. If this is what "emancipation" means, give us the
+            old slavery. As a matter of fact, it is the most degrading form of slavery to be forced
+            to prey upon the misery of others for your livelihood. This <org
+                reg="Blackwell's Island Penitentiary">Blackwell</org>'s drama should teach the suffrage advocates
+            that they need expect no loyalty from the renegade members of their own sex who sell
+            themselves to corrupt politicians as detectives, policewomen, and spies.</p>
+    </docBody>
+</doc>

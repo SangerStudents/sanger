@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech ">
+    <mepHeader>
+        <prepDate>2014-04-02 JK initial tags</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1949-05-02">02 May 1949</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Comments at El
+                Paso</supplied></titlePart>
+        </docTitle>
+        <idno>msp421937</idno>
+        <sourceDesc>
+            <bibl><title type="article">"U.S. Health Plan Seen as Foe of Planned
+                    Parenthood"</title>
+                <title type="journal">El Paso Herald Post,</title> May 2, 1949,
+                p. 20.</bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="EPHP">El Paso Herald Post</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">Sanger gave some comments at the <place
+            reg="El Paso, TX">El Paso</place> home of <person
+            reg="Goetting, Betty-Mary">Betty-Mary Goetting</person>. For a
+        related talk, see <xref from="421931.xml">"Education for Planned
+            Parenthood,"</xref> May 5, 1949.<index level1="planned parenthood"
+            /><index level1="birth control movement" level2="disputes within"
+            /><index level1="birth control laws and legislation"
+            level2="Connecticut"/><index
+            level1="birth control laws and legislation" level2="Massachusetts"
+            /><index level1="birth control laws and legislation"
+            level2="Federal"/></headNote>
+    <docBody>
+        <head>U.S. Health Plan Seen As Foe of Planned Parenthood</head>
+
+        <p> “A medical program under government control would permit pressure
+            groups hostile to planned parenthood to stifle the movement through
+            political pressure,” she said. </p>
+        <p>“Already in the state public health programs of
+                <place>Massachusetts</place> and <place>Connecticut</place>
+            certain doctors have been forbidden the use of hospital facilities
+            because political blocs objected to their being in favor of planned
+            parenthood,” she added. </p>
+    </docBody>
+</doc>

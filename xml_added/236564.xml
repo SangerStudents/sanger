@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Autograph draft speech">
+	<mepHeader>
+		<prepDate>2003/10/10 NS</prepDate>
+		<prepDate>2014-04-10 ch Clean regs</prepDate>
+		<prepDate>2015-01-20 CH proof tags and enter</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1925-01-26">26 Jan 1925</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Des Moines Address Notes</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp236564</idno>
+		<sourceDesc>
+			<bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
+			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S70:952</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Sanger gave two speeches in <place reg="Des Moines, IA">Des Moines</place>, these notes
+			were likely for the <org>Des Moines Birth Control Committee</org>. For coverage of her
+			speech to the <org reg="Des Moines Federation of Women's Clubs">City Federation of
+				Women's Clubs</org>, see <xref from="431935.xml">Regulation of Fit Children of the
+				World</xref>, Jan. 27, 1925. No final version of this speech was found.</p>
+		<index level1="birth rate" level2="efforts to reduce"/>
+		<index level1="child labor"/>
+		<index level1="child welfare"/>
+		<index level1="mortality rates" level2="infant"/>
+		<index level1="working classes"/>
+	</headNote>
+	<docBody>
+		<dateline><date value="1925-01-26">Jan. 21-25</date> Des moines</dateline>
+		<p>Mans progress seems to have begun backward-- We have paid special attention to his
+			environment, while little attention has been given to his heritable traits.</p>
+		<p>In the early part of the 18th Century we began to take cognizance of mans environmental
+			needs. We began to pave the streets, install sewerage systems, collect the garbage &amp;
+			refuse, wipe out epidemics by the organization of public health boards. By the end of
+			the 18 Century we invaded the home &amp; workshop. So enthusiastic had we become in
+			cleaning up the environment of the individual--we purified the drinking water,
+			superintended the wholesomeness of the milk supply we legislated the conditions of his
+			working hours, cleaned up the factories &amp; mills, gave him protection against
+			machinery &amp; the hazardness of his employment, shortened his labor hours, increased
+			his pay &amp; provided for his general environmental improvement &amp; longevity. During
+			all this period little attention was paid to the condition of the child--</p>
+		<p>Birth rate was higher--the death rate of children was high. Child labor took its toll of
+			child life &amp; damaged &amp; blighted those little ones who were to carry on the torch
+			of civilization.</p>
+		<p>Early in the 19th Century, the child began to come into its own.</p>
+		<gap reason="missing" extent="two pages"/>
+		<p>If you could look into some of the faces of the parents of children who are forced to
+			toil &amp; labor--you would see that laws were not enough. That you would see that these
+			parents had not sufficient earning power to provide for their own existence-- How could
+			they provide for eight ten or twelve?</p>
+		<p>Such children are forced to work as soon as they can toddle or to die-- Children of such
+			parents should not be born. Child labor laws are not enough-- Societies for the
+			Prevention of Cruelty to Children are not enough. </p>
+		<p>We want to prevent the cruelty of children being born in cruelty.</p>
+		<p>Could any thing be more cruel than to be born of disease, ignorance misery. If we are to
+			make this world safe for childhood, safe for future generation, safe for Civilization we
+			have got to check the endless stream of unwanted death doomed babies. This stream can
+			not be swept back with the broom of pallative legislation--nor with the feather duster
+			of Organized Charity. It must be checked at the Source by Birth Control.</p>
+	</docBody>
+</doc>

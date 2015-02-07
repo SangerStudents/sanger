@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech"> 
+    <mepHeader>
+        <prepDate>2014/07/03 MM</prepDate>
+        <prepDate>2014-12-09 CH proof tages and enter</prepDate>
+        <docAuthor>
+            <person reg="Sanger, Margaret">Margaret Sanger</person>
+        </docAuthor>
+        <docDate value="1919-11-02">7 Nov 1919</docDate>
+        <docTitle>
+            <titlePart>
+                <supplied resp="MSPP">Speech at the Alkrama Theatre</supplied>
+            </titlePart>
+        </docTitle>
+        <idno>msp422004</idno>
+        <sourceDesc>
+            <bibl>"<title type="article">Mrs. Sanger Told The Women A Thing or Two</title>" <title
+                    type="journal">Independent</title> Nov. 7, 1919, p. 1</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="ECI">Elizabeth City Independent</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>For another version of the speech, see "<xref from="233034.xml"
+                >Breaking into the South</xref>," Dec. 1919.</p>
+        <index level1="birth control laws and legislation"/>
+        <index level1="Southern States"/>
+    </headNote>
+    <docBody>
+        <head>MRS. SANGER TOLD THE WOMEN A THING OR TWO</head>
+        <head type="sub">Unique Climax to First Birth Control Meeting in The South, at <place
+                reg="Elizabeth City, NC">Elizabeth City</place> Last Sunday</head>
+        <div type="section">
+            <q who="ECI">
+                <p>When laws prohibiting the dissemination of scientific birth control information
+                    are swept away and women are free to control the size of their families,
+                    prostitution will cease to be a cancer upon the social body; the race will be
+                    stronger, healthier, happier and longer lived. This was one of the arguments for
+                    family limitation or scientific birth control advanced by Mrs. <person
+                        reg="Sanger, Margaret">Margaret Sanger</person>, of <place
+                        reg="New York, NY">New York City</place>, in an address to a mixed audience
+                    of 800 or more persons at the <org>Alkrama Theatre</org> in this city Sunday
+                    afternoon.</p>
+                <p>It was the first public meeting for the discussion of the subject of birth
+                    control ever held in the south. The audience that greeted Mrs. Sanger was
+                    recruited from every walk of life and many came from miles away, braving
+                    inclement weather to hear the message. It was a timid audience at first, an
+                    audience that seemed to fear being shocked. But Mrs. Sanger's charming
+                    personality put the audience at ease at once and she carried it with her for an
+                    hour and a half. </p>
+                <p>At the conclusion of her lecture about 200 women remained and crowded around her
+                    to ask questions. She had told them that the time had come for women to assert
+                    themselves and refuse to wreck their health and happiness by being mere
+                    child-breeding machines. And the women wanted to know just how they could do
+                    this. Out of her practical experience of fourteen years as a trained nurse,
+                    supplemented by her researches in the clinics of several European countries,
+                    Mrs. Sanger told the women what they wanted to know. A more astounding, a more
+                    revolutionary thing probably never occurred in the staid, conservative old state
+                    of North Carolina.</p>
+                <p>No, the police did not interfere with Mrs. Sanger. They couldn't. There is no law
+                    on the statute books of <place>North Carolina</place> to prevent the dissemination of birth
+                    control information by word of mouth. Doctors and lawyers have made the people
+                    believe that such laws existed in this state, but North Carolina is one of five
+                    states in the union in which the old time law makers forgot to enact a law to
+                    prohibit the giving of such information.</p>
+                <p>Probably no speaker, excepting speakers for the <org>Red Cross</org> and kindred
+                    philanthropies, ever had a more sympathetic audience than that which heard Mrs.
+                    Sanger. Mrs. Sanger is an unusual woman, a feminist who has endured years of
+                    misunderstanding without getting soured. Thru all of her harsh experiences she
+                    has emerged still fresh, sweet, modest and radiant with human kindness and
+                    genuine good will. Only such a personality could have discussed the delicate
+                    subject of birth control before a mixed audience in a small southern town.</p>
+                <p>Mrs. Sanger told her audience that 300,000 babies died in the first year of their
+                    infancy in this country each year. She told them that 1,000,000 cases of
+                    abortion were reported annually by the medical profession; thousands of mothers
+                    braving death itself rather than go thru the agony of bearing unwanted children.
+                    She gave the audience out of her experience as a trained nurse many stories of
+                    wretched and quarrelsome wives and motehrs, husbands and children unloved and
+                    knowing none of the beauties of home life and mother love because the mother was
+                    sick and worried and fretted eternally with too many children.</p>
+                <p>Mrs. Sanger declared that when information was available to all women, there
+                    would be more marriages and earlier marriages with a consequent disappearence of
+                    the social evil; that millions of young men and women who wanted to marry were
+                    evading the responsibility and resorting to immoral meanas of satisfying their
+                    sex life, only because they could not see their way clear to enter into a
+                    contract that meant children for which they were not able to provide. She said
+                    that in this new era of civilization women are taking places side by side with
+                    men in every occupation and department of life and women can not accept this new
+                    responsibility without being permitted to say when they should or should not
+                    become mothers.</p>
+                <p>Mrs. Sanger made a strong plea for the small family of two, three or four
+                    children. She declared that any able bodies man could support a wife and two
+                    children, whereas many were broken in the struggle to feed the mouths of five or
+                    six or nine.</p></q>
+        </div>
+        <div type="section">
+            <head type="sub">Spoke to Negroes</head>
+            <p><q who="ECI"/>Speaking to a colored audience at <org>Corner Stone Baptist Church</org> on Martin Street Sunday evening, Mrs.
+                Sanger told the Negroes that they especially should limit the size of their families
+                if they would better their own economic condition. She said the Negro cheapened his
+                own labor and his own productive power by overbreeding. "You make anything cheap by
+                making it plentiful," <q who="ECI">declared the speaker.</q> "And human life is not
+                an exception." </p>
+        </div>
+    </docBody>
+</doc>

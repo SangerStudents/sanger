@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed Article">
+    <mepHeader>
+        <prepDate>2011-07-29 NC</prepDate>
+        <prepDate>2011-09-15 EK upload + index terms</prepDate><prepDate>2014-03-30 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1950-02-13">13 Feb 1950</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Response to MacArthur</supplied></titlePart>
+        </docTitle>
+        <idno>msp227963</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S72:0052</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+            <name id="MACDO">MacArthur, Douglas</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>The following was a press release issued by the <org>Planned Parenthood
+                Federation of America</org>.</p>
+        <index level1="Japan" level2="birth control in"/>
+        <index level1="Japan" level2="population policies of"/>
+        <index level1="Japan" level2="government of"/>
+        <index level1="Japan" level2="U.S. occupation of"/>
+        <index level1="birth control" level2="laws and legislation" level3="in Japan"/>
+        <index level1="MacArthur, Douglas"/>
+    </headNote>
+    <docBody>
+        <head>STATMENT BY <person reg="Sanger, Margaret">MARGARET SANGER</person></head>
+        <dateline><date value="1951-02-13">RELEASED FEBRUARY 13, 1950</date></dateline>
+        <p>I must refuse to accept as final the reported decision of <person
+                reg="MacArthur, Douglas">Gen. MacArthur</person> that I may not come to
+                <place>Japan</place> at the invitation of the Japanese. That an American can be
+            barred from a perfectly proper mission by the bigotry or whim of other Americans is
+            intolerable.</p>
+        <p>This is not the first time I was told I could not visit Japan. In 1921 I was refused
+            permission by the Imperial <org>Japanese government</org>. It is tragic to see that our
+            Occupation authorities, while mouthing democratic principles, are emulating the old
+            Japanese military regime. However, in 1921 the angry protests of the people forced the
+            lifting of the ban. I am confident that something of the same sort will occur in
+            1950.</p>
+        <p>When I asked to have Gen. MacArthur reconsider the refusal to admit me, I believed he
+            meant what he was quoted as saying last July--<q who="MACDO">that birth control was a
+                matter for the Japanese peple and the Occupation had a policy of hands off.</q> I
+            hope that this attitude will be resumed. Anything else is a denial of the right of the
+            Japanese to decent and healthy family life. Anything else is a denial of the basic
+            democracy which we are trying to help this people achieve.</p>
+        <p>My invitation came from the press, health officials and private groups. They wanted me to
+            advise them on carrying out their new laws which legalize birth control, because they
+            know that it is the only way to halt the disastrous rise in population.</p>
+        <p>If I can help them in applying their new laws on birth control, I mean to do so. I shall
+            continue to work for a reversal of any ruling that seeks to stop me.</p>
+    </docBody>
+</doc>

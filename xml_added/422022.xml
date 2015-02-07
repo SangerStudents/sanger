@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published interview">
+	<mepHeader>
+		<prepDate>2014/05/21 CH inital transcription</prepDate>
+		<prepDate>2014-05-21 MM encode</prepDate>
+		<prepDate>2014-12-18 CH proof and enter tags</prepDate>
+		<docAuthor>Margaret Sanger</docAuthor>
+		<docDate value="1916-10-22">22 Oct 1916</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Interview on the Brownsville Clinic</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp422022</idno>
+		<sourceDesc>
+			<bibl><title type="article">Spread Birth Control</title>, <title type="journal"
+					>Washington Post</title>, Oct. 22, 1916</bibl>
+
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="WP">Washington Post</name>
+			<name id="UNK">Unknown</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Sanger was interviewed in a <place reg="New York, NY">New York</place> hotel a few days
+			after the <org reg="New York City Police Department">New York City Police</org> raided
+			the <org>Brownsville clinic</org>. This interview was published in multiple newspapers,
+			including: "<title type="article">Mrs. Sanger Says Moss Is Growing in the Birth
+				Law</title>," in <title type="journal">Wilkes-Barre Times</title>, Oct. 21, 1916, p.
+			1.</p>
+		<index level1="Brownsville Clinic" level2="raid and trials"/>
+		<index level1="Brownsville Clinic"/>
+		<index level1="birth control" level2="morality of"/>
+		<index level1="birth control" level2="socio-economic benefits of"/>
+	</headNote>
+	<docBody>
+		<head>SPREAD BIRTH CONTROL</head>
+		<dateline>New York. <date value="1916-10-21">Oct. 21</date>.--</dateline>
+		<div>
+			<p>"The poor, century-behind-the-times public officials of this country might just as
+				well forget their moss-grown statutes and accept birth control as an established
+				fact. My new national plan makes it as inevitable as night and day."</p>
+			<p>
+				<q who="WP">Mrs. <person reg="Sanger, Margaret">Margaret Sanger</person>, short and
+					smiling, with a tinge of red in her hair and more than that in her eye, sat in
+					her little two-by-four hotel bedroom and said that here today. Within the last
+					48 hours she has established semisecretly in this city the first out-and-out
+					birth control clinic in the <place>United States</place>, the law, a Federal
+					indictment and numerous arrests all over the country to the contrary
+					notwithstanding.</q>
+			</p>
+		</div>
+
+		<div>
+			<head type="sub">Simply Oral Clinic.</head>
+			<p>"The police are hunting my clinic today," she went on. "They can't find it. If they
+				should, they can't hurt it. It is an oral clinic, and the law says nothing about not
+				spreading birth control information orally. If they do try to interfere I am legally
+				prepared to carry a hard and bitter fight to the highest tribunal in the land with
+				the best legal talent there is."</p>
+			<p>"Four more secret clinics will be running in New York within a week. In less than a
+				year there will be clinics in <place reg="Washington, DC">Washington</place>, <place
+					reg="Cleveland, OH">Cleveland</place>, <place reg="Detroit, MI">Detroit</place>,
+					<place reg="St. Paul, MN">St. Paul</place>, <place reg="Minneapolis, MN"
+					>Minneapolis</place>,<place reg="Milwaukee, WI"> Milwaukee</place>, <place
+					reg="Denver, CO">Denver</place>, <place reg="St. Louis, MO">St. Louis</place>,
+					<place reg="Los Angeles, CA">Los Angeles</place>, <place reg="San Francisco, CA"
+					>San Francisco</place>, <place reg="San Diego, CA">San Diego</place>, <place
+					reg="Portland, OR">Portland</place>, <place reg="Seattle, WA">Seattle</place>,
+					<place reg="Spokane, WA">Spokane</place> and <place reg="Butte, MT"
+					>Butte</place>. They are every one organized and ready to open the minute I say
+				the word. The Washington clinic will open within a few days."</p>
+		</div>
+		<div>
+			<head type="sub">Women Show Interest.</head>
+			<p>"Do the women like it? Say, you ought to go down in the neighborhood we have
+				canvassed with secret circulars in the last 48 hours. The women have been coming in
+				by the dozens. You can hear them calling from house to house in the congested
+				districts: <q who="UNK">'Oh, Mrs. Rosenbaum, you ought to see this, this is
+					something fine.'</q>"</p>
+			<p>"Within two years every man and woman in this country will know how many children
+				they can afford to have. And when they know that, I predict that two generations of
+				birth control will wipe out all the slums, eliminate the birth of mental defectives,
+				minimize the number of humans in insane asylums and automatically put a stop to
+				child labor and prostitution."</p>
+			<p>"I say it will wipe out child labor because statistics show that 97 per cent of our
+				child labor is recruited from families that are too large to be cared for by the
+				parents."</p>
+		</div>
+
+		<div>
+			<head type="sub">Will Aid Morality.</head>
+			<p>"I say it will wipe out the worst of prostitution, because statistics prove that 95
+				per cent of the girls taken from lives of prostitution and placed in industrial
+				homes come from poor parents with nine or more children."</p>
+			<p>"Poverty doesn't force these girls into prostituion, but the lack of attention they
+				get, with so many children at home, and the general sordid tone of their lives,
+				naturally leads them to such a life."</p>
+			<p>"My friends and myself are going to bring the people of this country to realize that
+				a man making only $15 a week cannot afford to marry, much less have children. And
+				they'll learn that the average workingman's family should not exceed two children,
+				even under the most favorable physical conditions."</p>
+			<p>"This is the work the law and public officials are trying to stop. The poor, blind
+				officials really are not to blame. They don't live along in every-day life: they
+				simply live in their law books: and as the law is a century behind the times, so are
+				the officials."</p>
+		</div>
+		<div>
+			<head type="sub">League in This City.</head>
+			<p>
+				<q who="WP">Confirmation of Mrs. Margaret Sanger's announcement that Washington is
+					soon to have a birth control clinic was made yesterday by officers of the
+						<org>Washington Birth Control League</org>. But it will differ, they say,
+					from that Mrs. Sanger has in operation in New York, in that it will not be
+					secret. Announcement will be made of the time and place through the
+					newspapers.</q>
+			</p>
+			<p>
+				<q who="WP">So long as they do not circulate printed matter, the officer said, they
+					will be within the law. And they are condicting a fight for the repeal of the
+					"laws which put this country about a century behind the time."</q>
+			</p>
+		</div>
+	</docBody>
+</doc>

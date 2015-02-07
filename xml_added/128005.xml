@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+	<mepHeader>
+		<prepDate>2014-06-24 MM</prepDate>
+		<prepDate>2015-01-07 CH proof tags and enter</prepDate>
+		<docAuthor>
+			<person rend="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1914-10-28">28 Oct 1914</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Letter to Women Rebel Subscribers</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp128005</idno>
+		<sourceDesc>
+			<bibl><title type="article">Neo-Malthusianism in the United States</title>, <title
+					type="journal">The Malthusian</title> Jan. 15, 1915, pp. 3-4</bibl>
+			<bibl><title type="mf">Margaret Sanger Papers, Library of Congress Microfilm</title>,
+				129:2</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Sanger sent this letter to the subscribers of <title type="journal">The Woman
+				Rebel</title> before she fled the <place>United States</place> to avoid prosecution
+			for obscenity. </p>
+		<index level1="Woman Rebel, The" level2="suppression of"/>
+		<index level1="birth control laws and legislation" level2="Comstock Laws"/>
+		<index level1="United States" level2="Post Office"/>
+		<index level1="Comstock Laws"/>
+		<index level1="quackery"/>
+	</headNote>
+	<docBody>
+		<dateline>
+			<place reg="New York, NY">New York</place>
+			<date value="1914-10-28">October 28th 1914</date>
+		</dateline>
+		<p>COMRADES AND FRIENDS,-</p>
+		<p>Every paper published should have a message for its readers. It should deliver it and be
+			done. <title type="journal">The Woman Rebel</title> had for its aim the imparting of
+			information of the prevention of conception. It was not the intention to labor on for
+			years advocating the idea, but to give the information directly to those who desired it.
+			The March, May, July, August, September, and October issues have been suppressed and
+			confiscated by the <org reg="United States Post Office">Post Office</org>. They have
+			been mailed regularly to all subscribers. If you have not received your copies, it has
+			been because the <org>U.S. Post Office</org> has refused to carry them on to you. </p>
+		<p>My work on the nursing field for the past fourteen years has convinced me that the
+			workers desire the knowledge of prevention of conception. My work among women of the
+			working class proved to me sufficiently that it is they who are suffering because of the
+			law which forbids the imparting of this information. To wait for this law to be repealed
+			would be years and years hence. Thousands of un-wanted children may be born into the
+			world in the meantime, thousands of women made miserable and unhappy.</p>
+		<p>Why should we wait?</p>
+		<p>Shall we who have heard the cries and seen the agony of dying women respect the law which
+			has caused their death?</p>
+		<p>Shall we watch in patience the murdering of 25,000 women, who die each year in U.S. from
+			criminal abortion?</p>
+		<p>Shall we fold our hands and wait until a body of sleek and well fed politicians get ready
+			to abolish the cause of such slaughter?</p>
+		<p>Shall we look upon a piece of parchment as greater than human happiness, greater than
+			human life?</p>
+		<p>Shall we let it destroy our womanhood, and hold millions of workers in bondage and
+			slavery? Shall we who respond to the throbbing pulse of human needs concern ourselves
+			with indictments, courts, and judges, or shall we do our work first and settle with
+			these evils later?</p>
+		<p>This law has caused the perpetuation of quackery. It has created the fake and quack who
+			benefits by its existence.</p>
+		<p>Jail has not been my goal. There is special work to be done, and I shall do it first. If
+			jail comes after, I shall call upon all to assist me. In the meantime, I shall attempt
+			to nullify the law by direct action and attend to the consequences later. </p>
+		<p>Over 100,000 working men and women in U.S. shall hear from me.</p>
+		<p>The Boston Tea Party ws a defiant and revolutionary act in the eyes of the English
+			Government, but to the American Revolutionist it was but an act of courage and
+			justice.</p>
+		<byline>Yours fraternally, Margaret H. Sanger</byline>
+	</docBody>
+</doc>

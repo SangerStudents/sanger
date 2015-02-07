@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed draft article">
+    <mepHeader>
+        <prepDate>2012-04-11 AW Initial Tag</prepDate>
+        <prepDate>2012-04-13 CH Proofed tags</prepDate>
+        <prepDate>2012-04-16 AW Corrected Tags</prepDate>
+        <prepDate>2012-05-15 CH 2nd Proof</prepDate>
+        <prepDate>2014-04-10 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="0000-00-00">N.d.</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Sex Impulse (fragment)</supplied></titlePart>
+        </docTitle>
+        <idno>msp236152</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S73:0214</bibl>
+        </sourceDesc>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>No additional information was found on fragment.</p>
+        <index level1="sexuality" level2="men's"/>
+        <index level1="sexuality" level2="women's"/>
+    </headNote>
+    <docBody>
+        <p>Religion and tradition taught women to repress as disgusting and sinful all
+            manifestations of the sexual impulse, with the result that in women more than in men the
+            sexual impulse tends to be driven below the surface and to seek an outlet in remote and
+            often unconscious paths, this being the great fact on which <person reg="Freud, Sigmund"
+                >Freud</person> seized.</p>
+        <p> We cannot regulate the sex life of man without considering that of woman, and it has
+            become increasingly evident from recent investigations and studies that there is not and
+            never has been a special sexual psychology of woman. It was an idea originating in
+            monasteries and convents, and is now rapidly falling into discredit.</p>
+        <p>It is the modern viewpoint of such scientist as <person reg="Briffault, Richard"
+                >Briffault</person> that mammals as a whole show <del>less the sex impulse</del> the
+            sex urge takes two forms--sex impulse and mating impulse, the latter being that desire
+            or tendency to prolonged association of the sexes, as in courtship, marriage, and
+            parental care and affection. This latter impulse, however, does not exist in the great
+            majority of animals, while the sex impulse is almost universal and is the basic force
+            behind or underlying the motives of the mating instinct in the primates.</p>
+    </docBody>
+</doc>

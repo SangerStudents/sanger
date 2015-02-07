@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2014/04/11 VS initial tagging</prepDate>
+		<prepDate>2015-01-22 CH proof tags and enter</prepDate>
+		<docAuthor>Margaret Sanger</docAuthor>
+		<docDate value="1928-05-12">12 May 1928</docDate>
+		<docTitle>
+			<titlePart><supplied resp="MSPP">Statement on Birth Control for Healthy, Happy
+					Mothers</supplied></titlePart>
+		</docTitle>
+		<idno>msp321978</idno>
+		<sourceDesc>
+			<bibl><title type="article">Birth Control for Healthy Happy Mothers</title>, <title
+					type="journal">Appleton Post Crescent</title>, May 12, 1928, p. 8 </bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="APC">Appleton Post Crescent</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<index level1="birth control" level2="economic benefits and risks of"/>
+		<index level1="birth control" level2="health benefits and risks"/>
+		<index level1="child spacing"/>
+		<index level1="children" level2="unwanted"/>
+		<index level1="family planning, principles of"/>
+	</headNote>
+	<docBody>
+		<head>BIRTH CONTROL FOR HEALTHY HAPPY MOTHERS</head>
+		<q who="APC">
+			<p> Healthier mothers, better cared for children, and happier marriages are benefits
+				that would accrue from a universal knowledge of birth control, according to Dr.
+					<person reg="Sanger, Margaret">Margaret Sanger</person>. </p>
+		</q>
+		<p> “The idea of birth control coming to the poverty-stricken mother is the most important
+			factor in her over-worked life. When her babies come too close together in the years of
+			her young motherhood, she is not able to get her full strength. </p>
+		<p> “She cannot give them the proper care and attention her heart longs to give. </p>
+		<p> “If she has three years at least between the births of children, life will be different
+			for her and her babies. She should be well and strong and normal psychologically-- fully
+			recovered from the train of bearing one child before she has another. </p>
+		<p> “Finances also should be considered before the family is increased. There should be
+			money enough in the bank to carry them all through any emergency that might occur .</p>
+		<p> “Increasing the family should be a voluntary thing because the children that arrive that
+			way are wanted children for whom preparation has been made and for whom the family
+			budget and family health provide.”</p>
+	</docBody>
+</doc>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+    <mepHeader>
+        <prepDate>2012-06-29 AW Initial Tag</prepDate>
+        <prepDate>2014-04-14 CH Clean regs and proof codes</prepDate>
+        <prepDate>2014-04-18 EK correct proof</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1916-04-25">25 Apr 1916</docDate>
+        <docTitle>
+            <titlePart>
+                <supplied resp="MSPP">Birth Control</supplied>
+            </titlePart>
+        </docTitle>
+        <idno>msp321958</idno>
+        <sourceDesc>
+            <bibl><title type="article">Birth Control Way to Welfare--Mrs. Sanger</title>, <title
+                    type="journal">The Chicago Daily Tribune</title>, Apr 26, 1916, p. 17.</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="CDT">Chicago Daily Tribune</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>Margaret Sanger visited <place reg="Chicago, IL">Chicago, Illinois</place> as part of her
+            1916 American tour, and delivered a lecture at the <org>West Side Auditorium</org>. For
+            a possible draft of this speech see "<xref from="236132.xml"><title type="article">Birth
+                    Control (Chicago Address to Women)</title></xref>". For an interview given at
+            the same time, see "<xref from="421939.xml"><title type="article">Interview on
+                    Chicago</title></xref>," Apr. 25, 1916.</p>
+        <index level1="abortion" level2="frequency of"/>
+        <index level1="censorship" level2="in United States"/>
+        <index level1="prostitution"/>
+        <index level1="working classes"/>
+        <index level1="Sanger, Margaret" level2="speaking tours" level3="1916 (U.S.)"/>
+    </headNote>
+    <docBody>
+        <head>Birth Control Way to Welfare--Mrs. Sanger</head>
+        <div>
+            <q who="CDT">
+                <p>Mrs. Margaret Sanger lectured last night at the west side auditorium on "Birth
+                    Control" to an audience of 1,200 people. So crowded was the hall, so large the
+                    number that wished to get in, that a dozen times during the evening the lecture
+                    had to be halted on account of the fire laws, for the police to put out the
+                    people who were standing.</p>
+                <p>The audience was composed in large measure of young people--girls and young women
+                    and young men. There were high school girls with their hair down their backs in
+                    curls.</p>
+                <p>Mrs. Sanger, who has been fourteen years a trained nurse in obstetric cases in
+                        <place reg="New York, NY">New York</place>, has devoted the last three years
+                    to studying birth control here and in European countrieses. She says that 75 per
+                    cent of all the diseases of men and women in this country are due to ignorance
+                    of sex life.</p></q>
+        </div>
+        <div>
+            <head type="sub">Nation of Abortions.</head>
+            <p>"The first step to the goal for women is a knowledge of what to do. Only the wealthy
+                have this knowledge today. For them abortions are possible and with them there are
+                no deaths. But it is the poor who need this knowledge, and you will find that the
+                doctors know the state and moral law by heart when it comes to treating poor women
+                for abortion. There is no country in the world which has so many abortions and so
+                many deaths from abortion as the <place>United States</place>."</p>
+            <p>"After all, this is only a question of labor. The workmen are starved out of work by
+                their own children, who enter into the competition at an incredibly early age."</p>
+        </div>
+        <div>
+            <head type="sub">Big Families, Weak Units.</head>
+            <p>"Statistics have determined that 85 per cent of the prostitutes in America come from
+                families of eight and nine children, and that 50 per cent of these girls are
+                defectives. And do you know that the fertility of a defective parent is four times
+                greater than that of a normal parent?"</p>
+            <p>"Has the state a better right to decide when a woman shall have a child than the
+                woman herself? They call me immoral. Who is more immortal–-I, going around trying to
+                help women to bring up their one or two offspring in comparative health, security,
+                and mental perfection, or Mr. <person reg="Roosevelt, Theodore">Roosevelt</person>,
+                who goes up and down the country urging women whose husbands get $10 a week, who may
+                be diseased or idiots or what not to have just as many children as they can? And yet
+                he is praised everywhere. Is that moral to delude a woman into producing cannon
+                fodder for professional jingoes?"</p>
+        </div>
+        <div>
+            <head type="sub">Decries Little Mothers</head>
+            <p>"I know nothing more disgraceful in this country than the <org>Little Mothers'
+                    league</org>. Think of little 10 year old girls spending all their time looking
+                after smaller sisters, bending over them, deforming themselves so they can never
+                properly bear motherhood themselves! All these palliatives–-the <org
+                    reg="Better Babies Leagues">better babies movement</org>, the <org>Infant
+                    Protective league</org>–-all make me think of the quack who cures the cancer by
+                burning away the top in place of going after the root."</p>
+            <p>"Every country has knowledge of birth control and is anxious to send it to us. But we
+                are the only country the postal laws of which forbid the discussion of such matters
+                in the malls. Do we realize the menace of this censorship? The postal service was
+                never created to be a religious or ethical institution."</p>
+            <q who="CDT"><p>Mrs. Sanger quoted <place reg="Netherlands">Holland</place>, which has
+                    established fifty-two free clinics for instructing women in health hygiene and
+                    in teaching them birth control. Her aim is to do the same thing in this country.
+                    Already ten leagues have been formed, and last night hundreds of women signed
+                    the slips asking for the forming of a similar league in Chicago.</p></q>
+        </div>
+    </docBody>
+</doc>

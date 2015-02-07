@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>    
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed draft speech">
+    <mepHeader>
+        <prepDate>2003/07/16, 2003/07/28 SR</prepDate>
+        <prepDate>2014-04-09 CH clean regs</prepDate>
+        <prepDate>2012-05-03 AW</prepDate>
+        <prepDate>2014-05-06 CH corrected title and others</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1923-02-11">11 Feb 1923</docDate>
+        <docTitle>
+            <titlePart>The Meaning of Birth Control</titlePart>
+        </docTitle>
+        <idno>msp236021</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S70:958</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="UNK">Unknown</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>This speech was given in <place reg="Hartford, CT">Hartford, Connecticut</place> at a
+            mass meeting organized by the <org>Connecticut Birth Control League</org>, at the
+                <org>Parsons' Theatre</org>. For a draft version without Sanger's handwritten
+            corrections, see Library of Congress Microfilm 130:436. The speech was also published as
+                "<title type="article">The Need for Birth Control In America</title>" in <person
+                reg="Meyer, Adolf">Adolf Meyer</person>, <title type="book">Birth Control Facts and
+                Responsibilities</title>, (Baltimore, 1925), 11-49.</p>
+        <index level1="abortion"/>
+        <index level1="birth control" level2="class-based"/>
+        <index level1="birth control" level2="clinics and leagues"/>
+        <index level1="birth control" level2="health benefits and risks"/>
+        <index level1="birth control" level2="history of"/>
+        <index level1="birth control" level2="lack of knowledge of"/>
+        <index level1="birth control" level2="methods" level3="continence"/>
+        <index level1="birth control" level2="methods" level3="safe period"/>
+        <index level1="birth control" level2="morality of"/>
+        <index level1="birth control" level2="opposition to"/>
+        <index level1="birth control" level2="prostitution and"/>
+        <index level1="birth control" level2="socio-economic benefits of"/>
+        <index level1="birth rate"/>
+        <index level1="child spacing"/>
+        <index level1="children" level2="rights of"/>
+        <index level1="client letters"/>
+        <index level1="England" level2="birth control in"/>
+        <index level1="eugenics" level2="birth control and"/>
+        <index level1="family size"/>
+        <index level1="&quot;feeble-minded&quot; persons" level2="allowed to reproduce"/>
+        <index level1="fertility rates"/>
+        <index level1="heredity" level2="MS on"/>
+        <index level1="immigration" level2="MS on"/>
+        <index level1="infanticide"/>
+        <index level1="Jukes family"/>
+        <index level1="Kallikak family"/>
+        <index level1="Keynes, John Maynard"/>
+        <index level1="marriage"/>
+        <index level1="men" level2="reproductive choices and decisions"/>
+        <index level1="men" level2="sexual fulfillment of"/>
+        <index level1="mentally disabled and diseased" level2="fertility of"/>
+        <index level1="mortality rates" level2="infant"/>
+        <index level1="mortality rates" level2="maternal"/>
+        <index level1="Netherlands" level2="birth control in"/>
+        <index level1="parenthood"/>
+        <index level1="population growth"/>
+        <index level1="pregnancy" level2="fears of"/>
+        <index level1="prostitution" level2="MS on"/>
+        <index level1="race suicide"/>
+        <index level1="Scotland" level2="MS on"/>
+        <index level1="sexuality"/>
+        <index level1="sterilization" level2="methods of"/>
+        <index level1="&quot;unfit&quot; to reproduce"/>
+        <index level1="women" level2="enslavement of"/>
+        <index level1="women" level2="freedom and rights of"/>
+        <index level1="women" level2="reproductive choices and decisions"/>
+    </headNote>
+    <docBody>
+        <head>The Need of Birth Control in <place reg="United States">America</place></head>
+        <byline>Margaret Sanger President, <org>American Birth Control League</org>, Inc.</byline>
+        <p><person reg="Porritt, Annie Goodrich">Madam Chairman</person> and Ladies and
+            Gentlemen:</p>
+        <p>Birth Control is the keynote of a new social awakening. It is not only a health and
+            economic expedient; it is a great social principle, a principle that is interlocked with
+            the spiritual progress of the race and its future. The idea of Birth Control is not new;
+                <del>it is</del> only the methods that are being advocated and pressed today
+                <del>that</del> are comparatively new; but the idea of Birth Control or the
+            limitation of the family is as old as nature itself. In fact, nature is the most
+            ruthless, the most cruel advocate of Birth Control; her methods are disease, famine,
+            pestilence, flood and wars. Through these methods nature has controlled her population;
+            through these methods nature has eliminated the unfit, those who are unable to compete
+            for their survival, and in this way and through theses methods, she has perpetuated and
+            improved her types.<add>Man also</add>in practically all stages of his evolution has
+            attempted to limit the size of his family, has attempted to keep the population down by
+            other methods of Birth Control. Those methods are infanticide or killing of babies; the
+            abandonment of children, and foeticide--these have been the methods through the stages
+            of savagery <add>&amp; barbarism</add> and even during the early stages of civilization
+                <add>by which man has tried to control population.</add></p>
+        <p><person>Plato</person> advocated the exposure to the elements of all infants, to see if
+            they were worthy <del>of</del> the keep of the State <del>or by the state</del>.
+                <person>Aristotle</person> advocated that the State should fix the number of
+            children born to a family; and even <person>Seneca</person> advised that all children
+            that were born of immoral or diseased parents should not be allowed to survive. Even
+                <place reg="Rome, Italy">Rome</place> who built up her power by the conquest of
+            weaker nations also condemned healthy children to an early death. These methods were
+            used to such an alarming extent that from the Middle Ages practically down to the end of
+            the 18th century, infanticide was <del>a</del>
+            <add>the</add> most common, the most prevalent crime of western Europe, <del>during that
+                time</del>. No matter what was done to put down this crime of infanticide, it
+            continued to increase. The practice spread itself continually. We read in our histories
+            of most atrocious tortures that were applied to the mothers who abandoned or who killed
+            their children. In one sovereign's reign <add>in <place>Germany</place></add> which took
+            about eighteen years there were more than 20,000 mothers tortured <add>to death</add>for
+            the crime of infanticide. These mothers--and most of them were married women--were put
+            to death by being put into a bag with a cat and a dog and a viper, and <del>they</del>
+            were thrown into a <del>ditch</del>
+            <add>body</add> of water, if there was one near<add>by.</add></p>
+        <p>If, after a certain period of time, the victim had not ceased to move and to struggle,
+            she was removed from the bag and was then put to death with <add>glowing</add>
+            <unclear resp="MSPP">tongs</unclear>. <del>And</del> yet this did not put an end to
+            infanticide. All the tortures, all the threats of hell-punishments, did not put an end
+            to infanticide; and it was not until the practice of abortions became generally known
+            and the practice became generally prevalent that infanticide went out of fashion.</p>
+        <p>We today, believe in beginning at the other end. We believe not in the methods of nature
+            and not in the methods of savages or <del>early</del> barbarians, but we believe in
+            control of the birth rate by scientific means to <add>that</add>prevent contraception.
+            That is the definition of Birth Control. <del>Now</del> we believe that Birth Control is
+            the key to the greatest of human problems,--that of reconciling humanitarianism with
+            race improvement. We know that <add>the</add> develop<add>ment</add>
+            <add>of</add> the mind, <del>to develop</del>
+            <add>and</add>the intellect <del>of man</del> has been a process of evolution. It is a
+            very slow growth, which while the reproductive process or capability of man is almost
+            unlimited, yet unless we put some check, some control over the powers of reproduction,
+            we are bound inevitably or eventually to be in such a state of society, to have so large
+            a proportion of individuals in a community, that the mind, the intellect of that same
+            group at that same state, is unable to keep up with the conditions created out of the
+            numerous people who have multiplied and reproduced.</p>
+        <p>Now if we let this condition alone, as it has been let alone in the past, nature would
+            take care of that; nature would simply thrust to the wall the old and the diseased and
+            the sickly, and the feeble--and she would adjust her types, <del>and</del> she would
+            adjust her population until they evolved gradually to make conditions and a system of
+            society convenient for them all. But we today, with the <del>development</del>
+            <add>advance</add> of Christianity, with the development of humanitarianism and
+            democracy and the <del>whole</del> development of our sympathetic nervous system, we
+            will not let that process take place; we will not let nature do this work. And so we
+            through our sympathies, through the finer development of man, we reach out our hands and
+            we take care of your sickly and the diseased, the mentally deficient, and we take them
+            to our hearts; we erect great institutions for their upkeep; and we <del>practice</del>
+            force <del>upon the process of</del>
+            <add>them to</add> reproduce their types. <del>This is what has happened, and the
+                consequence is that we have</del> as we look out upon the world
+                today,--<del>you</del>
+            <add>we</add> find two very definite groups in society, as affected by the knowledge and
+            the lack of knowledge in Birth Control. In all the western countries you find <del>two
+                groups</del> the small family group and the large family group. In the small family
+            group you find people who have limited the size of their families; for instance, you
+            take some statistics by Dr. <person reg="Bertillon, Jacques">Bertillon</person> of
+                <place reg="Paris, France">Paris</place>; he found that of a thousand women between
+            the ages of 14 and 50, in the poor district of Paris that out of a thousand women of
+            that district there were 166 births; for the same number of women between the same ages
+            in the wealthy district, he found 32 births. And in <place reg="Berlin, Germany"
+                >Berlin</place> for that same number of women between the same ages, he found 57
+            births among the well-to-do and 147 among the poor; in <place reg="Vienna, Austria"
+                >Vienna</place> it <del>went practically at</del>
+            <add>was</add> the same proportion--67 to 197. And in <place reg="London, England"
+                >London</place>, practically the same; and this is what we find in almost every
+            large city in the world. </p>
+        <p>But now let us look a little closer at that, because in my estimation that stationary
+            problem among the well-to-do is not an immediate problem. You look at this group and we
+            see that they may have perhaps two, three or four children; and the great majority of
+            those children, the greatest percentage of those children are brought up to full
+            maturity. It is in this group that we find a great percentage of health, of wealth, of
+            comfort, of highest standards of living, the best standards of education; we find there
+            the opportunity for development; not only for the father and mother, but the children
+            themselves; we find there that although there are a few children, that those children
+            are given the best advantages of education; they are the ones who fill our universities
+            and our colleges. It is from this group that we <del>take and</del> fill the best
+            offices of state and society.</p>
+        <p>On the other hand we find that large family group and what do we discover there? You see
+            there almost every problem that we are trying to solve today. You find large families
+            have been perpetuated for generations, and you find <del>where</del>
+            <add>there that</add> large families and poverty go hand in hand; you find the problems
+            in that group have also been perpetuated; you find there poverty, misery, ignorance,
+            infant mortality, maternal mortality, slums, over-crowding; you find there child labor,
+            unemployment; you find every problem, practically every problem that we are trying to
+            solve; and you find the one group on the one hand, the great percentage of them, are
+            taxed, are over-burdened with charities, with the support of members of the other group. </p>
+        <p>Now it seems to me that this one group, in perpetuating themselves, are also perpetuating
+            for generations to come the evils that are here before us. <del>Now</del> most of us do
+            not like these conditions and the most of us, in fact,--are trying to do all we can to
+            alleviate the conditions in this large family group. But how do we go about it to remove
+            them? There has been practically no attempt to really, <del>fundamentally</del> wipe out
+            the evil conditions of society today. Rather do we attempt to alleviate, we attempt to
+            legislate, we run off to our capitols and try to legislate out of existence child labor,
+            infant morality, maternal mortality and all the other conditions that are here, and that
+            we do abhor. But are we able to legislate them out of existence? Let us see today, for
+            instance. Take infant mortality; that is a problem that affects us all. We have in this
+            great country more that 250,000 infants who die each year before they reach one year of
+            age. Ninety percent of those children die from causes due to poverty and neglect. Yet we
+            allow <add>the</add>
+            <del>to remain in ignorance</del> 500,000 parents of these children to remain in
+            ignorance of how to prevent the coming of 250,00 more children the next year, ninety
+            percent of whom will die of causes due to poverty and neglect.</p>
+        <p>We don't get underneath the cause of infant mortality. In my work as a trained nurse in
+                <place reg="New York, NY">New York City</place> for more than fourteen years I found
+            there were causes that most of us close our eyes to today. For instance, one cause was
+            two frequent pregnancies. pregnancies that did not always terminate in the birth of a
+            child. Again I found children coming too close together, too close together for the
+            mothers health. Take a mother who had to go out and toil, working sometimes the whole
+            day, sometimes at night, <del>and she would come home when she worked at night</del>,
+            she <del>would</del> come home through the day and carry on the duties of the mother and
+            of the wife in the home. That mother was exhausted and was using up the capital of that
+            child before it was born. How can you expect <del>that</del> those children born under
+            such circumstances and conditions to have the vitality, the endurance to withstand the
+            diseases of early infancy?</p>
+        <p><del>And</del> again I found that women were rebelling against having too many children.
+            I found women would rather die than have another child, and <del>they</del> were glad
+            enough to face death in order to avoid it. Women who have five and six and seven
+            children, whose husbands were toiling for a mere pittance,--every instinct in that
+                woman<del>'s</del>
+            <del>life and heart</del> told her that another child should not be born; <del>and</del>
+            she had but one of two things to do: to resign herself to unlimited numbers of children,
+            to unlimited pregnancies, or to perform illegal operations. And the rebellion of these
+            women today is not resigning themselves to unlimited children, but they are resorting to
+            illegal operations. This is the condition which we find when we are close to the
+            mothers, close to the women who belong to the large family group.</p>
+        <p>We also find that our maternal mortality problem is one that could be helped if we could
+            get down to fundamentals. It is said that we have 22,000 mothers who pass out of life
+            each year from causes incidental to pregnancy, <del>22,000</del>. Do you know what that
+            means? That means that two mothers every hour of the night and that day pass out of
+            life, pass into the great beyond from causes that might be prevented. You find among
+            these mothers <del>that there will be</del> some <del>of them</del> who die from
+            tuberculosis, and not so much tuberculosis as pregnancies during the development of the
+            stages of tuberculosis. Out of every seven women who have tuberculosis four of them die,
+            not from tuberculosis, but from pregnancy. Those women should never be allowed to become
+            pregnant; and yet we know that the medical profession is allowed legally to relieve them
+            of their pregnancy in order to save their lives; but they are sent back to their homes,
+            back to the same environment and the same conditions without assistance, without advice,
+            of how to prevent their getting into that condition again. We are like the ostrich--we
+            have our heads in the sand; and we will not face the dangers.</p>
+        <p>We have also women who suffer from kidney disease, from heart disease, and it is only
+            fair and honest and right that these women at least should be helped and protected from
+            further pregnancies because every time they become pregnant it means that that disease
+            is enhanced, and there is one of two things for the physician to do: to let her develop
+            her pregnancy and die, or to relieve her pregnancy.</p>
+        <p>We find the same is true with our feeble minded. Dr. <person reg="Goddard, Henry H."
+                >Goddard</person> has said that there are 400,000 feeble minded in the United
+                States–-<del>and</del> I think this was in 1910--and only 34,000 of these 400,000
+            are in institutions. The others are living amongst us; they are our neighbors; they--in
+            fact--are forming a very great problem for future generations to solve. There we find
+            among the feeble minded, that the feeble minded mother is three times as prolific as the
+            normal woman, and we also find that a great percentage, over 65 percent, of the women
+            living in prostitution are found to be feeble minded; and yet we close our eyes and let
+            the feeble minded continue in reproduction. We have today an appalling problem with the
+            insane and the feeble minded; <del>and when you think that the insane in practically
+                every insane asylum are not sterilized,</del>
+            <del>but </del><add>there are few institutions where the insane are sterilized</add>
+            <add>yet </add>a certain proportion of <del>them</del>
+            <add>the inmates</add> are allowed to go home <add>at intervals</add> and almost
+            inevitably leave behind them progeny, <del>and then are</del>
+            <add>while the parent is</add> returned to the asylum! We have many cases, and you have
+            them here also, where men have <add>become temporarily sane &amp;</add> been allowed to
+            go home <del>temporarily sane</del>, <del>and yet would only be home perhaps</del>
+            <add>while within</add> a few weeks, sometimes a few days, <del>and</del> have returned
+            raving maniacs, leaving behind them a pregnant wife. We have in most of our states --
+                <del>and I suppose the <person reg="Kallikak family">Kalecks</person></del>
+            <add>increasing problems from these conditions</add> and <person reg="Jukes family"
+                >Jukes</person> family is familiar to all of you -- but it never hurts to bring to
+            mind what is going on in practically every community of the United States today, as long
+            as we allow the Feeble minded to reproduce. Here for instance, is the story of <person
+                reg="Kallikak, Martin">Martin Kalack</person>, a feeble minded man who married
+                <person reg="Kallikak, Rhoda">Rhoda</person>. This was in 1808. Four hundred and
+            seventy known descendants; and of the progeny, there 143 feeble minded, 36 illegitimate
+            children, 33 sexually immoral persons, mostly prostitutes,--24 confirmed alcoholics, 3
+            epileptics, 82 who died in infancy, 3 proprietors of houses of ill-fame, and 3
+            criminals.</p>
+        <p>Again there were 12,00 descendants of the Jukes family in 75 years. Of these, 130 were
+            professional paupers who, in all, spent 2,300 years in poor-houses; 50 prostitutes, 7
+            murderers, 60 habitual thieves, and 130 common criminals. The expense of maintaining of
+            this one family, including cost of prostitutes, and care of others in institutions
+            amounted to $1,300,000. in this 75 years. That would be nothing compared to what they
+            would cost today.</p>
+        <p><del>Now</del> we know that in every state we have the <add><person reg="Kallikak family"
+                    >Kalliack</person></add> family and the Jukes family, but we are reluctant to
+            face fundamentals and to get at the bottom, <add>of</add>
+            <del>in fact, I <unclear resp="MSPP">always say</unclear> that</del>. <del>And</del> I
+            found in my own nursing work that we were very much today--and all social workers and
+            nurses and doctors and those who are attempting to solve our social problems--that that
+            we are all like the old fashioned quack--, the old fashioned quack who used to attempt
+            to cure cancer by burning off the top. On the outside everything looked all right; but
+            underneath the deadly disease continued to develop until the whole vitality of the
+            individual was eaten up. We will take many of our societies today--and I think one that
+            I would like to illustrate is the <org
+                reg="New York Society for the Prevention of Cruelty to Children">Society of
+                Prevention of Cruelty to Children</org>, a most worthy society. My only objection to
+            it is that it doesn't go back far enough. Why doesn't it attempt to prevent cruelty to
+            children born of diseased parents? Why doesn't it prevent the cruelty of children being
+            born in misery, in ignorance, in immorality? Why doesn't it herald the rights of the
+            unborn child from the housetops?</p>
+        <p>I often think that if children had something to say about their parents, I think we would
+            have a little more responsibility in our parenthood. I would like to see parenthood a
+            privilege, instead of an accident, as it is today. And I often wonder, if parents had to
+            apply in some unknown and unusual way, if they had to apply as they have to apply today
+            perhaps for maids or for chauffeurs, if they had to apply to some kind of state or
+            social registry where the unborn child would have something to say, I can almost hear
+            some of the questions the average child would ask, and I think the first question would
+            be, "<q who="UNK">Mr. Father, have you a health certificate with you?</q>" I think the
+            second question might be, "<q>How do you live? Where do you live? How many rooms have
+                you got, and how is Mother's health; is she a happy comfortable, jolly mother, or is
+                she a nervous, worn-out drudge, a wreck?</q>" And furthermore, it might say, "<q
+                who="UNK">Well my dear parents-to-be, the talents, the potentialities of a genius
+                are within me. Do you understand those elements in a child? Would you prepare for me
+                the environment for the development of my talents?</q>"</p>
+        <p>Is society <del>even</del> ready for that? And again it might say, "<q who="UNK">How do
+                you plan to bring me up? Have you any plans for my life and my development? Am I to
+                be a chimney sweep thrust out to earn my own living, or am I to have possibilities
+                of perhaps being a president?</q>" And again I think it would say, "<q who="UNK"
+                >What is your wage? What kind of table do you set? How many children have you got
+                already?</q>" And when the answer would "<q who="UNK">Eight</q>", I think the
+            average intelligent child would say, "<q> No thank you.</q>" (Laughter.)</p>
+        <p>Now we all know that we have very stringent and rigid immigration laws in this country,
+            by which we keep out of this <del>country</del> people, persons that,--well, that we
+            just don't want here; we keep out those individuals who will become a burden upon the
+            state; who won't let into the country an insane person or a diseased person; we won't
+            let in a pauper; there has to be a certain amount of money that you must have in order
+            to come into this country; you have to have somebody more or less responsible for you;
+            and I think--if I am not mistaken--that we don't let people in if we don't like their
+            ideas.</p>
+        <p>But what about the enemy from within? Anyone in this country can become a father or
+            mother. It makes no difference if you are diseased, if you are a pauper, if you are
+            insane, no responsibility--no possibility of bringing up a child, or feeding it, no
+            development of character for understanding the child. You can be cruel, you can be
+            anything <add>in</add> any stage of <add>mental</add> development, <del>and</del>
+            <add>yet</add> you are allowed to be a parent; and I think it is time that if we
+            recognize that it is not right to bring individuals into this country in order to
+            protect ourselves from them, then I think it is also necessary for us to protect
+            ourselves from within. (Applause).</p>
+        <p>Now many people ask us, in talking about this subject, they say "<q who="UNK">Do the
+                people really want Birth Control?</q>"--People who have perhaps lived and enjoyed
+            the existence of only their own kind of people do not recognize how desperate the women
+            who are having children too often, how desperate they have become, and how they reach
+            out to see information. Within the last week we have received within our organization
+            1200 letters from mothers, and the letters are about like these,--I have just brought
+            two of them to show you the nature of the letters, 1,200 of which we receive practically
+            every week. That means more than 50,000 of these letters every year. The first one
+            is:</p>
+        <p rend="blockquote">"<q who="UNK">I was married when I was a girl of only 17. There were 13
+                children of us. My father always drank and we had to go to work very young, myself
+                when I was 11 years old, caring for the boarders in a large boarding house.</q></p>
+        <p rend="blockquote">
+            <q who="UNK">I have been married eight years. My first child was only a six months baby.
+                She only lived three days. She was born in July and about January the first a
+                miscarriage. The next January a little girl was born; in about four months another
+                miscarriage; and then the next January 27 another girl; 21 months and a boy, who is
+                now two years old; and I have had two miscarriages since then.</q>
+        </p>
+        <p rend="blockquote">
+            <q who="UNK">I have never had a chance to regain my real strength. When my second child
+                was born I suffered a week from paralysis and I said then if I was ever that way
+                again I would commit suicide.</q>
+        </p>
+        <p>(Second letter)</p>
+        <p>These are just illustrations of the thousands and thousands of mothers who reach out
+            their hands and they say "<q who="UNK">Please help me.</q>" What do they ask? They only
+            ask a chance to bring up their children, those they have already got. They ask just for
+            a little rest for themselves. Many of them say "<q who="UNK">I am already the mother of
+                ten children.</q>" Sometimes they say they have had 20 pregnancies. Again they say
+            they have had 15 births and they have six children living. And the story is "<q
+                who="UNK">I just want a chance to rest. I want one night's sleep before I die.</q>"
+            And they tell how night after night they get up to get a drink of water. And they never
+            have one night's rest from the time they become a mother until they pass out of life.
+            This is all they ask,--a chance to know their husbands, a chance to be a real mother to
+            their children. And it seems to me as I look out on the world that every agency of
+            church and state of society should be at the <del>fight</del>
+            <add>feet</add> of these women, should be glad to help <del>them</del>, to assist them,
+            to just get a little out of life, to be the real mothers that we want them to be. It
+            seems very little to ask, <del>because</del> can any mother serve society when she
+                <del>nearly</del>
+            <add>would rather</add> die<del>d</del>
+            <del>by having one child</del>
+            <add>than have another child</add>? Can she serve society by having other children? I
+            don't think so. I think that is the least we can do for these mothers.</p>
+        <p><del>Now</del> many of us in working out these problems and in planning for a better
+            civilization and a better society and meeting these problems fairly and squarely we have
+            thought out some general rules that really should apply to make for a better
+            civilization.</p>
+        <p>I believe there are eight definite reasons when women should not have children: the first
+            is, I think that no parents should have children when they themselves have diseases,
+            transmissible diseases or when there is insanity, feeble-mindedness or epilepsy in their
+            family. That seems a very matter of fact and east thing to ask and to demand; second, I
+            believe that mothers or women should not be allowed to become pregnant while the mother
+            is suffering from tuberculosis and any <del>kidney</del> disease, heart disease or
+            pelvic deformities; she should not become pregnant until these diseases are cured;
+            third, a woman or couple should not have children when the children they have already
+            are not normal, even though they themselves are normal, but the children they have are
+            subnormal. We know that these diseases go far back, and it is a call, a symptom and a
+            sign that they should not have more when these that they already have are not up to
+            standards; again, I believe that there should be at least two, if not three years apart
+            from the births of children. A woman should have at least a year to recuperate from the
+            strain and ordeal of the birth of one child; she should have a year to rest and try to
+            prepare for the coming of the next child. Again, I think that today we want more than
+            just the physical operation of bringing children into the world; we want children to
+            have some of the development, some of the benefits of our intellectual development; so
+            that, I believe that young girls should not have children. A women should be at least 22
+            if not 23 years old. Not that a woman could not give birth to perfectly healthy children
+            younger. She can. We have seen them even at 14 and 15 giving birth to perfectly healthy
+            children; but after all, the adolescent period has not passed until the 22d or 23d year
+            and it seems to me that it is no longer necessary nor good for women to become mothers
+            until they have passed through the adolescent period, until the physical, the mental and
+            we might say the psychic side of her nature have developed and <del>have been</del>
+            <add>all</add> interlocked.</p>
+        <p>And again we say that parents should not become parents until their economic condition is
+            such that they can give to children the best possible advantages of the day. I also
+            believe that a woman should not have children until she is well rested, not while she is
+            fatigues from early labors, for instance, many children who come to work early, young
+            girls who go to work at 10, 12 and 13 years, marry and become mothers almost
+            immediately. I believe that every woman should rest from such toil for at least two, if
+            not three years, before she becomes a mother.</p>
+        <p>I found in <place>Scotland</place> in one district that was practically built up during
+            the war that out of 5,000 mothers or parents who were there, all having small families
+            because they were all quite young, the teacher said that 85% of the first children born
+            of these parents would fall to sleep some time during the day at school; and in her
+            calculations and mine we found that these mothers, almost all of them, had been to work
+            in the <place reg="Lancashire, England">Lancashire</place> cotton districts and had gone
+            to work when they were 9 and 10 years old. The mothers were always tired. They had never
+            had a chance to rest and they were married and became mothers almost immediately after
+            marriage.</p>
+        <p>And again,--and perhaps many of you will not agree with this, but I believe that no young
+            couple should have parenthood thrust upon them; and that, furthermore, they should not
+            have children for at least two years after they are married. Now I believe in early
+            marriages, but I <del>always</del>
+            <add>also</add> believe in building up the marriage relation; I believe in building up
+            the home <del>as a</del>
+            <add>in</add> preparation, as a nest for the coming of the children that are wanted.</p>
+        <p><del>Now,</del> I have seen and I believe that if two young people entering into the
+            marriage state had a year or two years to know each other, to play together, to read
+            together, to develop their love lives, I believe that there would be a finer, and a
+            stronger bond between them; I believe also that the waiting and the building up of this
+            bond of love and harmony between them would intensify the desire for maternity. I have
+            seen it through the war when many young women wanting to be married and dreading the
+            fact that the man they loved would be called away, did not want to have children under
+            those conditions and we have seen many cases where that same woman said: "<q who="UNK">I
+                am not never to be a mother; I don't believe I would understand children and I have
+                no particular maternal instinct in myself.</q>" We have definitely seen that most of
+            those women have come back and said "<q who="UNK">This thing has awakened in me. I want
+                to have children.</q>"</p>
+        <p><del>And so</del> we believe in waiting for a year or two <add>fix up</add> after
+            marriage before parenthood comes <add>upon them</add>
+            <del>them</del>.</p>
+        <p><del>Now, often all</del>, when you look out and when you see what we do today,--we pick
+            out our young girls and our boys and we bring up our daughters <del>with an instinct of
+                rebellion about</del>
+            <add>to regard with resentment</add> everything concerning the <add>sex</add> relations,
+                <del>of men and women;</del> and then, miraculously, we put a marriage certificate
+            in that girl's hands, and <del>we</del> think that everything is going to be beautiful.
+            It doesn't work that way. Love is like a plant; it has to be nurtured; it has to be
+            developed; it has to be cared for. It is not a thing that just happens accidentally. And
+            we believe in building up <del>that</del>
+            <add>a</add> love relationship before a child is called into being. These are
+                <del>practically</del>
+            <add>some of </add>the <add>simple</add> rules <add>of life</add> we say that people
+            should <del>have</del>
+            <del>applied</del>
+            <add>apply</add> to themselves if they desire to make for happier homes and also to take
+            part in being part of a hardier and healthier race.</p>
+        <p><del>Now</del> most of us believe that Birth Control might be a good thing in some cases,
+            but we all more or less have some objections, and I am not going to take up the time for
+            all these objections, but I am just going to dwell upon one or two of them: the first
+            objection that is raised almost universally--I found the same objection in
+                <place>Japan</place> and in <place>China</place>; you find it everywhere--the
+            objection is that if women have information to prevent conception,--in other words, if
+            they know how to avoid having children,--that the race will die out, <del>that we wont
+                have children</del>
+            <add>that there will be race suicide.</add></p>
+        <p><del>Now</del> I believe that that is absolutely false. I think that in the first place
+            the knowledge of Birth Control does not interfere in any way with anyone who desires a
+            big family. We only hope to bring it to those who don't want to have a big family; and
+            we say as we see it is a sound principle, that we believe that those who don't want to
+            have a big family should have the same privilege as those who do want to have a big
+            family. That is all.</p>
+        <p><del>Now</del> The instinct of maternity is not a thing that can be wiped out or killed
+            by such a simple thing as knowledge. The instinct is too old; and if any of you have
+            seen the cases that I have seen in my gynecological work,--women who thought they could
+            not become mothers, if you could see and know the agony and pain that they have endured
+            in going though operations when there has only been one chance in a hundred that that
+            operation would result in giving that women the power of maternity! And yet hundreds and
+            hundreds of these women take that one chance. The maternal instinct is very deep and one
+            of the reasons today <del>that</del>
+            <add>why</add> (I believe) we have small families, sometimes only one child in a family,
+            is because that child has come too quickly into that woman's life. She has never had a
+            chance to develop herself; she has been first a girl, then a mother. This wife in her,
+            the woman in her had never had a chance to evolve; <del>and also any</del>
+            <add>the fact that motherhood was accidental or enforced make that</add> condition
+                <del>thrust upon us becomes</del> abhorrent to <del>us</del>
+            <add>her</add>. If she had waited for a time after her marriage, if there had been a
+            chance to develop that maternal instinct in her, motherhood would have been a joy to her
+            and not a dread and a fear. And I believe that this knowledge <add>of BC will increase
+                the desire for motherhood</add>
+            <del>the instinct will be developed</del>. </p>
+        <p>Also we found in the high birth-rate and low birth-rate countries this fact,--that in the
+            high birth-rate countries, like China, where there has been no <add>conscious</add>
+            Birth Control <del>applied</del> where women have brought to birth children as often as
+            nature has allowed it, the population has remained practically stationary for some
+            hundred years. On the other hand, the low birth-rate countries, with the exception of
+                <place>France</place>, which I will take up later, the low birth-rate countries,
+            like <place>England</place> and <place>Germany</place>, <place reg="the Netherlands"
+                >Holland</place>, <place>New Zealand</place>, and <place>Australia</place>, these
+            countries, while the birth-rate has been lower and has continued to be lower, the infant
+            mortality and the general death-rate have also been lower; consequently the population
+            has increased.</p>
+        <p>And certainly we have three very good examples of what Birth-Control, when nationally
+            applied and controlled, can do to disprove the argument of race suicide in such
+            countries as Holland and New Zealand and Australia. for, in Holland, for instance, in 35
+            years her birth-rate has decreased; her infant mortality in <place
+                reg="Amsterdam, Netherlands">Amsterdam</place>, <place reg="Rotterdam, Netherlands"
+                >Rotterdam</place> and the <place reg="the Hague, Netherlands">Hague</place> is
+            lowest of any <del>states</del>
+            <add>cities</add> in the world, and this <add>is</add> particularly so since Birth
+            Control has been established there <del>in cities</del>. Holland has the fastest
+            increasing population of any country in Europe. <del>She also has a very queer thing
+                that has developed there that we cannot find in any other country and that is taken
+                from the army statistics in 1915:--she not only had the highest military standing
+                but she had the highest male stature in these 40 years. So</del> that Birth Control
+            goes for race improvement as well as increasing the population.</p>
+        <p>The race suicide theory simply does not stand. And besides, I often say to people who say
+            that they are standing for bigger populations, they want more people to justify our
+            existence, they will not be consistent, because if they were consistent they might stand
+            for polygamy. There is no quicker way in the world of getting big families than through
+            polygamy; but it doesn't stand; and they don't really stand for big families or
+            increased population.</p>
+        <p>Another objection is that it is going to lead to immorality. That is a very serious
+            objection and one that we cannot pass over lightly. It is <del>a</del>
+            <add>this aspect of the </add>subject which took me to <place>Europe</place> before
+            Birth Control was <del>taken up</del>
+            <add>launched</add> in the United States. I found, for instance, in Japan, that my son
+            and I had to revise our ideas of morality. I found that the things we found immoral here
+            were found very moral in Japan. Morality today has been immorality a hundred years ago
+            and immorality today is likely to be morality a hundred years from now. I think it is an
+            insult to suggest that our women will become promiscuous if they have knowledge or if
+            they have not the fear of the result to keep them moral. In other words, you <del>have
+                got to</del> be <add>the inference is that a woman must</add> be kept ignorant to
+                <del>be kept living</del>
+            <add>live</add> a clean life. I don't believe that is true.</p>
+        <p>Again, we might say that everything can be mis-used. All knowledge can be mis-used; we
+            know that. Everything today has some mis-use of it. But we don't stop the progress of
+            humanity because of the few who mis-use things. Automobiles can be mis-used; certainly
+            razors can be mis-used, and as a matter of fact, when razors were first put on the
+            market there was just the same objection. In the old days <add>a</add> man <add>could
+                not shave himself</add>
+            <add>only</add> a doctor had <del>to shave a man secretly</del>
+            <add>that privilege</add>; <del>then</del>
+            <add>later</add> they had a public barber; and gradually men began to buy razors and
+            shave themselves. And they said, "<q who="UNK">Why, if you let any man have a razor
+                    <del>and</del>
+                <add>to</add> shave <del>a man</del> he will cut the throat of the man he <del>is
+                    mad with</del>
+                <add>quarrels with</add>.</q>" <del>We know the whole </del>
+            <add>The</add> secret of life is to teach people the proper use of knowledge. And that
+            is what we have got to do with knowledge of Birth Control. We have got to teach
+                <add>young people</add> the proper use <add>of knowledge</add>.</p>
+        <p>Again, we found in Holland, instead of increasing immorality it <del>made</del> increased
+                <del>in</del>
+            <add>the</add> marriage <add>rate</add>. Young people were not afraid to get married and
+                <del>they</del> were not afraid of a big family <del>that</del> they could not
+            support. In 1914 I went to the <org reg="Netherlands Central Bureau for Genealogy"
+                >Central Bureau</org> of the Hague and I was challenged to find a native woman alive
+            in Holland at that time who was a prostitute. The first thing the parents do when they
+            see the boy and girl interested in each other, if they are both of the families that
+            they like, they encourage an early marriage and then they get their information from the
+            Birth Control Clinics, of which there are 55 in that little country today. And they are
+            impressed with the responsibility of having children; they are told that to have a child
+            is the greatest responsibility in the world and you have no moral right to have children
+            that you cannot take care of; you have no right to have more children than you can
+            support; you should not just have children and have your neighbor bring them up. And so
+            the responsibility of parenthood is impressed upon the young couple very early.</p>
+        <p>They look upon it, and have even used the argument to me, "<q who="UNK">Why should we
+                have children any more than we should have an automobile? It isn't only the having
+                it here but it is the keeping it up.</q>" And this is the way the Dutch mind looks
+            upon having children. It has not increased immorality; it has increased morality.
+            Marriages are popular; there has been an increase of total marriages. Immorality and
+            prostitution have decreased. By this I don't want anyone to think there is no
+            prostitution in Holland. There was prostitution in Holland even then; but they told me
+            it was professionals that came in from France and Germany to catch the trade.</p>
+        <p>Whether those same facts and statistics stand together today I don't know. It may be that
+            the war has changed the conditions; but up to 1914 that was the condition in Holland.
+            After all, we know that early marriages will do just that.</p>
+        <p>Again, we find that 77% of the men who frequent houses of prostitution are married men.
+            Now, let us see why that is. In my own nursing experience I found a very extraordinary
+            thing developing in this country, and that is, the wrong concept of the relations of
+            marriage, the wrong concept of the whole process of creation. Women have developed
+            almost a cloak of frigidity and they have an ideal in that frigidity; they believe that
+            is the natural and right and spiritual way to be. I contradict that and I don't believe
+            that that is the condition to create in themselves or that it is going to make for
+            happiness in the home. And I also found that a woman would say to me, "<q who="UNK"
+                >Well, my husband is a perfectly fine man; he is one of the best in the world; but
+                if only, well, if only this relationship of marriage did not exist I would be
+                perfectly happy.</q>" Now that man, on the other hand, is a creature of evolution of
+            nature and of expression. And we find there is one of the causes for this great
+            percentage of men who visit prostitutes. So that we say that Birth Control knowledge
+            back of that is going to help that woman to remove from her the fear of pregnancy
+            because back of that frigidity is often the fear of pregnancy. She has standards to live
+            up to; she has her life which she is developing and she does not want a big family; and
+            the consequence is that she usually drives her husband away from her. They do not
+            develop together fully; and immorality, or rather, lack of Birth Control is the cause of
+            immorality in the home as well as out of the home. We believe that Birth Control is
+            going to build up the home; it is going to stand for early marriages and for finer
+            companionship in the home after marriage.</p>
+        <p>There is only one other objection that I am going to take up and that is that people say,
+                "<q who="UNK">Wouldn't you do much better for the world if you were talking about
+                self control rather than birth control?</q>" Perhaps I would; I don't know; but let
+            us look at what one means by control. After all, we all have to be controlled; I believe
+            in self control; I believe in it most decidedly, most emphatically; but I believe in it
+            as part of our development of character; I believe in it as part of our development in
+            social evolution. We have to be controlled. I also believe in it as part of the beauty
+            of marriage and of our comradeship in marriage: but I don't believe in it is a good nor
+            right method of Birth Control. I don't believe it is the best method of Birth
+            Control.</p>
+        <p>Now, what do they mean, to be very frank. Let us look at these things frankly. It may
+            mean when they say control, they may mean that the relation of marriage or the union of
+            marriage should take place only for pro-creation. Well, that means that the average
+            normal people who can only afford to have two or three children, to bring them up
+            properly, that this relationship, which is allied to the divine, shall take place in
+            your lives but two or three times. I think that is unduly harsh and unnecessary and is
+            also a condition that cannot be lived up to by the average normal people.</p>
+        <p>Secondly, we must remember that even the most controlled people--and I have many cases in
+            mind where people are controlled to the fullest of their ability--and yet with only one
+            union a year there have been big families because that is all it takes to have one
+            child,--a year and a half,--and you can have 15 or 16 children in a life-time.</p>
+        <p>Again, they say they believe that there is a certain period in a woman's development when
+            she is partly or wholly sterile; and this is untrue; it is absolutely untrue as applied
+            to every woman. If it were true and if that is what is meant by control there might be
+            some possibility of its being enacted; but when it is absolutely denied by the medical
+            profession that this state exists in the average woman ,--in fact, they say it is only
+            one percent of women who are at this time partly sterile,--so we say that control
+            instead of birth control is not practicable.</p>
+        <p>Here is a case that came to me, a <add>social</add> worker has a very severe cardiac
+            case; the woman was suffering from heart trouble and was pregnant. This social worker
+            was rather annoyed at this condition, so she took it upon herself to call upon
+                <del>this</del> husband <add>of the woman</add> on Sunday when he was at home. He
+            was a young man about 32, a very fine, decent man and he loved his wife and loved his
+            children; he was what his wife called a <del>home body</del>
+            <add>"good man."</add> He was a truck driver. This little nurse went to him and
+                <del>she</del> told him he was taking his wife's life in his hands if she had
+            another child. The man was amazed. What could he do? And this nurse, after calling him a
+            few uncomplimentary names, said he should control himself. He said he would; it was the
+            last thing he wanted to do to bring his wife to the grave. So the nurse went on; they
+            had just a few <del>farms</del>
+            <add>rooms</add> there. But in a short time, less than three months, this little wife
+            came back to the social worker and she said to her "<q who="UNK">You have ruined my
+                husband; I had a good husband, a good man who never struck me, who never struck the
+                children, but was always home; who gave me his money and we were happy together. Now
+                I have a man who has turned into a brute; he <del>corrected</del>
+                <add>beat</add> one of the children and when I tried to plead with him he struck me.
+                He is never home; he is always out on the corner with <del>one</del>
+                <add>some</add> of the loafers.</q>" And she said "<q who="UNK"> It is your fault;
+                something that you said to him; and he has not been the same with me. I would rather
+                have <add>a</add> child every year and have the love of my husband, than the kind of
+                man you have made.</q>" This social worker was very much disturbed; she went to one
+            of the physicians in charge and asked him about this case, and he said, "<q who="UNK"
+                >That is perfectly right; that is just exactly what would happen.</q>" This man
+                <del>who</del> was a primitive sort of man was <del>simply</del> thrust out of one
+            state of his evolution and put into another. It was suppression, <del>which was
+                something in</del>
+            <add>from without self control is</add> a condition that we have to live up to, that we
+            have to evolve to. This is what self-control is; it is not a thing that can be thrust
+            upon one from without; it must be worked up from within. Control is a beautiful thing
+            which we should evolve to and develop within ourselves; but it is not either a practical
+            for all people nor is it the best or the most harmless method of Birth Control.</p>
+        <p><del>Now</del> there are many,--in fact, I want to say there are three kinds of Birth
+            Control; and I do hope if anyone who has come here this afternoon has expected me to
+            discuss the methods of Birth control--so many people have thought the methods of Birth
+            Control would be discussed from the platform--it has never been our method or custom to
+            discuss them here. We want to establish clinics in all thickly populated communities. We
+            want them as they have them in Holland; they also have them in England, and also in
+            China; and we in the United States still have none. We want these to be the places with
+            doctors and trained nurses in charge so that women or men may come there and receive
+            individual instruction suitable to fit <add>the</add> individual <del>women</del>
+            <add>womans case</add>. We want to raise this subject of Birth Control from the gutter
+            where it has been placed by our laws. We want to raise it to the same plane with other
+            scientific measures. There are three methods: <add>continue: sterilization and means
+                that prevent contraception</add> one method is continence or celibacy, perhaps
+                <del>the</del>
+            <add>this</add>
+            <del>best</del>
+            <add>safest</add> we have ever <del>heard of</del>
+            <add>known</add>. <del>Do you know that in your state that is a crime -- to live a
+                celibate today? Because your law says that you cannot use methods of Birth Control,
+                and yet there is not a better method of Birth Control known in all the world today
+                than to remain single. So all you single people who are over the age of maturity
+                should be imprisoned. But, as Mrs. Porritt said, that is unique. You have that very
+                unique law.</del>
+            <del>Yet, </del>continence is a method; sterilization is a method--and there are two
+            kinds, surgical and that <del>as</del>
+            <add>which is</add> induced by the X-ray. There is no doubt that the X-ray is going to
+                <del>take</del>
+            <add>play</add> a very important part in the whole process of Birth Control in the
+            future. It is said they are now developing the X-ray to such an extent that they will in
+            time be able to control the dosage; that is, that a woman suffering from tuberculosis
+            should not become a mother until she is cured, that she can be made sterile by the X-ray
+            for a period of three to five years and when she is cured then the power of motherhood
+            would return to her. If this is perfected it will be one perhaps of the best methods of
+            Birth Control.</p>
+        <p>Then from continence and sterilization we come to the medicinal and mechanical methods of
+            Birth Control which would be common in public clinics which we want the physicians to
+            give as applied to each individual, because every individual woman is different. A woman
+            who has had nine or ten children and who has not perhaps had the best surgical care
+            after the birth of her children must have different advice and different instruction
+            from the woman who has had only one or two children. So we want to make this instruction
+            individual, have it scientific, have it so the poorest woman can have the best
+            information to her needs, physical, economical and often spiritual, because we want to
+            direct this woman for the best interests of the race.</p>
+        <p>Now friends, after eight months' trip around the world I have found this,--that the
+            people of all the world believe in and want to practice Birth Control. It is evidently
+            all a process of responsibility. We want to be responsible for our acts. The people of
+            China, of Japan, of <place>India</place>, of all the European countries, look to this as
+            to a tolerance, while the governments of the same countries are blind to its
+            improvement; they are blind to its improvement in reducing taxation, in reducing the
+            burdens of charities.</p>
+        <p>Again we find churches are very timid in coming out and taking a stand for it, but we
+            have had a few illuminating examples, such as <add>Lord <person
+                    reg="Dawson, Bertram Edward">Dawson</person></add> physician who came to the
+                <org reg="Lambeth Conference">conference at <place reg="Lambeth, England"
+                    >Lambeth</place></org> last year, and took his stand firmly for Birth Control
+            and told the people that unless they listened to them, they might just as well close
+            their doors. Then there is Dean <add><person reg="Inge, William Ralph"
+                >Inge</person></add> of St. Paul's Cathedral. You have men like <person
+                reg="Wells, H. G.">H. G. Wells</person>, <person reg="Murray, Gilbert">Gilbert
+                Murray</person> of Oxford, <person reg="Russell, Betrand">Bertrand Russell</person>,
+                <person reg="Cox, Harold">Harold Cox</person>. You have some of the finest thinking
+            men in England; and <person reg="Keynes, John Maynard">John Maynard</person> is also
+            standing for Birth Control. He told me in <place reg="London, England">London </place>
+            that this subject of Birth Control was a most important subject on the political horizon
+            and he said unless we are going to recognize the population question, we may as well
+            throw all our peace treaties and our agreements between nations in the waste paper
+            basket; they can never come to anything until the population question is recognized.
+            This is not only an individual problem, it is not only a national problem, it is a race,
+            it is a world problem. I agree with H. G. Wells, who says in his last book that the
+            whole world is crammed with meaningless lives, hordes of people who are born, who live,
+            who die, and have done nothing to move the race forward one iota. There have been
+            repetitions, all that has been said has been said before; all that they have done better
+            before. They come and use up the energies and the resources of the earth.</p>
+        <p>Now on the other hand, what we are trying to do is to make for a better world, and we
+            maintain that the greatness of a country cannot be measured by the size of its
+            population. You have got to ask yourself, "<q who="UNK">Is your country breeding great
+                men and women? Is it creating immortal records of poetry, art and science, and are
+                these being used for the development of mankind?</q>" We want to make the world a
+            saner, better, cleaner place. We are fighting for the women and the children of this
+            generation; we are fighting for the women and children and the men of the next
+            generation; and we want to safeguard everything that affects the dignity of motherhood.
+            We also want to raise motherhood from the degradation and servility and sex slavery to a
+            glorified privilege. We want to free woman from incessant child bearing; we want to free
+            her from undesired pregnancy. We want children conceived in love and to be born only
+            when they are wanted. Then we want to make these bodies of ours holy temples; we want to
+            make them fit and perfect symbols that will be ready when examined to take its part in
+            the mystery of material being. </p>
+        <p>(Applause)</p>
+    </docBody>
+</doc>

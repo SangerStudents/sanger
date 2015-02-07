@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+    <mepHeader>
+        <prepDate>2014-03-05 JK initial tags</prepDate>
+        <prepDate>2014-03-13 CH proof tags</prepDate>
+        <prepDate>2014-03-26 JK correct tags</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1933-11-23">23 Nov 1933</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Speech to the Oklahoma Junior
+                    League</supplied></titlePart>
+        </docTitle>
+        <idno>msp421070</idno>
+        <sourceDesc>
+            <bibl><title type="article">"Mrs. Sanger Cites New War
+                    Danger"</title><title type="journal">Oklahoma News</title>
+                Nov. 23, 1933.</bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="ON">Oklahoma News</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"> No final version of this speech was found, this
+        summary comes from "<title type="article">Mrs. Sanger Cites New War
+            Danger</title>," <title type="journal">Oklahoma News</title>, Nov.
+        23, 1933. For a possible draft version see <xref from="129035.xml"
+                >"<title type="article">My Way to Peace</title>," Feb. 19,
+            1932.</xref><index level1="war" level2="causes of"/><index
+            level1="war" level2="overpopulation and"/><index level1="Italy"
+            level2="overpopulation and"/><index level1="Japan"
+            level2="overpopulation and"/><index level1="birth control"/>
+    </headNote>
+    <docBody>
+        <head>Mrs. Sanger Cites New War Danger</head>
+        <head type="sub">Japan. Italy Populations Too Great, She Says</head>
+        <q who="ON">
+            <p> Two danger spots in the world today are threatening peace, Mrs.
+                    <person reg="Sanger, Margaret">Margaret Sanger</person>,
+                birth control advocate, said in an address to 500 members of
+                    <org reg="Oklahoma City Town Hall">Town Hall</org>, <org
+                    reg="Junior League of Oklahoma City">Junior League</org>
+                lecture series, today in the <org>Biltmore Hotel.</org></p>
+            <p>
+                <place>Japan</place> has already burst her bounds and taken
+                    <place>Manchuria</place>. The next will be
+                    <place>Italy</place>, which is boosting its birth rate just
+                as <place>Japan</place> did, she said. </p></q>
+        <p>“Within 10 years,” Mrs. Sanger said, “Italy will march into
+                <place>Europe</place> to prove that ‘might makes right.’
+            Population explodes just like steam in a boiler. Uncontrolled there
+            is no way in the world to prevent revolution and war.” </p>
+        <p>“Our world today,” she said, “is in the same condition in reference
+            to its ignorance of birth control as was the old-fashioned quack who
+            tried to cure cancer by burning off the top. We are not striking at
+            the roots, and until we curb our ever increasing population, we can
+            never hope to find national recovery.” </p>
+    </docBody>
+</doc>

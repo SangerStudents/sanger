@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Speech">
+    <mepHeader>
+        <prepDate>2014-02-19 JK initial tag</prepDate>
+        <prepDate>2014-02-27 CH proof tag</prepDate>
+        <prepDate>2014-02-19 JK corrected tag</prepDate>
+        <prepDate>2014-11-14 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1926-03-27">27 Mar 1926</docDate>
+        <docTitle>
+            <titlePart>
+                <supplied resp="MSPP">War and Over-Population</supplied>
+            </titlePart>
+        </docTitle>
+        <idno>msp421074</idno>
+        <sourceDesc>
+            <bibl><title type="article">20th Century Club Hears Mrs. Sanger</title>, <title
+                    type="journal">Boston Globe</title>, Mar. 28, 1926, p. A13.</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="BG">Boston Globe</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>Sanger delivered this speech to the <org>Twentieth Century Club</org>, a women's social
+            club, in <place reg="Buffalo, NY">Buffalo, New York</place>. The other speaker that
+            night, Professor H. A. Overstreet, spoke on "What Shall we do with the Older
+            Generation?" The summary of his remarks were not included.</p>
+        <index level1="marriage"/>
+        <index level1="overpopulation" level2="MS on"/>
+        <index level1="overpopulation"/>
+        <index level1="population growth"/>
+        <index level1="population control" level2="MS on"/>
+        <index level1="women" level2="freedom and rights of"/>
+    </headNote>
+    <docBody>
+        <head>20th Century Club Hears <person reg="Sanger, Margaret">Mrs. Sanger</person></head>
+        <head type="sub">'War and Over-Population' Topic of Lecture</head>
+        <head type="sub">Prof. <person reg="Overstreet, Harry Allen">H. A. Overstreet</person> Discusses "The Older Generation"</head>
+        <div>
+            <p>There are two phases of the population question which concern the serious, scientific
+                thought of the world--and one is the pressure of population on the food supply,
+                which I will not attempt to take up here.</p>
+            <p>
+                <q who="BG">She then referred to the book by Professor <person
+                        reg="East, Edward Murray">East</person>, <title type="book">"Mankind at the
+                        Crossroads"</title>.</q>
+            </p>
+            <p> The other side of the problem concerns the reconciling humanitarianism with the
+                races of men. There are two ways of controlling population--by increasing the death
+                rate or decreasing the birth rate. We have increased the types of men in <place
+                    reg="United States">America</place> and we no longer think of disease and the
+                inroads of the feeble-minded as necessary to increase and multiply. </p>
+        </div>
+        <div>
+            <head type="sub">Cites Progress</head>
+            <p>What does it mean in our time than in 1923 we spent $8,000,000 on the diseased and
+                defectives, this being a function of public charity? Is that expenditure, to wipe
+                out disease? It means that 10 years from now we will double the amount to be
+                expended in the same cause.</p>
+            <p> If we are as we consider ourselves really a very generous, big-hearted people, if we
+                apply the same efficiency to clear up our conditions here, as we do in other
+                matters, we should wipe out this condition in one generation. We establish milk
+                stations, but we allow thousands of parents to remain in utter ignorance of the
+                conditions of proper living. </p>
+            <p>People with 10 children don’t want to be told how to raise additional children. The
+                mothers of these much prefer to be told how to keep them alive without the coming of
+                the extra 11th child. </p>
+            <p>
+                <q who="BG">The speaker opposed child labor outside the family.
+                        <place>England</place>, <place>Japan</place>, <place>Italy</place>, and
+                        <place>Australia</place> have great child labor and population problems.</q>
+            </p>
+        </div>
+        <div>
+            <head type="sub">Marriage Problems</head>
+            <p><q who="BG">Mrs. Sanger then said that marriage should be preceded in all lands by
+                    education as to motherhood and the control of child-bearing be given until
+                    economic ways of preservation were fully studied and understood.</q> We want to
+                have young married couples accorded a year or two after marriage just to play
+                together and develop the cultural side of their relations. </p>
+            <p>It is not an easy thing for men and women to live together now as they did 40 or 50
+                years ago. We are trying to leave these young people to enjoy themselves; we are
+                trying to recreate and build up new homes and we want to make women free. </p>
+        </div>
+
+
+    </docBody>
+</doc>

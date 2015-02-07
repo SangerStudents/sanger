@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Interview">
+    <mepHeader>
+        <prepDate>2013/12/11 JK encoded</prepDate>
+        <prepDate>2014-11-10 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1933-11-19"><supplied resp="MSPP">19 Nov. 1933</supplied></docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Interview with the Washington
+                Post</supplied></titlePart>
+        </docTitle>
+        <idno>msp421054</idno>
+        <sourceDesc>
+            <bibl><title type="article">Birth Control Not Race Suicide, Says Mrs. Sanger</title>,
+                    <title type="journal">Washington Post</title>, Nov. 20, 1933, p. 9. </bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="TWP">The Washington Post</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="birth control" level2="clinics and leagues" level3="in US"/>
+        <index level1="birth control" level2="in Washington D.C."/>
+        <index level1="birth rate" level2="consequences on"/>
+        <index level1="birth rate" level2="efforts to reduce"/>
+        <index level1="birth rate" level2="population growth and"/>
+        <index level1="American Birth Control League"/></headNote>
+    <docBody>
+        <head>Birth Control Not Race Suicide, Says Mrs. Sanger</head>
+        <head type="sub">New Researches Show It Does Not Affect Population, She Insists. </head>
+        <p><q who="TWP">Birth control has succeeded in meeting the attacks of those who represent it
+                as synonymous with race suicide, Mrs. <person reg="Sanger, Margaret">Margaret
+                    Sanger</person>, foremost American exponent of the movement, who has just
+                arrived in <place reg="Washington DC">Washington</place>, declared yesterday in an
+                exclusive interview with the <title type="journal">Washington Post</title>. </q> “As
+            a matter of fact,” she said, “birth control neither adds to nor subtracts from the
+            normal increase of population. Studies of population over long periods of time and in
+            many countries have convinced experts that the increase bears a direct ratio to the
+            ability of the territory under observation to support human life. “If people are left to
+            their own resources, to increase their kind beyond the possibility of its being
+            maintained according to the living standard of the environment in which they find
+            themselves, infant mortality will act as the check which reduces the adult population to
+            the normal total. Or congestion will incite nations to war on each other and the
+            reduction of population will be brought about in that way. “Birth control simply means
+            that the mother who has 12 children in a family which can only support four will not
+            suffer the immense misery of losing eight of her family through disease, malnutrition
+            and like causes, but will be the happy and healthy mother of only four children–the four
+            who were all she should have had. “The latest proof of the working of this theory has
+            been had recently in a report just issued by <person reg="Edin, Karl">Prof. Carl
+                Edin</person>, of the <org>University of Copenhagen</org>. “The poorest people of
+                <place reg="Copenhagen, Denmark">Copenhagen</place> have for the past five years had
+            access to birth control information. As a result, Dr. Edin finds that the poor are
+            limiting the size of their families. “But the intelligentsia of Copenhagen during the
+            same period have increased their families, he reports, and the increase has been
+            sufficient to precisely offset the decrease among the families of the poorer class.
+            “This astonishing fact he attributes to very simple causes. The burden of taxation of
+            the intelligentsia for the support and relief of the poorer families has been lightened;
+            and with the greater means they have been able to gratify their desire for as many
+            children as they could rear and educate.” </p>
+
+
+    </docBody>
+</doc>

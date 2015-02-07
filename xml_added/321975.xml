@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published statement">
+	<mepHeader>
+		<prepDate>2014-04-14 EK initial tagging</prepDate>
+		<prepDate>2014-04-14 EK clean regs and error</prepDate>
+		<prepDate>2014-04-18 EK correct proof</prepDate>
+		<prepDate>2014-04-21 CH Making it validate</prepDate>
+		<prepDate>2014-12-18 CH proof and enter tags</prepDate>
+		<docAuthor>Margaret Sanger</docAuthor>
+		<docDate value="1917-01-27">27 Jan 1917</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Statement on Ethel Byrne's Hunger Strike</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp321975</idno>
+		<sourceDesc>
+			<bibl><title type="article">Stirring Appeal Written by Birth Control Advocates</title>,
+					<title type="journal">Wilkes Barre Times-Leader</title>, Jan. 27, 1917, p.
+				13</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="WBTL">Wilkes Barre Times-Leader</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP"><p>Sanger's statement, distributed by the United Press, was also published
+			in the <title type="journal">San Jose Evening News</title>, Jan. 27, 1917.</p>
+		<index level1="Brownsville Clinic" level2="imprisonment"/>
+		<index level1="Byrne, Ethel Higgins"/>
+		<index level1="birth control" level2="laws and legislation" level3="New York"/>
+		<index level1="birth control" level2="working women and"/>
+	</headNote>
+	<docBody>
+		<head>Stirring Appeal Written by Birth Control Advocates</head>
+		<byline>By Mrs. Margaret H. Sanger</byline>
+		<p><dateline><place reg="New York, NY">New York</place>, Jan. 27.--</dateline> "<q
+				who="WBTL">Discussing the hunger strike of her sister, Mrs. <person
+					reg="Byrne, Ethel Higgins">Ethel Byrne</person>, Mrs. <person
+					reg="Sanger, Margaret">Margaret Sanger</person>, originator of the birth control
+				campaign, to-day gave the <org>United Press</org> the following statement:</q>"</p>
+		<p>To the people in the <place>United States</place> who would like to know why my sister
+			was convicted and why she has gone on a hunger strike:</p>
+		<p>She has gone on a strike, refusing all food, drink and work, because she was thrust into
+			prison by a court which denied her the inherent right to test the constitutionality of a
+			law which is the most outrageous piece of legislation on the statue books today. </p>
+		<p>I mean the law forbidding the dissemination of birth control information. This archaic
+			law which has been untested on the statute books since 1878, causes the death of more
+			than 8,000 working mothers in <place>New York</place> every year. Similar laws in other
+			states being the annual total to the terrible figure of mothers dead through law-imposed
+			ignorance of nearly a quarter of a million.</p>
+		<p>These unfortunate women go to their graves unnoticed and their agonies and deaths
+			unknown. Mrs. Byrne feels that one more death laid at the door of the government of this
+			state is of little consequence as a life.</p>
+		<p>But if such should be her lot, and if her strike should end in her death, as well it may,
+			it will, at least, be known that she died because of this same law.</p>
+		<p>Women of the State of New York and of the nation:</p>
+		<p>To let Mrs. Byrne die, will be the beginning of the end of your freedom for another
+			generation. Already the hand of tyranny has throttled our every effort to obtain
+			Justice. With you rests the power to voice your feelings.</p>
+		<p>Birth control is practically a new subject in the United States. Birth control is not an
+			attack on the birth-rate as such. It is a scientifically just and human effort to
+			prevent the birth of more children than parents can endow with strong bodies and in the
+			battle of life. Nothing more.</p>
+		<p>Birth control is a social principal with a message to woman kind, especially to working
+			women, already entrapped as she is in the meshes of ignorance.</p>
+		<p>This ignorance is the lot of the working woman alone. It is the working man, his wife and
+			his family that present the problems of this generation.</p>
+		<p>The women of wealth can and have obtained this knowledge and put it into practice, have
+			been relieved of overburdened maternity and are free to experience the joy of life which
+			only welcome children and voluntary motherhood can bring.</p>
+	</docBody>
+</doc>

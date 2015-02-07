@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2001-12-03 MH</prepDate>
+        <prepDate>2002-08-29 KH</prepDate>
+        <prepDate>2004/07/20 CH</prepDate>
+        <prepDate>2007-05-31 CH Oxygen update</prepDate>
+        <prepDate>2014-03-05 CH cleaning regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1914-07-00">Jul 1914</docDate>
+        <docTitle>
+            <titlePart>The Birth Control League</titlePart>
+        </docTitle>
+        <idno>msp420027</idno>
+        <sourceDesc>
+            <bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 5, July 1914 ,
+                39</bibl>
+            <bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title> C16:553</bibl>
+        </sourceDesc>
+    </mepHeader>
+    <headNote>
+        <index level1="birth control" level2="clinics and leagues"/>
+        <index level1="women" level2="reproductive choices and decisions"/>
+    </headNote>
+    <docBody>
+        <head>THE <org reg="Birth Control League of America">BIRTH CONTROL LEAGUE</org></head>
+        <p>The recently organized and much needed <org>Birth Control League of <place
+                    reg="United States">America</place>
+            </org>has for its aim as follows:</p>
+        <p>1. To carry on an extensive, nationwide campaign of education, of literature, to prove to
+            the workers that it is to their interests to have a thorough knowledge and understanding
+            of the means for regulating the size of their families.</p>
+        <p>2. To agitate most vigorously for the repeal of the state and federal laws against the
+            spreading of knowledge relative to methods for the prevention of conception.</p>
+        <p>3. To render all possible aid to those who are prosecuted under these laws, and to bring
+            their cases to the attention of the entire <emph rend="italics">thinking</emph>
+            world.</p>
+        <p>The headquarters of the league will be in <place reg="New York, NY">New York
+            City</place>, while autonomous locals will be organized all over the country to carry on
+            the propaganda.</p>
+        <p>Suffragettes, feminists and all women's organizations, will never make much progress,
+            until they recognize the fact that women cannot be on an equal footing with men until
+            they have full and complete control of their reproductive functions.</p>
+        <p>We are anxious to hear all advocates of woman's emancipation, in connection with the
+            question raised above.</p>
+        <p>We want the help and co-operation of all enlightened women--mothers and potential
+            mothers,--who see the danger and criminality of reckless and indiscriminate
+            child-bearing--women who are not afraid to learn the physiology and hygiene of their own
+            bodies.</p>
+        <p>The membership dues are $1.50 a year, but additional contributions for a literature and
+            campaign fund are badly needed.</p>
+        <p>Address all letters and contributions to the Secretary, <person reg="Bobsien, Otto">Otto
+                Bobsien</person>, 75 East 120th St., New York City.</p>
+    </docBody>
+</doc>

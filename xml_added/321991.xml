@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+	<mepHeader>
+		<prepDate>2014/04/11 VS initial tagging</prepDate>
+		<prepDate>2015-01-23 CH proof tags and enter</prepDate>
+		<docAuthor>Margaret Sanger</docAuthor>
+		<docDate value="1928-09-28">28 Sept 1928</docDate>
+		<docTitle>
+			<titlePart>Birth Control Advocated to Decrease Maternal Mortality</titlePart>
+		</docTitle>
+		<idno>msp321991</idno>
+		<sourceDesc>
+			<bibl>
+				<title>Montana Standard</title>, Sept. 28, 1928, p. 4. </bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">A short biographical introduction of Sanger was omitted. <index
+			level1="birth control" level2="health benefits and risks"/>
+		<index level1="birth control movement" level2="MS on"/>
+		<index level1="mortality rates" level2="infant"/>
+		<index level1="mortality rates" level2="maternal"/>
+	</headNote>
+	<docBody>
+		<head>Birth Control Advocated to Decrease Maternal Mortality</head>
+		<byline>By Mrs. <person reg="Sanger, Margaret">Margaret Sanger</person>, Founder
+				<org>American Birth Control League</org></byline>
+		<p> Statistics on the subject of maternal mortality are of doubtful value, but the record
+			shows that, in 1925, 647 mothers died of every 100,000 live births. </p>
+		<p> Work to lower the death rate of mothers in child birth has been ineffective in the last
+			10 years, and I have advocated proper birth control as the solution of the problem. </p>
+		<p> In 1926 656 mothers in every 100,000 gave their lives. Since then there has been no
+			decline in these figures, which include only about 76 percent of the total population of
+			the United States. </p>
+		<p> I have been interested in this problem since 1914, and it was my interest in this
+			particular aspect of the situation that led to the beginning of a birth-control
+			movement. I feel now that the time has come when I can turn over to others the
+			organization, legislative and educational features of active birth-control work. </p>
+		<p> As I have long wished to do, I will devote myself to a scientific study of the causes
+			and cures of this terrific sacrifice of the lives of child-bearing women. I feel
+			confident that a serious study will lead to a scientific demonstration of the fact that
+			maternal mortality can be reduced by the application of birth-control knowledge. </p>
+		<p> Infant mortality in the <place>United States</place> been appreciably lowered in the
+			last 10 years, but nothing of consequence has been accomplished in lowering the death
+			rate of mothers. </p>
+		<p> I am preparing to spend a period of from three to five years in that collection of
+			material, in sociological investigation and in gathering facts generally pertinent to
+			the situation. In this work I will have the aid and co-operation of some of the foremost
+			authorities in the world. </p>
+	</docBody>
+</doc>

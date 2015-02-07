@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Autograph draft speech">
+    <mepHeader>
+        <prepDate>2010/03/31 AC</prepDate>
+        <prepDate>2010/04/06</prepDate>
+        <prepDate>2001/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
+        <prepDate>2014-03-24 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1935-11-00"><supplied resp="MSPP">Nov. </supplied>1935</docDate>
+        <docTitle>
+            <titlePart><supplied>Women of India</supplied></titlePart>
+        </docTitle>
+        <idno>msp236586</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S71:0817.</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Margaret Sanger wrote this draft on the letterhead of the
+                <org>Penisular and Orient Steam Navigation Company</org> (P.O.S.N. Co.). Likely
+            while on board the <name type="ship">S.S. Viceroy of India</name>.</p><index
+            level1="India" level2="MS on"/>
+        <index level1="men" level2="marriage age"/>
+        <index level1="women" level2="marriage age"/>
+        <index level1="women" level2="health of"/>
+    </headNote>
+    <docBody>
+        <p>The first need in womans forward advance is to desire Freedom. That desire must come from
+            within.</p>
+        <p>I refuse to ask her to be satisfied with her environment unless that environment is
+            conducive to health for herself &amp; her children.</p>
+        <p> I would not ask her to make peace with poverty, ignorance illiteracy, or Slavery no
+            matter <del>what</del>
+            <add>the</add> discipline such an attitude may impell.</p>
+        <p> Women of <place>India</place> like the women of the world will not be content with
+            privileges for their sex. They will insist nay in truth demand <del>Eq</del> Rights of
+            Equality not only Equal rights with their own countrymen but equal rights in that
+            greater International country of the world.</p>
+        <p> Education for Indian girls machinery to take place of toil <emph rend="underlined"
+                >prepare the mind</emph> for that day.</p>
+        <p>Unity, harmony, love &amp; service</p>
+        <p>Marriage age 16 girls</p>
+        <p>21 boys.</p>
+        <p>raise age of parenthood 20 23.</p>
+        <p>Indian women are demanding that their interest be safeguarded by representation enabling
+            them to be associated in the administration of the provinces in departments of health,
+            Education, Civic &amp; Social interests &amp; activities</p>
+        <p><list>
+                <item>1 Transmissible disease.</item>
+                <item>2 temporary <supplied resp="MSPP">diseases</supplied>> gonnorhea</item>
+                <item>3 Children defective healthy parents</item>
+                <item>4 Space children.</item>
+                <item>5 Adolescent parents</item>
+                <item>6 fatigue working mothers</item>
+                <item>7 wages &amp; standards</item>
+                <item>8 adjustment after marriage</item>
+            </list>
+        </p>
+    </docBody>
+</doc>

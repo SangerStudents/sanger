@@ -1,9 +1,12 @@
 <?php
+
+require_once( 'private.php' ); 
+
 // MySQL layer
 if (!isset($conid)){
 function dbconnect (){
-$mysql=mysql_connect("localhost", "sanger_user2", "sanger2t3st3r!") or die("Woe is me! Can't connect to mySQL server!"); 
-mysql_select_db("sanger");
+$mysql=mysql_connect("localhost", PRIVATE_MYSQL_USER, PRIVATE_MYSQL_PW) or die("Woe is me! Can't connect to mySQL server!"); 
+mysql_select_db(PRIVATE_MYSQL_DB);
 return $mysql;
 }
 

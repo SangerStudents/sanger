@@ -2,12 +2,13 @@
 // MySQL layer
 // Revised 2013/3/8 to fix subject index population issue --JR
 
+require_once( 'private.php' ); 
+
 if (!isset($conid)){
 function dbconnect (){
-//changing this commented line to the first user. Fingers crossed. -JR
-$mysql = @mysql_connect("localhost", "sanger_user", "sangert3st3r!")
+$mysql = @mysql_connect("localhost", PRIVATE_MYSQL_USER, PRIVATE_MYSQL_PW)
 	or die ("couldn't connect to the server - please report this problem to <a href='mailto:humanities.computing@nyu.edu'>the administrator</a> immediately.");
-mysql_select_db("sanger");
+mysql_select_db(PRIVATE_MYSQL_DB);
 return $mysql;
 }
 

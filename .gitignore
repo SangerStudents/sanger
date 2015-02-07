@@ -2,6 +2,5 @@
 *.swp
 *.swo
 
-#Also don't track db layers for security reasons. 
-dblayer*.php
-dblayer.php3
+#Also don't track private stuff 
+private.php

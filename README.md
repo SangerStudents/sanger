@@ -1,7 +1,7 @@
 #About this Project
 This is a project to rennovate the Margaret Sanger Papers Project Electronic Edition search engine, fixing bugs and adding features where necessary. 
 
-#New Features
+#New Features in Version 2.0
 New features of this edition include: 
  * Items mentioned in texts are now searchable: 
   - Mentioned people. 

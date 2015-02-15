@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+    <mepHeader>
+        <prepDate>2012-06-29 AW Initial Tag</prepDate>
+        <prepDate>2014-04-17 EK clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1916-10-21">21 Oct 1916</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Secret Clinics in New York and the
+                Country</supplied></titlePart>
+        </docTitle>
+        <idno>msp321961</idno>
+        <sourceDesc>
+            <bibl><title type="journal">The Wilkes-Barre Times</title>, Oct 21, 1916, p. 1.</bibl>
+        </sourceDesc>
+        <respStmt>
+            <name id="UNK">Unknown</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="United States" level2="birth control clinics and leagues in"/>
+        <index level1="child labor"/>
+        <index level1="poverty" level2="family size and"/>
+        <index level1="prostitution"/>
+        <index level1="women" level2="employment of"/>
+        <index level1="working classes" level2="living conditions of"/>
+        <index level1="New York" level2="birth control laws and legislation"/>
+        <index level1="birth control" level2="health benefits of"/>
+        <index level1="birth control laws and legislation"/>
+        <index level1="Brownsville Clinic" level2="publicity"/>
+    </headNote>
+    <docBody>
+        <div type="section">
+            <p>The poor, century-behind-the-times public officials of this country, might just be as
+                well forget their moss grown statutes and accept birth control as an establishment.
+                My new national plan makes it as inevitable as night and day.</p>
+            <p>The police are hunting my <org reg="Brownsville Clinic">clinic</org> today. They
+                can’t find it. If they should, they can’t hurt it. It is an oral clinic and the law
+                says nothing about not spreading birth control information orally. If they do try to
+                interfere, I’m legally prepared to carry on a hard and bitter fight to the highest
+                tribunal in the land with the best legal talent there is.</p>
+        </div>
+
+        <div type="section">
+            <head type="sub">Secret Clinics</head>
+            <p>Four more secret clinics will be running <place reg="New York, NY">New York</place>
+                within a week. In less than a year there will be clinics in <place
+                    reg="Washington, D.C.">Washington</place>, <place reg="Cleveland, OH"
+                    >Cleveland</place>, <place reg="Detroit, MI">Detroit</place>, <place
+                    reg="St. Paul, MN">St. Paul</place>, <place reg="Minneapolis, MN"
+                    >Minneapolis</place>, <place reg="Milwaukee, WI">Milwaukee</place>, <place
+                    reg="Denver, CO">Denver</place>, <place reg="St. Louis, MO">St. Louis</place>,
+                    <place reg="Los Angeles, CA">Los Angeles</place>, <place reg="San Francisco, CA"
+                    >San Francisco</place>, <place reg="San Diego, CA">San Diego</place>, <place
+                    reg="Portland, OR">Portland</place>, <place reg="Seattle, WA">Seattle</place>,
+                    <place reg="Spokane, WA">Spokane</place>, and <place reg="Butte, MT"
+                    >Butte</place>. They are every one organized and ready to open the minute I say
+                the word. The Washington clinic will open within a few days.</p>
+            <p>Do the women like it? Say, you ought to go down in the neighborhood we have canvassed
+                with secret circulars the last 48 hours. The women have been coming in by the
+                dozens. You can hear them calling from house to house in the congested districts:
+                    “<q who="UNK">Oh, Mrs. <person>Rosenbaum</person>, you ought to see this, this
+                    is something fine</q>.”</p>
+            <p>Within two years every man and woman in this country will know how many children they
+                can afford to have. And when they know that I predict that two generations of birth
+                control will wipe out all the slums, eliminate the birth of mental defectives,
+                minimize the number of humans in our insane asylums and automatically put a stop to
+                child labor and prostitution.</p>
+        </div>
+
+        <div type="section">
+            <head type="sub">The Cures Promised</head>
+            <p>I say it will wipe out child labor, because statistics show that 97 per cent of our
+                child labor is recruited from families too large to be cared for by the parents.</p>
+            <p>It say it will wipe out the worst of prostitution because statistics prove that 95
+                per cent of the girls taken from lives of prostitution and placed in industrial
+                homes come from poor parents with nine or more children.</p>
+            <p>Poverty doesn’t force these girls into prostitution, but the lack of attention they
+                get with so many children at home and the general sordid tone of their lives
+                naturally leads them to such a life.</p>
+            <p>My friends and myself are going to bring the people of this country to realize that a
+                man making only $15 a week cannot afford to marry, much less have children. And
+                they’ll learn that the average workingman’s family should not exceed two children,
+                even under the most favorite physical conditions.</p>
+            <p> This is the work the law and public officials are trying to stop.</p>
+        </div>
+    </docBody>
+</doc>

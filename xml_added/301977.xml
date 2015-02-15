@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2003/06/25 SB</prepDate>
+        <prepDate>2004/07/02 CH</prepDate>
+        <prepDate>2004/07/26 CH</prepDate>
+        <prepDate>2004/08/09 CH</prepDate>
+        <prepDate>2001/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
+        <prepDate>2011/11/28 CH correct typos</prepDate>
+        <prepDate>2014-04-01 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1920-05-16">16 May 1920</docDate>
+        <docTitle>
+            <titlePart>Women Enslaved by Maternity</titlePart>
+        </docTitle>
+        <idno>msp301977</idno>
+        <sourceDesc>
+            <bibl><title type="journal">Lloyd's Sunday News</title>, May 16, 1920</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> C16:143</bibl>
+        </sourceDesc>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>This article was introduced by a brief biographical sketch of Margaret Sanger. </p>
+        <index level1="birth control" level2="class-based"/>
+        <index level1="birth control" level2="medically controlled"/>
+        <index level1="England" level2="birth rate"/>
+        <index level1="England" level2="labor movement"/>
+        <index level1="eugenics"/>
+        <index level1="labor movement"/>
+        <index level1="labor movement" level2="MS on"/>
+        <index level1="Sanger, Margaret Louise Higgins" level2="autobiographical writings"/>
+        <index level1="&quot;unfit&quot; to reproduce" level2="descriptions of"/>
+        <index level1="women" level2="enslavement of"/>
+        <index level1="women" level2="freedom and rights of"/>
+    </headNote>
+    <docBody>
+        <head>WOMEN ENSLAVED BY MATERNITY</head>
+        <byline>: By Mrs. <person reg="Sanger, Margaret">MARGARET SANGER</person>, Editor, American
+                "<title type="journal">Birth Control Review</title>," in an interview.</byline>
+        <div>
+            <p><place reg="Great Britain">Britain</place>, like <place reg="United States"
+                    >America</place>, is now in a condition in which the wealthy people, and even
+                those of moderate means, are practising the principles of birth control. Their
+                birth-rate is practically stationary. It is the people living in poverty and
+                disease, who, though less adapted for bringing into existence healthy, sturdy
+                children, are having large families.</p>
+            <p>I believe that the time is ripe to make birth control a national issue in this
+                country, first of all because woman is anxious to take her place in the social and
+                political life of the nation. This she can never do while she is enslaved by the
+                function of maternity.</p>
+            <p>She wants to have a share in social and political movements, but no woman who is
+                bringing children into the world year after year can possibly take a real interest
+                in matters outside the domestic circle.</p>
+            <p>It is a striking fact that the increase in the feeble-minded in Britain is even
+                greater than in America. Whereas in America the feeble-minded mother gives birth to
+                three times as many children as the normal mother, the disparity is four to one in
+                this country.</p>
+            <p>If this continues, it is going to mean a very inferior race within the next
+                generation.</p>
+            <p>Organised labour is very strong in Britain, and has a programme which should achieve
+                success if birth control is included in its scope. But the labour movement cannot
+                possibly attain the state of society which it is aiming at while those within it
+                continue to bring hordes of human beings into the world which no system that man has
+                so far devised can assimilate. On the other hand, if the workers will begin at once
+                to bring forth only those children which are wanted by the women and can be
+                maintained by the father's labour, the working class of this country may realise
+                their dreams of a better state of society within a generation, and be the first
+                among the nation to attain their goal. At present any work on social lines among the
+                poor is simply a palliative. We have got to strike at the roots of our social evils,
+                and birth control is the only automatic cure for all social problems.</p>
+        </div>
+        <div>
+            <head type="sub">IMPORTANCE OF HEALTH SIDE.</head>
+            <p>But there is a health side as well as an economic side to this question. There is the
+                important factor of a woman's self-development and her right to control her own
+                body.</p>
+            <p>In a well-balanced society where we desire quality rather than quantity we shall not
+                have the "unwanted child," whether the mother be a millionairess or a poor woman.
+                The loved child, however, will be the greatest asset to any nation.</p>
+            <p>Perhaps it would be as well to explain how I came to take an interest in the question
+                of birth control. For fourteen years I worked as a trained nurse in the slum areas
+                of <place reg="New York, NY">New York City</place>. I came in daily contact with the
+                terrific human waste of children and of mothers--children who died before they were
+                a year old, 90 per cent. Through poverty and neglect, and mothers who died from
+                causes due to ignorant maternity.</p>
+            <p>Our information is only given to married women, and preferably to those who are
+                already mothers. And let objectors remember that fear and ignorance are not
+                conducive to the highest morality. Just as knowledge or any useful implement might
+                be used for destructive purposes, so the information we disseminate is open to
+                abuse. The case of the razor may be cited as an illustration. This useful adjunct of
+                civilised life was once violently objected to because it was claimed that if razors
+                came into the possession of men who were not doctors they would be tempted to kill
+                one another. But we have gradually taught the proper use of razors without any such
+                disastrous consequences. So it is with birth control information.</p>
+            <p>We are endeavouring to stimulate and encourage the proper use of knowledge which we
+                believe to be necessary to the highest happiness of humanity.</p>
+        </div>
+        <byline>MARGARET SANGER.</byline>
+    </docBody>
+</doc>

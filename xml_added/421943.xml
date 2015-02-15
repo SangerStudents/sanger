@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+    <mepHeader>
+        <prepDate>2014/05/02 YG</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1935-05-17">17 May 1935</docDate>
+        <docTitle>
+            <titlePart>Interview with the Idaho Statesman</titlePart>
+        </docTitle>
+        <idno>msp421943</idno>
+        <sourceDesc>
+            <bibl><title type="article">Margaret Sanger, Leading Advocate of Birth Control, Arrives
+                    in Boise</title></bibl>
+            <bibl><title type="journal">Idaho Statesman</title></bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="IS">Idaho Statesman</name>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="birth control" level2="access to"/>
+        <index level1="birth control" level2="politicians and"/>
+        <index level1="birth control" level2="class-based"/>
+        <index level1="birth control laws and legislation" level2="MS on"/>
+    </headNote>
+    <docBody>
+        <head><person reg="Sanger, Margaret">Margaret Sanger</person>, Leading Advocate of Birth
+            Control, Arrives in <place reg="Boise, ID">Boise</place>.</head>
+        <p><q who="IS">Margaret Sanger, dressed in the latest of spring prints with white sports hat
+                and coat, at the <place>Hotel Boise</place>Thursday did not appear to be the
+                crusader who had spent a month in jail and been arrested eight other times, in her
+                zeal for birth control legislation.</q></p>
+        <p><q who="IS">Mrs. Sanger will speak at the <org reg="Young Women's Christian Association">
+                    Y.W.C.A.</org>this evening at 8 o'clock.</q></p>
+        <p>I feel, <q who="IS">she said</q>,that since legislation on birth control is now pending
+            in <place reg="Washington, DC">Washington</place>, the subject should be heard by the
+            voters, both sides of it. At my meeting in Boise I shall be glad to hear objections from
+            any who may be present, and shall try to answer them.</p>
+        <p><q who="IS">Mrs. Sanger opened the first clinic in the <place>United States</place>for
+                the dissemination of birth control knowledge in <place>New York City</place>. She
+                was arrested, served 30 days in jail, and took her case to the highest court, where
+                she won. At the present <place>New York State</place>, she says, is the only states
+                in which doctors have the right to give this knowledge.</q></p>
+        <p>I find my strongest advocates among the social service workers,<q who="IS">added Mrs.
+                Sanger,</q> and when you realize that with 4,000,000 families on relief, there were
+            over 233,000 children born into these homes during the past year, you will see what an
+            economic problem it is. We are trying to help correct the existing misunderstanding of
+            our measure now before congress. It is to amend a law that passed 60 years ago and gives
+            hospitals, clinics and physicians the legal right to dissiminate information to correct
+            poverty, overcrowding, child labor, infant mortality and other social problems.</p>
+        <p><q who="IS">A group met Mrs. Sanger and <person reg="Alexander, Julia">Mrs. Neil
+                    Alexander</person> of Washington, D.C. at Hotel Boise Thursday and there will be
+                another no-host luncheon today at 12 o'clock at the <place>Owyhee Hotel</place>.
+                This is open to any persons interested in meeting Mrs. Sanger and Mrs.
+                Alexander.</q></p>
+        <p><q who="IS">Mrs. Sanger will leave Boise Sunday.</q></p>
+        <p/>
+    </docBody>
+</doc>

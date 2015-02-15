@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Speech">
+	<mepHeader>
+		<prepDate>2013-11-13 CH encoded</prepDate>
+		<prepDate>2014-08-21 CH clean regs</prepDate>
+		<prepDate>2014-12-19 CH proof tags and enter</prepDate>
+		<docAuthor>Margaret Sanger</docAuthor>
+		<docDate value="1917-04-21">
+			<supplied resp="MSPP">21 Apr 1917</supplied>
+		</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Chicago Strand Theatre Speech Excerpts</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp321966</idno>
+		<sourceDesc>
+			<bibl><title type="article">Mrs. Sanger May Defy Laws Here in Aid of Cause</title>,
+					<title type="journal">Chicago Daily Tribune</title>, Apr. 22, 1917, p.
+				17.</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="CDT">Chicago Daily Tribune</name>
+			<name id="BEMAN">Bemis, Anna</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Sanger spoke to a women's only meeting in the afternoon and open meeting in the evening
+			at <place reg="Chicago, IL">Chicago</place>'s <org>Strand Theatre</org>. She was
+			introduced by Anna Bemis at the afternoon meeting. No complete version of her speech has
+			been found. </p>
+		<index level1="women" level2="reproductive choices and decisions"/>
+		<index level1="birth control" level2="class-based"/>
+		<index level1="&quot;feeble-minded&quot; persons" level2="allowed to reproduce"/>
+		<index level1="abortion" level2="frequency of"/>
+		<index level1="birth control" level2="in Illinois"/>
+	</headNote>
+	<docBody>
+		<head>Mrs. Sanger May Defy Laws Here in Aid of Cause</head>
+		<head type="sub">Predict Women Will Get the Right to Limit Children</head>
+
+		<div>
+			<p><q who="CDT">Mrs. <person reg="Sanger, Margaret">Margaret Sanger</person>, high
+					priestess of the birth control cult in <place reg="United States"
+						>America</place>, yesterday told two audiences at the Strand theater that
+					every woman should have the legal right to determine how many babies she would
+					bring into the world. She said the rich people now practice birth control, and
+					she approved it--not because they were rich but because, she said, woman,
+					whether rich or poor, should have </q>“absolute control of her body.” <q
+					who="CDT">That, she added was what was coming in the new emancipation of woman
+					throughout the world. She did not impart the specific information--as she did in
+						<place reg="New York, NY">New York</place> and served a month in jail for
+					it--as to how the women of today could regulate such things. She informed her
+					audiences, however, that if they would communicate with her at her New York
+					address she would see that in some way the desired information got to them.</q>
+				“When I was here last year,” she said, “I had 4,000 inquires on the subject of birth
+				control. All those inquires were answered.”</p>
+		</div>
+		<div>
+			<head>Officials at Both Meetings</head>
+			<p>
+				<q who="CDT">Mrs. Sanger spoke to a meeting “for women only” in the afternoon, and
+					went much more into detail than at the night meeting, which was a mixed
+					gathering, the general public being admitted without regard to sex, color, or
+					age. At both meetings representatives of the United States district attorney,
+					State’s Attorney <person reg="Hoyne, Maclay">Hoyne</person>, and Chief of Police
+						<person reg="Schuettler, Herman F.">Schuettler</person> watched closely for
+					infringements of the laws. On several occasions Mrs. Sanger got right up to the
+					edge of the narrow line that separated the audience from specific information as
+					to how to do all these things. Each time she proceeded cautiously and steered
+					away from the danger line with a sort of anti-climax, to the evident regret of
+					her audience. Both audiences were made up almost entirely of her followers, in
+					which representatives of the laboring classes predominated.</q>
+			</p>
+		</div>
+		<div>
+			<head>Wedding Ring for Ticket</head>
+			<p><q who="CDT">One woman, according to the ticket seller, left her wedding ring as
+					security for a $1.50 ticket after she had told him she was the mother of three
+					children but would not get her allowance until today. The ring bore the initials
+					“M. I. C.” under date of June 4, ‘16. <person reg="Bemis, Anna">Mrs. Edward
+						Bemis</person>, wife of the <person reg="Bemis, Edward">city’s gas
+						expert</person>, introduced Mrs. Sanger at both meetings with glowing
+					eulogies of the “cause.” Mrs. Sanger has three children and Mrs. Bemis dwelt at
+					some length on the “<q who="BENAN">splendid womanly woman and beautiful
+						mother</q>” who had the courage to “<q who="BENAN">speak out on this
+						subject.</q>” Mrs. Sanger told the women in the afternoon that if they
+					deemed it necessary she would defy the <place>Illinois</place> laws, establish a
+					birth control clinic in the stockyards district and help test the Illinois
+					statutes, which, she said, gave physicians the right to regulate births in
+					certain cases, but denied her the right to give the information which would
+					prevent the </q>“undesired birth.” <q who="CDT">She spoke for </q>“voluntary
+					motherhood,”<q who="CDT"> drawing a clear distinction between birth control, or
+					non-conception, and abortion. It was to prevent abortions and the attendant
+					ravages, she said, that her scheme had been sent forth the world. </q></p>
+		</div>
+		<div>
+			<head>“Woman Demand Freedom”</head>
+			<p>“Women,” she said, “long have been the brunt of unwilling motherhood. They now demand
+				the freedom of their bodies. Woman has been, since history began, a mere breeding
+				machine for children who fill our hospitals, our insane asylums, our feeble-minded
+				institutions, and our prisons. The world is full of undesired babies because of
+				ignorance of how to prevent them.</p>
+			<p>“There are 250,000 abortions in the United States every year, with 50,000 deaths
+				resulting therefrom. Four out of every seven women suffering with tuberculosis die
+				because of pregnancy. </p>
+			<p>“In Illinois, at your <org reg="Geneva Home for Girls">Geneva home for wayward
+					girls</org>, 85 percent of the inmates come from families averaging nine
+				children or more, while 50 percent of these are feeble minded. Last year in <place>New York</place>
+				10,000 feeble minded girls were living in prostitution. </p>
+		</div>
+		<div>
+			<head>
+				<q who="CDT">“Poor Mothers Sufferers”</q>
+			</head>
+			<p>“The wealthy districts of our large cities yield one-third the number of births the
+				poor districts do. The rich woman has the right to say for herself how many children
+				she shall bear and, having the information and the means, she can carry out her
+				ideas. It’s the poor and ignorant mother who peoples the world with undesired,
+				unwanted children.” Mrs. Sanger said she went to jail in New York because she
+				refused to promise to respect the law. </p>
+			<p>“I would rather take thirty days in the workhouse,” <q who="CDT">she said, </q>“than
+				promise to respect such a law when there are 8,000 abortions annually in New York
+				state.” </p>
+		</div>
+
+	</docBody>
+</doc>

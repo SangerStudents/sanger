@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Interview">
+    <mepHeader>
+        <prepDate>2013/12/11 JK encoded</prepDate>
+        <prepDate>2014-08-21 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1933-01-17"><supplied resp="MSPP">17 Jan 1933</supplied></docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Interview with the Los Angeles
+                Times</supplied></titlePart>
+        </docTitle>
+        <idno>msp421055</idno>
+        <sourceDesc>
+            <bibl><title type="article">Birth Control Progress Told</title>, <title type="Journal"
+                    >Los Angeles Times</title>, Jan. 17, 1933, A3 </bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="LAT">Los Angeles Times</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger's speech was not found; coverage from news provides some
+            extracts. </p>
+        <index level1="birth control" level2="movement"/>
+        <index level1="birth control" level2="movement" level3="in California"/>
+        <index level1="progress"/></headNote>
+    <docBody>
+        <head>Birth Control Progress Told</head>
+        <head type="sub">
+            <person reg="Sanger, Margaret">Margaret Sanger</person> Reports on Educational
+            Strides</head>
+
+        <p>
+            <q who="LAT">In spite of the storm of opposition which has raged around the subject of
+                birth control, remarkable progress is being made in the matter of education,
+                according to Mrs. Margaret Sanger.</q> “Prejudices are being broken down rapidly,”
+            she said, “and while public opposition has died down to a large extent, unfortunately
+            there still is much organized opposition. Education concerning the necessity for birth
+            control is the basis of our whole problem and then we must have recognition of the
+            movement by governments in order that birth control information will come under the
+            jurisdiction and direction of qualified persons. Poor women, for instance, must have
+            places where they can go to receive scientific instruction."</p>
+        <div>
+            <head type="sub">Importance Cited</head>
+            <p>“It is important that this movement should make progress, for I believe that
+                civilization soon will be swamped if the birth-control movement fails. It is a fact
+                that there is a larger percentage of incompetents being born now because there is a
+                larger number of them reproducing.” <q who="LAT">In this connection Mrs. Sanger said
+                    many of the countries of <place>Europe</place> are looking toward
+                        <place>California</place> with great interest to see what will be the
+                    results and effects of the State’s sterilization law, which is quite generally
+                    regarded, she asserts, as one of the greatest forward strides in legislation in
+                    the direction of humanitarianism.</q>
+            </p>
+        </div>
+        <div>
+            <head type="sub"> Student Attitude </head>
+            <p><q who="LAT">Mrs. Sanger said it has been her experience when attending conferences
+                    of college students on the subject of birth control that mixed groups approach
+                    the subject from a purely scientific angle, with an utter lack of
+                    self-consciousness.</q></p>
+        </div>
+
+    </docBody>
+</doc>

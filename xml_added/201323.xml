@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+    <mepHeader>
+        <prepDate>2011-07-21 NC</prepDate>
+        <prepDate>2011/08/17 CH Corrections</prepDate>
+        <prepDate>2014-03-26 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1939-12-00">Dec 1939</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Christmas Message</supplied></titlePart>
+        </docTitle>
+        <idno>msp201323</idno>
+        <sourceDesc>
+            <bibl><title type="journal">Birth Control Review</title>Dec. 1939, p.22</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S72:0111</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>For another version see the <title>Margaret Sanger Microfilm</title>,
+            S72:0110.</p>
+        <index level1="peace" level2="MS on"/></headNote>
+    <docBody>
+        <p>Christmas--1939! In the world about us international tragedy makes a mockery of the
+            peace, the harmony, and the good will that are associated with the season. Yet as long
+            as the fires of faith and brotherhood and love burn brighter in countless homes at
+            Christmas-tide, there is hope for a saner civilization ultimately. For society basically
+            is the family unit, gigantically multiplied. And so those of us deeply concerned with
+            the necessity for strengthening family life and family security through family planning
+            may draw strength and inspiration from the knowledge that our efforts are reflected not
+            only in family welfare, but also help to lay the ground work for the mass thinking that
+            must ultimately be applied to the family of nations. An intelligent adjustment of
+            national needs to national resources cannot forever be ignored if we are to see the
+            light of peace and prosperity shine again throughout the world. </p>
+
+        <byline><person reg="Sanger, Margaret">Margaret Sanger </person><lb/> Honorary Chairman,
+                <org>Birth Control Federation of America</org>, Inc.</byline>
+
+
+
+    </docBody>
+</doc>

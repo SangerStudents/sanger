@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2001-12-03 MH</prepDate>
+        <prepDate>2002-08-29 KH</prepDate>
+        <prepDate>2004/07/20 CH</prepDate>
+        <prepDate>2007-05-31 CH Oxygen update</prepDate>
+        <prepDate>2011-10-06 EK Corrected proof and index</prepDate>
+        <prepDate>2014-03-26 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1914-07-00">Jul 1914</docDate>
+        <docTitle>
+            <titlePart>An Important Book</titlePart>
+        </docTitle>
+        <idno>msp420031</idno>
+        <sourceDesc>
+            <bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 5, July 1914, p.
+                35</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> C16:549</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="MICRO">Michel, Robert</name>
+        </respStmt>
+    </mepHeader>
+    <headNote>
+        <index level1="birth control" level2="morality of"/>
+        <index level1="motherhood"/>
+        <index level1="birth control" level2="psychological benefits of"/>
+    </headNote>
+    <docBody>
+        <head>AN IMPORTANT BOOK</head>
+        <p>The latest champion of the idea of birth-control is Signor <person reg="Michel, Robert"
+                >Robert Michel</person>, whose "<title type="book">Sexual Ethics</title>" is a
+            recent contribution to the <title type="book">Contemporary Science Series</title> (<org
+                reg="Walter Scott Publishing Company">Walter Scott</org>, <place
+                reg="London, England">London</place>.) With a knowledge of the latest scientific
+            research in <place>Germany</place>, <place>Italy</place> and <place>France</place>,
+            Michel indulges in no cheap glorification of unrestricted motherhood that is so common
+            to-day. On the contrary, he claims: "<q who="MICRO">the type of woman continually
+                engaged in childbearing is a primitive one, out of harmony with the needs and ideas
+                of modern life</q>"; and that "<q who="MICRO">education and convention ... have
+                effected a development of the wife's concentration on her child, physiologically
+                grounded, as that concentration is, to a degree beyond what is neither necessary nor
+                normal.</q>" He writes incisively on the offense against both love and modesty in
+            the average middle-class engagement and honeymoon.</p>
+        <p>We look forward to the immediate publication of this book in <place reg="United States"
+                >America</place>.</p>
+    </docBody>
+</doc>

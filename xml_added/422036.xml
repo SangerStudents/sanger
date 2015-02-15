@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+    <mepHeader>
+        <prepDate>2014/07/15 AS encoded</prepDate>
+        <prepDate>2014-08-15 CH proof and enter</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1916-06-14">14 Jun 1916</docDate>
+        <docTitle>
+            <titlePart><supplied>Speech to the California Civic League</supplied></titlePart>
+        </docTitle>
+        <idno>msp422036</idno>
+        <sourceDesc>
+            <bibl><title type="article">Birth Control Lectures End</title>, <title type="journal"
+                    >San Francisco Examiner</title>, June 14, 1916, p. 7.</bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="SFE">San Francisco Examiner</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>For a draft of the speech Sanger likely gave, see “<xref
+                from="128002.xml">Woman and Birth Control</xref>," Apr-July 1916. She likely altered
+            it given the fact that California women had the vote in 1916.</p>
+        <index level1="California" level2="birth control movement in"/>
+        <index level1="birth control" level2="distribution of information about"/>
+        <index level1="birth control laws and legislation" level2="MS on"/></headNote>
+    <docBody>
+        <head>BIRTH CONTROL LECTURES END</head>
+        <q who="SFE"><p><person reg="Sanger, Margaret">Margaret Sanger</person> says she looks to
+                the women of <place>California</place> to take the first steps that will place this
+                country on the same basis with European countries in the matter of birth
+                control.</p>
+            <p>She declared yesterday in her talk before the <place reg="Oakland, CA"
+                    >Oakland</place> center of the <org>California Civic League</org> in <org>Hotel
+                    Oakland</org> that the women of California, with the power of suffrage, could
+                bring about the repeal of the laws against the dissemination of information about
+                birth control, and by so doing could set the pace for the whole country along this
+                line.</p></q>
+        <p>"This is my last appearance here," said Mrs. Sanger. "I leave to-morrow for <place
+                reg="Portland, OR">Portland,</place> on my way to the East again. I shall return in
+            October and I hope that by that time you women will have made decided progress toward
+            getting the laws repealed that now forbid your physician to tell you the vital facts of
+            life.</p>
+        <p>"When I return to California and find that California women have accomplished this I
+            shall immediately begin the installation of scientifically conducted clinics, where this
+            information can be given to the working women-in other words, to those who need it most
+            and who find it hardest to obtain."</p>
+    </docBody>
+</doc>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+<mepHeader>
+<prepDate>2003/07/15 SR</prepDate>
+<prepDate>2003/07/23 SR</prepDate>
+<prepDate>2004/06/30 CH</prepDate>
+<prepDate>2004/07/26 CH</prepDate>
+<prepDate>2004/08/13 CH</prepDate>
+<prepDate>2014-03-04 CH correct regs</prepDate>
+<prepDate>2014-11-13 clean regs</prepDate>
+<docAuthor>Margaret Sanger</docAuthor>
+<docDate value="1922-08-00">Aug 1922</docDate>
+<docTitle>
+<titlePart>Message from Mrs. Sanger</titlePart>
+</docTitle>
+<idno>msp238997</idno>
+<sourceDesc>
+<bibl><title>The New Generation</title>, Aug. 1922, 7</bibl>
+<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title>, S70:942</bibl>
+</sourceDesc>
+<respStmt>
+<resp/>
+<name/>
+</respStmt>
+</mepHeader>
+<headNote resp="MSPP">
+<index level1="Drysdale, Charles Vickery"/>
+<index level1="International Neo-Malthusian and Birth Control Conference"
+level2="in 1922 (5th--London)"/>
+</headNote>
+<docBody>
+<head>Message from <person reg="Sanger, Margaret">Mrs. Sanger</person>.</head>
+<p>Dear Dr. and <person reg="Drysdale, Bessie Ingham">Mrs.</person>
+<person reg="Drysdale, Charles Vickery"> Drysdale</person>,</p>
+<p>The <title>Fifth International Neo-Malthusian and Birth Control Conference</title> is over. All
+of us from <place reg="United States"> America</place> agree that it has been inspiring and
+stimulating.</p>
+<p>I have been greatly impressed by the splendid scientific support the Conference has had. Surely
+you must feel proud that your untiring labour has brought to birth such magnificent results. You may
+count upon the <org>American Birth Control League</org> to go hand in hand with you to the goal.</p>
+<byline>MARGARET SANGER</byline>
+</docBody>
+</doc>

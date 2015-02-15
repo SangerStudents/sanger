@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+    <mepHeader>
+        <prepDate>2014/06/10 AS Encoded</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1955-10-24">24 Oct 1955</docDate>
+        <docTitle>
+            <titlePart>Press Statement on the Fourth International Conference on Planned
+                Parenthood</titlePart>
+        </docTitle>
+        <idno>msp421965</idno>
+        <sourceDesc>
+            <bibl>
+                <title type="article">Birth Control Parley Meets in Tokyo Today</title>, Oct. 24,
+                1955, p. 11 <title type="journal">Chicago Daily Tribune</title>
+            </bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="R">Reuters</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Reuters Wire Service ran a statement by Margaret Sanger, made in Tokyo
+            at the Fifth International Conference for Planned Parenthood.</p>
+        <index level1="birth control" level2="access to"/>
+        <index level1="birth control" level2="access to" level3="international"/>
+        <index level1="birth control" level2="conferences on"/>
+        <index level1="birth control" level2="population and"/>
+        <index level1="China" level2="birth control in"/>
+        <index level1="Bermuda" level2="birth control and"/>
+        <index level1="England" level2="birth control in"/>
+        <index level1="India" level2="birth control in"/>
+        <index level1="Japan" level2="birth control in"/>
+        <index level1="Puerto Rico" level2="birth control"/>
+    </headNote>
+    <docBody>
+        <head>Birth Control Parley Meets In Tokyo Today Mrs. Sanger Hails It as Milestone</head>
+        <dateline><place reg="Tokyo, Japan">TOKYO,</place> Oct. 23 <org>[Reuters]</org></dateline>
+        <div type="section">
+            <head type="sub">Mrs. Sanger Hails It as Milestone</head>
+           <q who="R"> <p>Birth control experts from over the world tomorrow open the <org>fifth international
+                    conference on planned parenthood.</org></p>
+            <p>Highlights of the conference is expected Friday when an American scientist, <person
+                    reg="Pincus, Gregory">Gregory Pincus</person>, will submit a report on a small
+                oral contraceptive named progresterone, which can be eaten like candy.</p></q>
+        </div>
+        <div type="section">
+            <head type="sub">Red Chinese Present</head>
+            <p><q who="R">American <person reg="Sanger, Margaret">Mrs. Margaret Sanger</person>, president of
+                the <org reg="International Planned Parenthood Federation">federation,</org> said
+                the conference would </q>"mark a milestone in man's search for a harmless, simple,
+                    and cheap contraceptive, the key to almost all the world's and
+                        <place>Asia's</place> population problems."</p>
+            <q who="R"><p>Among the 500 experts representing 17 nations and territories will be an observer
+                from communist China. Mrs. Sanger said communist countries were not
+                invited to the conference because they have not shown interest in the problem of
+                population.</p></q>
+        </div>
+
+        <div type="section">
+            <head type="sub">Wanted to Attend</head>
+
+            <p>"We did invite communist China, but that was only because the <place
+                    reg="Peiping, China">Peiping</place> regime let it be known they wanted to
+                come," she said.</p>
+            <q who="R"><p>Others represented at the conference are the <place>United
+                    States</place>, <place reg="Great Britain">Britain</place>,
+                    <place>Sweden</place>, <place>West Germany</place>, <place>India</place>,
+                    <place>Pakistan</place>, <place>Ceylon</place>, <place>Egypt</place>,
+                    <place>Hong Kong</place>, <place>Singapore</place>, <place>Thailand</place>,
+                    <place>South Africa</place>, <place>Israel</place>, <place>Japan</place>,
+                <place>Puerto Rico</place>, and <place>Bermuda</place></p></q>
+        </div>
+    </docBody>
+</doc>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed draft speech">
+<mepHeader>
+<prepDate>2002-08-08 KH</prepDate>
+<prepDate>2002-08-15 KH</prepDate>
+<prepDate>2003/08/08 CH correcting tags</prepDate>
+<prepDate>2004/10/22 CH</prepDate>
+<prepDate>2014-03-07 CH clean regs</prepDate>
+<docAuthor>Margaret Sanger</docAuthor>
+<docDate value="1929-02-26">
+<supplied resp="MSPP">26 Feb 1929</supplied>
+</docDate>
+<docTitle>
+<titlePart>
+<supplied resp="MSPP">Introduction for Owen Lovejoy</supplied>
+</titlePart>
+</docTitle>
+<idno>msp128190</idno>
+<sourceDesc>
+<bibl>
+<title>Margaret Sanger Papers, Library of Congress</title>
+</bibl>
+<bibl><title>LCM</title> 129:750</bibl>
+</sourceDesc>
+</mepHeader>
+<headNote>
+<p><person reg="Sanger, Margaret">Sanger</person> introduced Owen Lovejoy's remarks at a dinner held
+for the <org>Birth Control Clinical Research Bureau</org> at <place reg="New York, NY">New
+York</place>'s <org>Plaza Hotel</org>. Related documents are her <xref from="234094.xml">Opening
+Remarks</xref> and her introductions for <person reg="Fairchild, Henry Pratt"><xref
+from="128197.xml">Henry Pratt Fairchild</xref></person> and <person reg="Hankins, Frank"><xref
+from="128198.xml">Frank Hankins</xref></person>. For another version see LCM 129:750.</p>
+<index level1="child welfare"/>
+<index level1="women" level2="enslavement of"/>
+<index level1="Lovejoy, Owen"/>
+</headNote>
+<docBody>
+<p>
+<add>Thousands of women have already been grievously wounded in the battle of life--Emergency
+measures are all they ask--&amp; all they are allowed to receive. Week after week, day after day
+&amp; hour after hour they come to us, appealing &amp; praying for help. Some of them come looking
+furtively about, hesitant wondering how they shall be received.</add>
+</p>
+<p>
+<add>They have run the gauntlet of various organizations &amp; been denied the information they
+sought.</add>
+</p>
+<p>
+<add>They come to us, troubled, inarticulate, like doomed souls crushed beneath the force of a
+cruelly prolific nature.</add>
+</p>
+<p>
+<add>These are the Martyrized Mothers of <place reg="United States">America</place>. They ask for
+help--for the right to life, liberty &amp; the pursuit of happiness. </add>
+</p>
+<p>
+<add>Temple of Motherhood.</add>
+</p>
+<p><del>The</del> Many critics of the Birth Control movement have failed to recognize how closely
+the well-being of children is related <del>upon</del> to the well-being and happiness of their
+mothers. To protects the children we must also protect the Mothers. It is now my great honor to
+introduce a man who has fought long and bravely for the rights of <del>American</del> children
+<del>born in America</del><add>to be free</add>, <del>and who has the insight and the courage to
+recognize that their first inalienable right is the right to be well-born. It is my pleasure to
+introduce</del>
+<add>and</add> the leader in the long fight against Child Labor--Mr. <person reg="Lovejoy, Owen"
+>Owen Lovejoy</person>.</p>
+</docBody>
+</doc>

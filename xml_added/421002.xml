@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed Draft Speech">
+    <mepHeader>
+        <prepDate>2011/07/13 NC</prepDate>
+        <prepDate>2014-03-24 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1924-12-06">6 Dec 1924</docDate>
+        <docTitle>
+            <titlePart>Introduction for Dorothy Bocker</titlePart>
+        </docTitle>
+        <idno>msp421002</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Library of Congress</bibl>
+            <bibl><title>Library of Congress Microfilm</title>130:703A</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger gave this Introduction at a birth control meeting held at
+                <org>Carnegie Hall</org> in <place reg="New York, NY">New York City</place>. See her
+                <xref from="143439.xml">opening remarks</xref> and her introductions of <xref
+                from="421001.xml">James F. Cooper</xref>, <xref from="421003"><person
+                    reg="Thurman, I. N.">I. N. Thurman</person></xref>, and <xref from="421004"
+                    ><person reg="Potter, Charles Francis">Charles Francis
+            Potter</person></xref>.</p><p>For draft versions see LCM 131:55A and 58B.</p>
+        <index level1="birth control"/>
+        <index level1="birth control" level2="medical community and"/>
+        <index level1="physicians" level2="birth control and"/></headNote>
+    <docBody>
+
+        <p>I am sure that I am speaking for everyone here in thanking Dr. <person
+                reg="Cooper, James F.">Cooper</person> for his inspiring and generous cooperation
+            with our movement by speaking here tonight, and for throwing so much light on phases of
+            birth control that are unfamiliar to most laymen.</p>
+        <p>There is still another phase of the problem which is often neglected. Most of us know
+            that are laws throughout the country forbidding the dissemination of contraceptive
+            information. If physicians and scientists passively accept those laws the whole
+            community suffers. There is no way to find out the scope of such laws except by changing
+            them and thus testing their vitality- or rather their deadliness. The <name type="law"
+                reg="New York State Penal Code, Section 1145">New York State Law</name> was
+            challenged as far back a 1916. It was a costly experiment but the benefits and the
+            knowledge wehave gained by that challenge have enabled the medical profession and
+            scientists to widen the scope of their investigation and research. The case was carried
+            to the <org reg="United States Supreme Court">Supreme Court</org> and a decision was
+            handed down stating that for the cure or prevention of disease physicians might advocate
+            contraceptive measures.</p>
+        <p>Upon that decision it was imperative to establish a precedent and after through
+            preparation, support and advice we succeeded in establishing a <org
+                reg="Birth Control Clinical Research Bureau">bureau</org> for clinical research.</p>
+        <p>This bureau has now been in operation for nearly two years.</p>
+        <p>It gives me great pleasure to introduce to you its medical directory who will tell you
+            some of the results of her patient labors, Dr. <person reg="Bocker, Dorothy">Dorothy
+                Bocker</person>.</p>
+    </docBody>
+</doc>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Speech">
+    <mepHeader>
+        <prepDate>2014-07-02 AS encoded</prepDate>
+        <prepDate>2014-08-15 CH proof and edit</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1916-05-02">2 May 1916</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Speech to the Detroit Jewish Socialist
+                    Branch</supplied></titlePart>
+        </docTitle>
+        <idno>msp421975</idno>
+        <sourceDesc>
+            <bibl><title type="article">Limit Families: Better Humanity</title>, <title
+                    type="journal">Detroit News</title>, May 2, 1916, p. 32</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="DN">Detroit News</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger spoke at St. Andrew's Hall in Detroit. For possible drafts from
+            this speaking tour, see <xref from="128002.xml">"Woman and Birth Control,"</xref>
+            <xref from="101859.xml">"Birth Control and Society,"</xref> and <xref from="128003.xml"
+                >"Condemnation is Misunderstanding" Apr-June, 1916</xref> and <xref
+                from="236132.xml">"Chicago Address to Women," Apr-May, 1916.</xref></p>
+        <index level1="birth rate"/>
+        <index level1="Roosevelt, Theodore" level2="MS on"/>
+        <index level1="Michigan" level2="birth control in"/>
+        <index level1="birth control" level2="morality of"/>
+        <index level1="Netherlands, the" level2="birth control clinics in"/>
+        <index level1="mortality rates" level2="infant"/>
+        <index level1="birth control" level2="lack of knowledge of"
+            level3="negative consequences of"/></headNote>
+    <docBody>
+        <head>"LIMIT FAMILIES: BETTER HUMANITY"</head>
+        <p>"<person reg="Roosevelt, Theodore">Theodore Roosevelt</person> boasted in <place
+                reg="London, England">London, Eng.,</place> that as a result of his having been
+            president, the birth rate in the <place>United States</place> would go up, because of
+            his denunciation of the so-called race suicide. You all remember what a furor his
+            advocacy of larger families made and how openly everybody discussed the subject.</p>
+        <p>"Nobody called Roosevelt immoral for advocating larger families. I wonder if you will
+            call me immoral for advocating small families?"</p>
+        <q who="DN"><p>Thus <person reg="Sanger, Margaret">Margaret H. Sanger</person> took issue
+                squarely with the doughty colonel at <org reg="St. Andrew's Hall">St. Andrew's
+                    hall,</org> 111 Congress street east Tuesday night. The auditorium and balconies
+                were completely filled, with about as many women as men. There were few of the
+                well-to-do present.</p>
+            <p>The audience was about equally divided between the radicals seen at all advanced
+                thought lectures in <place reg="Detroit, MI">Detroit</place> and men and women who
+                probably had never before heard a socialist speak, but wanted to be informed on the
+                subject of birth control.</p>
+            <p>There were many babies with their mothers present and the fact that they were lent
+                emphasis to the remarks of Mrs. Sanger. There were, too, a good many young
+                people.</p>
+            <p>Mrs. Sanger is tall, plain in appearance, with a remarkably clear voice. She spoke
+                under the auspices of the <org reg="Unidentified">Jewish socialist branch</org>. She
+                considered the subject of birth control from the moral, as distinguished from the
+                political or business phases.</p></q>
+        <p>"Which is more moral," she asked, "to delude the working women into producing fodder for
+            cannon and the munitions makers or to teach them how to prevent producing more mouths
+            than they can feed?</p>
+        <p>"The United States and <place>Japan</place> are the only so-called civilized countries in
+            the world where it is not permitted to teach women birth control," said Mrs. Sanger. "In
+                <place reg="Netherlands">Holland,</place> 35 years ago, they established clinics to
+            teach this subject to women and now the infant mortality rate is reduced to the absolute
+            minimum.</p>
+        <p>"In <place reg="New York, NY">New York</place> we see children between the ages of three
+            and five years cooped in dark basements making paper flowers or rolling cigarettes. That
+            is because the few pennies they can earn are desperately needed for the family
+            wants.</p>
+        <p>"In the south children are forced to factories or fields when they should be visiting the
+            old swimming hole.</p>
+        <p>"I must think of working men as merely so much produce thrown into the labor market,
+            subject to the law of supply and demand. As long as the women of the workers are kept in
+            ignorance of birth control they must continue to glut the market, making men cheap and
+            enforcing a low scale of living, a scale that will only make matters worse as generation
+            succeeds generation, each growing weaker and less capable of forcing their way to a
+            higher standard."</p>
+    </docBody>
+</doc>

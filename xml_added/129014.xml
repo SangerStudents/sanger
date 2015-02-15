@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+    <mepHeader>
+        <prepDate>2007/06/14 CH--need to deal with the inclusion of images to edition.</prepDate>
+        <prepDate>2007/06/26 CH added xref for Dutch methods</prepDate>
+        <prepDate>2007-09-05 CH corrected doctype </prepDate>
+        <prepDate>2014/04/03 EK clean regs; added xref for English Methods</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1915-08-00">
+            <supplied resp="MSPP">Aug. 1915</supplied>
+        </docDate>
+        <docTitle>
+            <titlePart>Magnetation Methods of Birth Control</titlePart>
+        </docTitle>
+        <idno>msp129014</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Library of Congress,</bibl>
+            <bibl>LCM 3:740</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp>
+                <name id="EMERA">Emerson, Ralph Waldo</name>
+                <name id="UNK">Unknown</name>
+                <name id="ONEIDA">Oneida Colony</name>
+                <name id="FRE">French</name>
+            </resp>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>This pamphlet was the third in a series, including "<xref from="128063.xml">English
+                Methods of Birth Control</xref>," 1915 and "<xref from="101920.xml">Dutch Methods of
+                Birth Control</xref>," 1915. </p><p>For illustrations appearing on pages 16 and 17 of the pamphlet, see <xref from="http://www.nyu.edu/projects/sanger/webedition/xml_a">figure 1</xref> and figure 2</p>
+        <index level1="birth control" level2="health benefits and risks"/>
+        <index level1="birth control" level2="lack of knowledge of"/>
+        <index level1="birth control methods" level2="continence"/>
+        <index level1="birth control methods" level2="withdrawal"/>
+        <index level1="birth control" level2="religion and"/>
+        <index level1="France" level2="birth control in"/>
+        <index level1="sex education"/>
+        <index level1="sexuality" level2="MS on"/>
+        <index level1="birth control" level2="sexuality and"/>
+        <index level1="Oneida Community"/>
+    </headNote>
+    <docBody>
+        <head>MAGNETATION METHODS OF BIRTH CONTROL</head>
+        <byline>By <person reg="Sanger, Margaret">MARGARET H. SANGER</person></byline>
+        <div type="section">
+            <head>INTRODUCTION.</head>
+            <p>In the previous pamphlets, “<title>English Methods of Birth Control</title>” and
+                    “<title type="book">Dutch Methods of Birth Control</title>,” one finds a
+                duplication of the methods given in the first pamphlet, “<title type="book">Family
+                    Limitation</title>.” The French methods of Birth Control are so nearly the same
+                that I have decided not to duplicate these again, but to give instead a list of the
+                books and pamphlets issued by the <org reg="Generation Consciente">French
+                    League</org>, and, also cuts or pictures of some of the articles they have for
+                sale at their headquarters, 27 Rue de la Duée, <place reg="Paris, France"
+                    >Paris</place>. These will be found at the end of this pamphlet. </p>
+            <p>I also find that the methods used to control births in <place>Germany</place>,
+                    <place>Italy</place>, <place>Spain</place>, <place>Belgium</place>,
+                    <place>Norway</place>, <place>Sweden</place>,<place> India</place>, <place
+                    reg="Union of Soviet Socialist Republics">Russia</place>, and
+                    <place>Japan</place> have all been greatly influenced by the <org
+                    reg="Malthusian League">English</org> and <org reg="Nieuw Malthuiaansche Bond"
+                    >Dutch Neo-Malthusian League</org> (the two oldest Leagues). To give further
+                national methods would be only a waste of time and material, and would add nothing
+                to what has already been given. This does not mean that there are not many other
+                mechanical devices. There are numerous ones; but I still find that there is nothing
+                better, safer, cheaper, or more convenient than the pessary mentioned in “<title
+                    type="book">Family Limitation</title>.” </p>
+            <p>In France, Germany, Spain, Italy, Belgium, and Sweden there are strong Neo-Malthusian
+                movements advancing the Birth Control theories by lectures, literature, and
+                practical means. In Russia, Japan, India, and <place reg="United States">United
+                    States</place> there have been recently feeble attempts to establish Birth
+                Control movements; but as yet they have remained embryonic.</p>
+            <p>I have decided to close this series of pamphlets with the following explanation of
+                the Magnetation method, and feel that I have said all that I can say of interest on
+                Birth Control methods. I have gladly donated my mite toward what I consider to
+                women’s economic, social, and sexual freedom.</p>
+        </div>
+        <div type="section">
+            <head type="sub">Magnetation Method of Birth Control.</head>
+            <p>Before closing this series of pamphlets on the practical methods of Birth Control, I
+                feel in justice to the many readers and subscribers of the <title type="journal"
+                    >Woman Rebel</title> who inquired about the theories of Magnetation, Male
+                Continence, Sedular Absorption, Karezza, and <title type="book">Zugassent’s
+                    Discovery</title>, that this series would not be complete without giving at
+                least a general idea of these theories and their practice.</p>
+            <p>It is interesting to note that the magnetation theory had its best and longest
+                practice, as well as its beginning, in America, under the title Male Continence.
+                This method was practiced for over forty years by a group averaging 130 men and 150
+                women known as the <org>Oneida Community</org>. They occupied a part of the old
+                reservation of the Oneida Indians in <place>New York State</place>, and lived in a
+                harmonious and prosperous form of Communistic society. <person
+                    reg="Noyes, John Humphrey">John Humphrey Noyes</person> was the head and founder
+                of the group. Through personal experience and prolonged study, he discovered the
+                theory of male continence. Since that time many others have come forward with the
+                    <emph rend="italics">same theory</emph> under various names. Almost without
+                exception, each advocate has injected some kind of religion into it. The Oneida
+                Community was particularly a religious sect, and <person reg="Stockham, Alice B."
+                    >Alice B. Stockham</person>, the author of <title type="book">Karezza</title>,
+                was a fervent religionist. However, aside from this, there are fundamental truths in
+                the theory which bear thinking about and should not be discarded without some
+                consideration. In view of the thousands of testimonials of the healthful results of
+                the practice of these theories, I present these methods like that of the others, and
+                for convenience shall classify them all under one head, “Magnetation.”</p>
+            <p>There are thousands of men and women who object to the practical and mechanical means
+                of Birth Control, who feel that the pessary, condom, and douche are gross and
+                sordid, and take away the artistic and spiritual beauty of the act. It is those whom
+                the magnetation method will interest most. There are others who will claim that this
+                method is “not satisfying,” and can find no enjoyment in its practice. But so are
+                there thousands of men and women who can pass a beautiful painting and receive no
+                inspiration from it, or listen to a charming selection on a musical instrument and
+                receive no emotion from it. So are there many whose natures are not so constructed
+                that they can enjoy or benefit by this method. There is no doubt that the successful
+                attainment of this method is dependable upon a fine spiritual bond between the two
+                who enjoy its practice. </p>
+        </div>
+        <div type="section">
+            <head type="sub">THE THEORY</head>
+            <p>The advocates of the magnetation method ask you to first analyse sexual intercourse.
+                They claim that you will recognise in it two distinct acts, <emph rend="ital"
+                    >i.e.</emph>, the social (or amative) and the propagative. Those who practice
+                the magnetation method content themselves with and prefer the social act, unless the
+                procreative act is desired. It is usually held that the sexual organs have <emph
+                    rend="ital">two</emph> distinct functions, viz., the urinary and the
+                propagative. The advocates of the magnetation theory claim that the sexual organs
+                have <emph rend="italics">three distinct functions</emph>, viz., urinary,
+                propagative, and amative -- <emph rend="italics">i.e.</emph>, they are conductors
+                firstly of urine, secondly of semen, and thirdly of social magnetism. Each one
+                separate and distinct in itself. </p>
+            <p> The organs of propagation are physiologically distinct from the organs of union in
+                both sexes. The testicles are the principal organs of reproduction in the male, and
+                the uterus in the female. Sexual conjunction of male and female no more involves the
+                discharge of semen than of the urine. The discharge of semen, instead of being the
+                main act of sexual intercourse, is really the sequel and termination of it. Sexual
+                intercourse pure and simple is the conjunction of the organs of union, and the
+                interchange and flow of magnetic influences through that conjunction. The seminal
+                discharge can be voluntarily withheld in sexual intercourse, or it can be produced
+                without sexual intercourse, as in masturbation, which demonstrates the fact that the
+                discharge of the semen, and the pleasure associated with its discharge, is not
+                social, since it can be produced in solitude: it is a personal and not a social
+                act.</p>
+            <p>The physiological analysis of the procreative act shows that the pleasure of the act
+                is not produced by contact and interchange of life with the female, but by the
+                action of the seminal fluid on the internal nerves of the male organ. The desire and
+                that which satisfies it are both within the man, and may be obtained without sexual
+                intercourse. The amative function, or the simple union of two persons, is a distinct
+                and independent function, giving a medium of magnetic interchange superior to that
+                gain through reproductive function. it is the presence of the seed abd not the
+                absence of it that makes the bull superior to the ox, and it is the stimulating,
+                retaining, and absorbing the semen in the man, and directing it into other creative
+                channels, which make the amative act of greater benefit and more healthful and
+                vitalising than the procreative act. </p>
+            <p>Most of us know that creative energy expressed through the sexual nature is an
+                instinct to perpetuate life; that it has its origin in and is co-existent with life
+                itself; that it is the power back of all purposes and plans; that it is the
+                self-pushing force that gives the individual the ability and desire to do and to
+                perform; that it is the impelling factor and inventive genius in all man’s
+                handiwork. That this force operates in the multiplication of atoms and molecules, in
+                the attraction of germ to sperm cells. The process of growth and fulfilment of
+                functions is propelled by this energy, which is operative throughout all Nature. It
+                is the force back of and expresses itself through the physical life of man and
+                animal.</p>
+            <p>Atoms, cells, and plants are unconscious of this force, and animals are conscious of
+                it only in a slight degree. But man is conscious of this energy, and is capable of
+                developing a greater consciousness of it and of its operation and utilization to a
+                remarkable degree. Like the engineer who masters the engine by his knowledge of its
+                construction and the force that runs it, so can man master this creative energy and
+                direct it where he wills. Creative life can be expressed in other ways beside
+                parenthood.</p>
+            <p><person reg="Emerson, Ralph Waldo">Emerson</person> says, “<q who="EMERA">Work your
+                    passion up into poetry.</q>” Passion is the sign of creative power; it is the
+                voice of creative life. If it were understood and its powers realized, it would be
+                elevated and worshipped instead of lowered and debased, as the Comstocks would have
+                us do. As creative energy becomes understood and applied, men and women will grow in
+                strength of character and in strength of love, and will naturally devote these
+                powers to the interests and development of the human race.</p>
+        </div>
+        <div type="section">
+            <head type="sub">THE PRACTICE</head>
+            <p>Each of these theories involves sedular absorption through intercourse without
+                culmination. No discharge is allowed, but by a superior control is retained, thereby
+                making the act an amative (love) act, and uplifting it from an exhaustive, abrupt
+                fertilizing function into a quiet magnetic charm, producing health and increased
+                happiness.</p>
+            <p>The act of sexual intercourse has a beginning, a middle, and an end. Its beginning or
+                first stage is simply the presence of the male organ in the female. The middle or
+                second stage is a series of reciprocal motions. The end or third stage is the
+                ejaculatory crisis, or the termination of the act. The advocates of male continence,
+                Zugassent’s discovery, sedular absorption, and magnetation claim that the whole
+                process up to the third stage is entirely voluntary and can be stopped at any point.
+                It is compared to a stream in the three conditions of a fall, a course of rapids
+                above the fall, and still water above the rapids. The boatman may decide if he will
+                remain in still water or venture down the rapids, or run his boat over the fall.
+                They contend that experience will teach him the wisdom of remaining where the rowing
+                is easy, unless the object is worthy of going over the falls. Karezza advises to
+                content onself with simple presence in the first stage until the magnetic thrill
+                passes off. They are all similar and all aim at the same result. I head them under
+                one method - "<q>magnetation.</q>”</p>
+            <p>Those who practice claim the highest possible enjoyment, with no loss of vitality and
+                a perfect control of the fecundating power. Its practice greatly involves the art of
+                love by a prolonged intercourse preventing that which puts an end to intercourse -
+                the ejaculation. The seminal fluid, it is claimed, has an immense immanent value;
+                and if kept in the system and magnetized, and reabsorbed by the blood, adds
+                enormously to a man’s mental and magnetic force, which through the ordinary sexual
+                act is constantly being expended. That its practice by some men will be difficult
+                there can be no doubt; but it can be no more difficult or need a greater power of
+                control than that required of the man in the act of “<q>coitus interruptus</q>”
+                (withdrawal). Those who practice magnetation claim that it is far removed from
+                “repelling asceticism”; that it gives ample exercise to the affections, and
+                opportunity for the exchange of sexual magnetism; but that its greatest benefit is
+                that its practice conduces to a higher love development. It is the attainment of
+                this control that raises the sexual passion in man and woman to its proper place by
+                the side of music and poetry. </p>
+            <p>The strongest objection which is put forth against its practice is that it is
+                    “<q>unnatural</q>”; that it is unauthorized by the examples of other creatures
+                of the animal kingdom, and therefore must be wrong. But the answer comes that
+                cooking, wearing clothes, and all modern life is far removed form natural living;
+                and were we to remain in close adherence to Nature, we would go on all fours and
+                remain dumb. </p>
+            <p>When we realize we are living in an age when nearly all departments of life have been
+                greatly modified and advanced by recent discoveries of steam, electricity, the
+                telephone, telegraphy, the microscope, and other agents of enlightenment, is it not
+                surprising that there has been almost no discovery or improvement in the vital
+                department of the sex relations? The explorer, the pioneer, the discoverer may
+                pursue his way into every department of life, and return to lay his riches at the
+                feet of Science, Art, or Invention; but woe to him who dares to explore that shaded
+                valley of sex. No matter how pure the motive, or what agony and miseries one sought
+                to alleviate, dungeons, persecutions, slanders, and jails await him who ventures to
+                bring treasures from its hidden depths. Yet there is no other department of life
+                which needs so much instruction and education as the sex department.</p>
+            <p>A healthful sexual stimulation has a beneficial effect on both men and women,
+                especially when the loved one is accessible and some demonstration of sexual feeling
+                allowed, as in the restrained yet ardent caresses of an affianced pair. Here we
+                often see not only the happiest but the most productive and healthful period of a
+                man’s life. It is said this is particularly true of man’s intellectual
+                activities.</p>
+            <p>We see a year later this same happy pair experience a great falling off in their
+                affection. Women have experienced this so often that they begin to hate the sexual
+                relation, and look upon the act either with fear of pregnancy or with an
+                unconquerable loathing. Of course, a great deal of this aversion which women
+                experience is the result of their former training. The girl is taught before
+                marriage that the act is a most degrading thing, and is told that it is the
+                accomplishment of this one thing for which man desires her before marriage.
+                Afterwards all is supposed to be changed. She is expected to have an entirely new
+                philosophy as soon as the marriage certificate is in her hands. The average young
+                man knows little of the art of love, and is consequently unably to beautify their
+                relations or to teach her a new psychology. The first year is spent in secret misery
+                on her side, and ruptures and misunderstandings between them both. The average woman
+                will tell you she loves to be caressed and to express her affection for her husband,
+                but could be quite satisfied without intercourse. This is especially true of the
+                intellectual woman, who is acknowledging her lessening interest in the sex relation,
+                and even repulses affectionate demonstration, fearing it must terminate in sexual
+                intercourse (mainly the fear of pregnancy). </p>
+            <p>Surely this is something to be squarely faced by every intelligent man and woman, and
+                serious enough to deserve our untiring interest. Something must be wrong. What is
+                it? Does this theory offer a solution to any? It may. Nearly all women who practice
+                it testify to its benefits, while few men complain of it. Those who do, say that to
+                control the ejaculation to-day means a seminal loss later during sleep. The
+                advocates, however, say this will occur at first, but after the organs become
+                accustomed to their new functions this will wear off, and there will be no seminal
+                loss. </p>
+            <p>All men in the Oneida community realized that this control was a necessary attainment
+                if they would be regarded with favor by the women in the group. Its accomplishment
+                was necessary to their mutual happiness, and they had to learn it. If there is a
+                method which in practice expresses the highest mutual affection and reveals one’s
+                own strength and power, then by all means let mankind know it.</p>
+            <p>There is no earthly reason why men and women should not study the laws of sex
+                expression as any other science is studied, and it should be a study not only
+                intellectual, but of experience and adjustment. If, as is claimed, the experience of
+                this method must be practiced on a higher plane of thought than the purely physical,
+                then certainly it must tend toward a finer companionship and understanding between
+                men and women than the fleeting physical gratification prevailing at present. If
+                there is anything which controverts the traditional uncleanliness previously
+                attached to the sex relation, if there is anything which brings a blending of body
+                and spirit or an ennoblement of the character of the individual, then by all means
+                let us have it in its fullest detail, and let this revolting ignorance and prudery
+                holding sway over men and women’s minds so long be swept away for all time. Let us
+                have light, through discussion, experience, and adjustment. </p>
+            <p>There are few men who desire to expose the object of their affection to the burden of
+                bearing children faster than her health will permit. They realize a woman’s strength
+                is greatly undermined and her beauty and grace fast ebbing away; but ignorance and
+                tradition have him in their grip. He knows nothing about the means to prevent it,
+                and allows the one he loves best to wither and fade before his eyes.</p>
+            <p>It is especially necessary for the woman to be free from the mental dread of
+                pregnancy. There is nothing so productive of nervous disorders or so likely to
+                decrease the sexual attraction or magnetation as fear and anxious thought. Perfect
+                confidence in the man’s ability to control himself is essential to the perfection
+                and desired results of these methods. Just as one begins, so can one develop. Young
+                men and women about to enter alliances and desirous to establish a lasting affection
+                and higher bond between themselves can easily put this method into practice and
+                control the sex functions. The more magnetic the individual, the greater the sex
+                attractions between those two who love, and the stronger the bond will grow between
+                them, through this “<q>magnetation</q>” method.</p>
+            <p>The expression and adjustment of all theories is so largely personal that special
+                regulations can scarcely be given. The road to science and the great natural laws
+                are discovered through experience: there is no education but that of experience.
+            </p>
+        </div>
+        <div type="section">
+            <p><emph rend="italics">The Editors have omitted the section titled TESTED THEORIES AND
+                    PRACTICAL TRUTHS. FROM THOSE WHO HAVE PRACTICED THIS METHOD as it comprises
+                    testimony of individuals who have used the methods. also omitted is the
+                    catalogue of the French Malthsian League's catalogue.</emph></p>
+
+        </div>
+
+    </docBody>
+
+</doc>

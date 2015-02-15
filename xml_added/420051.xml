@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2001-11-13 MH</prepDate>
+        <prepDate>2002-08-27 KH</prepDate>
+        <prepDate>2003-07-09 CH</prepDate>
+        <prepDate>2004/03/11 CH</prepDate>
+        <prepDate>2004/07/26 CH</prepDate>
+        <prepDate>2007-05-31 CH Oxygen update</prepDate>
+        <prepDate>2014-03-05 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1914-04-00">Apr 1914</docDate>
+        <docTitle>
+            <titlePart>She Should Worry</titlePart>
+        </docTitle>
+        <idno>msp420051</idno>
+        <sourceDesc>
+            <bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 2, Apr. 1914 ,
+                11.</bibl>
+            <bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title> C16:0525</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="CHRSA">Christopher, Sarah</name>
+        </respStmt>
+    </mepHeader>
+    <headNote>
+        <index level1="working class" level2="women and girls"/>
+    </headNote>
+    <docBody>
+        <head>SHE SHOULD WORRY</head>
+        <p>Three years have passed since the Triangle fire. The <org reg="Triangle Waist Company"
+                >Triangle shirtwaist factory</org> fire, in which 145 working girls were murdered,
+            provided conclusive evidence of the fact that women working in the garment trades in
+                <place reg="New York, NY">New York City</place> must risk their lives daily for the
+            miserable pittance they receive from their employers. For we were assured the other day
+            in one of the papers that even three years after the Triangle tragedy <emph rend="bold"
+                >the whole thing could be repeated any day in New York</emph>. The <org>Committee on
+                Safety</org>, as a memorial to the crushed and mangled bodies of the Triangle
+            victims, reported that the chances of the recurrence of the crime had decreased about 25
+            per cent. But Mrs. <person reg="Christopher, Sarah">Sarah Christopher</person>, who has
+            been receiving a very comfortable salary from the <org>Association of Garment
+                Manufacturers</org>, as "fire prevention adviser" (!), and has been conducting some
+            perfectly sweet fire drills among the girls in the factories, disagrees with the
+            committee. With an exhibition of brilliant tact that must have brought joy to her
+            employers the manufacturers, she declared, according to the <title type="journal"><org
+                    reg="New York Herald Tribune">Tribune</org></title>:</p>
+        <p>"<q who="CHRSA">They have perhaps decreased a little, but we could have a Triangle fire
+                any day in New York. It isn't the fire; it's the girls, who are well organized in
+                comparatively few factories. They are none too brilliant, and the manufacturers
+                won't comply with the law, so their chances in a fire have not improved
+            much.</q>"</p>
+        <p>"<q who="CHRSA">Even where there are drills the girls don't see the need of them. I once
+                took a fireman with me to a drill, and they were so curious about his uniform and
+                his good looks that they stood giggling and waiting to be burned up. I had to box
+                their ears to bring them to life.</q>"</p>
+        <p>"<q who="CHRSA">After all, the real sufferers from the Triangle fire are the proprietors
+                and the manufacturers. They have to pay for remodeling their premises to suit the
+                law. That is the reason why so many of them do not comply.</q>"</p>
+        <p>What puzzles us is--did she mean it seriously? Or was Mrs. Christopher having a little
+            joke at the expense of the 145 "none too brilliant" girls who were murdered three years
+            ago as a tribute to business acumen and enterprise?</p>
+    </docBody>
+</doc>

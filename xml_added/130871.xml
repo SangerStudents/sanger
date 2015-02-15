@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed draft article">
+    <mepHeader>
+        <prepDate>2009/07/22 LL</prepDate>
+        <prepDate>2009/08/06 CH proof and correct</prepDate>
+        <prepDate>2014-03-10 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1932-00-00">
+            <supplied resp="MSPP">1932</supplied>
+        </docDate>
+        <docTitle>
+            <titlePart>News Letter From Mrs. Sanger</titlePart>
+        </docTitle>
+        <idno>msp130871</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Library of Congress.</bibl>
+            <bibl>LCM 20:1128.</bibl>
+        </sourceDesc>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="Sanger, Margaret " level2="speaking tours"/>
+        <index level1="Catholic Church" level2="freedom of speech and"/>
+        <index level1="birth control" level2="access to" level3="in remote places"/>
+    </headNote>
+    <docBody>
+        <head>NEWS LETTER FROM <person reg="Sanger, Margaret">MRS. SANGER</person>.</head>
+        <p>My recent experiences, while on a speaking tour, have shown me the extent to which the
+            Roman <org reg="Roman Catholic Church">Catholic Church</org> dictates the policy of the
+            municipal authorities in many of our cities. I was scheduled to speak in <place
+                reg="Albany, NY">Albany</place>, March 6th, at the <org
+                reg="Albany Jewish Community Center">Jewish Community Center</org>. A week before
+            the lecture, several Catholic officials tried to bring pressure to bear thru
+            non-Catholic agencies to get the Jewish Community Center to rescind their invitation.
+            Fortunately, the Auditorium belonged to the Jewish Group and <personRef
+                reg="Thatcher, John Boyd">the Mayor</personRef> was unable to revoke the
+            license.</p>
+        <p>The same forces tried to break up the meeting at <place reg="New Haven, CT">New
+                Haven</place>. The issue there was between the <org>Young Men’s Hebrew
+                Association</org> and a <person reg="Unknown">Catholic priest</person> from <place
+                reg="NE">Nebraska</place> who was conducting a Mission. The Catholics succeeded in
+            getting the license for the High School revoked at noon Saturday. Thanks to Dr. <person
+                reg="Creadick, A. N.">A. N. Creadick</person>, President of the <org>Connecticut
+                Birth Control League</org>, Dr. <person reg="Winternitz, Mathilde"
+                >Winternitz</person> of the <org>Yale University School of Medicine</org>, members
+            of the <org>Liberal Club</org> group, the <org>Junior League</org>, and others, who
+            formed a large delegation which met in the <person reg="Murphy, John W."
+            >Mayor</person>’s office early Monday morning to demand a permit for the meeting, this
+            was finally granted for the <org>Fox Theatre</org> on Tuesday night. In view of the
+            widespread indignation, the opposition did not dare push the matter further. According
+            to newspaper reports, approximately 1800 people were present at the meeting.</p>
+        <p>The permit permitting me to speak at the junior high school was revoked on the ground
+            that Birth Control was not a suitable subject to discuss in a high school. Nevertheless,
+            the following week the Rev. <person reg="Doran, Martin F.">Martin F. Doran</person>,
+            chaplain of the <org>Holy Name Society</org>, spoke against birth control in the
+                <org>Fairhaven High School</org>, at a meeting attended by 300 people. One can see
+            that in the State of <place reg="CT">Connecticut</place>, it is legal and moral to speak
+                <emph rend="underline">against</emph> a subject, but it seems unlawful to speak for
+            the same subject; in other words, freedom of speech depends upon which side you are
+            on.</p>
+        <p>In <place reg="Boston, MA">Boston</place> I addressed a group of <org
+                reg="Havard University School of Medicine">Harvard</org> Medical Students, under the
+            auspices of the <org>Lancet Club</org>. The majority of those present were third year
+            students; several had graduated and were doing interneship, but my address was the first
+            information on contraception that they had received.</p>
+        <p>On my <place reg="WV">West Virginia</place> trip, it was again a story of Catholic
+            interference. The result was that the <org>Cabell County Medical Society</org> of <place
+                reg="Huntington, WV">Huntington</place> rescinded their invitation. However, thanks
+            to the courage and fine spirit of Dr. <person reg="Klumpp, James S.">James S.
+                Klumpp</person>, Dr. <person reg="Strange, William">William Strange</person> and
+            others, I was asked to speak under the auspices of an independent group of twenty
+            physicians, and the meeting was held at the <org>Pritchard Hotel</org>, and was open to
+            the public. Fully 1000 people attended and approximately 400 were turned away. I have
+            great hopes that the interest aroused may shortly result in the establishment of a
+            clinic.</p>
+        <p>I also spoke at several mining camps near <place reg="Charleston, WV">Charleston. W.
+                Va.</place>, and found there conditions that would horrify us were we living in a
+                <gap extent="one or two words"/>. The women were most interested and very
+            intelligent. The men more silent and opinion seemed somewhat divided among them. As a
+            result of those meetings, however, another meeting was arranged the following week by
+            the Catholic group to offset no doubt the favorable reaction toward birth control that a
+            proper presentation of the subject arouses.</p>
+        <p>There are plans under way to equip a birth control caravan for the mountains camps of
+            West Virginia. This would make it possible for mothers living in remote places to have
+            proper advice. The idea was greeted with enthusiasm and gratitude by the miners’
+            wives.</p>
+        <byline>Margaret Sanger</byline>
+    </docBody>
+</doc>

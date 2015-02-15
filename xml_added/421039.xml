@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+
+    <mepHeader>
+        <prepDate>2014-03-12 JK initial tags</prepDate>
+        <prepDate>2014-03-19 CH proof tags</prepDate>
+        <prepDate>2014-03-26 JK correct tags</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1929-10-16">16 Oct 1929</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Speech to the New York Urban
+                    League</supplied></titlePart>
+        </docTitle>
+        <idno>msp421039</idno>
+        <sourceDesc>
+
+            <bibl>
+                <title type="article">Mrs. Margaret Sanger's Move Assures Birth
+                    Control Clinic for Harlemites</title><title type="journal"
+                    >The New York Amsterdam News</title> Oct. 16, 1929 </bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="NYAN">New York Amsterdam News</name>
+            <name id="CHIMA">Chinn, May</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><person reg="Sanger, Margaret">Sanger </person>gave a
+        speech on Oct. 10, 1929 at the <org reg="New York Urban League">New York
+            Urban League</org>. The complete speech was not found, and newspaper
+        coverage is all that is left. <index
+            level1="birth control clinics and leagues" level2="in US"/><index
+            level1="motherhood"/>
+        <index level1="mortality rates" level2="infant"/>
+        <index level1="mortality rates" level2="maternal"/><index
+            level1="African-Americans" level2="birth control and"/>
+        <index level1="African-Americans" level2="discrimination of"/>
+        <index level1="African-Americans" level2="infant mortality rates of"/>
+        <index level1="African-Americans" level2="maternal mortality rates of"
+            /><index level1="birth control" level2="in New York"/>
+        <index level1="birth control" level2="distribution of information about"
+            /><index level1="birth control clinics and leagues"/>
+    </headNote>
+    <docBody>
+        <head>Mrs. Margaret Sanger's Move Assures Birth Control Clinic for
+            Harlemites</head>
+        <head type="sub">Uptown Social Workers Throw Strength Behind Drive for
+            $3,000 Needed-Would Reduce Infant Mortality Rate</head>
+        <q who="NYAN">
+            <p>Social workers of <place reg="New York, NY">Harlem</place>, in a
+                meeting Thursday evening in the assembly room of the New York
+                Urban League, 202 West 136th Street, endorsed the movement
+                headed by Margaret Sanger, white, to establish a birth control
+                clinic in Harlem. </p>
+            <p> Mrs. Sanger, internationally known authority on birth control,
+                in outlining plans for the establishment of such a clinic in
+                Harlem, spoke first of the need in Harlem for such an
+                institution. </p></q>
+        <p>“Many mothers,” she said, “complain that the <org
+                reg="Birth Control Clinical Research Bureau">Fifteenth street
+                clinic</org> is too far from their homes to be conveniently
+            reached. This is especially true of the mothers with very young
+            children. The establishment of a birth control clinic in Harlem may
+            be regarded as an expensive venture but it is really the cheapest
+            charity known today. Birth control reduces both infant and maternal
+            mortality. The health of the mother is improved and the economic
+            condition of the entire family is raised. </p>
+        <p>“During the past five years, in our Fifteenth street clinic, we have
+            handled successfully 15,000 cases. These cases have proved that
+            birth control is a necessity; that it is a success; and that it is
+            doing good.”</p>
+        <p><q who="NYAN">At the close of Mrs. Sanger’s lecture, a discussion of
+                the proposed clinic was led by Dr. <person reg="Chinn, May">Mae
+                    Chinn</person> of <org>Harlem Hospital</org>. Dr. Chinn
+                said:</q></p>
+        <p>
+            <q who="CHIMA">“Harlem needs such a clinic as Mrs. Sanger has
+                described. Most of the criticism directed against the birth
+                control movement is erroneous. Such information as is given out
+                by the clinic will be carefully given, and to suit the
+                individual needs of each particular case.”</q></p>
+        <p>
+            <q who="NYAN">Resolutions were adopted endorsing the movement. Mrs.
+                Sanger has already secured $2,000. The endorsement of the
+                movement by the social workers of Harlem insures the gift of an
+                additional $5,000. This leaves only $3,000 to be raised, as
+                $10,000 is the total amount needed for the clinic.</q>
+        </p>
+    </docBody>
+</doc>

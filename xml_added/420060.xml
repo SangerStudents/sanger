@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2001-12-05 MH</prepDate>
+        <prepDate>2002-08-29 KH</prepDate>
+        <prepDate>2004/07/19 CH</prepDate>
+        <prepDate>2007-05-31 CH Oxygen update</prepDate>
+        <prepDate>2011-10-06 EK correct proof and index</prepDate>
+        <prepDate>2014-03-26 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1914-07-00">Jul 1914</docDate>
+        <docTitle>
+            <titlePart>To the Bottom Dog</titlePart>
+        </docTitle>
+        <idno>msp420060</idno>
+        <sourceDesc>
+            <bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 5, July 1914, p. 39</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> C16:553</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="MWWU">Migrant Workers World Union</name>
+        </respStmt>
+    </mepHeader>
+    <headNote>
+        <index level1="labor movement"/>
+        <index level1="Industrial Workers of the World"/>
+        <index level1="radical labor movements"/>
+    </headNote>
+    <docBody>
+        <head>TO THE BOTTOM DOG</head>
+        <p>If you belong to the vast and ever-increasing number of "<q>unskilled</q>" workers, and
+            want a live organization, join the <org>Migrant Workers World Union</org>, Parent Camp,
+            1237 West Madison Street, <place reg="Chicago, IL">Chicago, Ill.</place> There are no
+            dues or assessments and the membership fee (for life) is only fifty cents. This Union
+                "<q who="MWWU">stands for the submerged half of humanity--for the women and men who
+                bear the work and sorrows of civilization, and share none of its joys or
+                pleasures.</q>" Every member must pledge himself not to scab on any workers, nor to
+            bear arms against any workers nor to act as detective or informer for any financial
+            interests.</p>
+    </docBody>
+</doc>

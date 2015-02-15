@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2001-11-19 CN</prepDate>
+        <prepDate>2002-08-29 KH</prepDate>
+        <prepDate>2004/07/07 CH</prepDate>
+        <prepDate>2007-05-31 CH Oxygen update</prepDate>
+        <prepDate>2014-03-05 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1914-06-00">Jun 1914</docDate>
+        <docTitle>
+            <titlePart>
+                <supplied>Short Pieces from June 1914 <title>Woman Rebel</title></supplied>
+            </titlePart>
+        </docTitle>
+        <idno>msp420059</idno>
+        <sourceDesc>
+            <bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 4, June 1914, 32</bibl>
+            <bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title> C16:0546</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="NYEM">New York Evening Mail</name>
+        </respStmt>
+    </mepHeader>
+    <headNote>
+        <index level1="Land and Liberty"/>
+        <index level1="working classes" level2="revolution and"/>
+        <index level1="abortion"/>
+    </headNote>
+    <docBody>
+        <div>
+            <head>Don't Miss It!</head>
+            <p>For a concise and lucid survey of the revolutionary movement of the world and sane
+                interpretation of radical forces and programs, you should subscribe to "<title type="journal">Land
+                    and Liberty</title>," published at <place reg="Hayward, CA">Hayward,
+                    California</place>. The first number, published in May, was excellent; and the
+                second number was better than the first. "<title type="journal">LAND AND
+                    LIBERTY</title>" throws light on passing events instead of indulging in vague
+                and visionary theories about social salvation. It emphasizes the value of
+                intelligent editorship in revolutionary papers. Let us hope that other revolutionary
+                publishers may profit by the appearance of "<title type="journal">LAND AND
+                    LIBERTY.</title>" Send one dollar for a year's subscription, or at any rate send
+                a postcard for a sample copy.</p>
+        </div>
+        <div>
+            <head>Not Suppressed</head>
+            <p>Here is a typical front-page "story" of those newspapers who pride themselves on
+                printing all the news that's "fit to print." It is from the <title type="journal">N.
+                    Y. Evening Mail</title> of April 16, and was NOT suppressed by the
+                    <org>post-office</org> authorities. It is a "good story" and an every-day
+                comment on American "civilization." </p>
+            <p>
+                <q who="NYEM">"Mrs. <person reg="Vogel, Katherine">Katherine Vogel</person>,
+                    sixty-one years old, committed suicide in her apartment at 34 First avenue
+                    to-day by drinking carbolic acid.</q>
+            </p>
+            <p>"<q who="NYEM">In the next room lay the body of a girl about twenty years old, the
+                    victim of an operation alleged to have been performed by Mrs. Vogel. The
+                    identity of the girl is not known. It is believed she was a professional
+                    dancer.</q>" </p>
+        </div>
+    </docBody>
+</doc>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Speech">
+    <mepHeader>
+        <prepDate>2014-04-09 JK initial tags</prepDate>
+        <docAuthor>
+            <supplied resp="MSPP">Margaret Sanger</supplied>
+        </docAuthor>
+        <docDate value="1932-01-19">19 Jan 1932</docDate>
+        <docTitle>
+            <titlePart>
+                <supplied resp="MSPP">Interview with Corning Leader</supplied>
+            </titlePart>
+        </docTitle>
+        <idno>msp421044</idno>
+        <sourceDesc>
+            <bibl><title type="article">"Would Like to See Clinic in
+                    Corning,"</title>
+                <title type="journal">Corning Evening Leader</title>, Jan 20,
+                1932, pp 9-10.</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="CL">Corning Leader</name>
+            <name id="UNK">Unknown</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p><person reg="Sanger, Margaret">Sanger </person>gave an interview to
+            the <title type="journal">Corning Leader</title> after her speech at
+            the <org>Baron Steuben Hotel</org> in <place reg="Corning, NY"
+                >Corning</place>. For a summary of her speech see <xref
+                from="421906.xml">Speech at Corning, N.Y.</xref></p>
+        <index level1="Comstock Laws"/><index
+            level1="birth control laws and legislation" level2="MS on"/>
+        <index level1="birth control laws and legislation" level2="New York "
+            /><index level1="birth control laws and legislation"
+            level2="Federal"/><index level1="birth control clinics and leagues"
+            level2="in US"/><index level1="birth control" level2="religion and"
+            /><index level1="birth control" level2="in New York"/>
+    </headNote>
+    <docBody>
+        <head>Would Like to See Clinic in Corning</head>
+        <head type="sub">Mrs. Sanger Gives Interview Following Talk Here;
+            Affected by Corning Greeting</head>
+
+        <p>"I was quite moved; in fact, it seemed as though I was seeing faces
+            of dear, remembered friends in a dream and I wanted to blink back
+            the tears." <q who="CL">answered Mrs. Margaret Sanger Slee, when
+                asked how she felt about the reception given at her public
+                appearence in Corning Tuesday evening at the Baron Steuben Hotel
+                when the ball room was packed to capacity to hear her speak.
+                There was standing room only at 8 o'clock and many people stood
+                through the entire lecture. Enthusiastic applause greeted her as
+                she finished.</q></p>
+        <p>
+            <q who="UNK">“What are you doing along practical lines of birth
+                control”</q>
+            <q who="CL">was the next question.</q>
+        </p>
+        <p>“First of all we are working for repeal of the Comstock Federal law
+            corning birth control with obscene literature. Then we have at
+            present over 100 birth control clinics in the <place>United
+                States</place>. However I can not even direct a woman where she
+            may find one of these clinics in a letter sent though mail. Such an
+            act would be punishable by five years imprisonment and $5,000 fine.
+            The birth control clinics we have are established in accordance with
+            state laws.” </p>
+        <index level1="religion" level2="MS on"/>
+        <p>
+            <q who="UNK">“Is there anything you would like to see Corning do to
+                help your project.”</q>
+        </p>
+        <p> “Yes,” <q who="CL">came the quick answer.</q> “I would like nothing
+            better than to have an organization or a group of individuals
+            establish a birth control clinic in Corning. If they would do so, I
+            would be glad to come here, tell them how to go about it and how
+            much of a staff they would need. They would have, first of all, to
+            secure the services of a qualified doctor. Then the clinic would
+            need financial support.” </p>
+        <p><q who="UNK">“Wouldn’t you find the religious opposition harder to
+                overcome in an up-state city like Corning.”</q> “Possibly. But
+            out of 25,000 women we have helped, 22 per cent have been
+            Protestants, 32 per cent Catholics, 31 per cent Jewish and the rest
+            of no religious faith. 85 per cent have needed hospital care and we
+            gave that before accepting them at the clinics.” </p>
+        <p>
+            <q who="CL">Mrs. Sanger spent many happy moments after her lecture
+                renewing old acquaintances and thanking the many friends who
+                expressed their regard and appreciation for her and her work.
+                She lectures in <place reg="Rochester, NY">Rochester</place>
+                tonight.</q>
+        </p>
+    </docBody>
+</doc>

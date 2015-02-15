@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed speech">
+    <mepHeader>
+        <prepDate>2010/03/31 Initials</prepDate>
+        <prepDate>2014-03-11 CH clean regs and other errors</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1934-01-15">15 Jan 1934</docDate>
+        <docTitle>
+            <titlePart>
+                <supplied>Birth Control and the National Recovery</supplied>
+            </titlePart>
+        </docTitle>
+        <idno>msp240449</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title>, S71:0653</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="birth control" level2="movement" level3="history of"/>
+        <index level1="birth control" level2="movement" level3="MS on"/>
+        <index level1="birth control" level2="laws and legislation" level3="MS on"/>
+    </headNote>
+    <docBody>
+        <p>I have the honor to open the <org>American Conference on Birth Control and National Recovery</org>
+            which is held under the auspices of the <org>National Committee on Federal Legislation
+                for Birth Control</org>, Incorporated. This is the second National Birth Control
+            Conference ever held in this country since the beginning of the movement in 1914,--while
+            there have been 11 State Conferences, 6 Regional, besides 6 International Conferences
+            all during these twenty years.</p>
+        <p> Thus we emerge into the Twentieth Anniversary of the B.C. Movement in this country which
+            in a way is the Twentieth Anniversary of the R.C. Movement throughout the World.</p>
+        <p> Before 1914, the problem of population was recognized by a very few intelligent thinkers
+            in <place>Europe</place> , especially in <place>England</place> but they had not brought
+            the subject to the masses. The slogan was to “Educate the Educators” while the slogan of
+            the modern B.C. Movement is to “Instruct the Masses”. We have gone a good way toward our
+            goal it is true, and it is safe to say that the masses in this country at least are
+            ready and desirous to receive the instruction when it is made available for their use.
+            Laws are in the way to this objective.</p>
+        <p> We must enlighten our legislators to this effect. We are gathered here today--workers
+            in the field from 25 States. Many of us believe that the advance of the B.C. Movement
+            means the advance of our Civilization. That the direction this Movement takes from now
+            on shall decide the future of our country’s welfare.</p>
+        <p> We are here to help and guide in this direction and to awaken a deeper interest in order
+            to arouse public opinion. We are <gap reason="missing" extent="page(s)"/>. </p>
+    </docBody>
+</doc>

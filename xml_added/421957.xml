@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+    <mepHeader>
+        <prepDate>2014-05-02 JK initial tag</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1943-04-12">12 Apr 1943</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Statement on Mayor Maurice Tobin</supplied></titlePart>
+        </docTitle>
+        <idno>msp421957</idno>
+        <sourceDesc>
+            <bibl><title type="article">"Margaret Sanger Raps Tobin on Birth Control"</title>,
+                    <title type="journal">The Hartford Courant</title>, Apr. 13, 1943, p. 8.</bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="THC">The Hartford Courant</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><index level1="war" level2="overpopulation and"/><index
+            level1="Planned Parenthood Federation of America"/><index level1="overpopulation"
+            /><index level1="birth control" level2="suppression of"/></headNote>
+    <docBody>
+        <head>Margaret Sanger Raps Tobin on Birth Control</head>
+
+        <dateline>
+            <date value="1943-12-04 "/> April 12, <place>New York</place></dateline>
+        <p><q who="THC"><person reg="Sanger, Margaret">Mrs. Sanger</person> today declared that</q>
+            “Americans will think twice before they start out to duplicate the population problems
+            of <place>Japan</place>, <place>India</place> and <place>China</place>.”</p>
+        <p><q who="THC"> Mrs. Sanger, birth control movement leader and honorary chairman of the
+                    <org>Planned Parenthood Federation of America</org>, Inc., said in a
+                statement:</q>
+        </p>
+        <p>“The <person reg="Tobin, Maurice J.">Mayor of <place reg="Boston, MA"
+                >Boston</place></person>is typical of those people who are happy when other people
+            are bringing into the world unlimited numbers of babies but who reserve the right of
+            planning a family for themselves. </p>
+        <p>“Even before the present war is won, <person reg="Tobin, Maurice J.">Mayor Tobin</person>
+            is urging the country to get ready for the next one by the very means best designed to
+            promote it. Every schoolboy knows that overpopulation and crowding, with resultant
+            poverty, disease and insecurity, is among the virulent causes of war.” </p>
+    </docBody>
+</doc>

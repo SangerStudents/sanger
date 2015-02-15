@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published statement">
+    <mepHeader>
+        <prepDate>2014-07-03 MM</prepDate>
+        <docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+        <docDate value="1914-04-11"><supplied resp="MSPP">11 Apr 1914</supplied></docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Statement on Woman Rebel Case</supplied></titlePart>
+        </docTitle>
+        <idno>msp422005</idno>
+        <sourceDesc>
+            <bibl><title type="article">Free-Thinking Editor Defies Government to Suppress Her
+                    Paper</title>, Unidentified newspaper. April 11, 1914</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p/><index level1="Woman Rebel, The" level2="suppression of"/><index
+            level1="birth control" level2="distribution of information about"/><index
+            level1="children" level2="rights of"/></headNote>
+    <docBody>
+        <head>FREE-THINKING EDITOR DEFIES GOVERNMENT TO SUPPRESS HER PAPER</head>
+        <p>"I intend to continue making public my ideas through my paper if I have to go to jail for
+            it."</p>
+        <p>"No Gods; no masters," is the motto of "<title type="journal">The Woman Rebel</title>,"
+            which, Mrs. Sanger says, is published for "an advanced, thinking frankly speaking
+            feminine clientile"</p>
+        <p>"Inform the working people and you will place a great weapon in their hands" she declared
+            to-day to an <title type="journal">Evening Journal</title> reporter. It is a woman's
+            duty to have an ideal and to speak and act in defiance of conventions.</p>
+        <p>Over on the other side, I noticed the difference in the manner in which children are
+                <unclear resp="MSPP">treated</unclear> In <place>Scotland</place> you see a woman
+            with a flock of children at her heels crying for bread. In almost all of the cities,
+            children are treated as dogs and not as individuals. In <place>France</place>, where it
+            is lawful to give out information of this character, everyone seems glad to have
+            children, but not too many of them. Every encouragement is given to childbirth.</p>
+        <p>"Over here we seem to have no consideration for children. We breed them wholesale,
+            especially in the poorer sections of the city where children amount to no more than dogs
+            in the street. </p>
+        <p>"I believe that woman has been enslaved by the machinery of the world, by sex
+            conventions, by motherhood, by wage slavery, by middle-class morality, by superstition,
+            and by custom. Too many children in a poor family mean starvation and children that are
+            of no account."</p>
+        <p/>
+    </docBody>
+</doc>

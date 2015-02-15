@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+    <mepHeader>
+        <prepDate>2014-06-24 MM </prepDate>
+        <docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+        <docDate value="1922-02-21">
+            <supplied resp="MSPP">21 Feb 1922</supplied></docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Statement on Japanese Visa</supplied></titlePart>
+        </docTitle>
+        <idno>msp422011</idno>
+        <sourceDesc>
+            <bibl><title>San Fransisco Chronicle</title> 02/21/1922</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger spoke to <place reg="San Fransisco, California">San
+                Francisco</place> reporters about the possibility of traveling to
+                <place>Japan</place>.</p>
+        <index level1="Sanger, Margaret" level2="speaking tours" level3="1922 (Japan)"/><index
+            level1="Japan" level2="overpopulation and"/><index level1="Japan" level2="censorship in"
+        />
+    </headNote>
+    <docBody>
+        <head>MRS. SANGER TO SAIL TOMORROW FOR FAR EAST</head>
+        <div>
+            <p>No matter what may be the views of the Japanese government on the delicate subject of
+                birth control, Mrs. Margaret Sanger, head of the <org
+                    reg="American Birth Control League">Birth Control League</org> in the United
+                States, has no intention of being deterred from entering Japan on that account.</p>
+            <p>Mrs. Sanger, who is visiting San Fransisco, was much encouraged yesterday by an
+                Associated Press dispatch from Tokyo announcing that the Japanese government has no
+                objection to her landing in the country provided she does not attempt to disseminate
+                her ideas.</p>
+        </div>
+        <div>
+            <head type="sub">IS NOT SURPRISED</head>
+            <p>"I am not surprised," she said. "When the Japanese authorities here refused to vise
+                my passport my <place>New York</place> office at once got into communication with
+                    <place reg="Tokyo, Japan">Tokyo</place>, and undoubtedly the moderation of the
+                official order has been brought about by pressure in the Japanese capital by the
+                more liberal group there. Well, I'm glad of it, and besides all this excitement
+                about my not being permitted to land will stir interest in what I have to say.
+                That's good advertising."</p>
+            <p>Mrs. Sanger will carry out her original intention, she said, and sail for Japan
+                aboard the T.K.K. liner Taiyo Maru tomorrow. She will be the guest of <person reg="Kato, Shidzue">Baroness
+                Ishimoto</person>, leader of the brith control movement in Japan, while in Toyko.</p>
+        </div>
+        <div>
+            <head type="sub">OVERPOPULATION BIG PROBLEM</head>
+            <p>Birth control ought to result in Japan in a movement which will have an important
+                indirect bearing on world peace, in Mrs. Sanger's opinion.</p>
+            <p>"By helping to prevent overpopulation," she explained, "birth control will remove the
+                immediate pressure which is one of the chief causes of conflicts between nations.
+                Japan's greatest problem is overpopulation."</p>
+            <p>Yesterday's Associated Press dispatch from Tokyo pointed out that the refusal to vise
+                Mrs. Sanger's passport was on the ground that propaganda along the line she proposed
+                was illegal in Japan and an improper subject for public discussion. Instructions
+                sent here by the foreign office, however, were not to be interpreted as meaning that
+                she would be denied admission to the country.</p>
+        </div>
+        <div>
+            <head type="sub">TO FORBID LECTURE</head>
+            <p>Japan's intention, according to <person reg="Akamatsu, Yusuke">Yusuke Akamatsu</person>, chief of the immigration section of
+                the foreign office, was to warn Mrs. Sanger that she would not be permitted to
+                lecture, and to forestall any complaint that she did not know the Japanese attitude
+                in advance.</p>
+        </div>
+
+    </docBody>
+</doc>

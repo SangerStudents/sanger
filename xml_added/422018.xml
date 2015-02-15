@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+    <mepHeader>
+        <prepDate>2014/06/17 AS</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1916-04-27">27 April 1916</docDate>
+        <docTitle>
+            <titlePart>Speech at the <place reg="Milwaukee, Wisconsin">Hotel
+                Wisconsin</place></titlePart>
+        </docTitle>
+        <idno>msp422018</idno>
+        <sourceDesc>
+            <bibl><title type="journal"><org>Milwaukee Leader</org></title></bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="ML">Milwaukee Leader</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p> </p><index level1="birth control" level2="distribution of information about"/>
+        <index level1="mortality rates" level2="infant"/>
+        <index level1="Roosevelt, Theodore" level2="MS on"/>
+        <index level1="birth control laws and legislation" level2="MS on"/>
+        <index level1="Wisconsin" level2="birth control"/>
+        <index level1="birth control" level2="morality of"/>
+        <index level1="birth control" level2="access to"/>
+        <index level1="birth control" level2="arrests and imprisonment"/></headNote>
+    <docBody>
+        <head>SCORES U.S. LAW WHICH BARS TALK ON BIRTH CONTROL</head>
+        <q who="ML"><p><person reg="Sanger, Margaret">Mrs. Margaret Sanger,</person>
+                <place>New York,</place> persecuted for spreading information in the cause of birth
+                control, told her story to <place reg="Milwaukee, Wisconsin">Milwaukee</place>
+                physicians, club women, suffragists, and others Thursdsay night, in the gold room of
+                the Hotel Wisconsin. Policemen and plain clothes men were on hand but Mrs. Sanger
+                was not molested.</p></q>
+        <p>"Three hundred thousand babies die every year in the <place>United States</place> from
+            poverty and neglect, while 600,000 parents remain in ignorance of how to prevent the
+            coming of 300,000 more babies to die of poverty and neglect," <q who="ML">said Mrs.
+                Sanger.</q></p>
+        <q who="ML"><p><div type="section">
+                    <head type="sub">WEALTHY WOMEN KNOW</head>
+                </div></p></q>
+        <p>"Women of wealth know how to regulate birth and have practiced it for 25 years. The
+            government forbids the teaching of this knowledge to the working class, and when the
+            patient is poor the doctor religiously abides by the law. Poor women want this knowledge
+            just as badly as do their wealthier sisters.</p>
+        <p>"Am I to be persecuted, slandered and subjected to all sorts of indignities for helping
+            these poor souls while <person reg="Roosevelt, Theodore">Theodore Roosevelt</person> can
+            go up and down the land shouting and urging them to have larger families? He is not
+            molested-no, he is landed to the skies. While I, a woman, am arrested for preventing my
+            sisters from producing an unlimited supply of cannon fodder for munition makers and
+            professional jingoes.</p>
+        <p>"Every department in life is open to discussion and research excepting birth, and woe
+            unto him who dares explore that forbidden valley! The scientist may go elsewhere at his
+            will and bring back to the public the fruits of his research, but no matter how pure his
+            motive, or how high his ideal, slander, imprisonment and persecution at the hands of our
+            benevolent government await him who dares invade the forbidden valley. We are as
+            ignorant of creation as were our primitive ancestors.</p>
+        <p>"The arguments of immorality which they use against us are identical with those used in
+            the early struggles against higher education for women. That did not make women
+            immoral-we are beginning to see that. We are going to have birth control some day, and
+            it will make women no more immoral than has higher education."</p>
+
+
+        <p/>
+    </docBody>
+</doc>

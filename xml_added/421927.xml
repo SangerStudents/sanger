@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Speech">
+
+    <mepHeader>
+        <prepDate>2014-03-12 JK initial tag</prepDate>
+        <prepDate>2014-03-19 CH proof tags</prepDate>
+        <prepDate>2014-03-26 JK corrected tags</prepDate>
+
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1936-11-13"><supplied resp="MSPP">13 Nov
+            1936</supplied></docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Speech to Colgate
+                    University</supplied></titlePart>
+        </docTitle>
+        <idno>msp421927</idno>
+        <sourceDesc>
+
+            <bibl><title type="article">Margaret Sanger Is For Early
+                    Marriage</title><title type="journal">Colgate Maroon</title>
+                Nov. 13, 1936, p. 1</bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="CM">Colgate Maroon</name>
+            <name id="HIMNO">Himes, Norman</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><person reg="Sanger, Margaret">Sanger</person> spoke
+        at <org>Colgate University</org>'s <org
+            reg="Colgate University Christian Fellowship">Christian
+            Association</org>, introduced by <person reg="Himes, Norman E."
+            >Norman Himes</person>. <index level1="marriage age" level2="men"/>
+        <index level1="marriage age" level2="women"/>
+        <index level1="overpopulation"/><index level1="parenthood"/><index
+            level1="Gandhi, Mohandas K."/><index level1="marriage"
+            level2="reforms"/>
+    </headNote>
+    <docBody>
+        <head>Margaret Sanger Is For Early Marriage</head>
+        <head type="sub">Noted Birth Control Authority Tells Experiences With
+                <person reg="Gandhi, Mohandas K.">Gandhi</person> In
+                <place>India</place></head>
+
+        <p> “Gandhi has aroused the manhood and womanhood of India as no one has
+            done in the last century,” <q who="CM">declared Mrs. Margaret
+                Sanger, famed champion of birth control, who has just completed
+                a 10,000 mile trip through India, this morning, addressing one
+                of the largest audiences ever to fill the Memorial
+            Chapel.</q></p>
+        <p>
+            <q who="CM">Introduced by Dr. <person reg="Himes, Norman E.">Norman
+                    E. Himes</person>, assistant professor of Sociology, as
+                one</q> “<q who="HIMNO">who has been making history, while I
+                have been writing it</q>,” <q who="CM"> Mrs. Sanger opened her
+                speech by asserting that we have</q> “the knowledge and the
+            skill to solve all of our population problems but we don’t possess
+            the virtue to do it.”</p>
+        <p>
+            <q who="CM">Early marriage and late parenthood were condoned by Mrs.
+                Sanger.</q> “Young people should go into marriage with the idea
+            of taking two years to get adjusted to each other. If this were done
+            we would have more permanent marriages, a more perfect development
+            and happier families.” </p>
+    </docBody>
+</doc>

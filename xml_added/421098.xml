@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+
+    <mepHeader>
+        <prepDate>2014/03/14 YG</prepDate>
+        <prepDate>2014-03-19 CH proof tags</prepDate>
+        <prepDate>2014-03-26 JK correct tags</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1936-01-03">03 Jan 1936</docDate>
+        <docTitle>
+            <titlePart>Interview with The Hindu</titlePart>
+        </docTitle>
+        <idno>msp421098</idno>
+        <sourceDesc>
+            <bibl><title type="article">"Birth Control in India : An Interview
+                    with Mrs. Sanger"</title>
+                <title type="journal">The Hindu</title>, Jan 3, 1936</bibl>
+           
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="TH">The Hindu</name>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="birth control" level2="in India"/>
+        <index level1="India" level2="birth control in"/>
+        <index level1="Gandhi, Mahatma"/>
+        <index level1="India" level2="MS on"/>
+    </headNote>
+    <docBody>
+        <head>Birth Control in India</head>
+        <head type="sub">AN INTERVIEW WITH <person reg="Sanger, Margaret">MRS.
+                SANGER</person></head>
+        <div>
+            <p><q who="TH">Mrs. Margaret Sanger, Chairman of <org>the National Committee on
+                Federal Legislation for Birth Control</org>, New York, and President
+                of the <org>Birth Control International Information Centre</org>, <place reg="London, England">London</place>,
+                arrived in <place reg="Madras, India">Madras</place>, this morning, from <place reg="Trivandrum, India">Trivandrum</place>. </q></p>
+            <p><q who="TH">Interviewed by “<title type="journal">The Hindu</title>,” she said that the object of her visit
+                to India was to see the people and to awaken the responsibility
+                of the medical profession to take a lead in giving correct
+                information on birth control methods, which were an absolute
+                necessity for better health and happiness of both mothers and
+                children. Unless a scientific study fo the subject was taken on
+                hand by the medical profession and proper knowledge disseminated
+                among the people, the birth control movement would, she said,
+                get into the hands of quacks. </q> </p>
+            <p><q who="TH">Proceeding, she expressed the view that as far as she had been
+                able to understand the position in India, she found that there
+                was a keen interest among the people to have correct knowledge
+                of the methods of birth control and that people were also
+                anxious to understand the implication and the importance of the
+                birth control movement. </q></p>
+            <p><q who="TH">What she wanted to emphasize was that the birth control
+                movement had no desire to force the practice of birth control
+                upon any one. But people should have birth-control knowledge. In
+                <place reg="Travancore, India">Travancore</place>she found that opposition to birth control only came
+                from unmarried Christian women. But they must never forget that
+                in every country it was the people who had too many children
+                that supported the movement. People with large families, she
+                found, were not against the movement. They knew the value of
+                birth control. Clinics must be established for the poor people,
+                who could not afford to consult private doctors, to impart
+                knowledge on birth control methods. When a woman was discharged
+                from a maternity hospital, she must be given proper advice on
+                the necessity for “spacing” birth of children. If proper advice
+                was given and the women were made to understand the need for
+                birth control, she was sure, there would be an appreciable
+                reduction in infantile and maternity morality. From a study of
+                infantile mortality statistics, she found that in India and in
+                some other countries as well, the death rate among the first to
+                the four the children was 22 per cent, from fourth to the
+                seventh children was 42 per cent and 60 per cent in the case of
+                eleventh and twelfth children. An average Indian family must
+                have only three children in the interest of the happiness and
+                health of the mother and the children. </q></p>
+            <p><q who="TH">The fact that children were dying of starvation, the fact that
+                there were people who could not get even one full meal a day and
+                the fact that all people were not provided with the necessaries
+                of life, these were sufficient factors in her opinion, to
+                justify a birth control movement in India. </q></p>
+        </div>
+
+        <div>
+            <head type="sub"><person reg="Gandhi, Mohandas K.">GANDHIJI</person>'S
+                VIEW</head>
+            <p><q who="TH">Referring to Gandhiji’s attitude, she stated that Gandhiji
+                advocated continence. She would contend that this method was
+                suitable only for a few people who possessed a true spiritual
+                development, the growth of whose spiritual powers must have
+                commenced years before. For the average man, she strongly
+                advocated chemical and mechanical methods of birth control. In
+                fact she believed that these methods would even help people to
+                develop spiritual values, if their minds were so bent. For
+                younger people between 21 and 35, it would be terrific hardship
+                to practice continence, unless such people had dedicated their
+                lives to some noble cause, involving prayer, fasting etc. She
+                did not also believe that the mechanical methods would lead to
+                overindulgence as was stated by some, nor would it lead to
+                immortality. She firmly believed from the experience she had
+                gained, that this movement tended to decrease immorality. </q></p>
+        </div>
+        <div>
+            <head type="sub">CLINICS</head>
+            <p><q who="TH">She urged that literature on the subject in all languages should
+                be printed and published and mass meetings should be arranged
+                through public health organizations. Education of the people on
+                this subject should, she suggested by undertaken by the
+                authorities and the public bodies. Birth control clinics should
+                be established by the State and philanthropic persons, to give
+                proper advice on the subject. In educational institutions, the
+                theory of birth control from the population point of view and
+                general health should be imparted, along with other lessons. </q></p>
+            <p><q who="TH">Mrs. Sanger will remain in Madras till the 10th inst. After
+                visiting <place reg="Mysore, India">Mysore</place>and attending two conferences in <place reg="Lucknow">Lucknow</place> and
+                <place reg="Calcutta, India">Calcutta</place>, she will leave for <place reg="Rangoon, Burma">Rangoon</place>on 2nd February. </q></p>
+        </div>
+
+
+
+    </docBody>
+</doc>

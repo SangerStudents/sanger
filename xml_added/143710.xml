@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed draft article">
+    <mepHeader>
+        <prepDate>2009/08/04 LL</prepDate>
+        <prepDate>2009/08/06 CH proof and correct</prepDate>
+        <prepDate>2014/03/10 clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1928-05-28">28 May 1928</docDate>
+        <docTitle>
+            <titlePart>
+                <supplied resp="MSPP">An Open Letter to Cardinal Patrick J.
+                    Hayes</supplied>
+            </titlePart>
+        </docTitle>
+        <idno>msp143710</idno>
+        <sourceDesc>
+            <bibl><title>Margaret Sanger Papers</title>, Library of
+                Congress.</bibl>
+            <bibl>LCM 130:0435</bibl>
+        </sourceDesc>
+        <respStmt>
+            <name id="HAYPA">Hayes, Patrick J.</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="Catholic Church" level2="political influence of"/>
+        <index level1="Catholic Church" level2="birth control and abortion and"
+        />
+    </headNote>
+    <docBody>
+        <head>Open Letter to Cardinal Hayes</head>
+        <byline>by Margaret Sanger</byline>
+        <p>My attention has just been called to your statement to the delegates
+            at the <org type="conference">18th Annual Convention of the
+                Catholic Press Association</org>, reported in the <place
+                reg="New York, NY">New York</place>
+            <title>Evening Sun</title> of May 25th, 1928.</p>
+        <p>You are quoted as saying, in your welcome to the delegates on behalf
+            of the Diocese of New York, that you are “<q who="HAYPA">in full
+                agreement that the church should be kept out of politics-- And
+                at the same time let us have the Catholic press keep out of
+                politics.</q>”</p>
+        <p>The <org>American Birth Control League</org>, Inc. is deeply
+            interested in this statement. Every year the League sponsors a bill
+            at <place reg="Albany, NY">Albany</place> which, if passed, would
+            permit physicians to give Birth Control advice to married persons.
+            Every year the only opposition comes from the <org>Roman Catholic
+                Church</org>, through the <org reg="Catholic Diocese of Albany"
+                >Dioceses of Albany</org> and <org
+                reg="Catholic Diocese of New York">New York</org>, and from the
+                <org>Associated Catholic Charities</org> of the state of New
+            York.</p>
+        <p>When our representatives were interviewing members of <org
+                reg="United States Congress">Congress</org> at <place
+                reg="Washington DC">Washington</place> two years ago, they
+            found Catholics, directed by the <org> National Catholic Welfare
+                Council</org>, lobbying against any change in the Federal law
+            governing the distribution or importation of Birth Control
+            information or materials.</p>
+        <p>Does your statement mean that in future the Catholic Church will keep
+            out of politics where legislation on Birth Control is concerned, and
+            will your Church cease its policy of intimidation of those members
+            of Congress and of the <org>New York Legislature</org> who do not
+            think as you do, but who have been threatened, in the past, with
+            defeat if they voted for our bills?</p>
+        <p>We entirely agree with your reported statement that “<q who="HAYPA"
+                >the church should be kept out of politics.</q>” Is the
+            statement attributed to you correct, and what does it imply? Many
+            thousands of married people in New York State are interested in your
+            answer. </p>
+    </docBody>
+</doc>

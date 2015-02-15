@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed Statement">
+    <mepHeader>
+        <prepDate>2009/04/01 CH Initial transcribe and tag</prepDate>
+        <prepDate>2014-03-10 CH clean regs</prepDate>
+        <prepDate>2009/07/14 LL</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1931-00-00">1931</docDate>
+        <docTitle>
+            <titlePart>A Message to the Women of China</titlePart>
+        </docTitle>
+        <idno>msp103187</idno>
+        <sourceDesc>
+            <bibl>
+                <title type="journal">Lloyd's Weekly</title>
+            </bibl>
+            <bibl>Margaret Sanger Papers, Library of Congress (LCM 12:618)</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>Margaret Sanger wrote at bottom: "For Lloyds Weekly Shanghai".</p>
+        <index level1="women" level2="enslavement of"/>
+        <index level1="women" level2="freedom and rights of"/>
+        <index level1="women" level2="maternal feelings"/>
+        <index level1="birth control" level2="economic benefits and risks of"/>
+        <index level1="China" level2="women in"/>
+    </headNote>
+    <docBody>
+        <head>A MESSAGE TO THE WOMEN OF <place>CHINA</place></head>
+
+        <p>The most significant change which has occured in the Western world in the Nineteenth
+            Century has been the revolt of women against sex servility. In other worlds, it has been
+            the refusal of women to consider themselves mere breeding machines which has given woman
+            her place of dignity and power in the Western world. </p>
+        <p>We know now that the most important force in the re-making of the world is a free and
+            conscious Motherhood. As women free themselves from accidental and unvoluntary breeding
+            they set free not only the women, but the children, from poverty, misery and economical
+            slavery. Birth control is the first step that women must make towards the goal of their
+            freedom. It is the first and most important step that labor must take towards the goal
+            of its emancipation. When women own and control their own bodies they will life
+            Motherhood to the plane of a voluntary, intelligent function, and re-make and
+            revolutionize our social system. When the world is thus remade it will exceed any dream
+            of our present statesmen, reformers or idealists. For this is the fundamental step upon
+            which Society to-day is based and upon which we must reconstruct a permanent social
+            system.</p>
+        <closing><person reg="Sanger, Margaret">MARGARET SANGER</person>.</closing>
+    </docBody>
+</doc>

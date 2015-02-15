@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2001-11-13 MH</prepDate>
+        <prepDate>2002-08-29 KH</prepDate>
+        <prepDate>2004/03/11 CH</prepDate>
+        <prepDate>2004/07/26 CH</prepDate>
+        <prepDate>2007-05-30 CH Oxygen update</prepDate>
+        <prepDate>2014-03-05</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1914-04-00">Apr 1914</docDate>
+        <docTitle>
+            <titlePart>Food and Love</titlePart>
+        </docTitle>
+        <idno>msp420048</idno>
+        <sourceDesc>
+            <bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 2, April 1914 ,
+                15</bibl>
+            <bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title> C16:0529</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="DRYGE">Drysdale, George</name>
+        </respStmt>
+    </mepHeader>
+    <headNote>
+        <index level1="birth control"/>
+        <index level1="free love"/>
+    </headNote>
+    <docBody>
+        <head>FOOD AND LOVE</head>
+        <p>Sixty years ago <person reg="Drysdale, George">George Drysdale</person>, one of the great
+            pioneers in the fight for sexual freedom, put the central problem of the workers in the
+            following form:</p>
+        <p>
+            <q who="DRYGE">The hopes of man lie in a nutshell. They are all comprehended in this
+                question of questions--IS IT POSSIBLE TO HAVE BOTH FOOD AND LOVE? Is it possible
+                that each individual among us can have a due share of food, love and leisure? In
+                other words, is it possible to reconcile the antagonism of the two laws of nature,
+                and to escape from the horrors of mutual destruction?</q>
+        </p>
+        <p>"<q who="DRYGE">I firmly believe that it is perfectly possible, and that this greatest of
+                human difficulties has only to be clearly perceived and determinedly approached to
+                be ultimately overcome. But it is evident at the outset that the means by which this
+                is to be effected, must be very different from any that have been hitherto tried,
+                since all these have been so utterly inadequate. It is evident that it can be by no
+                slight palliative measures, such as have hitherto been resorted to and which have
+                all been rendered abortive that any real improvement can be effected; but we must go
+                to the true root of the matter, which a sexual one, and that some great radical
+                change in the sexual life and opinions of mankind is required before it is possible
+                to escape from these evils...</q>"</p>
+        <p>"<q who="DRYGE">The means I speak of, the only possible means by which the virtue and
+                progress of mankind are rendered possible, is preventive sexual
+            intercourse.</q>"</p>
+        <p>"<q who="DRYGE">By this is meant sexual intercourse, where precautions are used to
+                prevent impregnation. In this way love would be obtained without entailing upon us
+                the want of food and leisure by overcrowding the population.</q>"</p>
+    </docBody>
+</doc>

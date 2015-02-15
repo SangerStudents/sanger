@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2001-11-05 MH</prepDate>
+        <prepDate>2002-08-27 KH</prepDate>
+        <prepDate>2004/03/10 CH</prepDate>
+        <prepDate>2004/07/26 CH</prepDate>
+        <prepDate>2007-05-30 CH Oxygen update</prepDate>
+        <prepDate>2014-03-05 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1914-03-00">Mar 1914</docDate>
+        <docTitle>
+            <titlePart>
+                <supplied>Short Pieces from the March 1914 "The Woman Rebel"</supplied>
+            </titlePart>
+        </docTitle>
+        <idno>msp420071</idno>
+        <sourceDesc>
+            <bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 1, Mar. 1914, 8</bibl>
+            <bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title> C16:0522</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+        </respStmt>
+    </mepHeader>
+    <headNote>
+        <index level1="women" level2="freedom and rights of"/>
+        <index level1="working class" level2="women and girls"/>
+    </headNote>
+    <docBody>
+        <div type="section">
+            <head>PAST AND PRESENT</head>
+            <p>On another page of this paper space will be devoted to the actions and views of the
+                women of all ages in all walks of life who have rebelled against oppression and who
+                have fought for their individual freedom and the emancipation of their sex.</p>
+            <p>It will be my pleasure to resurrect their deeds or words and herald them forth for
+                the woman of to-day as examples of women who dared to speak and act in times and
+                under circumstances compared to which even the most outspoken women of to-day seems
+                quite mild.</p>
+        </div>
+        <div type="section">
+            <head>GUSSIE MILLER</head>
+            <p>A striking comparison of the spirit of a working woman and that of our middle class
+                curiosity seekers was vividly shown at the time of the arrest of the 190
+                unemployed.</p>
+            <p><person reg="Miller, Gussie">Gussie Miller</person>, a working girl interested in the
+                unemployed because she belonged to them--to their class--refused to be left out of
+                the wholesale arrests for the reason she was a woman. She insisted that if her
+                fellow workers were to be arrested because they were hungry and wanted shelter--she
+                being in the same condition--must share their fate.</p>
+            <p>Another woman--a well know suffragist, also in the church at the same time--was
+                careful to avoid being classed with the down and outs and quickly slipped out of the
+                church when she saw what was going to happen.</p>
+            <p>Gussie Miller is the type who can be depended upon in the class struggle--the Rebel
+                type.</p>
+        </div>
+        <div type="section">
+            <head>WOMAN REBEL GROUPS</head>
+            <p>All those interested in the ideas advocated by the <title type="journal">WOMAN
+                    REBEL</title>, who are willing to help us spread the propaganda towards
+                achieving the freedom of woman, can help materially by forming groups for the
+                circulation of the paper in all industrial centres, large or small. We shall be glad
+                to hear from any desirous of taking up this work.</p>
+        </div>
+        <div type="section">
+            <head>A WOMAN"S DUTY</head>
+            <p>To look the whole world in the face with a go-to-hell look in the eyes; to have an
+                ideal; to speak and act in defiance of convention.</p>
+        </div>
+    </docBody>
+</doc>

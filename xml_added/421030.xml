@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Statement">
+	<mepHeader>
+		<prepDate>2014-12-18 CH transcribe and encode</prepDate><prepDate>2015-01-7 CH proof tags and enter</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1919-04-00">Apr 1919</docDate>
+		<docTitle>
+			<titlePart>A Letter to the Working Women of America</titlePart>
+		</docTitle>
+		<idno>msp421030</idno>
+		<sourceDesc>
+			<bibl><title type="journal">Birth Control Review</title>, Apr. 1919</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>This statement was published as a full-page letter with two donation forms, one for a
+			$10.00 share in <title type="journal">Birth Control Review</title> stock, another for
+			$1.50 for a one year subscription.</p>
+		<index level1="World War I" level2="women and"/>
+		<index level1="women" level2="freedom and rights of"/>
+		<index level1="birth control" level2="access to"/>
+	</headNote>
+	<docBody>
+		<head>A Letter to the Women of America</head>
+		<p>The war is over. You, the women who were beginning to take and interest in Birth Control
+			and its meaning in our social development, were thrown by the war into a multitude of
+			new duties. You were unable, while the conflict lasted, to give thought, time or money
+			to any movement, no matter how worthy, no matter how pregnant with good to women or to
+			society as a whole. </p>
+		<p>Bit the war is over, you are back in your homes, with time to rest and reflect. You have
+			given two years of energy and devotion to the cause of "the boys over there." Now will
+			you not give the same measure of time, energy, money and devotion to "the woment over
+			here"?</p>
+		<p>Governments have acknowledged universally the tremendous part you have played in winning
+			the war. There have been a multitide of official communications, proclamations,
+			resolutions and memorials attesting that victory could not have come without you.</p>
+		<p>Yet, you who have aided in winning the war, have been but a very small percentage of the
+			women of the world. Only those who were unmarried were unable to help. Or <supplied
+				resp="MSPP">those</supplied> married women who were not over-burdened with too many
+			children. No woman could help who was tied to the domestic machine.</p>
+		<p>You were able to give your services because you were free--free through a knowledge of
+			Birth Control. Had you been mothers of eight, nine or ten children, you could not have
+			gone from place to place, "doing your bit," no matter how much you desired to do so.</p>
+		<p>You owe your freedom directly or indirectly to the Birth Control movement and the
+			knowledge which is spreads.</p>
+		<p>No amount of money could have freed you from the worries, trials and sickeness, or
+			children and of yourselves, which a knowledge of Birth Control has spared you. You were
+			indeed fortunate, for you are free from these chains</p>
+		<p>By nature, and according to the laws of the state and the nation, you should have borne
+			at least one child for every two years of you married life. Count up and see how many
+			children you would have had, had not the idea of Birth Control been available to
+			you.</p>
+		<p>Reflect upon the fact that there a millions of overburdened mothers in <place
+				reg="United States">America</place> to whom this knowledge is a sealed book--to whom
+			freedom such as yours is, therefore denied.</p>
+		<p>In gratitude for this knowledge, will you not come to the aid of the women from whom it
+			is withheld? Will you not, for every child that you would have had, had you not known
+			how to limit your family, purchase one $10 share of stock in The <title type="journal"
+				>Birth Control Review</title>?</p>
+		<p rend="bold">For every bond you purchase, I promise to free ten women from the bondage of
+			ignorance.</p>
+		<p>You have purchased Liberty Bonds for the men "over there." Why not "Liberty Bonds" <emph
+				rend="bold">now</emph> for the women "opver here."</p>
+		<byline rend="bold">MARGARET SANGER, Editor</byline>
+	</docBody>
+</doc>

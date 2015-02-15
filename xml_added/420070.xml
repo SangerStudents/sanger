@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2001-11-12 MH</prepDate>
+        <prepDate>2002-08-27 KH</prepDate>
+        <prepDate>2004/03/10 CH</prepDate>
+        <prepDate>2004/07/07 CH</prepDate>
+        <prepDate>2007-05-30 CH Oxygen cleanup</prepDate>
+        <prepDate>2012-05-24 CH Cleanup a little more</prepDate>
+        <prepDate>2014-04-10 Ch clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1914-03-00">Mar 1914</docDate>
+        <docTitle>
+            <titlePart>On Picket Duty</titlePart>
+        </docTitle>
+        <idno>msp420070</idno>
+        <sourceDesc>
+            <bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 1, Mar. 1914, 3</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> C16:0517</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="DORRH">Dorr, Rheta Childe</name>
+        </respStmt>
+    </mepHeader>
+    <headNote>
+        <index level1="women" level2="freedom and rights of"/>
+    </headNote>
+    <docBody>
+        <head>ON PICKET DUTY</head>
+        <div type="section">
+            <head type="sub">Attention</head>
+            <p>1,606,288 Domestics</p>
+            <p>10,941 Cap makers </p>
+            <p>122,405 Women's clothing workers </p>
+            <p>186,570 Sales women </p>
+            <p>150,548 Stenographers </p>
+            <p>419,634 Washwomen</p>
+            <p>22,735,041 Miscellaneous</p>
+
+            <p>want to change places with <person reg="Dorr, Rheta Childe">Rheta Childe
+                    Dorr</person>, who wants the "<q who="DORRH">right to work</q>."</p>
+        </div>
+        <div type="section">
+            <p>Who was that dainty feminist who informed the public that as soon as women got the
+                vote, they would make the laws for working women and children?--How hopeful! Not
+                that children should be taken from the factories and put into schools and
+                playgrounds! That would be getting off their little crooked backs. But ever willing
+                to color it a little and to trim it a bit they will accomplish all that was ever
+                intended to do with their vote.</p>
+        </div>
+        <div type="section">
+            <p>The Rebel Women claim:<lb/>The Right to be lazy.<lb/>The Right to be an unmarried
+                mother.<lb/>The Right to destroy.<lb/>The Right to create.<lb/>The Right to
+                love.<lb/>The Right to live.</p>
+            <p><person reg="Rodman, Henrietta">Henrietta Rodman</person>, well known in radical
+                circles, came into prominence among them, because of her brave defense of the
+                relations of <person reg="Eliot, George">George Eliot</person> and <person>Henry
+                    Lewes</person>.</p>
+            <p>Henrietta, as one of the speakers at the first meeting held at <org>Cooper
+                    Union</org>, <place reg="New York, NY">N. Y. C.</place> , went out of her way to
+                let us know that she did not stand for free love--she left that to the
+                Anarchists.</p>
+            <p>Now what was the trouble, Henrietta? Surely no one ever doubted your virtue!</p>
+        </div>
+    </docBody>
+</doc>

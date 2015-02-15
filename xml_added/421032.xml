@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+	<mepHeader>
+		<prepDate>2015-01-08 CH transcribe and encode</prepDate><prepDate>2015-01-21 CH proof tags and enter</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1924-01-00">Jan 1924</docDate>
+		<docTitle>
+			<titlePart>Margaret Sanger's Own Corner</titlePart>
+		</docTitle>
+		<idno>msp421032</idno>
+		<sourceDesc>
+			<bibl><title type="journal">Birth Control Review</title>, Jan. 1924, p. 22</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="BCR">Birth Control Review</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Under this column name, the <title type="journal">Birth Control Review</title> published
+			letters written to Margaret Sanger with occasional commentary. For others in this series
+			see Margaret Sanger's Own Corner, <xref from="421033.xml">Feb. 1924</xref>, <xref
+				from="301463.xml">Mar. 1924</xref>, <xref from="421034.xml">Apr. 1924</xref>
+			<xref from="421009.xml">May 1924</xref>, and <xref from="421010.xml">June
+			1924</xref>.</p>
+		<index level1="client letters"/>
+		<index level1="birth control clinics and leagues" level2="legal status of"/>
+		<index level1="child spacing"/>
+	</headNote>
+	<docBody>
+		<head>Margaret Sanger's Own Corner</head>
+		<div type="section">
+			<p rend="italics"><q who="BCR"/>Under this heading, month by month, Margaret Sanger will
+				reply to some of the hundreds of questions that come to her. Sometimes one reply
+				will answer many people, for the problems presented are often the same, though sent
+				from far distant States and cities. Sometimes one person may voice a question that
+				is in the minds of hundreds of other people, who perhaps have found no way of
+				uttering it. If you have such a question in mind address it to 'Margaret Sanger's
+				Own Corner' Birth Control Review.</p>
+		</div>
+		<div type="section">
+			<p>STRANGER AND WIFE-- Your letter received. I sympathize with you in your difficult
+				problem, of which there is not reason to be ashamed. If you will send address will
+				write you personally.</p>
+		</div>
+		<div type="section">
+			<p>ALH-- It is certainly not advisable for a woman, however healthy, to have a second
+				child within two years of the first. Three years is a better interval. One of the
+				great advantages of Birth Control is the possibility it presents of spacing the
+				babies.</p>
+		</div>
+		<div type="section">
+			<p><place reg="Chicago, IL">CHICAGO</place> CLINIC-- The operation of clinics is a matter of State law, and is not
+				affected by the fact that the Federal law prohibits the sending of Birth Control
+				information through the mails.</p>
+		</div>
+	</docBody>
+</doc>

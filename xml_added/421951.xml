@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2014/04/23 VS initial tags</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1942-06-10"> 10 June, 1942</docDate>
+        <docTitle>
+            <titlePart>Statement on Birth Control and the Women's Army Auxiliary Corps</titlePart>
+        </docTitle>
+        <idno>msp421951</idno>
+        <sourceDesc>
+            <bibl><title type="article">Birth control urged for WAAC by Sanger</title><title
+                    type="journal"> Philidelphia Daily News</title> June 10, 1942</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="PDN">Philidelphia Daily News</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger's statement on the Women's Army Auxiliary Corps was picked up by
+            multiple newspapers, including the <title type="journal">New York Times
+            Herald</title>.</p>
+        <index level1="birth control" level2="health benefits of"/>
+        <index level1="birth control" level2="medical justifications"/>
+        <index level1="women" level2="reproductive choices and decisions"/>
+        <index level1="women" level2="employment of"/>
+    </headNote>
+    <docBody>
+        <head>Birth control urged for WAAC by Sanger</head>
+        <dateline>June 10 <date value="1942-06-10 "/> New York<place/></dateline>
+        <div>
+            <q who="PDN"><p> The government should give members of the <org>women’s army auxiliary
+                        corps</org> “preventive measures against pregnancy, just as it gives them
+                    protection against smallpox,” <person reg="Sanger, Margaret">Margaret
+                        Sanger</person>, the nation’s prime advocate of birth control, urged
+                    today.</p></q>
+            <p>
+                <q who="PDN">She coupled the suggestions with a dire warning that otherwise the
+                    no-babies rule of the WAAC will become</q> “a <person reg="Frankenstein, Victor"
+                    >Frankenstein</person> monster which will turn and wreck the corps.”</p>
+            <p>
+                <q who="PDN">Miss Sanger, founder and honorary president of the <org>Planned
+                        Parenthood Federation of America</org> was referring to the WAAC regulation
+                    that any member of the corps who becomes pregnant will be immediately
+                    discharged.</q> “Abortions and illegitimacy are bound to result if the
+                government doesn’t recognize human nature,” <q who="PDN">she said.</q></p>
+            <p>
+                <q who="PDN">Asserting that</q> “women should not be exposed to coming down with a
+                baby any more than to coming down with yellow fever,” <q who="PDN">Miss Sanger
+                    continued.</q></p>
+            <p> “Women in the army should receive the same instruction and the same protection as
+                men soldiers. The women’s army will grow to great usefulness or disintegrate on the
+                old-fashioned problem of woman as the child bearer and sex convenience – which is
+                her status in the <org reg="National Socialist German Workers' Party">Nazi</org>
+                countries.</p>
+            <p> “It is up to women to make a clear, concise and courageous statement of their
+                position at this time, before it is too late, and demand protection and equal
+                treatment with men in this matter.</p>
+        </div>
+        <div>
+            <head type="sub"> More of Her Argument</head>
+            <p> “If she does not rise to this responsibility, with a courageous and scientific
+                attitude about her sex, she will set back the cause of women’s rights hundreds of
+                years. Women cannot afford to let the women’s army be wrecked on prudery or outworn
+                notions.”</p>
+        </div>
+    </docBody>
+</doc>

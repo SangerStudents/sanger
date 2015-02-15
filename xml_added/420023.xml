@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2001-12-10 MH</prepDate>
+        <prepDate>2004/07/20 CH</prepDate>
+        <prepDate>2007-05-31 CH Oxygen update</prepDate>
+        <prepDate>2014-03-05 CH cleaning regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1914-08-00">Aug 1914</docDate>
+        <docTitle>
+            <titlePart>Your Crime</titlePart>
+        </docTitle>
+        <idno>msp420023</idno>
+        <sourceDesc>
+            <bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 6, August 1914,
+                43</bibl>
+            <bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title> C16:557</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+        </respStmt>
+    </mepHeader>
+    <headNote>
+        <index level1="law breaking and direct action"/>
+        <index level1="Edelsohn, Rebecca"/>
+        <index level1="radicals" level2="suppression and deportation of"/>
+        <index level1="peace movement and pacifism"/>
+    </headNote>
+    <docBody>
+        <head>YOUR CRIME</head>
+        <p><person reg="Edelsohn, Rebecca">Becky Edelsohn</person> was imprisoned for disorderly
+            conduct. She is not disorderly. She is prisoner of conscience. She made an anti-war
+            speech once when war with <place>Mexico</place> was popular. We have not forgotten Becky
+            but we want the community to know that they and their <person reg="Mitchel, John Purroy"
+                >Mayor</person>, their Judge, their Courts and their <person
+                reg="Davis, Katharine Bement">Commissioner of Corrections</person> are all Becky's
+            jailers. We do not aim to release Becky from her jail. She will release herself or she
+            will die. We must understand our own crime.</p>
+    </docBody>
+</doc>

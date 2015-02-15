@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2001-12-10 MH</prepDate>
+        <prepDate>2004/07/20 CH</prepDate>
+        <prepDate>2007-05-31 CH Oxygen update</prepDate>
+        <prepDate>2014-03-05 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1914-09-00">Sept-Oct 1914</docDate>
+        <docTitle>
+            <titlePart>Lewd Thinkers</titlePart>
+        </docTitle>
+        <idno>msp420058</idno>
+        <sourceDesc>
+            <bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 7, Sept.-Oct. 1914,
+                50</bibl>
+            <bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title> C16:564</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp id="MSPP">MSPP</resp>
+        </respStmt>
+    </mepHeader>
+    <headNote>
+        <index level1="censorship"/>
+        <index level1="birth control laws and legislation" level3="Comstock Laws"/>
+    </headNote>
+    <docBody>
+        <head>LEWD THINKERS</head>
+        <p>According to <name type="law"><rs reg="United States Penal Code, Section 211">Section 211 (as amended by the act of March 4, 1911) of the
+            Criminal Code of the <place>United States</place> of America</rs></name>, the expressed
+            views concerning birth control of the following thinkers would have been adjudged lewd,
+            obscene, filthy, vile and indecent and would have been adjudged against the peace of the
+            United States and their dignity.</p>
+        <p>
+            <person reg="Plato">PLATO</person>
+            <lb/>
+            <person reg="Aristotle">ARISTOTLE</person>
+            <lb/>
+            <person reg="Zeno of Elea">ZENO</person>
+            <lb/>
+            <person reg="Beccaria, Cesare">BECCARIA</person>
+            <lb/>
+            <person>VOLTAIRE</person>
+            <lb/>
+            <person reg="Rousseau, Jean Jacques">ROUSSEAU</person>
+            <lb/>
+            <person>MONTESQUIEU</person>
+            <lb/>
+            <person reg="Mill, John Stuart">JOHN STUART MILL</person>
+            <lb/>
+            <person reg="Huxley, Thomas">THOMAS HUXLEY</person>
+            <lb/>
+            <person reg="Zola, Emile">EMILE ZOLA</person>
+            <lb/>
+            <person reg="Adam, Paul">PAUL ADAM</person>
+            <lb/>
+            <person reg="DeMaupassant, Guy">GUY DE MAUPASSANT</person>
+            <lb/>
+            <person reg="LeBon, Gustave">GUSTAVE LE BON</person>
+            <lb/>
+            <person reg="France, Anatole">ANATOLE FRANCE</person>
+            <lb/>
+            <person reg="Ingersoll, Robert G.">ROBERT G. INGERSOLL</person>
+            <lb/>
+            <person reg="Emerson, Ralph Waldo">RALPH WALDO EMERSON</person>
+            <lb/>
+            <person reg="Chamberlain, Joseph">JOSEPH CHAMBERLAIN</person>
+            <lb/>
+            <person reg="Burns, John">JOHN BURNS</person>
+            <lb/>
+            <person reg="Ruskin, John">JOHN RUSKIN</person>
+            <lb/>
+            <person reg="Wells, H. G.">H. G. WELLS</person>
+            <lb/>
+            <person reg="Morley, John">JOHN MORLEY</person>
+            <lb/>
+            <person reg="Comte, Auguste">AUGUSTE COMTE</person>
+            <lb/>
+            <person reg="Brieux, Eugene">EUGENE BRIEUX</person>
+            <lb/>
+            <person reg="Sumner, William Graham">WILLIAM GRAHAM SUMNER</person>
+            <lb/>
+            <person reg="DeGourmont, Remy">REMY DE GOURMONT</person>
+            <lb/>
+            <person reg="St&ouml;cker, Helene">HELENE STOECKER</person>
+            <lb/>
+            <person reg="Oldberg, Oda">ODA OLBERG</person>
+            <lb/>
+            <person reg="Key, Ellen">ELLEN KEY</person>
+            <lb/>
+            <person reg="Bloch, Iwan">IWAN BLOCH</person>
+            <lb/>
+            <person reg="Ellis, Havelock">HAVELOCK ELLIS</person>
+            <lb/>
+            <person reg="McCabe, Joseph">JOSEPH MCCABE</person>
+            <lb/>
+            <person reg="Shaw, George Bernard">GEORGE BERNARD SHAW</person>
+            <lb/>
+            <person reg="Bateson, William">WILLIAM BATESON</person>
+        </p>
+    </docBody>
+</doc>

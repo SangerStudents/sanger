@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed article">
+    <mepHeader>
+        <prepDate>2011-08-04 NC</prepDate>
+        <prepDate>2012-04-04 CH Proofed Tags</prepDate>
+        <prepDate>2014-04-08 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1954-00-00"><supplied resp="MSPP">1954</supplied></docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Infertility Services at the Margaret Sanger Research
+                    Bureau</supplied></titlePart>
+        </docTitle>
+        <idno>msp308111</idno>
+        <sourceDesc>
+            <bibl>Abraham Stone Papers, Countway Library of Medicine, Harvard University</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> C16:1045</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="infertility"/>
+        <index level1="Margaret Sanger Research Bureau"/>
+    </headNote>
+    <docBody>
+        <p>For forty years I have been advocating responsible parenthood--the idea that every child
+            shall be a wanted child. This is the meaning of “control”. “Control” does not
+            necessarily mean limitation; it implies the ability to regulate in accordance with one’s
+            needs and desires. A woman who either for health, eugenic, or social reasons should bear
+            no more children, should be given the best available medical advice for the prevention
+            of conception. At the same time, however, the woman who wants a child but cannot bear
+            one for physical reasons should be given the best available medical advice and care to
+            help her have a baby.</p>
+        <p>At our Bureau in <place reg="New York, NY">New York</place>, now known as the
+                    <org><person reg="Sanger, Margaret">Margaret Sanger</person> Research
+                Bureau</org>, we have a large service for women who for medical reasons require
+            advice on family planning and child spacing; but we also have an extensive service for
+            the care and treatment of the childless couple. This service was organized in 1935 by
+            Dr. <person reg="Stone, Abraham">Abraham Stone</person> and Dr. <person
+                reg="Shields, Frances A.">Frances A. Shields</person>, and is now one of the most
+            active centers of its kind in this country. Only patients referred by physicians are
+            accepted at the <org reg="Margaret Sanger Research Bureau, Infertility Services"
+                >Infertility Service</org> of the Bureau, but already more than 2500 couples have
+            received medical care for their childlessness at the Bureau.</p>
+        <p>At our Service we regard barrenness as a problem not of the wife or of the husband, but
+            as a problem of the family. In every instance both the husband and the wife are
+            thoroughly studied. The examination of the husband is usually simpler and may sometimes
+            obviate extensive investigations of the wife.</p>
+        <p>As a first step, every couple is asked to come to a medical orientation lecture at a
+            designated time. These lectures are given to groups of ten or fifteen newly registered
+            couples. At this lecture the physician explains to the patients the anatomical and
+            physiological factors of human reproduction, the various conditions that may lead to
+            infertility, the tests required to determine the particular cause in individual cases,
+            and the nature of the treatment employed. We have found that this orientation lecture is
+            very helpful, not only in providing the necessary information, but also in relieving
+            many tensions and anxieties.</p>
+        <p>What generally happens at an infertility service? Recently I had the privilege of
+            observing one of the oldest centers in this field, the one conducted by Dr. <person
+                reg="Rock, John">John Rock</person> at the <org>Free Hospital for Women</org> in
+                <place reg="Brookline, MA">Brookline, Massachusetts</place>. The following story
+            tells of the work being carried on in that particular service, and is more or less
+            representative of well-equipped centers for childless couples throughout the
+            country.</p>
+    </docBody>
+</doc>

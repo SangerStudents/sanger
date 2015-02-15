@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed Speech">
+    <mepHeader>
+        <prepDate>2011/06/06 CH initial tag</prepDate>
+        <prepDate>2011/06/03 CH proof</prepDate>
+        <prepDate>2011/06/10 RT corrections</prepDate>
+        <prepDate>2011-11-21 CH correct typo</prepDate>
+        <prepDate>2014-04-01 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1937-01-11">11 Jan 1937</docDate>
+        <docTitle>
+            <titlePart>Is Birth Control Legal?</titlePart>
+        </docTitle>
+        <idno>msp143724</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Library of Congress</bibl>
+            <bibl>Library of Congress Microfilm 130:534</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="USC">United States Congress</name>
+            <name id="USCCA">United States Circuit Court of Appeals</name>
+            <name id="UNK">Unknown</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger's speech was opened with the following announcement: "<person
+                reg="Sanger, Margaret">Maragret Sanger</person>, leader of the national and
+            international birth control movement will speak on the subject, "<title type="article"
+                >Is Birth Control Legal?</title>" Mrs. Sanger has devoted more than 20 years to the
+            cause of birth control. Her devotion and vision have been crowned with success, and
+            today birth control is recognized by physicians, scientists, and public-spirit citizens
+            as a necessary part of preventative medicine and public health. Mrs. Sanger:-"</p>
+        <index level1="birth control" level2="laws and legislation" level3="Comstock act"/>
+        <index level1="birth control" level2="laws and legislation" level3="Federal"/>
+        <index level1="birth control" level2="movement" level3="American"/>
+        <index level1="National Committee on Federal Legislation for Birth Control"
+            level2="goals of"/>
+        <index level1="birth control" level2="medical community and"/>
+        <index level1="birth control" level2="American opinion on"/>
+        <index level1="Birth Control Clinical Research Bureau"/>
+        <index level1="client letters"/>
+    </headNote>
+    <docBody>
+        <head>RADIO ADDRESS BY MARGARET SANGER</head>
+        <head type="sub"><org reg="WRVA (Richmond)">STATION W R V A</org><lb/><place
+                reg="Richmond, VA">RICHMOND VIRGINIA</place><lb/>7 P.M., <dateline><date
+                    value="1937-01-11">Monday, January 11, 1937</date></dateline></head>
+        <p> The greatest legal victory on the birth control movement was won last month when the
+                <org>United States Circuit Court of Appeals for the Second Circuit</org> unanimously
+            upheld a decision of the lower courts liberating the medical profession, hospitals, and
+            other health agencies from the legal restrictions of the Comstock laws.</p>
+        <p>Until 1873, there were no obscenity laws in the <place>United States</place>. It is
+            inspiring to think back on the principles that governed the founding fathers and to
+            realize that true Americanism, as shown in the <title type="article"
+                >Constitution</title> and the amendments to the Constitution, stood for freedom of
+            speech and freedom of the mails.</p>
+        <p>In 1873, Congress passed the so-called <name type="law"
+                reg="United States Penal Code, Section 211">obscenity laws</name>, prohibiting the
+            use of the mails and common carriers for various items which were considered lewd and
+            obscene. Whatever our feeling about the aim of this legislation, we all agree that the
+            inclusion of the phrase, “<q who="USC">articles and literature for the prevention of
+                conception</q>,” was unfortunate. We must remember that this phrase meant something
+            far different sixty years ago than it means today.</p>
+        <p> The birth control movement has centered largely around rectifying this mistake. Birth
+            control, as we understand it today, means family planning; it means the spacing of
+            children so that each child may be born to a mother physically and mentally able to give
+            it the care it needs; it means that every child should be planned for and wanted.</p>
+        <p> The <org>National Committee on Federal Legislation for Birth Control</org>, of which I
+            am the president has been seeking for seven years to have this law amended. We have
+            believed that the medical profession should be free to give birth control advice when
+            needed and that it should be exempted from the restrictions of the Comstock law. Public
+            opinion in support of our belief has increased steadilly. Our organization numbers more
+            than 100,000 individual endorsers and approximately 1,000 organizations have gone on
+            record approving and supporting our aims.</p>
+        <p> Early in December the <org>American Institute of Public Opinion</org> published the
+            results of a poll on the question: “Should the distribution of information on birth
+            control be made legal?” A cross section of the country gave an emphatic answer in the
+            affirmative. A second poll was taken on the question: “What is the ideal size of a
+            family?” The largest vote was given to the two and three-child family. America has
+            accepted the idea of family planning. It knows that parenthood can be a matter of
+            conscious decision and that children should come only to homes able and eager to take
+            care of them.</p>
+        <p> The decision of the United States Circuit Court of Appeals was handed down in a test
+            case on the importation of birth control material, sent to a doctor for scientific
+            purposes. It has given to America what we have been seeking through an amendment to the
+            Comstock laws.</p>
+        <p> Birth control--that is, advice given by physicians--is legal today. This Court decision
+            brings to an end the sixty-three year reign of muddle and tyranny. After 60 years of
+            confusion, during which information that is often needed to save health and lives of
+            women was classed with obscenity, the rights of the American physician in the legitimate
+            use of scientific birth control are clarified.</p>
+        <p> “<q who="USCCA">We are satisfied</q>,” said the judges, “<q who="USCCA">that this
+                statute embraced only such articles Congress would have denounced as immoral if it
+                had understood all the conditions under which they were to be used. Its design, in
+                our opinion, was not to prevent the importation, sale, or carriage by mail of things
+                which might intelligently be employed by conscientious and competent physicians for
+                the purpose of saving life or promoting the well-being of their patients.</q>”</p>
+        <p> This means that the program for birth control can be widened--that a new epoch in the
+            movement is beginning. Birth Control can now be made available through hospitals,
+            doctors and health services. Women in small rural communities and on isolated farms, who
+            are pleading for cheap and effective means of controlling the size of their families,
+            can now be given help.</p>
+        <p>The <org>Birth Control Clinical Research Bureau</org> in <place reg="New York, NY">New
+                York</place> has given birth control advice to 56 thousand patients during the
+            fourteen years of its existence. It is the oldest birth control clinic in America and
+            the largest in the world, and it stands ready to help physicians and health agencies
+            throughout the country to establish birth control service. Our vast experience at this
+            clinic has given us exact knowledge of what birth control can do, in bettering the
+            condition of women. We know that the methods advised are effective, that they can be
+            used by women of all classes. We know that women are eager and willing to use reliable
+            birth control advice, so that they can have properly spaced, well planned families.</p>
+        <p> In addition to maintaining a staff of physicians to care for those who ask for advice,
+            we receive each year thousands of letters from women all over the country. These women,
+            when it is possible, are referred to clinics and doctors. But all too often no help is
+            near, and the very women who most need instruction cannot get it.</p>
+        <p> I will read you one of the letters: “<q who="UNK">What is birth control? I have four
+                children now and almost killed myself getting rid of the fifth. My husband never has
+                steady work and we have a hard time to raise and feed the children. For <name
+                    type="deity">God</name>’s sake tell me what to do! I’m sick and frantic with
+                worry. This is my last and only hope. I’ll pray night and day until I hear from you.
+                Please don’t fail me.</q>”</p>
+        <p> It is because of women such as this one that I rejoice to tell you that birth control is
+            legal. It is to help her and many thousands like her, that we now embark on a wider
+            birth control program.</p>
+
+
+
+
+    </docBody>
+</doc>

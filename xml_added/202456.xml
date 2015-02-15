@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+    <mepHeader>
+        <prepDate>2011-07-28 NC</prepDate>
+        <prepDate>2014-03-25 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1952-11-00">Nov 1952</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Foreword to Proceedings of the 3rd International
+                    Conference on Planned Parenthood</supplied></titlePart>
+        </docTitle>
+        <idno>msp202456</idno>
+        <sourceDesc>
+            <bibl><title type="book">Third International Conference on Planned Parenthood, Report of
+                    the Proceedings</title> (Bombay) Nov. 1952.</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S72:0775</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><index level1="India"/>
+        <index level1="birth control" level2="international conferences on"/></headNote>
+    <docBody>
+        <head>Foreword</head>
+        <p>It is with deep satisfaction that I write this Foreword to the Proceedings of the <org
+                reg="International Conference on Planned Parenthood, 3rd">International
+                Planned Parenthood Conference</org> held in <place>Bombay, India</place>, November
+            24--29, 1952.</p>
+        <p>The high quality of the papers and the discussion represent the thinking and experience
+            of men and women experts in their particular fields. Their contributions helped to make
+            the Conference as outstanding as it has been. The papers contributed the most recent
+            scientific knowledge known in the field of population, contraception, infertility,
+            abortion, sterilization, sex education and marriage counseling. These
+                <title type="book">Proceedings</title> will furnish to scientific groups the world over an
+            excellent reference book. I trust also that this will be an impetus to stimulate further
+            study and research in all these areas.</p>
+        <p>It was sixteen years ago that I made my first visit to <place>India</place> at the
+            invitation of the <org>All India Women’s Conference</org> in <place
+                reg="Travancore, India">Travancore</place>. The Conference passed a resolution
+            demanding that contraceptive information be give to all women in India by the municipal
+            health departments. This resolution was a firm declaration of faith and vision on the
+            part of the women of India which I was convinced would produce results as soon as the
+            political situation was settled and India became independent.</p>
+        <p>That vision has expressed itself to-day in the enthusiasm and fine work of the
+                <org>Family Planning Association of India</org>. Theirs will be a great struggle, to
+            help millions of illiterate, hungry, poverty stricken masses to limit, plan and space
+            their families. But just as they have struggled and fought, every one of them, for their
+            independence, so do I believe that the idea of family planning will eventually be
+            brought to every adult man and woman in India--that here too a victory will be won. </p>
+        <byline><person reg="Sanger, Margaret">Margaret Sanger</person></byline>
+
+    </docBody>
+</doc>

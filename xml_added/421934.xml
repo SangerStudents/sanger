@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+    <mepHeader>
+        <prepDate>2014-04-02 JK initial tags</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1916-01-13 ">13 Jan 1916</docDate>
+        <docTitle>
+            <titlePart>
+                <supplied resp="MSPP">Statement before the Woman Rebel Trial</supplied>
+            </titlePart>
+        </docTitle>
+        <idno>msp421934</idno>
+        <sourceDesc>
+            <bibl><title type="article">"Threat of Prison Won't Stop 'Woman Rebel' From Advocating
+                    Birth Control."</title><title type="journal">The Day Book</title> Jan. 13, 1916,
+                p. 14.</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="SANMA">Sanger, Margaret</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="Woman Rebel, The"/>
+        <index level1="Woman Rebel, The" level2="birth control and"/>
+        <index level1="Woman Rebel, The" level2="legal case"/>
+        <index level1="Woman Rebel, The" level2="suppression of"/>
+        <index level1="birth control" level2="arrests and imprisonment"/>
+        <index level1="birth control" level2="distribution of information about"/>
+        <index level1="birth control laws and legislation" level2="Comstock law"/>
+        <index level1="Europe" level2="women in"/>
+        <index level1="Sanger, Margaret" level2="arrests and trials"/>
+    </headNote>
+    <docBody>
+        <head>THREAT OF PRISON WON’T STOP “WOMAN REBEL” FROM ADVOCATING “BIRTH CONTROL”</head>
+
+        <dateline><date value="/----/-01-13"/>Jan. 13, <place reg="New York, NY">New
+            York</place>--</dateline>
+        <p>The woman rebel has just rebelled again! The apostle of birth control, the alleged author
+            of scores of illegal pamphlets, <person reg="Sanger, Margaret">Margaret H.
+                Sanger</person>, has announced that she is going to stand trial, undefended in a
+            federal court here Tuesday, Jan. 18. She must face a charge of circulating improper
+            literature, preferred against her a year ago by the late <person reg="Comstock, Anthony"
+                >Anthony Comstock.</person></p>
+        <p>Is Uncle Sam going to jail Margaret Sanger for an offense of which, her friends declare,
+            every single newspaper and magazine in the nation which has discussed her case is just
+            as guilty as she? </p>
+        <p>That is the dilemma which confronts the authorities today. Everybody, it seems, would be
+            happier if she would only compromise and let the whole thing blow over!</p>
+        <p>"<q>">Why is it,</q>” Mrs. Sanger was asked, “<q who="SANMA">that you have come back from <place>England</place>
+            to undergo all the trouble now being stored up for you in the way of prosecution and
+            imprisonment?</q>”</p>
+        <p>“<q who="SANMA">For the very reason,</q>” answered Mrs. Sanger, “<q who="SANMA">that the affair might blow over. The great
+            issue is to raise the question of birth control out of the gutter of obscenity, where my
+            opponents have put it, and to get it into the light of intelligence and human
+            understanding.</q>" </p>
+        <p>“<q who="SANMA">Few people know how rapidly, under the surface, the birth control movement is
+            developing.</q>" </p>
+        <p>“<q who="SANMA">My reports from the west say that thousands of birth control pamphlets are being
+            distributed there among the working people. They are being photographed, typewritten,
+            mimeographed, even copied painfully out by hand, so that the information they contain
+            may be spread from family to family.</q>"</p>
+        <p> “<q who="SANMA">I am going to stay in the fight, if I can, until the methods of birth control,
+            recognized as legal, hygienic and moral in every other civilized nation, are made legal
+            in this country also, and all the vile laws which class discussion of them as obscene
+            are swept from the statute books.</q>" </p>
+        <p>“<q who="SANMA">I hope that my case may have the same result in this country as did that of <person
+                reg="Besant, Annie">Annie Besant</person> in England. She was arrested a generation
+            ago and found guilty. But the publicity given her case was such an aid to the birth
+            control propaganda that England at last recognized it.</q>”</p>
+        <p> Mrs. Sanger is to be prosecuted under the postal laws, not on the charge of
+                circulating the information as to methods of birth control, but simply for having
+                written articles advocating it. These articles appeared in her magazine, <title
+                    type="journal">The Woman Rebel</title>. 
+        </p>
+    </docBody>
+</doc>

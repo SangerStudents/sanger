@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2003/10/29 CH</prepDate>
+        <prepDate>2004/07/01 CH</prepDate>
+        <prepDate>2011/11/28 CH correct typos</prepDate>
+        <prepDate>2011-11-30 CH typos</prepDate>
+        <prepDate>2014-04-01 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1925-08-15">15 Aug 1925</docDate>
+        <docTitle>
+            <titlePart>Is Race Suicide Probable?</titlePart>
+        </docTitle>
+        <idno>msp305433</idno>
+        <sourceDesc>
+            <bibl><title type="journal">Colliers</title>, Aug. 15, 1925, p. 25</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> C16:260</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="BIB">Bible</name>
+            <name id="BURLU">Burbank, Luther</name>
+            <name id="FRE">French</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>This article is prefaced by an editorial note mentioning that Dr. <person
+                reg="Dublin, Louis I.">Louis I. Dublin</person> argued the negative side of the
+            issue in the April 25, 1925 issue of <title type="journal">Colliers</title>.</p>
+        <index level1="birth control" level2="socio-economic benefits of"/>
+        <index level1="birth rate" level2="decline in"/>
+        <index level1="birth rate" level2="MS on"/>
+        <index level1="Burbank, Luther"/>
+        <index level1="eugenics"/>
+        <index level1="race suicide"/>
+        <index level1="&quot;unfit&quot; to reproduce" level2="MS on"/>
+        <index level1="&quot;unfit&quot; to reproduce" level2="social burdens, as"/>
+        <index level1="United States" level2="population of"/>
+        <index level1="United States" level2="socio-economic conditions in"/>
+    </headNote>
+    <docBody>
+        <head rend="italics">Is Race Suicide Probable?</head>
+        <byline>BY <person reg="Sanger, Margaret">MARGARET SANGER</person></byline>
+        <p>The people of the <place reg="United States">United States</place> have been warned
+            against the menace of birth control. If they exercise intelligent self-discipline, it is
+            said, Americans may bring this country to destruction through depopulation. The fear
+            that the present rate of increase in the population of the United States may be
+            decreased and that our population may indeed be brought to a standstill through the
+            practice of birth control is hardly substantiated by the last estimate of the <org
+                reg="United States Census Bureau">Bureau of the Census</org>. Within the last five
+            years there has been an increase in our native population of approximately 6,000,000, or
+            1,200,000 a year.</p>
+        <p>We are a nation of business men and women. We believe in efficiency, accuracy, and sound
+            economic policy. If this is so, it strikes me that it is high time that not only
+            American science but American business as well should begin to analyze the cost to the
+            community of the haphazard, traditional, happy-go-lucky methods in producing the
+            Americans of to-morrow--the <foreign lang="FRE">laissez-faire</foreign> policy approved
+            by those who forget that the Biblical injunction "<q who="BIB">be fruitful and
+                multiply</q>" was given to <person>Noah</person> immediately after the Flood, when
+            according to the Biblical narrative, the entire population of the globe was eight.</p>
+        <p>It has been conservatively estimated that no less than one quarter of the gross incomes
+            of our states is expended upon the upkeep of asylums for the feeble-minded and insane,
+            the mentally defective, the criminal, the congenitally defective, the delinquent and the
+            dependent. We are spending billions, literally billions, keeping alive thousands who
+            never, in all human compassion, should have been brought into this world. We are
+            spending more in maintaining morons than in developing the inherent talents of gifted
+            children. We are coddling the incurably defective and neglecting potential geniuses.</p>
+        <p>We have not chosen this Sisyphean task; it has been forced on us because we have left the
+            production of American children to <emph rend="italics">chance</emph>, instead of
+            bringing this most important of all human functions within the sphere of <emph
+                rend="italics">choice</emph>.</p>
+        <p>Until the leaders of American business decide to cooperate in this analysis of our
+            biological and racial problems we shall be at a loss to answer such critics as
+                <person reg="Burbank, Luther">Luther Burbank</person>, to whom American civilization is deeply indebted.
+            In a recent interview he is quoted as asserting:</p>
+        <p>"<q who="BURLU">America . . . is like a garden in which the gardener pays no attention to
+                the weeds. Our criminals are our weeds, and weeds breed fast and are intensely
+                hardy. They must be eliminated. Stop permitting criminals and weaklings to
+                reproduce. All over the country to-day we have enormous insane asylums and similar
+                institutions where we nourish the unfit and criminal instead of exterminating them.
+                Nature eliminates the weeds, but we turn them into parasites and allow them to
+                reproduce.</q>"</p>
+        <p>Could any business maintain itself with the burden of such an
+                "overhead"? Could any breeder of live stock conduct his
+            enterprise on such a basis? I do not think so.</p>
+        <p>It is one of the bad habits of us Americans to estimate everything by magnitude, in terms
+            of millions and billions. But in the matter of increasing population we must hesitate
+            before throwing bouquets at ourselves. I am not a calamity howler, and I think my vision
+            of the future of America is as cheerful as anyone's. But let me conclude with the
+            emphatic statement of my conviction that mere increase in population has nothing to do
+            with progress, nor can a decreasing birth rate by any stretch of the imagination be
+            interpreted as an omen of national calamity.</p>
+    </docBody>
+</doc>

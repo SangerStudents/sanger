@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+    <mepHeader>
+        <prepDate>2014-04-02 JK initial tag</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1935-11-29">29 Nov. 1935</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">What Municipalities in the West
+                    Have Been doing to Promote Birth
+                Control</supplied></titlePart>
+        </docTitle>
+        <idno>msp421080</idno>
+        <sourceDesc>
+            <bibl><title type="article">"Benefits of Birth Control"</title>,
+                    <title type="journal">Times of India</title>, Nov. 30, 1935,
+                p. 22.</bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="ToI">Times of India</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>A summary and quotes of <person
+                reg="Sanger, Margaret">Sanger</person>'s Nov. 29, 1935 speech to
+            the <org>Bombay Municipal Corporation </org>came from "<title
+                type="article">Benefits of Birth Control</title>," <title
+                type="journal">Times of India,</title> Nov. 30, 1935, p. 22.</p>
+        <index level1="Birth Control Federation of America"/>
+        <index level1="Birth Control International Information Centre"/><index
+            level1="birth control laws and legislation" level2="MS on"/><index
+            level1="India" level2="birth control in"/>
+        <index level1="India" level2="birth control movement in"/><index
+            level1="India" level2="MS on"/>
+        <index level1="India" level2="population policies of"/>
+        <index level1="India" level2="overpopulation and"/>
+        <index level1="India" level2="women in"/><index level1="India"
+            level2="mortality rates" level3="infant"/>
+        <index level1="India" level2="mortality rates" level3="maternal"/>
+    </headNote>
+    <docBody>
+        <head>Benefits of Birth Control</head>
+        <head type="sub">Mrs. Sanger's Plea to Bombay Municipality</head>
+
+        <p>“Close on 50,000 of our women have benefit[t]ed by the practice of
+            birth control, and if today they are living, it is because of the
+            useful information they got at our clinics.” <q who="ToI">declared
+                Mrs. Margaret Sanger, Chairman of the <org>National Committee on
+                    Federal Legislation for Birth Control</org>, <place
+                    reg="New York, NY">New York</place>, in reply to a question
+                put to her at a meeting held in the <place reg="Bombay, India"
+                    >Bombay</place> Municipal Corporation hall, on Friday
+                evening. The theme of her lecture was “What Municipalities in
+                the West have been doing to promote birth control.” She was
+                accompanied by<person reg="How-Martyn, Edith"> Mrs. Edith
+                    How-Martyn</person>, Honorary Director, <org>Birth Control
+                    International Information Centre</org>, <place
+                    reg="London, England">London</place>, who also addressed the
+                meeting. There was a large gathering.</q>
+        </p>
+        <p><q who="ToI">The mayor, <person reg="Nariman, Khurshed Framji"> Mr.
+                    K. F. Nariman</person>, who presided, accorded the visitors
+                a cordial welcome on behalf of the citizens of Bombay and
+                appealed to them to confine their humanitarian mission not
+                merely to large cities in <place>India</place>, but to spread it
+                in the villages, where relief was urgently needed.</q></p>
+        <div>
+            <head type="sub">Control of Population</head>
+            <p><q who="ToI">When they were able to control their appetite and
+                    other things, said Mrs. Sanger, they could as well control
+                    the greatest of all problems, that of population. In <place
+                        reg="United States">America</place> and <place
+                        reg="Netherlands">Holland</place> the knowledge of birth
+                    control was widely spread, and consequently there were fewer
+                    deaths among infants and less maternal mortality. Greater
+                    attention was being paid to social welfare and to allied
+                    problems. In Holland she found that the population had
+                    increased on sound lines. Birth control was not at all
+                    harmful; it was on the other hand, beneficial, and helped to
+                    decrease maternal mortality.</q></p>
+            <q who="ToI">
+                <p>Mrs. Sanger asked the Bombay Municipality to take the lead in
+                    the movement by starting birth control clinics, as other
+                    western municipalities had already done. If the knowledge of
+                    birth control were systematically and scientifically spread
+                    among the masses, it would do them enormous good, and within
+                    a hundred years the people would appreciate the efforts of
+                    the municipality and raise a statue to the Mayor for having
+                    successfully launched the movement. (Laughter.) </p>
+                <p>Mrs. How-Martyn explained how attention was being paid to the
+                    movement in <place>England</place>, pointing out that large
+                    sums of money were being spent on social service. Hundreds
+                    of women took advantage of the birth control clinics started
+                    in various parts of the country.</p>
+                <p> The visitors answered several questions asked by members of
+                    the audience and cleared their doubts on the subject.
+                </p></q>
+        </div>
+    </docBody>
+</doc>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published statement">
+	<mepHeader>
+		<prepDate>2014/06/11 MM encode</prepDate>
+		<prepDate>2014-12-19 CH proof tags and enter</prepDate>
+		<docAuthor>Margaret Sanger</docAuthor>
+		<docDate value="1916-08-00">Aug 1916</docDate>
+		<docTitle>
+			<titlePart>Where the Blame Rests</titlePart>
+		</docTitle>
+		<idno>msp130265</idno>
+		<sourceDesc>
+			<bibl><title>Birth Control News</title>, Aug. 1916</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>This short statement by Sanger was published in the <org>Ohio Birth Control
+			League</org>'s short-lived <title type="newspaper">Birth Control News</title>. It is
+			likely taken from one of her appearences there. For another statement published in the
+			same journal see "Is Sex Discussion Obscene?" <xref from="130264"> Aug.
+			1916</xref>.</p>
+		<index level1="abortion" level2="laws and legislation"/>
+		<index level1="abortion" level2="health risks of"/>
+		<index level1="birth control" level2="lack of knowledge of"
+			level3="negative consequences of"/>
+	</headNote>
+	<docBody>
+		<head>WHERE THE BLAME RESTS</head>
+		<p>"The hundreds of thousands of abortions being performed in <place reg="United States"
+				>America</place> each year are a disgrace to civilization. I lay the blame for them
+			and for the illness, suffering and death resulting from them at the door of a government
+			which in its puritanical blindness insists upon suffering and death from ignorance
+			rather than life and happiness through knowledge and prevention."</p>
+		<byline> --<person reg="Sanger, Margaret">Margaret H. Sanger</person>.</byline>
+	</docBody>
+</doc>

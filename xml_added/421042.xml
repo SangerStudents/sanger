@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+    <mepHeader>
+        <prepDate>2013/11/13 JK encoded</prepDate>
+        <prepDate>2014-04-13 EK clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1931-03-26">26 Mar. 1931</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Comments at Birth Control Clinical Research Bureau
+                    Tea</supplied></titlePart>
+        </docTitle>
+        <idno>msp421042</idno>
+        <sourceDesc>
+            <bibl><title type="article">200 Hear Mrs. Sanger</title>
+                <title type="journal">New York Times</title>, Mar. 26, 1931</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="SANMA">Margaret Sanger</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">This excerpt from her comments was taken from <title type="journal">The
+            New York Times</title>Mar. 26, 1931. <index level1="birth control" level2="movement"
+            level3="MS on"/>
+        <index level1="working classes" level2="birth control and"/>
+    </headNote>
+    <docBody>
+        <head>200 Hear Mrs. Sanger</head>
+        <head type="sub">She Discusses Birth Control Clinic Before Social Workers</head>
+        <p><q>"About 200 social workers from the staffs of hospitals, child welfare organizations,
+                settlement and neighborhood houses attended a tea yesterday afternoon at the
+                    <org>Birth Control Clinical Research Bureau</org>, 17 West Sixteenth Street, to
+                hear addresses by Mrs. <person reg="Sanger, Margaret">Margaret Sanger</person>,
+                director of the bureau, and Dr.<person reg="Stone, Hannah M.">Hannah M.
+                    Stone</person>, its medical director.</q> “<q who="SANMA">Many families who have
+                been on the records of welfare associations for years have been so helped after
+                visiting our clinic that they no longer need agency aid,</q>” Mrs. Sanger told the
+            workers. “<q who="SANMA">Much money, time, and unhappiness could be saved if families
+                were given birth control information when first contacted by welfare workers.</q>”
+                <q>"Many workers said they had previously refrained from visiting the clinic because
+                they were uncertain of its legal status.</q></p>
+    </docBody>
+</doc>

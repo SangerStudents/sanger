@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2002-04-10 CH to MEP3</prepDate>
+        <prepDate>2001-10-25 MH</prepDate>
+        <prepDate>2002-08-15 KH</prepDate>
+        <prepDate>2003/12/08 CH clean up codes</prepDate>
+        <prepDate>2007-05-30 CH Oxygen cleanup</prepDate><prepDate>2013-04-30 CH fix links</prepDate><prepDate>2014-07-02 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1912-11-17">17 Nov 1912</docDate>
+        <docTitle>
+            <titlePart>What Every Girl Should Know: Introduction</titlePart>
+        </docTitle>
+        <idno>msp304533</idno>
+        <sourceDesc>
+            <bibl><title type="journal">New York Call</title>, Nov. 17, 1912</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> C16:0024</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="UNK">Unknown</name>
+        </respStmt>
+    </mepHeader>
+    <headNote place="unspecified">
+        <p>This is the first article in an 12-part series. For "Girlhood-Part I" see <xref
+                from="300177.xml">Nov. 24, 1912</xref>, for "Girlhood-Part II" see <xref
+                from="303438.xml">Dec. 1, 1912</xref>, for "Puberty-Part I" see<xref
+                from="304920.xml"> Dec. 8, 1912</xref>, for "Puberty-Part II" see<xref
+                from="304921.xml"> Dec. 15, 1912</xref>, for "Sexual Impulse--Part I" see <xref
+                from="304922.xml">Dec. 22, 1912,</xref> for "Sexual Impulse-Part II" see<xref
+                from="304923.xml"> Dec. 29, 1912</xref>, for "Reproduction--Part I" see <xref
+                from="304924.xml">Jan. 2, 1913</xref>, for "Reproduction--Part II" see <xref
+                from="304925.xml">Jan. 19, 1913</xref>, for "Some Consequences of Ignorance and
+            Silence--Part I" see <xref from="304926.xml">Jan. 26, 1913</xref>, for "Some
+            Consequences of Ignorance and Silence--Part II" see <xref from="304927.xml">Feb. 2,
+                1913</xref>, and for "Some Consequences of Ignorance and Silence--Part III" see
+                <xref from="304928.xml">Mar. 2, 1913.</xref></p>
+        <index level1="sex education" level2="need for"/>
+        <index level1="love" level2="concept of"/>
+    </headNote>
+    <docBody>
+        <head>What Every Girl Should Know</head>
+        <byline>By <person reg="Sanger, Margaret">Margaret H. Sanger</person>.</byline>
+        <head type="sub">Introduction.</head>
+        <p>Students of vice, whether teachers, clergymen, social workers or physicians, have been
+            laboring for years to find the cause and cure for vice, and especially for prostitution.
+            They have failed so far to agree on either the cause or the cure, but it is interesting
+            to know that upon one point they have been compelled to agree and that is that IGNORANCE
+            OF THE SEX FUNCTIONS is one of the strongest forces that sends young girls into unclean
+            living. </p>
+        <p>This, together with the knowledge of the rapidly increasing spread of venereal diseases
+            and the realization of their subtle nature, has awakened us to the need of a saner and
+            healthier attitude on the sex subject, and to the importance of SEX EDUCATION for boys
+            and girls.</p>
+        <p>This need has shown itself so clearly that the question no longer seems to be, "Is there
+            need of instruction?" but, "Who shall instruct?" Shall the mother or teacher instruct?
+            When shall such instruction be given? In childhood, or in puberty? These are the points
+            now under discussion. </p>
+        <p>To the writer the answer is simple. The mother is the logical person to teach the child
+            as soon as questions arise, for it is to the mother that the child goes for information
+            before he enters the schoolroom. If, therefore, the mother answers his questions
+            truthfully and simply and satisfies his curiosity, she will find that the subject of sex
+            ceases to be an isolated subject, and becomes a natural part of the child's general
+            learning. A woman does not need to be a college graduate, with a special degree in the
+            study of botany, before she can tell her child the beautiful truth of its birth. But she
+            does need to clear her own mind of prudishness, and to understand that the procreative
+            act is natural, clean and healthful; that all nature is beatified through it, and
+            consequently that it is devoid of offensiveness.</p>
+        <p>If the mother can impress the child with the beauty and wonder and sacredness of the sex
+            functions, she has taught it the first lesson, and the teacher can elaborate on those
+            teachings as the child advances in school. All schools should teach the anatomy of the
+            sex organs and their physiology, instead of teaching the human body in the neuter gender
+            as has been done up to this time. </p>
+        <p>The whole object of teaching the child about reproduction through evolution is to clear
+            its mind of any shame or mystery concerning its birth, and to impress it with the
+            beauty, naturalness of procreation, in order to prepare it for the knowledge of puberty
+            and marriage.</p>
+        <p>There must of necessity be special information for the pubescent boy and girl, for having
+            arrived at the stage in their mental development they no longer take for granted what
+            has been told of them by the parents, but are keen to form their own ideas and gather
+            information independently. It is right, therefore, to give them the facts as science has
+            found them. </p>
+        <p>There are workers and philanthropists who say there is too much stress put upon the
+            subject of venereal diseases; that the young girl after learning or hearing of the
+            dangers she is likely to encounter in the sexual relation, is afraid to marry and
+            consequently lives a life unloved and alone. </p>
+        <p>"<q who="UNK">Your treatment of this subject is dangerous</q>," said a very earnest
+            social worker a few weeks ago. "<q who="UNK">Such knowledge will prevent our young girls
+                from marrying.</q>"</p>
+        <p>To which I replied that my object in telling young girls the truth is for the definite
+            purpose of preventing them from entering into sexual relations whether in marriage or
+            out of it, without thinking and knowing. Better a thousand times to live alone and
+            unloved than to be tied to a man who has robbed her of health or of the joy of
+            motherhood, or welcoming the pains of motherhood, live in anxiety lest her sickly
+            offspring be taken out of her life or grow up a chronic invalid. </p>
+        <p>I have more faith in the force of love. I believe that two people convinced that they
+            love each other and desire to live together in marriage will talk as frankly of their
+            own health and natures as they do today of house furnishings and salaries. Their love
+            for each other will protect them from ill-health and disease, and prompt them to procure
+            of their own accord a certificate of health if each has the right information and
+            knowledge.</p>
+        <p>There are, however, different phases of nature other than venereal disease, the knowledge
+            of which binds and cements the love of two people. These are symptoms of a great social
+            disorder.</p>
+        <p>Every girl should first understand herself: she should know her anatomy, including sex
+            anatomy: she should know the epochs of a normal woman's life, and the unfoldment which
+            each epoch brings: she should know the effect the emotions have on her acts, and finally
+            she should know the fullness and richness of life when crowned by the flower of
+            motherhood. </p>
+        <p>This knowledge I shall endeavor to give in the following articles. Fragmentary the
+            articles must of necessity be, for there are volumes written on each subject. </p>
+        <p>I shall try to free the subjects from technicalities and give the opinions of writers who
+            have made those subjects their life studies and also the facts as I myself have learned
+            them.</p>
+        <p>It is not my intention to thrust upon any one a special code of morals, or to inflict
+            upon the reader of this page my own ideals of morality. I only presume to present the
+            facts for you to accept according to your understanding.</p>
+        <p>The first article will deal with the girl during the age when sex first manifests itself,
+            in that most fascination, interesting and puzzling period of a woman's life--the budding
+            period, called girlhood.</p>
+    </docBody>
+</doc>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed draft article">
+    <mepHeader>
+        <prepDate>2009/07/20 LL</prepDate>
+        <prepDate>2011/06/03 EK</prepDate>
+        <prepDate>2014-03-18 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1930-00-00">1930</docDate>
+        <docTitle>
+            <titlePart>One Million Letters from Mothers</titlePart>
+        </docTitle>
+        <idno>msp214082</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title>, S73:0128</bibl>
+        </sourceDesc>
+        <respStmt>
+            <name id="WELHG">Wells, H. G.</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="family size" level2="class-based"/>
+        <index level1="birth control" level2="lack of knowledge of"
+            level3="negative consequences of"/>
+        <index level1="birth control" level2="class-based"/>
+        <index level1="birth control" level2="rights associated with"/>
+        <index level1="motherhood"/>
+        <index level1="women" level2="enslavement of"/>
+        <index level1="women" level2="freedom and rights of"/>
+        <index level1="working classes" level2="birth control and"/>
+        <index level1="Pius XI, Pope"/>
+    </headNote>
+    <docBody>
+        <head>
+            <add>1 million letters from mothers</add>
+        </head>
+        <p>Some of us <del>illegible</del>, <add>who</add>, are familiar with the subject as a whole
+                <del>we</del> realize our responsibility as human beings and <del>illegible
+                fight</del><add>are fighting</add>fight<add>ing</add> for the poor woman’s freedom
+            and rights, <del>and</del><add>we want to</add> see <del>that</del>her position as
+            mother <del>to</del>elevated to one of dignity, through knowledge of birth control. Such
+            knowledge, <person reg="Wells, H. G.">H. G. Wells</person> says, “<q who="WELHG">marks a
+                new and happier phase in the history of our civilization</q>”. <del>Working</del>
+            <add><unclear>Military</unclear></add> and professional classes have the lowest birth
+            rate. They also however have the lowest death rate. In other words, while they bring
+            into the world only a few children, they provide and care for those children so well
+            that the large majority of them live to full maturity.</p>
+        <p>It is in my estimation far more patriotic and considerate of the race to have a
+            responsibility in the function of child bearing, than to consider it an act of
+                <name type="deity">God</name> thereby casting the responsibility upon him.</p>
+        <p>Theorizing--Let them ask the mothers, frantic with worry, old and broken on the wheel of
+            maternity, Hopeless and devitalized with endless childbearing, let these mothers speak
+            and tell us what they think of such cruelty on the part of church or state, that makes
+            the perpetuation of death-doomed infants a necessity, that makes women submit to
+            ignorance and kept in fear of knowledge, that with harmless information
+                <add>conscripted</add> available through medical and scientific sources these
+            mothers of the race must bind their hands and continue to call in vain for relief from
+            maternal bondage.</p>
+        <p>The mothers in <place reg="United States">America</place> who cannot avail
+            themselves of such medical advice are indeed enslaved. They have less consideration than
+            the cattle on our farms. They are more enslaved than their husbands in industry or the
+            black race in the days of yore.</p>
+        <p>The women of wealth have available knowledge and are able to control the number of
+            children in their families. Through it, they have time and leisure to develop and
+            understand their children.</p>
+        <p>Every argument is on this side.</p>
+        <p>
+            <add>43 million women of child bearing years.<lb/>Pontifical Dictator in foreign land,
+                dictates how many children American women shall have.</add>
+        </p>
+    </docBody>
+</doc>

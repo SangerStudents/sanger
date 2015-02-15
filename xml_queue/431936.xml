@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+	<mepHeader>
+		<prepDate>2015-02-4 CH Transcribe and encode</prepDate>
+		<prepDate>2015-02-04 CH proof tags and enter</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1932-11-15">15 Nov 1932</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Future of the American Family</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp431936</idno>
+		<sourceDesc>
+			<bibl><title type="article">Margaret Sanger Addresses Forum</title>, <title
+					type="journal">Daily Collegian</title>, Nov. 18, 1932, p.1 and <title
+					type="article">Solve Europe's Population Problem, Or War Will Result, Sanger
+					States</title>, <title type="journal">Daily Collegian</title>, Nov. 18, 1932, p.
+				1</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="DC">Daily Collegian</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Sanger spoke at the <org>Schwab Auditorium</org> at <org>Penn State College</org> on
+			November 15, 1932, the first in a series of talks sponsored by the <org>Penn State
+				Christian Association</org>. The speech was not found, but quotes were taken from
+			reports in the <title type="journal">Daily Collegian</title>. </p>
+		<index level1="birth control" level2="health benefits and risks of"/>
+		<index level1="overpopulation" level2="threat to peace as"/>
+		<index level1="women" level2="freedom and rights of"/>
+		<index level1="family size"/>
+	</headNote>
+	<docBody>
+		<head>MARGARET SANGER ADDRESS FORUM</head>
+		<div type="section">
+			<head type="sub">Speaker at First Meeting Cites 7 Definite Reasons for Birth Control
+				Practice</head>
+			<p>"Birth control is not a panacea for all the social and economic ills in the world but
+				at least it is the most important immediate help which can be applied as a solution
+				to the present problems of millions of men and women here and now,"<q who="DC"> Mrs.
+					Margaret Sanger said at the opening Forum of the year in the Auditorium Tuesday
+					night.</q>
+			</p>
+			<p>
+				<q who="DC">Mrs. Sanger cited several definite reasons for the practices of birth
+					control. Contraception, she belives, should be used in the case of communicable
+					diseases, where the mother is physically weak and incapable of bearing children,
+					and where the parents produce sub-normal offspring. The practice is also
+					valuable to the spacing of children in a family, protecting adolescent married
+					couples from having children too soon, and also in the case of poverty stricken
+					parents.</q>
+			</p>
+			<p>"Birth control will give women a chance to develope and to express themselves; it
+				will, above all, mean happier marriages," <q who="DC">Mrs. Sanger stated.</q>
+				"Instead of the customary single child in families of the higher classes, and ten or
+				eleven in the poorer classes, birth control will usher in a new era of families with
+				three or four children. This will consitute the American family of the future," <q
+					who="DC">the speaker believes.</q>
+			</p>
+			<p>
+				<q who="DC">Mrs. Sanger left the College yesterday afternoon. In addition to her
+					open lecture, she addressed a women's club meeting Tuesday night. While here, a
+					number of teas and luncheons were held for her by her sister-in-law <person
+						reg="Higgins, Virginia Gaylord">Mrs. Robert A. Higgins</person> and several
+					faculty members.</q>
+			</p>
+		</div>
+		<div type="section">
+			<head>Solve <place>Europe</place>'s Population Problem, Or War Will Result, Sanger
+				States</head>
+			<p>"Europe's over-population problem is sizzling now; in five or six years something is
+				going to explode!"</p>
+			<p>
+				<q who="DC">Mrs. Margaret Sanger usually convinces the skeptical with her smile, but
+					now a vague shadow of seriousness hovered over it. As she spoke, small, almost
+					unnoticeable gestures betrayed long trying hours on the lecture platform in
+					championing the cause of birth control.</q>
+			</p>
+			<p>"Already <place>Italy</place> has its eye on several choice pieces of territory. And
+				when its congested mass of humanity is so much in excess that it reaches the brim
+				and overflows, we shall have a war." <q who="DC">She paused and then added
+					crisply</q> "This is as inevitable as was the outbreak in 1914."</p>
+			<p>"Population must be controlled. Unless it is limited or some system of distribution
+				worked out the nations of the world might just as well throw all their peace
+				treaties to the winds," <q who="DC">Mrs. Sanger said.</q> "Peace will never be
+				achieved until this problem is solved; that's why the birth control question has
+				become not only of family importance but of international significance." </p>
+			<p>"Fortunately, statesmen are beginning to acquire some concept of the importance of
+				the over-populated plight of many countries." <q who="DC">Mrs. Sanger, who has
+					travelled extensively in foreign countries, is particularly interested in the
+					Italian and Japanese situations.</q> "They must have some outlets for these
+				increasing internal numbers, and they're resorting to invasion to find them," <q
+					who="DC">she said.</q>
+			</p>
+			<p>
+				<q who="DC">Mrs. Sanger explained that the de-population could be accomplished by
+					either increasing the death rate of decreasing the birth rate. In the past the
+					death rate has been raised by means of famine, disease, epidemics, and wars;
+					what will happen in the future remains to be seen, she said.</q>
+			</p>
+			<p>
+				<q who="DC">And then her voice softened, she almost seemed shy, so that one would
+					hardly suspect her of being a crusader, a pioneer.</q>
+			</p>
+			<p>"After all, no matter how hard we fight, birth control will come. It's just a matter
+				of how soon."</p>
+		</div>
+	</docBody>
+</doc>

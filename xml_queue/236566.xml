@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Autograph draft speech">
+	<mepHeader>
+		<prepDate>2002-08-12 KH encode</prepDate>
+		<prepDate>2009-07-22 LL advanced endocde</prepDate>
+		<prepDate>2009-07-22 CH proof tags</prepDate>
+		<prepDate>2009-07-27 LL enter corrections</prepDate>
+		<prepDate>2015-02-09 CH doc file list;re-enter doc.</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1929-11-12">12 Nov 1929</docDate>
+		<docTitle>
+			<titlePart><supplied resp="MSPP">Middle Western States Confernece on Birth Control
+					Address Notes</supplied></titlePart>
+		</docTitle>
+		<idno>msp236566</idno>
+		<sourceDesc>
+			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
+			<bibl><title>Margaret Sanger Microfilm</title> S71:183</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>This is a draft outline for Sanger's address to the <org>Middle Western States Conference
+				on Birth Control</org>, sponsored by the <org>National Committee for Federal
+				Legislation on Birth Control</org> and held in Columbus, OH. The audience was
+			expected to be composed of doctors, scientists, and lawyers.</p>
+		<index level1="birth control laws and legislation" level2="Federal"/>
+		<index level1="birth control laws and legislation" level2="Postal Codes"/>
+	</headNote>
+	<docBody>
+		<dateline><place reg="Columbus, OH">Columbus</place></dateline>
+		<div type="section">
+			<p> We are here today to discuss plans to effect the Amendment of a <name
+					reg="United States Penal Code, Section 211">Federal law--Sec. 211</name>, passed
+				by <org reg="United States Congress">Congress</org>
+				<add><person reg="Comstock, Anthony">Comstock</person></add> just 56 years ago.</p>
+			<p>This law prohibits the sending thru the U.S. Mail of books, pamphlets, articles,
+				records, charts, medical, scientific or data of any kind relative to <add>the</add>
+				prevention of conception.</p>
+			<p> There is no exception to the law, no exception to scientific or educational or
+				medical literature no exception to Physicians or <add>to</add> any group whose
+				usefulness to society might be advanced by such information.></p>
+			<p> It is said that the bill has rushed thru Congress on the last day of its session
+				[amid] great confusion &amp; hurry--few congressmen knew the significance of the
+				bill they had voted on.</p>
+			<p> 66,000 signatures were sent to Congress in protest of the bill immediately after but
+				nothing came of it &amp; the citizens of this country have had to put up with
+				bootleg information to limit the size of the family or resign themselves to the
+				inheritable. <add>Here we began the first steps to effect the differential birth
+					rate. </add> It is estimated that since the passage of this law over
+					<add>1,</add>150,000 mothers have died in <place reg="United States"
+					>U.S.A.</place> from causes due to pregnancy &amp; 15 million infants under one
+				year of age have passed out of this life 90% of them due to poverty &amp;
+				neglect.</p>
+			<p> From 1876 to 1914 there was no concentrated effort on the part of any group to
+				arouse public sentiment to change the law. It was a long period of arrests &amp;
+				shameful persecutions on the part of the <org
+					reg="New York Society for the Suppression of Vice">Comstock Society</org>.</p>
+		</div>
+		<div type="section">
+			<head type="sub"><add>(<emph rend="underline">Dead Hand of the Past</emph>)</add></head>
+			<p> When I came upon the horizon in 1914 I had seen such misery &amp; unhappiness among
+				the overburdened mothers of the poor during my nursing work in <place
+					reg="New York, NY">NYC</place> that I was convinced that our heavy toll of
+				mothers lives--our maternal mortality could be lessened if sick &amp; ailing &amp;
+				poverty burdened mothers, Tb &amp; heart &amp; kidney could be protected from child
+				bearing. </p>
+			<p> I was convinced that our infant <supplied resp="MSPP">mortality</supplied> could be
+				greatly reduced if our mothers were protected to space out babies-- <org
+					reg="United States Children's Bureau">Children’s Bureau</org> of <place
+					reg="Washington, DC">Wash DC</place>
+				<add>Where there is one</add> interval of 3 years between births of babies there is
+				a better chance of living than where only 1 year It also shows us that <supplied
+					resp="MSPP">Deaths</supplied> of 2nd children less 100 per m<lb/>7<lb/>over 350
+				“ ” “ ” 12 “ ” 600 per m. 60% of 12 <supplied resp="MSPP">children</supplied>
+				die.</p>
+			<p> I felt that the legislation &amp; pallative efforts to lessen infant mortality were
+				not enough, child labor laws were not enough. Child labor laws were not enough. If
+				we are to make the world safe for childhood safe for future generations, safe for
+				civilization then we must stop at its source the unending stream of death doomed
+				infants thru birth control.</p>
+			<p> Background in 1914--<add>face of federal law↓ against me.</add></p>
+			<p>Free Speech &amp; free press.</p>
+			<p><place reg="Netherlands">Holland</place>--Clinics--USA 25, 1929</p>
+			<p>7 conditions where BC. should be practiced.</p>
+			<p>Federal law impedes progress.</p>
+			<p>Fed Committee. 4 Regions.</p>
+			<p>Congressmen to be convinced.</p>
+			<p>1000 women to bring happiness to 120 million.</p>
+			<p>Sir <person reg="Keith, Arthur">Arthur Keith</person>. <place>England</place>s
+				anthropologist </p>
+		</div>
+	</docBody>
+</doc>

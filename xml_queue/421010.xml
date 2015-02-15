@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+	<mepHeader>
+		<prepDate>2015-02-13 JC encoding</prepDate>
+		<docAuthor>
+			<person>Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1924-06-00">June 1924</docDate>
+		<docTitle>
+			<titlePart>MARGARET SANGER'S OWN CORNER</titlePart>
+		</docTitle>
+		<idno>msp421010</idno>
+		<sourceDesc>
+			<bibl><title>Birth Control Review</title>, June 1924, pg. 181</bibl>
+
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="BCR">Birth Control Review</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Under this column name, the <title type="journal">Birth Control Review</title> published
+			letters written to Margaret Sanger with occasional commentary. For others in this series
+			see Margaret Sanger's Own Corner, <xref from="421032.xml">Jan. 1924</xref>, <xref
+				from="421033.xml">Feb. 1924</xref>, <xref from="301463.xml">Mar. 1924</xref>, and
+				<xref from="421034.xml">Apr. 1924</xref>
+			<xref from="421009.xml">May 1924</xref>.</p>
+		<index level1="abortion" level2="birth control and"/>
+		<index level1="abortion" level2="health risks"/>
+		<index level1="abortion" level2="MS on"/>
+	</headNote>
+	<docBody>
+		<head>MARGARET SANGER'S OWN CORNER</head>
+
+
+		<p><q who="BCR"><emph rend="italics">A Correspondent writes</emph> "Do you think it is wrong
+				to bring myself around when I am not yet three months overtime?</q></p>
+		<p><emph rend="italics">Answer</emph> When you use the term "bring myself around," you are
+			referring to abortion. I believe that repeated abortions, however early they are brought
+			on, have a very bad effect on a woman's health. I do not advise it even by skilled
+			hands, unless it has been recommended by your physician. I strongly advise you against
+			taking drugs for any such purpose. Drugs are frequently useless and always injurious.
+			They injure the mother and if they fail of their purpose, as they often do, they are apt
+			to injure the child. The practice of abortion gets you nowhere, for pregnancy comes
+			again more easily after abortion than before, and it becomes necessary to go through it
+			all again. Abortion is not the right means of controlling the size of your family. One
+			of the strong reasons for urging Birth Control is that the scientific prevention of
+			conception makes abortion unnecessary, and will thus do away with this evil thing.</p>
+		<p>M S</p>
+		<p/>
+	</docBody>
+</doc>

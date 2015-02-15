@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+	<mepHeader>
+		<prepDate>2015-02-06 JC encoding</prepDate>
+		<prepDate>2015-02-06 CH proof tags &amp; enter</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1929-00-00"><supplied resp="MSPP">1929</supplied></docDate>
+		<docTitle>
+			<titlePart>Birth Control</titlePart>
+		</docTitle>
+		<idno>msp156569</idno>
+		<sourceDesc>
+			<bibl><title type="book">Social Work Year Book Vol. 1</title>, New York: 1929, pp.
+				38-40. </bibl>
+			<bibl><title>Library of Congress Microfilm 76:243-244</title></bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>For an essay published in the 1933 volume, see <xref from="321976.xml">Birth
+				Control"</xref> 1933.</p>
+		<index level1="birth control" level2="history of"/>
+		<index level1="birth control movement" level2="history of"/>
+		<index level1="birth control movement" level2="MS on"/>
+		<index level1="birth control movement" level2="goals and strategies"/>
+		<index level1="birth control movement" level2="international"/>
+	</headNote>
+	<docBody>
+		<div>
+			<head>BIRTH CONTROL</head>
+			<p>The general aim of the birth control movement is to legitimatize the practice of
+				contraception through scientific and hygienic methods, and to educate the adult
+				public as to its advantages from the personal and social points of view.
+				International in scope, the movement has been known under a number of names; in the
+					<place reg="Great Britain">British Empire</place> as “neo-Malthusianism”; in
+					<place>France</place> as “conscious generation”; and occasionally as “voluntary
+				parenthood.” </p>
+		</div>
+		<div>
+			<head type="sub">History and Present Status.</head>
+			<p>In English-speaking countries the present movement derives from <person
+					reg="Malthus, Thomas Robert">Malthus</person>. In the second edition of his
+				famous <title type="book">Essay on Population</title>, published in 1903, the
+				English clergyman first enunciated his law of the pressure of population upon the
+				means of subsistence. The only solution he suggested for overpopulation was the
+				practice of celibacy and late marriage. In 1826 Dr. <person reg="Knowlton, Charles"
+					>Charles Knowlton</person>, a <place reg="Boston, MA">Boston</place> physician,
+				was prosecuted for publishing a small book, <title type="book">The Fruits of
+					Philosophy</title>, advocating mechanical and chemical methods of contraception.
+				In 1876-1877 <person reg="Bradlaugh, Charles">Charles Bradlaugh</person> and
+					Mrs.<person reg="Besant, Annie"> Annie Besant</person> were prosecuted and
+				convicted for distributing that book among the working classes of Great Britain.
+				Their conviction led to the foundation of the <org>Malthusian League</org> in 1878
+				by <person reg="Drysdale, Charles Robert">Dr. Charles Drysdale</person> and his
+				wife, <person reg="Vickery, Alice">Dr. Alice Vickery Drysdale</person>. A <org
+					reg="Nieuw Mathusiaansche Bond">Dutch League</org> was founded in 1881. The
+				neo-malthusians differed from Malthus in advocating contraception to prevent
+				overpopulation and to reduce the birth rate. </p>
+			<p>The period between 1914 and 1921 in the <place>United States</place> was one of
+				militant agitation and widespread publicity, partly as a result of several
+				convictions of persons active in the movement for challenging federal and state
+				laws. In <place reg="New York, NY">New York City</place> in 1914, Mrs. Margaret
+				Sanger began to advocate contraception on feministic and libertarian grounds,
+				coining at that time the term “birth control.” The interest awakened in the whole
+				question of contraception resulted in 1921 in the foundation of the <org>American
+					Birth Control League</org> and of the <org>Voluntary Parenthood League</org>;
+				also in the publication of a monthly periodical, the <title type="journal">Birth
+					Control Review</title>, edited by Mrs. Sanger. The two organizations were
+				subsequently combined under the name of the former. </p>
+			<p>Activities of the second period of the American movement, from 1921 to 1925, included
+				the organization of local leagues, the education of public opinion, and campaigns
+				for the amendment of statutes which class the practice of contraception with
+				obscenity and criminal abortion. During the third period, 1925 to the present,
+				advocates of birth control have concentrated upon the establishment of clinics and
+				research bureaus, and upon enlisting the interest and activities of physicians,
+				biologists, biochemists, and social scientists generally. Results of these efforts
+				are seen in the fact that no less than 55 clinics and bureaus are now operating
+				legitimately in the United States (covering 23 cities and 13 states), dispensing
+				contraceptive information to all persons legally permitted to receive it. In
+					<place>New York</place> State it is given to married people for the cure or
+				prevention of disease. In <place>California</place> there are 12 clinics; there is
+				one each in <place reg="Baltimore, MD">Baltimore</place>, <place
+					reg="Cincinnati, OH">Cincinnati</place>, <place reg="Cleveland, OH"
+					>Cleveland</place>, <place reg="Denver, CO">Denver</place>, <place
+					reg="Detroit, MI">Detroit</place>, <place reg="Newark, NJ">Newark</place>,
+					<place reg="New Haven, CT">New Haven</place>, and <place reg="Philadelphia, PA"
+					>Philadelphia</place>; there are six in <place reg="Chicago, IL"
+				>Chicago</place>; and New York City has eight in hospitals and one operating
+				independently. In addition, a branch for colored women has recently been established
+				in the Harlem section of New York City by the Clinical Research Bureau. </p>
+			<p>The year 1929 was marked by the establishment of 27 new clinics. The successful
+				operation of such clinics and research bureaus, under medical direction, makes
+				possible the scientific analysis of individual cases, and also statistical studies.
+				Through the latter material is being developed for the replacement of untested
+				theory with impartial analysis. Social agencies are beginning to cooperate with such
+				clinics. Owing to the widespread change in public opinion, physicians are more
+				willing to give advice in private practice. Over 10,000 of them have expressed
+				willingness to do so.</p>
+			<p>The birth control movement is exerting a noticeable influence upon eugenics and
+				giving a new direction to programs for race-betterment; it has resulted in renewed
+				consideration of the problem of the legal sterilization of the unfit; and has
+				influenced programs for the control of the dependent, delinquent, and defective
+				groups in society. It has been given consideration by many social agencies seeking
+				to decrease maternal and infant mortality rates, particularly by the <org
+					reg="National Committee on Maternal Health">Committee on Maternal Health</org>
+				of New York City. Financial support of the birth control movement has been from
+				independent and anonymous sources, with the exception of temporary support from the
+					<org>Brush Foundation</org> of Cleveland. During 1929 a study of 10,000 cases
+				was made by the <org>Birth Control Clinical Research Bureau</org>, and a study of
+				fertility and sterility by the Committee on Maternal Health. </p>
+		</div>
+		<div>
+			<head type="sub">Legislation, 1929.</head>
+			<p>No laws on the subject were passed during the year. Bills to amend the laws which
+				prohibit contraceptive instruction were defeated in New York and
+					<place>Connecticut</place>. </p>
+		</div>
+
+		<div>
+			<p><person reg="Sanger, Margaret">Margaret Sanger</person>
+			</p>
+		</div>
+
+	</docBody>
+</doc>

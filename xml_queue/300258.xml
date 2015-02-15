@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+	<mepHeader>
+		<prepDate>2003-12-01 ML</prepDate>
+		<prepDate>2014-03-04 CH correct regs</prepDate>
+		<prepDate>2014-11-13 CH clean regs</prepDate>
+		<prepDate>2015-01-20 CH proofread tags and entered</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docDate value="1925-04-00">
+			<supplied>Apr 1925</supplied>
+		</docDate>
+		<docTitle>
+			<titlePart>Sixth International Birth Control Conference</titlePart>
+		</docTitle>
+		<idno>msp300258</idno>
+		<sourceDesc>
+			<bibl>
+				<title>
+					<supplied resp="MSPP">Unidentified newspaper</supplied>
+				</title>
+			</bibl>
+			<bibl><title>Margaret Sanger Papers Microfilm, Collected Documents Series</title>
+				C16:254</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp>
+				<name reg="UNK">Unknown</name><name id="MALTH">Malthus, Thomas Robert</name>
+			</resp>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>This article was found in a scrapbook with no identifying information about the
+			newspaper. Portions of the text were obliterated with a hole punch.</p>
+		<index level1="conferences"
+			level2="International Neo-Malthusian and birth Control Conference" level3="1925 (6th)"/>
+		<index level1="Malthusian League"/>
+	</headNote>
+	<docBody>
+		<head>The Sixth International Birth Control Conference</head>
+		<byline>by <person reg="Sanger, Margaret">Margaret Sanger</person>, <supplied resp="mspp"
+				>President</supplied>
+			<org>American Birth Control <supplied resp="mspp">League</supplied></org>; first
+			President <org
+				reg="International Federation of Neo-Malthusian and Birth Control Leagues"
+				>International Birth Control League</org></byline>
+		<div type="section">
+			<q who="UNK"><p>Editorial Note--Throughout the world wherever birth control is advocated
+					or considered, Mrs. Sanger is known as the outstanding leader of the Birth
+					Control movement in America and as an indefatigable and fearless advocate in her
+					writings and lectures of conscious and willing motherhood.</p></q>
+		</div>
+		<div type="section">
+			<p>No less than twelve nations of the Orient and Occident were represented at the
+					<org>Sixth International Neo-Malthusian and Birth Control Conference</org>,
+				recently brought to a successful close in<place reg="New York, NY"> New
+				York</place>. The Conference was held under the auspices of the American Birth
+				Control League and was the first gathering of its kind, made up of delegates from
+				every civilized country of the globe, ever held in the <place>United States</place>
+				to discuss problems of population and racial health.</p>
+			<p>Perhaps the most important achievement of the conference was to place the movement
+				for a OPTIMUM population <gap reason="torn document" extent="one word"/> all
+				countries, as opposed to <gap reason="torn document" extent="one word"/> population,
+				on a soundly <gap reason="torn document" extent="two words"/> basis. On its
+				scientific, philosophical and humanitarian basis, the conference emphasized the
+				remarkable unanimity of opinion and harmony of thought among the delegates from all
+				countries. This unity of thought has led to the organization of an international
+				league, and plans were made nature to convene in <place>Geneva, Switzerland</place>
+				in August, 1926, immediately before the session of the Assembly of the <org>League
+					of Nations</org>.</p>
+			<p>The first <org reg="Malthusian League">Neo-Malthusian League</org> was organized in
+					<place>England</place> some fifty years ago. Its activities were based on the
+				celebrated Malthusian theory, and were mainly economic in character. While not
+				discarding the Malthusian law that "<q who="MALTH">everywhere the pressure of
+					population presses against the means of subsistence</q>," the Sixth
+				International conference put greater stress on the problem of contraception (or as
+				it is popularly known Birth Control) in its medical, scientific, eugenic,
+				psychological and ethical aspects.</p>
+			<p>Ten years ago, when I inaugurated my campaign for conscious and voluntary motherhood
+				among the poor women of <place reg="United States">America</place>, I was denounced
+				and persecuted. Four years ago, a <org reg="American Birth Control Conference, 1st"
+					>mass meeting</org> was broken up by the police of New York. The International
+				Conference triumphantly vindicates my campaign, and indicates a remarkable progress
+				in American thought. Not only were all the sessions accurately and fairly reported
+				in the daily press, but the Birth Control movement has enlisted the support of the
+				most eminent authorities in all fields- not only economists, statisticians,
+				biologists, geneticists, physicians and psychologists, but also many pastors of the
+				various Protestant churches. This achievement is the greater in view of the federal
+				and state laws in the United States which forbid, even to doctors, the dissemination
+				of contraceptive information.</p>
+			<p><place>France</place>, which was once the nation in which Birth Control was most
+				universally practiced, has since the war, begun an active propaganda for large
+				families. Yet delegates from that country pointed out that the real menace is not a
+				lowering birth rate of the children born, and that the practice of Birth Control
+				continued despite all efforts to encourage larger families.</p>
+			<p>One of the most interesting features of the conference was the sessions, on methods
+				of contraception, for physicians only, held without interference despite the
+				rigorous statutes of the State against even the discussion of contraception. More
+				than one thousand physicians attended these sessions, held simultaneously in the
+				ball rooms of two great New York hotels.</p>
+			<p>The Sixth International Neo-Malthusian and Birth Control Conference marks the
+				initiation of a new era of international thought and the beginning of a closely
+				coordinated movement toward world-peace.</p>
+		</div>
+	</docBody>
+</doc>

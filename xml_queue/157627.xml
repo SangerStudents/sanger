@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed Statement">
+    <mepHeader>
+        <prepDate>2011/05/23 CE</prepDate>
+        <prepDate>2011/05/24 CE Corrections</prepDate>
+        <prepDate>2011/06/21 CE Corrections</prepDate>
+        <prepDate>2011/11/30 CH Correct typo</prepDate>
+        <prepDate>2014-04-01 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1941-04-26">26 Apr 1941</docDate>
+        <docTitle>
+            <titlePart>Is Sex Overrated?</titlePart>
+        </docTitle>
+        <idno>msp157627</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Library of Congress</bibl>
+            <bibl><title>Library of Congress Microfilm</title> 117:0499</bibl>
+        </sourceDesc>
+        <respStmt>
+            <name id="TENAL">Tennyson, Alfred</name>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>For an earlier draft, see Margaret Sanger Microfilm S77:43.</p>
+        <index level1="mentally disabled and diseased" level2="birth control and"/>
+        <index level1="physically disabled and diseased" level2="birth control and"/>
+        <index level1="population growth" level2="standard of living and"/>
+        <index level1="sex education"/>
+        <index level1="sex education" level2="need for"/>
+    </headNote>
+    <docBody>
+        <dateline><date>April 26, 1941</date>
+            <place reg="New York, NY">New York City</place></dateline>
+        <p>“Is sex overrated? How can anyone think it is when the world’s best minds agree that it
+            is the <del>com</del><add>im</add>pelling force behind many of our most important
+            spiritual and cultural advances? When thousands of records in our divorce courts testify
+            to the abysmal ignorance of hundreds of husbands toward women and wives toward men? When
+            scientific sex education would mean fewer imbecilic, sickly, and unwanted children? And
+            when such knowledge would help prevent human suffering and unnecessary waste of life?
+            Sex overrated? I think not. It is not less sex knowledge but more, far more, that is
+            needed. ‘<q who="TENAL">Let knowledge grow from more to more and more of reverence in us
+                dwell</q>.’”</p>
+        <byline><person reg="Sanger, Margaret">-MARGARET SANGER</person>
+            <lb/>Honorary Chairman <lb/><org>Birth Control Federation of America</org></byline>
+    </docBody>
+</doc>

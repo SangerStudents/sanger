@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+    <mepHeader>
+        <prepDate>2011/06/22 CE</prepDate>
+        <prepDate>2011/08/5 RT</prepDate>
+        <prepDate>2011/11/16 CH correcting index entry format</prepDate>
+        <prepDate>2011-11-21 CH correct typo</prepDate>
+        <prepDate>2014/03/12 EK clean regs</prepDate>
+        
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1938-00-00">1938</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Birth Control,
+                1938</supplied></titlePart>
+        </docTitle>
+        <idno>msp236628</idno>
+        <sourceDesc>
+            <bibl><title>Britannica Book of the Year</title> (1938)</bibl>
+            <bibl>LCM 51:152B</bibl>
+        </sourceDesc>
+        <respStmt>
+            <name id="CAO">Court of Appeal for Ontario</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>For other articles in the <title type="book">Britannica Book of
+                the Year</title> series, see <xref from="320976.xml"
+                    ><title>Birth Control, 1944</title></xref>; <xref
+                from="320980.xml"><title>Birth Control, 1946</title></xref>;
+                <xref from="320979.xml"><title>Birth Control,
+                1947</title></xref>; <xref from="320981.xml"><title>Birth
+                    Control, 1949</title></xref>; <xref from="321981.xml"
+                    ><title>Birth Control, 1950</title></xref>; <xref
+                from="320983.xml"><title>Birth Control, 1951</title></xref>;
+                <xref from="320984.xml"><title>Birth Control,
+                1952</title></xref>; <xref from="321984.xml"><title>Birth
+                    Control, 1953</title></xref>; <xref from="320985.xml"
+                    ><title>Birth Control, 1954</title></xref>; <xref
+                from="320986.xml"><title>Birth Control, 1955</title></xref>;
+                <xref from="none.xml"><title>Birth Control, 1956</title></xref>;
+                <xref from="320987.xml"><title>Birth Control,
+                1957</title></xref>; <xref from="320988.xml"><title>Birth
+                    Control, 1958</title></xref></p>
+        <p>For a typewritten draft, see S71:0964</p>
+        <index level1="birth control" level2="clinics and leagues"/>
+        <index level1="birth control" level2="distribution of information about"/>
+        <index level1="birth control" level2="laws and legislation" level3="Massachusetts"/>
+        <index level1="birth control" level2="legalization of"/>
+        <index level1="birth control" level2="legal cases" level3="U.S. v. One Package of Japanese contraceptives"/>
+        <index level1="birth control" level2="medical community and"/>
+        <index level1="birth control" level2="movement"/>
+        <index level1="birth control" level2="movement" level3="international"/>
+        <index level1="China" level2="birth control in"/>
+        <index level1="England" level2="birth control in"/>
+        <index level1="Europe" level2="birth control in"/>
+        <index level1="family planning"/>
+        <index level1="Germany" level2="birth control in"/>
+        <index level1="Germany" level2="population policies of"/>
+        <index level1="Iceland" level2="birth control in"/>
+        <index level1="Japan" level2="birth control in"/>
+        <index level1="Japan" level2="population policies of"/>
+        <index level1="National Committee on Federal Legislation for Birth Control"/>
+        <index level1="Puerto Rico" level2="birth control in"/>
+        <index level1="population" level2="birth control and"/>
+        <index level1="United States" level2="government" level3="birth control and"/>
+        <index level1="United States" level2="government" level3="public health programs"/>
+    </headNote>
+    <docBody>
+        <div type="section">
+            <head type="sub">Birth Control.</head>
+            <p>Significant developments in the world-wide birth control movement
+                in 1937 related to its legal and scientific foundations,
+                extension of facilities, and a more rational understanding and
+                acceptance of principles and methods. Increased medical approval
+                and participation were marked.</p>
+        </div>
+        <div type="section">
+            <head type="sub"><place>United States</place>. --</head>
+            <p>Birth control under medical direction became legal on Nov. 30,
+                1936, when the <org reg="United States Circuit Court of Appeals, Second District"
+                    >U.S. Circuit Court of Appeals for the Second District</org>
+                rendered a decision in the <name type="case" reg="United States vs. One Package of Japanese Contraceptives"
+                    >test case</name> of Dr. <person reg="Stone, Hannah Mayer"
+                    >Hannah M. Stone</person>, of the <org>Birth Control
+                    Clinical Research Bureau</org>, that the Federal obscenity
+                laws do not apply to the legitimate activities of physicians,
+                and that they may prescribe contraceptives in the interests of
+                the health and general well-being of their patients. This
+                decision terminated a long fight against an outmoded <name
+                    type="law" reg="Comstock Act of 1873">Federal law</name>
+                classifying contraceptive information and supplies with
+                obscenity. Although the decision was handed down late in 1936,
+                its impact and impulse to new activity were felt in 1937. This
+                decision brought the movement to the goal it had sought through
+                legislation.</p>
+            <p>The <org>National Committee on Federal Legislation for Birth
+                    Control</org> dissolved, and published a final report.</p>
+            <p>The <org>American Medical Association</org> approved birth
+                control as an integral part of medical practice and education
+                during 1937. This was one of the most important milestones in
+                the movement. A report by a special committee was adopted by the
+                association’s <org reg="American Medical Association, House of Delegates">House
+                    of Delegates</org>. The association is investigating
+                contraception and will promote the teaching of birth control in
+                medical school. The importance of its attitude and activities is
+                outstanding.</p>
+            <p>The <title type="journal">Journal of Conception</title>, the only technical
+                publication devoted to the biological and clinical aspects of
+                human fertility and its control, completed its second year under
+                the auspices of the Birth Control Clinical Research Bureau,
+                    <place reg="New York, NY">New York</place>, and its 200
+                affiliated clinics. The scope of the Clinical Research Bureau
+                was expanded. It has provided this service to 61,000 mothers,
+                serves as a clearing house of information, and promotes new
+                centres. It is the first large centre for contraceptive counsel
+                and the largest clinic of its kind. It enlarged its educational
+                department, exhibited scientific films to medical groups,
+                expanded its plans and began a campaign to induce public health
+                authorities to provide birth control facilities. It continues
+                its research on contraceptive products.</p>
+            <p>A temporary set-back came in one American State with the
+                convictions of clinic officials and staff in the lower courts of
+                certain <place>Massachusetts</place> cities. These cases are
+                being appealed. Legalization stimulated efforts to incorporate
+                birth control into the programs of public and voluntary health,
+                welfare, child-caring and maternity organizations, medical
+                colleges, hospitals, health centres, and clinics. Forty-nine new
+                centres were opened in 19 States.</p>
+            <p>In some religious groups objections to birth control continue on
+                grounds advanced as fundamental. Some rest, however, on the
+                assumption of moral implications which ignore scientific facts
+                and human realities. But the trend is steadily toward wider
+                acceptance.</p>
+        </div>
+        <div type="section">
+            <head type="sub"><place>Bermuda</place>. --</head>
+            <p>Upon the invitation of the <org reg="Bermuda Department of Health">Department of
+                    Health</org>
+                <person reg="Sanger, Margaret">Margaret Sanger</person> visited
+                Bermuda to help establish birth control centres.</p>
+        </div>
+        <div type="section">
+            <head type="sub"><place>Canada</place>. --</head>
+            <p>The <org reg="Court of Appeal for Ontario">Ontario Court of
+                    Appeals</org> dismissed an appeal from a magistrate’s
+                decision in a test case turning on whether an admitted violation
+                of a statute was “<q who="CAO">for the public good</q>,” a
+                victory for birth control.</p>
+        </div>
+        <div type="section">
+            <head type="sub"><place>China</place>. --</head>
+            <p>At the request of medical leaders, Mrs. Sanger planned to visit
+                China, but hostilities with <place>Japan</place> interfered. The
+                    <org>Chinese Medical Association</org> approved
+                contraception as a public health activity.</p>
+        </div>
+        <div type="section">
+            <head type="sub"><place>England</place>. --</head>
+            <p>Following representations by a group headed by <person
+                    reg="Horder, Thomas Jeeves">Lord Horder</person>
+                representing the <org>National Birth Control Association</org>
+                and allied societies, the <person reg="Wood, Howard Kingsley"
+                    >Minister of Health</person> increased the power of local
+                maternity and child welfare centres to give birth control
+                advice.</p>
+        </div>
+        <div type="section">
+            <head type="sub"><place>Iceland</place>. --</head>
+            <p>A law was passed directing the <person>Minister of
+                    Health</person> to provide physicians with birth control
+                information when pregnancy threatens the health of mother or
+                child.</p>
+        </div>
+        <div type="section">
+            <head type="sub">Japan. --</head>
+            <p>Impressive progress is being made in Japan under the leadership
+                of <person reg="Kato, Shidzue Ishimoto">Baroness
+                Ishimoto</person>.</p>
+        </div>
+        <div type="section">
+            <head type="sub"><place>Puerto Rico</place>. --</head>
+            <p>A bill passed by the legislature and signed by <person reg="Ramos, Rafael Menendez">Acting
+                    Governor Ramos</person> legalized birth control, following
+                efforts instituted five years ago by <person
+                    reg="Beverly, James Rumsey">ex-Governor
+                Beverly</person>.</p>
+        </div>
+    </docBody>
+</doc>

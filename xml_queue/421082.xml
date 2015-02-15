@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published statement">
+    <mepHeader>
+        <prepDate>2014/03/07 YG initial tags</prepDate>
+        <prepDate>2014-03-14 CH proof tags</prepDate>
+        <prepDate>2014-03-26 JK correct tags</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1936-05-14">14 May 1946</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Statement on the American Medical
+                    Association</supplied></titlePart>
+        </docTitle>
+        <idno>msp421082</idno>
+        <sourceDesc>
+            <bibl><title type="article">Regulation of Families Seen as
+                    Possibility</title>, <title type="journal">Jefferson City
+                    Post-Tribune</title>, May 14, 1936</bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="JCPT">Jefferson City Post-Tribune</name>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">This is a summary of <person reg="Sanger, Margaret"
+            >Sanger</person>'s press conference in <place>Washington, DC</place>
+        on May 14, 1936, published in the <place reg="Jefferson City, MO"
+            >Jefferson City</place> Post-Tribune as "Regulations of Family Seen
+        as Possibility" 5/14/36 p. 2 <index level1="birth control"
+            level2="medical community and"/>
+        <index level1="American Medical Association"/>
+        <index level1="birth control methods" level2="rice-based"/>
+    </headNote>
+
+    <docBody>
+        <head>REGULATION OF FAMILIES SEEN AS POSSIBILITY</head>
+        <head type="sub"><person reg="Sanger, Margaret">Margaret
+            Sanger</person>, Birth Control Advocate, Reports Discovery That Will
+            Simplify Problem</head>
+        <dateline>May 14, 1936 <date value="1936-05-14"/>
+            <place/></dateline>
+        <div>
+            <q who="JCPT"><p>Mrs. Margaret Sanger returned from a tour of
+                        <place>Asia</place> today with a new formula for
+                    regulating the size of families for 25 cents a year.</p>
+                <p>Mrs. Sanger hopes the formula eventually will be the answer
+                    to present bans against disseminating birth control
+                    information.</p>
+                <p>It may also, she said, be “the answer to the social workers’
+                    prayers,” and to refusal of the <org>American Medical
+                        Association</org> to help change the laws. </p></q>
+        </div>
+        <div>
+            <head type="sub">Keeps Formula Secret</head>
+            <p> “I have tried for 20 years to corral people into their doctors’
+                offices to learn about birth control because as a trained nurse
+                I have always believed that birth control is individual and that
+                each woman should consult her physician on her own needs,” <q
+                    who="JCPT">Mrs.Sanger Said.</q></p>
+            <p><q who="JCPT">If the doctors refuse to see that present laws
+                    force people to consult “bootleggers” of birth control
+                    information then they must expect people to go elsewhere,
+                    Mrs. Sanger said.</q></p>
+        </div>
+        <div>
+            <head type="sub">Assails A.M.A.</head>
+            <p>“The doctors who made that report possibly have adequate
+                information for their private practice,” she said. “Their
+                patients can get advice and equipment. They probably have not
+                seen enough of the poor in hospitals. If the medical profession
+                had met its responsibilities in this respect, the A.M.A.
+                committee could not complain that the educated class is not
+                producing itself while the poorer classes are over-producing. </p>
+            <p> When the A.M.A. committee says there is no evidence that present
+                laws, federal or state, have interfered with “any medical advice
+                which a physician has felt called upon to furnish his patients,”
+                they should remember that within two years, two doctors and two
+                nurses in the New York birth control clinic were arrested, and
+                that last week in Washington, the scientific contraceptive
+                exhibit of the <org>District of Columbia Medical
+                    Association</org> was stopped," Mrs. Sanger said. </p>
+
+        </div>
+
+
+
+
+    </docBody>
+</doc>

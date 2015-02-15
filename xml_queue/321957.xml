@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published speech">
+	<mepHeader>
+		<prepDate>2015-01-06 CH transcribed and encoded</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1916-05-16">16 May 1926</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Speech to the Women of Indianapolis</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp321957</idno>
+		<sourceDesc>
+			<bibl><title type="article">Birth Control Expounded Here</title><title type="journal"
+					>Indianapolis Star</title>, May 16, 1916, p. 5.</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="IS">Indianapolis Star</name>
+			<name id="BIB">Bible</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Sanger delivered this speech during the <org>National Conference of Charities and
+				Correction</org>, held at the <org>Claypool Hotel</org> in <place
+				reg="Indianapolis, IN">Indianapolis</place>. program. </p>
+		<index level1="abortion" level2="illegal"/>
+		<index level1="birth control" level2="class-based"/>
+		<index level1="mortality rates" level2="infant"/>
+		<index level1="mortality rate" level2="maternal"/>
+		<index level1="motherhood" level2="MS on"/>
+		<index level1="poverty" level2="family size and"/>
+		<index level1="prostitution"/>
+		<index level1="race suicide"/>
+		<index level1="Sanger, Margaret" level2="speaking tour, 1916 (U.S.)"/>
+		<index level1="women" level2="employment of"/>
+		<index level1="women" level2="freedom and rights of"/>
+		<index level1="women" level2="health of"/>
+		<index level1="women" level2="reproductive choices and decisions"/>
+		<index level1="working classes" level2="birth control and"/>
+	</headNote>
+	<docBody>
+		<head>Birth Control Expounded Here</head>
+		<head type="sub">Indianpolis Women Flock to Hear Mrs. Margaret Sanger and Hiss Opponents to
+			Practice at End of Meeting</head>
+		<div type="section">
+			<q who="US">
+				<p>It would seem that many Indianapolis women are in favor of birth control, as
+					advocated by Mrs. Margaret Sanger, of <place reg="New York, NY">New
+					York</place>, judging from the way they hooted, hissed and ridiculed with
+					penetrating feminine giggles the efforts of a few scattered "antis" who
+					endeavored to make themselves heard at the close of Mrs. Sanger's lecture
+					yesterday afternoon.</p>
+				<p>It was a vast crowd of women, with a few men scattered here and there, that
+					thronged into the assembly room at the Claypool Hotel to hear Mrs. Sanger. They
+					filled every seat and all the aisles; they rested on window sills and on tables
+					and sat on the floor. Some of them may have been there merely out of curiosity
+					to hear Mrs. Sanger, who has been arrested for spreading her propaganda of
+					advocating that the ban of medical secrecy shall be lifted in regard to
+					disseminating information that will enable a woman to determine the number of
+					children she shall bear. Every woman in the audience, however, listened with
+					breathless interest while Mrs. Sanger told of the history of the movement, and
+					of what it would mean to the working women, especially if the law would consent
+					to their becoming possessed of necessary information.</p>
+			</q>
+		</div>
+		<div type="section">
+			<head type="sub">Distinct from Conference</head>
+			<q who="IS">
+				<p>The address of Mrs. Sanger was not under the auspices of the National Conference
+					of Charities and Correction, and was not on the official program of meetings or
+					papers of the conference, but a large number of the delegates and visitors to
+					the big meetings head the talk.</p>
+			</q>
+			<p>"There is all this talk about race suicide." <q who="IS">said Mrs. Sanger.</q> "I say
+				the race ought to commit suicide unless it can take care of its children better. We
+				know that <person reg="Roosevelt, Theodore">Theodore Roosevelt</person> goes up and
+				down the country urging women to have large families and he is neither arrested nor
+				molested--yet I am persecuted for urging small families for people of the poorest
+				class who can not afford to have a great number of children. If it is wrong to tell
+				young women how they may have small families, how much worse it would seem to be to
+				urge them to have large families.</p>
+			<p>"Every year there are 250,000 illegal operations performed in this country, with the
+				deaths of 50,000 mothers as a result; every year 300,000 babies die of poverty and
+				neglect--yet we prevent the parents from gaining that knowledge of how to prevent
+				300,000 more babies, who can not be taken care of to come into the world only to die
+				of poverty and neglect.</p>
+		</div>
+		<div type="section">
+			<head type="sub">For Working Women</head>
+			<p>"The working women want this knowledge as well as the wealthier women, who already
+				are possessed of it to a certain extent, for while the physicians are most religious
+				in obeying the law in forbidding them to impart this knowledge in the case of the
+				poor women, they seem willing to give it to women of a higher class. One of the
+				arguments against birth control is that it would tend to lower the standards of
+				women's morals--but the guarding of women's morals is nothing but an age-old cloak
+				to keep her in bondage. The time has come to stop quibbling. When education for
+				women was first begun it had this same opposition and on the same grounds--but
+				education has not impaired women's moral standards and we would find that a knowlege
+				of birth control would not impair them.</p>
+			<p>"The insane asylums and feebel-minded insitututes are huge monuments to reckless
+				breeding. It is a fact that a great percentage of prostitutes come from families of
+				eight or nine children, who were unable to care for the children once they had
+				brought them into the world In the large cities the birth rate of the wealthy
+				districts is about one-third of that of the poorer districts, and my experience has
+				been taht a women living on a wage of $10 a week does not desire a large family;
+				when she has three or four children, she is in constant terror that another may
+				come, and when the laws forbid her to be given knowledge on how to prevent this, she
+				is forced into the hands of quacks and midwives. When the practice of performing
+				certain operations was put under the ban of the law and the church its alternate
+				evil, the foundling asylum, immediately sprang up.</p>
+		</div>
+		<div type="section">
+			<head type="sub">Clinics in Holland</head>
+			<p>"In <place>New Zealand</place> and <place reg="Netherlands">Holland</place>, where
+				they have clinics where women may obtain information regarding birth control,
+				prostitution is practically unknown. There, when a new baby comes, it is like an
+				automobile or a grand piano, something that families do not have unless they want
+				it, and can afford to have it and take care of it. In <place reg="United States"
+					>America</place> we have the best of foundations for establishing these clinics,
+				especially in the industrial and agricultural districts, where women could come for
+				instruction from nurses. Where the poor continue to breed it invariably leads to
+				greatly increased mortality, and is 'up to' the scientists and doctors to direct the
+				great wave in favor of teaching birth control</p>
+			<q who="IS">
+				<p>When the lecture was ended and a general discussion was announced by <person
+						reg="Blossom, Frederick A.">Frederick A. Blossom</person> of <place
+						reg="Cleveland, OH">Cleveland</place> who managed the meeting and presided
+					over it. Dr. <person reg="Graham, Hannah M.">Hannah M. Graham</person> was the
+					first one to speak. Dr. Graham wished to know, first, where the country would
+					have been had <person reg="Lincoln, Nancy Hanks">Abraham Lincoln's
+						mother</person> been an advocate of birth control, and, secondly, how the
+					advocates of birth control reconciled their beliefs with the line in the
+						<title>Bible</title> that says "<q who="BIB">Suffer the little children to
+						come to us.</q>" </p>
+			</q>
+		</div>
+		<div type="section">
+			<head type="sub">Chorus of Hisses</head>
+			<p><q who="IS">There was a wild chorus of hisses and laughs, and when the tumult was
+					stilled, the answer was made that </q>"The kingdome of heaven today is full of
+				little children that have suffered to come unto you, and as for <person
+					reg="Lincoln, Abraham">Abraham Lincoln</person>--there was only one of him."</p>
+			<p>
+				<q who="IS">Up rose another opponent and asked how about the passage in the Bible
+					where the <name type="deity">Lord</name> told <person
+						reg="Adam (Biblical figure)">Adam</person> to go forth and replenish, the
+					reply to this was that Adam had the whole earth to himself.</q>
+			</p>
+			<p>
+				<q who="IS">Each answer in favor of the birth control brought forth loud and
+					prolonged appluause and each question that indicated that the questioner in any
+					way was opposed to it brought forth a storm of hisses and laughs. In the midset
+					of this excitement, slips were passed about the audience requesting that all
+					women interested in forming a league for the furthering of the movement should
+					sign, and hundreds of women busily affixed their names to the little slips of
+					paper.</q>
+			</p>
+		</div>
+	</docBody>
+</doc>

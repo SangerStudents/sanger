@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published interview">
+    <mepHeader>
+        <prepDate>2014-04-09 JK initial tag</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1938-11-12 ">12 Nov 1938</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Interview with International News
+                    Service</supplied></titlePart>
+        </docTitle>
+        <idno>msp214910</idno>
+        <sourceDesc>
+            <bibl><title type="article">"U.S. Marriage Aid
+                    Proposed"</title><title type="journal">San Francisco
+                    Examiner</title>, Nov. 13, 1938.</bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="SFE">San Francisco Examiner</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>This is a summary of an interview <person
+                reg="Sanger, Margaret">Sanger</person> gave in <place>New
+                York</place> to the<title type="journal"> International News
+                Service </title></p><index level1="population growth"
+            level2="regulation of"/>
+        <index level1="population growth" level2="standard of living and"
+            /><index level1="birth control" level2="American opinion on"/>
+        <index level1="birth control" level2="in New York"/>
+        <index level1="marriage"/></headNote>
+    <docBody>
+        <head>U.S. Marriage Aid Proposed</head>
+        <head type="sub">Mrs. Margaret Sanger Urges Pensions, Subsidies</head>
+        <dateline>
+            <date value="/----/-11-12"/> Nov. 12, <place>New
+            York</place></dateline>
+        <q who="SFE">
+            <p>Two radical proposals to check “human erosion” in the nation were
+                urged upon the government tonight by Mrs. Margaret Sanger, birth
+                control advocate, in an interview here.</p>
+            <p> Mrs. Sanger recommended:</p>
+            <p><list>
+                    <item>1- Pensions for persons of child-bearing age with
+                        transmissible or hereditary diseases who will agree to
+                        sterilization, and: </item>
+                    <item>2 - Subsidies for healthy young men and woman, skilled
+                        artists, professionals and agriculturists who would
+                        welcome children, to tide them over the trying early
+                        years of married life until they can become
+                        self-supporting.</item>
+                </list></p></q>
+        <div>
+            <head type="sub">Provisions Urged.</head>
+            <p><q who="SFE">Pointing out that the <org
+                        reg="Government of the United States of America">Federal
+                        Government</org> would seen he asked to appropriate
+                    $850.000,000 for improvement of the public health, Mrs.
+                    Sanger said that no doubt much of this sum required of the
+                    taxpayers would be sought to increase existing health and
+                    welfare services for mothers and children.</q></p>
+            <p><q who="SFE">So in addition to her other proposals she
+                    recommended that</q> “the men and women who have the welfare
+                of this country at heart” <q who="SFE"> urge their
+                    representatives in <org reg="United States Congress"
+                        >Congress</org> to see that provision is also made for
+                    the Government to supply birth control information to
+                    parents</q> “among that enormous group of 20,000,000
+                individuals dependant upon some form of public aid.” </p>
+        </div>
+        <div>
+            <head type="sub">Constructive Relief.</head>
+            <p>“Such a measure,” she said, “not only will give constructive,
+                immediate relief to millions of families and prevent additional
+                suffering, but would be he greatest forward step ever taken on a
+                national scale to raise the level of intelligence of the
+                nation’s population, and the quality of life.”</p>
+            <p>
+                <q who="SFE">Stressing the need for such government aid, Mrs.
+                    Sanger said that of the 2,000,000 babies born in this
+                    country in 1937, 1,100,000 were born to parents on relief or
+                    with incomes of less than $18 a week.</q></p>
+        </div>
+        <div>
+            <head type="sub">Aid to Marriage</head>
+            <q who="SFE">
+                <p>Of her two proposals Mrs. Sanger said:</p></q>
+            <p>"The cost of maintaining our derelict population is nothing
+                compared to the loss of creative effort which might be utilized
+                in other channels. Why should our benevolent Federal Government
+                not make a constructive investment in the quality of our future
+                citizenship by offering pensions to all those in the
+                child-bearing aged with transmissible or hereditary diseases who
+                will agree to sterilization?"</p>
+            <p> "Here truly is a system of pensioning that would bring its own
+                reward.</p>
+            <p>“Couple with this another appropriation as an aid to marriage for
+                those healthy, intelligent young men and women, skilled
+                artisans, professionals, agriculturalists, who wish to marry and
+                would welcome a family, if there were some provision to tide
+                through possible emergencies in the first years until they could
+                become entirely self-supporting.”</p>
+        </div>
+
+    </docBody>
+</doc>

@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed speech">
+    <mepHeader>
+        <prepDate>2002-08-06 KH</prepDate>
+        <prepDate>2002-08-15 KH</prepDate>
+        <prepDate>2004/04/22 CH correct after research, also lots of tagging errors</prepDate>
+        <prepDate>2004/07/23 CH</prepDate>
+        <prepDate>2004/07/26 CH</prepDate>
+        <prepDate>2004/08/09 CH</prepDate>
+        <prepDate>2004/08/13 CH</prepDate>
+        <prepDate>2007/06/25 CH Oxygen update</prepDate>
+        <prepDate>2001/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
+        <prepDate>2014-03-18 CH clean regs</prepDate>
+        <prepDate>2014-04-22 CH added contextual headnote</prepDate>
+        <prepDate>2014/12/9 EK Correct proof + update index</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1916-04-00"> Apr-July 1916</docDate>
+        <docTitle>
+            <titlePart>Birth Control</titlePart>
+        </docTitle>
+        <idno>msp128002</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Library of Congress</bibl>
+            <bibl>Margaret sanger Papers Microfilm, LCM 129:12</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="SACSA">Sachs, Sadie</name>
+        </respStmt>
+    </mepHeader>
+    <sourceNote/>
+    <headNote><p>Much of this text was drawn from the <title type="speech">Hotel Brevoort
+                Speech</title><xref from="128167.xml">Jan. 17, 1916</xref>. The draft was one of the
+            texts <person reg="Sanger, Margaret">Sanger</person> used during her American speaking
+            tour in 1916. For other speeches given on that tour, see <title type="speech">Chicago
+                Address to Women</title>, <xref from="236132.xml">Apr.-May 1916</xref>, <title
+                type="speech">Birth Control and Society</title><xref from="101859.xml">Apr.-June,
+                1916</xref>," and "Condemnation is Misunderstanding," <xref from="128003.xml"
+                >Apr.-Jun. 1916</xref>. No final version was found. al speaking tour in 1916.</p>
+        <p>Emendations to the text were made by hand by Margaret Sanger. Entire paragraphs struck
+            out, most likely for shortening the speech have not been deleted from this version.</p>
+        <p>Sanger added a note reading: "<q>Original speech given by MS in 1916--this was the first
+                public utterance on the whole subject &amp; was delivered 119 times in one
+                year--</q>"</p>
+        <index level1="Sanger, Margaret" level2="speaking tours, 1916 (United States)"/>
+        <index level1="abortion"/>
+        <index level1="child labor"/>
+        <index level1="mentally disabled and diseased"/>
+        <index level1="birth control" level2="morality of"/>
+        <index level1="birth control" level2="class-based"/>
+        <index level1="birth control" level2="lack of knowledge of"/>
+        <index level1="birth control clinics and leagues"/>
+        <index level1="physicians" level2="birth control and"/>
+        <index level1="Woman Rebel, The"/>
+        <index level1="women" level2="freedom and rights of"/>
+        <index level1="women" level2="reproductive choices and decisions"/>
+        <index level1="France" level2="birth control in"/>
+        <index level1="Netherlands, the" level2="birth control in"/>
+        <index level1="Scotland" level2="birth control in"/>
+        <index level1="censorship"/>
+        <index level1="Roosevelt, Theodore"/>
+        <index level1="race suicide"/>
+        <index level1="Sachs, Sadie"/>
+        <index level1="neo-Malthusianism"/>
+        <index level1="Malthusian League (Dutch)"/>
+        <index level1="Malthusian League (English)"/>
+        <index level1="Knowlton, Charles"/>
+        <index level1="Besant, Annie"/>
+        <index level1="Knowlton, Charles"/>
+        <index level1="Wilson, Woodrow"/>
+        <index level1="Jacobs, Aletta"/>
+        <index level1="Rutgers, Johannes"/>
+    </headNote>
+    <docBody>
+        <head><add>Birth Control</add></head>
+        <p><del>To me</del><add>I believe that</add> birth control is the <del>keynote</del>
+            <add>signal</add> of a new social awakening. To me it is not <del>only</del>
+            <add>merely</add> an economic expedient, <del>but</del> it is also a great social
+            principle, interlocked with the veryspiritual progress of the race itself and its
+            future. That is why it seems to me that this meeting is in harmony with the basic idea
+            of birth control, because it brings together all of us social workers of such diverse
+            outlooks and temperaments, which indicates that it is an idea vital to us all.</p>
+        <p>I realize keenly that many of those who understand and would support the birth control
+            propaganda if it were carried out in a safe, sane manner, cannot sympathize with or
+            countenance the methods I have used in my attempt to arouse the working woman to the
+            fact that bringing a child into the world is her greatest responsibility. I know that
+            physicians and scientists have a great technical fund of information. For years and
+            generations they have had all the technical information on the subject. There is nothing
+            new, nothing radical in the idea of birth control. <person>Aristotle</person> advocated
+            it, <person>Plato</person> advocated it, all our great and modern thinkers have
+            advocated it. It is an idea that must appeal to any mature intelligence. Yet all this
+            scientific and technical discussion has had the effect of producing more and more
+            technical discussion, all very necessary and very stimulating to that very small group
+            of women and women who could understand it. But all during the long years while this
+            matter was being discussed, advocated, refuted by the scientists, the people themselves,
+            the poor people especially were blindly, desperately practicing family limitation just
+            as they are practicing it today, but to them birth control does not mean what it does to
+            me. To them it has meant the most barbaric methods. It has meant the killing of babies,
+            infanticide, abortion, in one crude way or another, for women from time immemorial have
+            tried to avoid unwanted motherhood. We all know the tribe of professional abortionists
+            which has sprung up and profited by this terrible misfortune. We know, too, that when
+            the practice of abortion was put under the ban of the church, the alternate evil, the
+            foundling asylum, with its horrifying history sprang up. We know too that when the laws
+            against imparting knowledge to <del>control birth</del>
+            <add>prevent conception</add> were passed, <add>in this country</add> thousands of women
+            were forced into the hands of midwives and cheap abortionists unless they would bear
+            unwanted offspring, with the consequence that there is no other country in the world
+                <add>today</add> which has so large a number of abortions nor as large a number of
+            deaths resulting therefrom as the <place reg="United States">United States of
+                America</place>. <add><del>No</del> laws make crime to prevent by knowledge.</add>
+            It is a conservative estimate that 250,000 abortions are performed each year in this
+            country, while about 50,000 deaths result therefrom, and all this time our quacks and
+            abortionists roll in wealth while our law makers close their Puritan eyes.</p>
+        <p><add>Difference in B.C. &amp; abortions</add></p>
+        <p>How often have I stood at the bedside of a woman in childbirth and watched the tears flow
+            in gladness and heard her sigh of relief and words "<q>Thank <name type="deity"
+                    >God</name></q>" when she was told that the child was born dead. <del>What can
+                man know of the agony of carrying beneath one's heart a little life which every
+                instinct tells the mother it cannot survive</del>, For even when it is born alive
+            the chances are that it will die within the first year. We know that there are 300,000
+            babies under one year of age which die in the United States every year from poverty and
+            neglect, while 600,000 parents remain in ignorance of how to prevent 300,000 more babies
+            from coming into the world the next year to die of poverty and neglect. A few simple
+            words of advice on how to control birth would enable these people to avoid this horrible
+            slaughter! In my fourteen years' experience as a trained nurse I found that 75% of the
+            diseases of men and women were the result of ignorance concerning their sex functions.
+                <del>So great was this ignorance among girls and women concerning their bodies that
+                I decided to devote myself to the study of women's diseases.</del> I took up
+            gynecological and obstetrical nursing and then I found <del>the great discovery</del>
+            that knowledge to control birth was obtained and practiced by the women of
+                <del>wealth</del>
+            <add>means</add> while the poor women were kept in ignorance of this knowledge. I found
+            that these poor women had emphatic views on the crime of bringing children into the
+            world to die of hunger, and would rather risk their lives through abortion rather than
+            give birth to children they could not feed, clothe and care for.</p>
+        <p>It is not an uncommon thing to see <add>groups</add> of women forming in line outside a
+            doctor's office any evening after working hours, between 6 and 8 o'clock, on the lower
+            East Side of <place reg="New York City, NY">New York City</place>.</p>
+        <p><add>90% women married 95% have more than 2 children 99%religious</add></p>
+        <p>These women go there <del>and</del>
+            <add>to</add> face the tortures of abortion rather than condemn an unborn child to
+            poverty, <del>and</del>
+            <add>while</add> all this time our wise men and sages and scientists are discussing the
+            subject of birth control among themselves. Their ideas are sterile, <add>for</add> they
+            have not influenced or effected the tremendous facts of life among these women, the
+            working women, the disinherited.</p>
+        <p>You all know the <del>life</del>
+            <add>lives</add> of the children of the cotton mills of the South, <del>of the boys in
+                the mines</del>,<add>wend their weary way to work</add>,of the children working in
+            the canning industry <add>go carts</add> but do you know that in New York City there are
+            thousands of little infants between <add>under school age</add> 3 and 5 years of age who
+            toil far down in sub-cellars beneath the earth. There they sit cross-legged upon heaps
+            of rags, their little backs are bent, their faces bloodless, their little fingers keep
+            busy curling feathers, making artificial flowers, or rolling cigarettes. Year in and
+            year out they toil in places where the sun has never shone. This work is
+                <add>slavery</add> forced upon them because they are invariably members of large
+            families who need their pitiful earnings. The same applies to child labor everywhere.
+            Statistics show us that the majority of child hands of factories and mills of <place
+                reg="Lowell, MA">Lowell</place> and <place reg="Fall River, MA">Fall River</place>,
+            Mass., come from parents who average nine living children.</p>
+        <p>We also find from records concerning the women of the under-world that 85% of these come
+            from parents who also average nine children, and later discoveries have found that 50%
+            of these girls have been found to be mentally defective. Many of them at the age of 22
+            or 23 years have the intelligence of <del>children</del><add>child</add> not over 8 or 9
+            years. Can we not see how difficult it is for this girl with <del>the</del>
+            <add>an</add> adult body and child's mind to compete in the struggle of life against the
+            more intelligent and better born? We know too that the fertility of the mentally
+            defective parent is four times that of the normal parent. In <del>New York City</del>
+            <add>all larger cities</add> today there are <del>10,000</del>
+            <add>thousands</add> feeble-minded girls living in prostitution, clamoring at the doors
+            of <del>charities</del>
+            <add>the State</add> to take them in and care for them and protect them from the life of
+            degradation which they have been leading. The institutions for the feeble minded are
+            full and overcrowded. There is no room for these. Are not our feeble minded institutions
+            and insane asylums monuments to careless and reckless breeding? Is it not time that our
+            physicians, scientists, social workers and sages, is it not time that they face this
+            array of facts and stop quibbling in hair-splitting debates over woman's morality. I say
+            this because you all know that the principal objection in the minds of these people
+            against the idea of birth control for the working woman, is that it may have a tendency
+            to decrease her standards of morality. Solicitude for woman's morals has always been the
+            cloak that authority has worn in its age-long conspiracy to keep her in bondage!!<add>
+                suffrage--young girl--pest</add></p>
+        <p>When I was in <place>Spain</place> a year ago I found that the Spanish woman was far
+            behind her European sisters in readiness or even desire for modern freedom. Upon
+            investigation as to the cause of this I was told that there are 5,000 villages and towns
+            in Spain with no means of transportation except donkeys over bridle paths, and that all
+            attempts at building roads and railroads into Spain met with strong opposition of the
+            clergy and the government on the grounds that roads and railroads would make
+            communication easy thereby bringing the women of the country towns into the cities where
+            they would become immoral! Do we who have roads and railroads think that our women are
+            less moral than the Spanish women? Certainly not. Yet we in this country are after all
+            only just emerging from the fight for the higher education of women which met with the
+            same opposition early in its day. We now know that education has not done all the
+            dreadful things to woman that its opponents predicted were going to result, and so shall
+            we find that knowledge to control birth which has been in the hands of the wealthy women
+            of this country for the last 25 years, so shall we find that it will not tend to lower
+            their standards of morality, for if the women of wealth have withstood this
+                <add>test</add> have we <add>any</add> reason to think that the working women will
+            use it less wisely?</p>
+        <p>Statistics show us that the birth rate of any quarter is in ratio to its wealth, and
+            further give us figures to prove that in large cities the rich districts have a birth
+            rate of one-third of that of the poor districts. In <place reg="Paris, France"
+                >Paris</place> for every 1,000 women between the ages of 15 and 50 the poor
+            districts yield 116 births, while the rich districts yield 34 births. In <place
+                reg="Berlin, Germany">Berlin</place> conditions are approximately the same. For
+            every 1,000 women of similar ages there are 157 births in the poor quarters and 47 in
+            the rich quarters. The same applies to <place reg="London, England">London</place>,
+                <place reg="Vienna, Austria">Vienna</place>, New York, in fact to all large cities
+            the world over, which can be inferred that one class of women use means to control birth
+            which is condemned when taught to the other class. But the menace of our civilization
+            and problems of today are not the stationary birth rate among the upper class as much as
+            the tremendous increase of the poor and diseased population of this country. </p>
+        <p>Many of my friends will object to this statement because it seems to clash with
+                their economic theories, but there are always objections from some quarter; for
+                every ideal created there is a <person>Herod</person> born to kill it.</p>
+        <p>To me the question of birth control is by far the most important question that the
+            working people can touch upon, and it should have gone hand in hand with labor
+            organization for the past 25 years. Had this been done we should not have had to face
+            the great problems of unemployment and child labor which we are facing today. It has
+            been my experience that the woman with an income of $10. a week does not desire a large
+            family. I have worked among thousands of them. I have found them with 7, 8 and 9 living
+            children, and I have never yet known one of them to desire another mouth to feed. On the
+            contrary I have found them in constant terror of the coming of another baby and
+            submitting to unwanted childbirth only because of their ignorance. Picture a woman with
+            five or six little ones living on the average workingman's wage of $10. a week. Another
+            baby is coming as fast as nature can manage it. She is already broken in health and
+            spirit, a shadow of the lovely woman she once was. Where is the man or woman who would
+            reproach me for trying to put into this woman's hands knowledge to prevent giving birth
+            to any more? Is this action on my part to be called immoral? Am I to be persecuted and
+            classed as immoral because I advocate small families for the working women while Mr.
+                <person reg="Roosevelt, Theodore">Roosevelt</person> can go up and down the length
+            of the land shouting and urging this class of women to have large families and is
+            neither arrested nor molested, but considered by all society as highly moral?<del> But I
+                ask you which is the more moral, to urge a working woman to have only those children
+                she desires and can support or to delude her into bearing cannon fodder for the
+                munition makers and professional jingoes?</del></p>
+        <p><unclear>illegible</unclear> administratioon closed drug shops <place>New
+            Zealand</place></p>
+        <p>Let us ask ourselves which is America's definition of morality.</p>
+        <p>We in America are inclined to think that all advanced ideas must come from
+                <place>Europe</place>, but it is interesting to find in my studies abroad that the
+            idea of birth control as it is propagated today throughout the world had its
+                <del>incentive</del>
+            <add>impetus</add> from a book written in America. This book was called "<title
+                type="book">The Fruits of Philosophy</title>" and was written by Dr. <person
+                reg="Knowlton, Charles">Chas. Knowlton</person> of <place reg="Boston, MA"
+                >Boston</place>, Mass. over 80 years ago. <add>It was driven out of U.S.A
+                &amp;</add> It wandered about the globe for 40 years before it finally found its way
+            into a book seller's shop in <place>Bristol, England</place>. The book seller was
+            arrested for selling it and pled guilty to the charge. <person reg="Besant, Annie">Annie
+                Besant</person> and <person reg="Bradlaugh, Charles">Charles Bradlaugh</person>, two
+            ardent advocates of liberty, took the case out of the book seller's hands and fought it
+            out in the English courts. Previous to this time there had been a great deal of
+            agitation on the small family question by the followers of <person
+                reg="Malthus, Thomas Robert">Malthus</person>. The Malthusian advocates believed in
+            small families but the methods advanced for bringing about this result were continence
+            and late marriage. Dr. Knowlton's book, taking into consideration the normal nature of
+            man, advised on the contrary early marriage with means to control birth, which coming at
+            the time it did appealed to the reason of a more advanced generation. The trial of Mrs.
+            Besant and Mr. Bradlaugh aroused all England and every lover of liberty came to their
+            support. The trial lasted three days. It was heard before a special jury, they were
+            found guiltyand sentenced to six months' imprisonment. So great, however, was the
+            agitation and indignation at this example of legal censorship that the charges were
+            dismissed on a legal technicality.</p>
+        <p>40,000 of these books had been sold through England for six pence apiece, and it was
+            brought out at the trial that the charges would never have been brought had the book
+            been kept within the bounds of the restricted class by a high price. <del>To what extent
+                this trial of Annie Besant and Charles Bradlaugh won for the English people the
+                right of free press can be judged from the summing up of Mr. <person
+                    reg="Coleridge, Bernard John Seymour">Justice Coleridge</person> on an obscenity
+                and blasphemy case two years ago.</del>(Insert).</p>
+        <p>The English people had been fighting for 35 years to gain that decision. It has not been
+            won without effort, struggle and sacrifice, for in England as in America the people
+            recognize that there is an ever increasing power in the state, the tendency of which is
+            to decrease the liberties of the people, and it behooves each generation to grapple with
+            this power and to challenge it if we would hold the liberties gained for us by our
+            forefathers. We must not expect that these liberties will be given to us easily. We must
+            be prepared to take what each new generation needs and fight to hold them. This is what
+            the English people have been trying to do. They have been struggling for 35 years to
+            hold what Annie Besant and Charles Bradlaugh gained for them through that prosecution
+            and trial.</p>
+        <p>Unlike us, the English love for liberty is greater than their dislike of personality. No
+            matter how much they may dislike a person fighting for liberty, they stand squarely
+            behind him, never giving the government an opportunity to silence a voice merely because
+            the person behind it has been unpopular or objectionable to certain elements of the
+            community. It has been this spirit that has triumphed over the censors and has given far
+            greater personal freedom to them than we have in America</p>
+        <p>When I arrived in England a year ago I found the greatest interest among the English
+            people in our <name type="law" reg="United States Criminal Code, Section 211"
+                    ><del>Comstock</del>
+                <add><org reg="United States Post Office">Post Office</org></add> laws</name>, which
+            contributed to keep the people of this country in ignorance on the subject of birth
+            control. To my amazement I found that the same group of <add>conservative tho</add>
+            ardent advocates of birth control <add>were</add> most enthusiastic and overjoyed when
+            they found that our obscenity laws had <add>at last</add> been violated. They at once
+            went about to interest and influence the support of every man and woman in England of
+            learning and of high standing to back me up in my fight for this freedom. You all know
+            of the letter written to the <person reg="Wilson, Woodrow">President of the United
+                States</person> in my behalf by these people, protesting against <del>the</del>
+            <add>my</add> persecution <del>where this knowledge was concerned</del> and insisted
+            that we are the only civilized country in the word whose laws make it a crime to spread
+            this knowledge. This letter was signed by such prominent men as <person
+                reg="Wells, H. G.">H.G. Wells</person>, <person reg="Bennett, Arnold">Arnold
+                Bennett</person>, <person reg="Murray, Gilbert">Gilbert Murray</person>, <person
+                reg="Maude, Aylmer">Elmer Maude</person>, <person reg="Carpenter, Edward">Edward
+                Carpenter</person> and many others, and a great deal of interest was also shown in
+            my case by <person reg="Shaw, George Bernard">Bernard Shaw</person>, <person
+                reg="Galsworthy, John">John Galsworthy</person>, <person reg="Ellis, Havelock"
+                >Havelock Ellis</person>, who wrote me, and all <del>seemed to take a great </del>
+            <add>took an active</add> interest in the work which was being carried on in this
+            country.</p>
+        <p><del>In England it has only been within the past three years that the birth control
+                league has been openly able to defy the laws to the extent of openly giving out the
+                information to the people who requested it.</del> Up to this time and during all
+            those <add>30</add> years they <del>had</del>
+            <add>have</add> worked among the educators only, with the object of getting behind them
+            so strong a group of men and women that the government would not dare attack them. In
+            this they have been successful and now their object is to establish clinics among the
+            working women where knowledge can be given free of charge as has been done for the past
+            30 years in <place reg="Netherlands, the">Holland</place>. <add>working class
+                untouched</add></p>
+        <p>Immediately after the trial of Annie Besant and Charles Bradlaugh the same group of men
+            and women who had been interested in carrying on this agitation formed what is known
+            today as the English Neo-Malthusian League, which advanced the methods advocated in Dr.
+            Knowlton's book instead of the Malthusian practice as advocated by Thomas Malthus. Their
+            first work was to publish a paper and to spread these ideas into other countries in
+            Europe, and Holland was the first to become interested in the subject and invited Dr.
+                <person reg="Drysdale, Charles Robert">Drysdale</person>, the president of the <org
+                reg="Malthusian League">English League</org> to speak at its Medical Congress in
+            Amsterdam. The following year a league was formed in Holland and a woman physician, Dr.
+                <person reg="Jacobs, Aletta">Aletta Jacobs</person>, opened a clinic in Amsterdam
+            and announced that all women who desired this information could obtain it from her free
+            of charge. This was a daring and brave thing to do on the part of Dr. Jacobs. She was
+            maligned and insulted by the members of her own profession, but she stood firmly to her
+            principles and continued to do this work among the women of Holland. From that time on
+                <del>a</del>
+            <add>the</add> number of clinics increased, particularly in the working districts. Today
+            there are 52 such clinics, with nurses in charge, and the medical profession has
+            practically handed this work over to the nurses. Birth control work in Holland is better
+            organized than in any other country in the world. It is the only country in the world
+            where the government has not prosecuted those advocating the idea; with the result that
+            the men and women with ideals have been able to put their energies into the building up
+            of the <add>league</add> instead of wasting their energies and time fighting the
+            government authorities. Today the <org reg="Malthusian League(Dutch)">Dutch league</org>
+            has 5,000 members. Practically every well known man and woman in Holland gives this work
+            his unanimous support. They send out 7,000 pamphlets a year, in three different
+            languages, English, Dutch, and Esperanto, giving all instructions to control birth.
+            Although the work of the league is not sanctioned by the government, it has behind it so
+            intelligent and unanimous a public opinion that the authorities <del>dare</del>
+            <add>have</add> not <add>attacked</add> it.</p>
+        <p>A few years ago it was given a royal decree by the government as a great public utility,
+                <del>as</del>
+            <add>and</add> the result of 30 years' work has been that the general death rate of
+            Holland has <add><emph rend="underline">slowly!</emph></add> fallen to be the lowest of
+            any country of Europe, while the infant <add>mortality</add> of Amsterdam and <place
+                reg="the Hague, Netherlands, the">the Hague</place> is the lowest <del>in</del>
+            <add>of</add> any <add>cities</add> in the world. This is not due to either the
+            philanthropic societies or the work of the State. But it is purely the result of the
+            individual responsibility of the Dutch people toward their offspring. Holland proves to
+            us beyond the shadow of a doubt that the practice of birth control leads to race
+            improvement instead of race suicide because the increase in population has accelerated
+            as the death rate has fallen.</p>
+        <p>This work has been mainly in the hands of <person reg="Johannes Rutgers">Dr.</person> and
+                <person reg="Rutgers, Wilhelmina Hoitsema">Mme. Rutgers</person> of the Hague. This
+            little man and woman have devoted their entire lives to spreading this information among
+            the people, and also to teaching the nurses how to carry on this work of the care and
+            hygiene of the human body. To me Dr. and Mme. Rutgers are more important to the welfare
+            of the Dutch people than either the king or the queen <add>of Holland</add>. All the
+            nurses who are sent out to do this work are instructed by Dr. Rutgers and from him take
+            their course of training. He then sends them into the district where they are most
+            needed. He holds in his hands the records of the birth and death rate of the various
+            sections throughout Holland, and whenever he sees that the death rate in rising he at
+            once sends a nurse into that district to establish a free clinic. These clinics soon
+            become self-supporting for the Dutch people believe in paying their way as they go along
+            and so open and frank are the men and women of this little country concerning this
+            subject that they would no more think of bringing children into the world that they
+            could not feed, clothe and care for than we would buy an automobile or a piano, or any
+            other luxury which we knew we could not afford to <del>pay for</del>
+            <add>buy</add>. This instruction is given to every woman married or old enough to be
+            married, with the consequence that the young people are able to marry early and
+            commercialized prostitution is practically unknown among them today.</p>
+        <p>In France on the other hand, although the knowledge of birth control has been universally
+            disseminated since the time of <person reg="Bonaparte, Napoleon">Napoleon</person> it
+            has never been organized along scientific lines so as to benefit those who most need it.
+            The upper class women, as in this country, have ready access to it, while the poor
+            continue to multiply because of their imperfect knowledge. This leads to a high infant
+            mortality, which rather than a low birth rate is the real cause of the
+                <del>decreasing</del>
+            <add>stationary</add> population of France.</p>
+        <p>We in America should learn a lesson from this, and I would urge immediate group action
+            for the forming of clinics in the industrial centers of this country where the poor
+            women are over-burdened with large families. Instead of our charity organizations,
+                <del>our</del>
+            <add>instituting</add> baby nurseries, Better Baby leagues, Little Mother leagues, which
+            at their best are simply alleviations for their present distress, would it not be better
+            to help these women <del>and the most of these babies</del> to help themselves by giving
+            them the knowledge to control birth, thereby preventing their bringing into the world
+            children to fill the orphan asylums and other institutions of charity?</p>
+        <p><del>To me </del><add>Our present day</add> society and all its well-intentioned
+            palliatives are in this respect like the quack who attempts to cure a cancer by burning
+            off the top while the deadly disease continues to spread underneath.</p>
+        <p>I have never felt this more strongly than I did three years ago after the death of a
+            patient on my last nursing case. This <person reg="Sachs, Sadie">patient of
+                mine</person> was the wife of a <person reg="Sachs, Jake">struggling working
+                man</person> and the mother of three children. She was suffering from the results of
+            an attempted abortion performed upon her by herself. She lived on Grand St., the main
+            thoroughfare of New York down-town Ghetto. I found her in a very serious condition and
+            for three weeks both the attending physician and myself labored night and day to bring
+            her out of the valley of the shadow of death. We finally succeeded in restoring her to
+            her family circle. I remember well the day I was leaving. The doctor, too, was making
+            his last call. As the doctor put out his hand to say good-bye to her, I saw that she had
+            something to say to him, but was timid and shy about saying it. I started to leave the
+            room to leave them both alone, but she said "<q who="SACSA">No, don't go. How can both
+                of you leave me without telling me something that I can do to avoid a future illness
+                such as I have just passed through?</q>" I was interested to hear the answer of the
+            physician, and came back and sat down beside her. To my amazement he answered her
+            question lightly, and jokingly, put her aside by telling her that there was nothing that
+            she could do as long as there were laws upon the statute books, and he advised her to
+            get her husband to change the laws.</p>
+        <p>Three months later I was aroused from my sleep at midnight. A telephone call from the
+            husband of the same woman, requested me to come immediately, that she was dangerously
+            ill. I arrived to find her beyond relief. Another conception had forced her into the
+            hands of a cheap abortionist and she died at 4 o'clock the same morning, leaving behind
+            her three little children and the frantic, helpless husband.</p>
+        <p>I arrived home as the sun was coming up from the roofs of that human beehive and I
+            realized how futile my efforts and my work had been. I, too, like the philanthropist,
+            the social worker and the quack had been dealing with the symptoms rather than the
+            disease. I threw my nursing bag into the corner and announced to my family that I would
+            never take it up again, that I would never take another case until I had made it
+            possible for the working women in America to have the knowledge to control birth. I
+            decided I had no moral right to respect a law,--a worn-out piece of parchment,--obsolete
+            in every respect, I had no right to respect above human life, and I decided to violate
+            it wholesale. I found to my surprise that there was almost no scientific knowledge
+            available on this subject in this country. I decided to go abroad to study the question
+            there.</p>
+        <p>My first stop was at <place reg="Glasgow, Scotland">Glasgow</place>, where I went to find
+            out what municipal ownership had done for the women and children of Glasgow, and I found
+            that every advantage advanced through this administration were all of benefit to those
+            who had small families. For instance, the model tenement houses owned by the
+            municipality were built for those not having more than two or three children, while the
+            men and women who had five, six, nine or ten children were compelled to live in the
+            outskirts of the city, and huddled in the surroundings of their industry. It was the
+            same with every other advantage to be gained through municipal ownership, and when I saw
+            the women with shawls over their heads, <del>a</del>
+            <del>baby</del><add>babies</add> in their arms and two or three little ones dragging at
+            their skirts, walking through the streets at midnight calling and chanting the cry of
+            help and asking for bread, my heart failed me with courage to remain longer in this
+            model city, and I left to investigate conditions in France. There I found that the women
+            of France, as in Holland, had done more for themselves in five years through the
+            knowledge of birth control than municipal ownership had done in twenty years' time for
+            the women of Glasgow!!</p>
+        <p>I hurried back to America to urge women here to help me to do this important work. I
+            asked several prominent women, suffragists, feminists, and others, whom I knew not only
+            believe in the idea of birth control but practiced it. I requested these women to help
+            me to do this work which I thought would strike at the root of the evil. I tried to get
+            fifty women to go on record with me to make a test case in the courts but I was told to
+            wait until we got the vote, I was told to wait until I became better known, but the
+            cries of thousands of suffering women would not let me wait.</p>
+        <p>I started to publish the <title type="journal">Woman Rebel, The</title><xref
+                from="128167.xml">Jan. 17, 1916></xref>. I am not going to take up your time to tell
+            you about it. You all know of its brief existence. They tell me that it was too radical,
+            badly written, hysterical, defiant, to all of which I plead guilty, but as I became more
+            and more convinced of the necessity of birth control I felt myself in the position of
+            one who has discovered that <del>the</del><add>a</add> house is on fire and I found it
+            was up to me shout out the warning-- Should we criticize the tone of the voice which
+            shouts out the alarm? I might have taken up the policy of safety, sanity and
+            conservatism, but would I have gotten a hearing? Is there not a great deal in the theory
+            in all modern life that if one desires bread you must <del>make a
+                demand</del><add>ask</add> for cake? This was my <del>belief</del>
+            <add>theory</add> when I started <del>to edit and</del> publish the Woman Rebel.</p>
+        <p>It was necessary in order to bring the attention of the people to this <del>issue and to
+                its</del> necessity to make the demand so flamboyant that it would arouse attention
+            and interest. You know of the suppression and confiscation by the post office
+            authorities. You know of the indictments handed down by the Grand Jury against me. You
+            know that many postponements of my trial and the final dismissal of the case by the
+            government, and I am reluctant to call it a victory, for what has victory meant to me in
+            this case. It has meant months and months of persecution by spies and detectives, prying
+            into every phase of my activity, coming into my home in the guise of comrades and
+            friends. It has meant the exertion of the meanest and most despicable methods in trying
+            to suppress the message of birth control, as it has meant the opening of all my private
+            letters and the invasion of every constitutional right which we are supposed to enjoy in
+            this country. It would be impossible for me to enumerate all the hindrances and the
+            tricks our benevolent government put in my way the months I was publishing the paper.
+            Indictments were the last weapons in the strenuous campaign to stamp out the idea of
+            birth control. I am glad to say the very reverse of what was intended has occurred for
+            the same authorities who two years ago adjudged me "<q>lewd and
+                <add>licentious</add></q>" now pay me the pretty compliment that I am not a
+            disorderly person, but why did the authorities change their minds? Because of the
+            thousands and thousands of letters of protest which came to them from all parts of this
+            country, and <del>I</del> convinced them that birth control is too vital a demand in the
+            United States today to be suppressed through the persecution of an individual,
+                <del>which</del> proves to us again that the courts, no matter how powerful, cannot
+            combat a strong and intelligent public opinion. My fight with the government has been to
+            arouse interest in the subject of birth control and in this at least I feel I have been
+            victorious. Some of us may only be fit to dramatize a situation to focus attention upon
+            objectionable laws then those more experienced in constructive organization can gather
+            together all this sympathy and interest which has been aroused and organize and
+                <del>educated </del><add>direct it.</add> The work now before us is to crystallize
+            this interest into action, not only for the repeal of the laws but for the establishment
+            of free clinics throughout the industrial sections of this country.</p>
+        <p><del>Can we not form here tonight a birth control league to carry on this work. Such a
+                league would be a <add>rallying point</add> for the progressive thought in this city
+                and would focus interest on the local necessity for this work. Such a
+                    clinic<add>League</add> would enable the working women to help themselves and to
+                do away with charity, which at its best can give only temporary relief.</del> Birth
+            control will <add>shelter</add> women from incessant child bearing. This must be done
+            for her before she can participate in social life. Through it will she triumph over
+            nature's and man's laws which have kept her in bondage, just as man has triumphed over
+            nature by the use of electricity, ship building, bridges etc. Through it will she
+            triumph over the laws which have made her a child-bearing machine and in her triumph
+            over these she will not only free herself but she will also free <del>her
+                children</del><add>the child</add>, for in her own emancipation will be that of the
+                <del>children</del><add>childs</add>. She holds them both within her own hands. In
+            her triumph over these she will develop her personality and individuality
+                <del>to</del><add>&amp; prepare</add> with man for the emancipation of the race.</p>
+        <p>In Europe they <del>tell me</del><add>say</add> that to some extent the failure of the US
+            to produce a proportionate number of great men is a disquieting feature of civilization.
+            Two hundred years have elapsed since the settlement began to take permanent shape. The
+            population is now immense. The opportunities for education are unprecedented. Yet the
+            native born men of real eminence, of world wide fame, are very few in number.</p>
+        <p>Hitherto the development of the race has been unconscious. We have had no responsibility
+            for <del>the</del>
+            <add>its</add> right course! Now in the 20th century <add>1916.</add> in the fullness of
+            time, let us be children no longer-- let us fashion the human race with an intelligent
+            consciousness <del>&amp; let us face the facts of this vital racial &amp; social needs
+                &amp; stand squarely to meet our responsibilities &amp;</del> Birth Control is both
+            a social and a racial need. Let us face the facts of this vital need and stand squarely
+            to meet our responsibilities.</p>
+        <p>Birth Control will free the woman it will free the child. Thru it we shall produce a race
+            of quality instead of quantity. Woman must triumph over the laws which have made her a
+            child bearing machine <add>bondage</add>. Only in <gap reason="deleted"
+                extent="one word"/>
+            <person reg="Paine, Thomas">Thomas Paine</person>
+            <gap reason="illegible" extent="rest of sentence"/></p>
+    </docBody>
+</doc>

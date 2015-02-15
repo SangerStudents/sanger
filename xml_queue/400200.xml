@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article ">
+    <mepHeader>
+        <prepDate>2007/10/22 CH initial prep</prepDate>
+        <prepDate>2008/01/08 CH correct type</prepDate>
+        <prepDate>2011/11/30 CH Correct typo</prepDate>
+        <prepDate>2014-04-01 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1921-01-30">30 Jan 1921</docDate>
+        <docTitle>
+            <titlePart>Modern Motherhood and Child Slavery</titlePart>
+        </docTitle>
+        <idno>msp400200</idno>
+        <sourceDesc>
+            <bibl><title type="journal">Long Beach Press</title>, Jan. 30, 1921</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>This article was introduced by an editorial note: "Margaret Sanger is the author of a
+            number of books and has for many years been identified with the science of eugenics in
+            this country and England. She had two fine boys now in college and a home life such as
+            we like to think of as typical of the best in America. </p>
+        <index level1="child labor"/>
+        <index level1="birth control" level2="socio-economic benefits of"/>
+        <index level1="labor movement"/>
+        <index level1="women" level2="maternal feelings"/>
+    </headNote>
+    <docBody>
+        <head>Modern Motherhood and Child Slavery</head>
+        <byline>By <person reg="Sanger, Margaret">MARGARET SANGER</person></byline>
+        <p>Child labor is a most grievous blot on civilization. Those who have looked carefully into
+            the problem know that is one of the cruelest of all modern social evils and that when
+            the full accounting is made, one of the most far-reaching in its blighting effects.</p>
+        <p>For many years, various agencies have fought hard to awaken the people of the
+                <place>United States</place> to the evils and perils of permitting children to work.
+            Chief among these agencies today is the national child labor committee which with heroic
+            persistence and unflagging faith has sought to abolish this curse. This powerful group,
+            always on guard, unceasing in its aggressive efforts, commanding a great following has
+            been leading the battle for humanity since 1904. Despite its utmost efforts, however,
+            there are in the United States today, according to its own authoritative estimate, some
+            2,500,000 child workers whose lives are being spent unprofitably, wastefully, cruelly,
+            upon industry. And these millions represent just so much racial energy taken from future
+            generations. And many of them are to become the mentally, physically and spiritually
+            incompetent parents of weaklings, who will carry on the impoverished family strains for
+            many generations.</p>
+        <p>Child labor can never be wiped out by legislation. The roots of this evil weed strike
+            deeper than the statutes. They spring from the disregard of natural and spiritual laws
+            -- they draw their sustenance from over-population. </p>
+        <p>How narrow, how pitifully puny has become motherhood against its chains? The modern
+            motherhood enfolds one or two adoring children of its own blood, and cherishes, protects
+            and loves them. It does not reach out to all children. When motherhood is a high
+            privilege not a sordid, slavish requirement, it will encircle all. Its deep, passionate
+            intensity will overflow the limits of blood relationship. Its beauty will shine upon
+            all, for its beauty is of the soul, whose power of enfoldment is unbounded. </p>
+        <p>While there is surplus population, under the present social and industrial order, there
+            will be child labor. As long as homes are crowded beyond the sustaining power of the
+            father's wages, children will go to work. </p>
+        <p>It is high time that everyone in the United States awakened to the gravity of the
+            situation.</p>
+    </docBody>
+</doc>

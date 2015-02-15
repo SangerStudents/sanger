@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed draft article">
+    <mepHeader>
+        <prepDate>2012-04-02 AW Initial Tag</prepDate>
+        <prepDate>2012-04-04 CH Proofed Tags</prepDate>
+        <prepDate>2014-04-04 EK clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1920-00-00"><supplied resp="MSPP"
+            >1920</supplied></docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Charity Begins at
+                Home</supplied></titlePart>
+        </docTitle>
+        <idno>msp143433</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Library of Congress</bibl>
+            <bibl>LCM 131:30</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>This article, intended for the <title type="journal">Birth Control
+                Review</title> was never published.</p>
+        <index level1="child welfare"/>
+        <index level1="children" level2="education of"/>
+        <index level1="society" level2="responsibility and"/>
+    </headNote>
+    <docBody>
+        <byline>By <person reg="Sanger, Margaret">Margaret Sanger</person>, Editor of the <emph rend="ital">Birth
+            Control Review</emph></byline>
+        <p>Yes, not only should charity begin at home, but what is far more important, responsibility should begin at home. If each man and woman would live up to the obligation of the highest instincts in
+            their natures, there would be little need of charity.
+                <del>Each</del>
+            <add>All</add> of us would be able to give of <del><gap
+                    extent="one word" reason="illegible"/></del>
+            <add>ourselves</add> and our substance so freely and unconsciously
+            that the thought of dependence or of charity would have but small
+            place in the thought of the world.</p>
+        <p>All modern life makes for social responsibility. We can no longer be
+            concerned with our own private interests alone. We have learned that
+            our own interests can be secured only in the security of our
+            neighbor’s.</p>
+        <p>It is impossible in modern city life to have pure water for your own
+            family’s use, unless your neighbor is also provided with pure water.
+            The same principle applies to milk, other foods, drugs -- virtually
+            all our necessities. So it is with our health we <del><gap
+                    extent="one word" reason="illegible"/></del> have
+            associations and public health measures in order that all may have
+            the benefit of cures or, better still, of preventive measures. The
+            same situation is observed in education. To protect our children,
+            our neighbors and society, we must do our part in instructing our
+            children and in providing general education for them. We must pay
+            special attention to personal and social hygiene, to such training
+            as will make our <del>children</del>
+            <add>children’s lives</add> of value to themselves and to
+            society.</p>
+        <p><del>In these days it is more than ever true that we do not live to
+                ourselves alone. Our social responsibilities daily become</del>
+        </p>
+        <p>If we allow children to go into a polluted world, our work is undone.
+            So, not <del>charity</del> only charity, but something that precedes
+            charity must begin at home. We must first recognize in ourselves our
+            responsibility to the community -- we must provide for the education
+            of the children of our neighbors, of our fellow citizens.
+            We cannot escape our social responsibilities without danger to
+            ourselves. More than ever is it true that we do not live to
+            ourselves alone. </p>
+        <p>Eevery day, our lives become more closely intertwined, one
+            with another. Society is often and aptly compared to a chain -- it
+            is not stronger than its weakest link. We must see to it that the
+            links which we, personally compose, are as strong as they can be
+            made. And while we are doing this, we must do our utmost to help
+            others to make their own links strong -- for our own links are
+            useless without the cooperation of others.</p>
+        <p>Charity begins at home that it may have the more to give.
+            Responsibility beings at home that it may there gather strength
+            through the discharge of its first obligations, to help in the
+            discharge of the general responsibility.</p>
+    </docBody>
+</doc>

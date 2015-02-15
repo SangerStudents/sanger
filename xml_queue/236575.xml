@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Autograph draft speech">
+	<mepHeader>
+		<prepDate>2013/12/11 JK encoded</prepDate>
+		<prepDate>2014-09-10 CH clean up</prepDate>
+		<prepDate>2015-01-29 CH proof tags and enter</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docDate value="1931-11-07">
+			<supplied resp="MSPP">07 Nov 1931</supplied>
+		</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">The Arithmatics of the Problem of Population</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp236575</idno>
+		<sourceDesc>
+			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
+			<bibl><title>Margaret Sanger Microfilm, Smith College Collections</title> S71:236</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Sanger drafted these notes in <place reg="Houston, TX">Houston</place>, likely for her
+			Nov. 7 appearance there. For another version of this speech, see <xref from="236598.xml"
+				>"The Problem of Population" Nov. 1932 </xref></p>
+		<index level1="New York City" level2="sex education in"/>
+		<index level1="overpopulation" level2="MS on"/>
+		<index level1="population control" level2="MS on"/>
+		<index level1="population growth"/>
+	</headNote>
+	<docBody>
+		<p>The arithmetics of the problem of Population has too long been ignored. The almost
+			universal custom of assuming in all discussions of population problems that the birth
+			rate by itself is the indication of the increase or decrease of the population one reads
+			editorials &amp; articles &amp; hears lectures make this error over &amp; over again
+			that the decline of the birth rate means a decrease in population.</p>
+		<p> It must come from our <gap extent="one word" reason="illegible"/> school day dislike of
+			arithmetics. You would not make the same mistake if you <add><unclear resp="MSPP"
+					>in</unclear></add> were calculating your income from investments found that a
+			decline in the rate of interest had been accompanied by more than an equivalent in the
+			increase in the amount of capital. Every one depending on income knows that it depends
+			not only on the rate of the dividend, but also upon the amount of capital on which the
+			dividend is paid.</p>
+		<p> So the same arithmetics &amp; consideration must be applied to population statistics.
+			For the growth of population depends not only on births, but on the excess of births
+			over deaths. And the important point to remember is that a birth rate by itself can not
+			possibly give any indication of the rapidity with which a population is growing unless
+			we know the volume to which the rate is applied. </p>
+		<p>An excellent illustration of this fact may be given from the figures representing the
+			growth in the population of <place reg="New York, NY">N.Y.City</place> During the first
+			20 years of the 19 Century N.Y.C. nearly doubled its population. The rate of <add>actual
+				increase</add> increase being 92% or 73,000. In the first 20 years of the present
+			century with a lowered rate of 63% the actual increase was 2,183,000. </p>
+		<p>To deplore the falling birth rate without knowing the volume to which the rate is applied
+			is like a man boasting of his riches because he gets 50% interest--on what his whole
+			capital being $100. While another man complains of his poverty because <del>his</del> he
+			can only get a dividend of 5% on a capital of 50,000 or a million. </p>
+		<p>The meat of the above in a nutshell is: Where the population is increasing the <emph
+				rend="underline">rate of increase tends to decline</emph>. In USA <del>from</del>
+			<add>in</add> 1800 the rate of increase was 36%. In 1920 it fell to 15% while the actual
+			numbers increased from <del>5,308</del>
+			<add>2,400,000</add> to <del>105,711</del>
+			<add>13,740,000</add>.</p>
+		<p> There is no need to argue that our population problem is complicated by the immigration
+			from other countries. We accept that point, but the case in point &amp; the law applies
+			equally to other countries like <place>England</place> &amp; <place>France</place> where
+			the growth of population is due entirely to her natural increase.</p>
+		<p> No country can continue to stand a doubling of its population every 50 years as ours has
+			done in the past. Take the case of a babys growth. When born it weighs 7 lbs normally it
+			doubles its weight in the first 5 or 6 months But should it continue to double its
+			weight every succeeding 5 months By the time it was five years old it would weigh nearly
+			13 tons. Ten months later it would weigh nearly 50 tons! The same law of growth applied
+			to the child governs the growth of every <gap extent="rest of document" reason="missing"
+			/></p>
+	</docBody>
+</doc>

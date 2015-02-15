@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2014/24/01 YG initial encoding</prepDate>
+        <prepDate>2014-01-29 CH proof</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1931-11-09">09 Nov 1931</docDate>
+        <docTitle>
+            <titlePart>Speech at the San Antonio Open Forum</titlePart>
+        </docTitle>
+        <idno>msp421063</idno>
+        <sourceDesc>
+            <bibl><title type="article">600 Folk attend Sanger lecture</title>, <title
+                    type="journal">San Antonio Express</title>, November 10, 1931 </bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">Summary of Sanger's talk at the San Antonio Municipal Auditorium to the
+        Open Forum. Over 600 were in attendance. <index level1="birth control" level2="religion and"
+            /><index level1="birth control" level2="morality of"/>
+        <index level1="abortion" level2="birth control vs."/>
+        <index level1="&quot;unfit&quot; to reproduce" level2="social burden of"/></headNote>
+    <docBody>
+        <head>600 FOLK ATTEND SANGER LECTURE</head>
+        <head type="sub">Birth Control Advocate Defends Belief Before Sparse Audience</head>
+        <div>
+            <p>
+                <q who="SAE"><place reg="San Antonio, TX">San Antonio</place>either has matured and
+                    unchangeable ideas about birth control, or else they are not interested, judging
+                    from the small crowd that turned out Monday night to hear the world’s foremost
+                    exponent of the practice, <person reg="Sanger, Margaret">Margaret
+                        Sanger</person>, speak at <org reg="San Antonio Municipal Auditorium">the
+                        Municipal Auditorium</org>.</q></p>
+            <p><person reg="Lang, Sylvan">Sylvan Lang</person>, president of <org
+                    reg="San Antonio Open Forum">the Open Forum</org>, presided at the meeting
+                opening with the invitation for everyone to come on down and take one of the
+                orchestra seats advertised at $1 each. At that time there some 200 of these seats
+                occupied. When the galleries and the back rows had accepted his invitation, the
+                crowd number about 600 persons. The gross proceeds of the house were said to be
+                about $400.</p>
+        </div>
+        <div>
+            <head type="sub">Mother of Two Sons</head>
+            <p><q who="SAE">The middle-aged, silver haired exponent of “conscious control of the
+                    birth rate,” is herself the mother of two sons. She became a convert to the cult
+                    of which she is now credited with being the founder, while a nurse in the slums
+                    of <place reg="New York, NY">New York City</place>.</q></p>
+            <p><q who="SAE">She said the <org>Church of England</org> had some time ago gone on
+                    record favoring in principle the things she encouraged, and made the prediction
+                    that in a short time the churches of the United States would do likewise. When
+                    her lecture here was recently announced, her theme was denounced in a pastoral
+                    letter mailed out by the Most Rev. Arthur J. Drossaerts, Catholic Archbishop of
+                    San Antonio, and members of that faith were exhorted to remain away from the
+                    lecture and not be misled by her pleadings.</q></p>
+            <p><q who="SAE">However, a large and influential group of churches in the United States
+                    are now aligned with her program, Mrs. Sanger said, and she expressed the belief
+                    that their united endorsement was reasonably sure.</q></p>
+            <p>“Conscious birth control,” she said, “is the keynote of a new social order; it is no
+                more to be stopped that the tides of the ocean.”</p>
+            <p><q who="SAE">The practices she advocates no more destroy human life as charged by her
+                    critics than does mere celibacy, she said. Her church critics, according to her,
+                    center their attacks on her on the grounds that to do as she advises means
+                    destroying a human life.</q></p>
+        </div>
+        <div>
+            <head type="sub">Denies Life Destroyed</head>
+            <p>“If my views prevail, there is no more human life destroyed than there is when a man
+                or woman chooses to remain single and apart from the marriage relation,” she
+                said.</p>
+            <p><q who="SAE">Modern civilization, she said, is menaced by the </q> “hordes of unfit,”
+                    <q who="SAE">and mentally deficient, and parents before bringing into the world
+                    children should well consider and ponder the responsibility which they owe as
+                    parents. It is a right and a privilege which they owe to their children, she
+                    said.</q></p>
+            <p><q who="SAE">She closed with a plea for a liberalization of postal laws which will
+                    permit sending through the mail advice and instructions to women on how to
+                    achieve the results she advocates.</q></p>
+            <p><q who="SAE">She appeared under the auspices of the San Antonio Open Forum which
+                    always disavows the opinions expressed by its speakers, according to a routine
+                    announcement of the president, Sylvan Lang, made preceding her talk.</q></p>
+        </div>
+
+
+    </docBody>
+</doc>

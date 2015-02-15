@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed document">
+    <mepHeader>
+        <prepDate>2012-04-12 AW Initial Tag</prepDate>
+        <prepDate>2012-05-14 CH Proofed Tags</prepDate>
+        <prepDate>2012-05-16 AW Corrected Tags</prepDate>
+        <prepDate>2014-04-10 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="0000-00-00">n.d.</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Rhythm Method</supplied></titlePart>
+        </docTitle>
+        <idno>msp224861</idno>
+        <sourceDesc>
+            <bibl>Florence Rose Papers, Sophia Smith Collection</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S77:0080</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>No contextual information has been found for this document.</p>
+        <index level1="birth control" level2="methods"/>
+        <index level1="birth control" level2="methods" level3="safe period"/>
+    </headNote>
+    <docBody>
+        <p>If the Rhythm or so-called “safe period” method were actually demonstrated to be
+            reliable, no one would rejoice more than we because it would protect <del>those
+                moth</del> from the hazards, death, injury and abortion those mothers whose
+            religious or personal bias now prohibits them from the use of <del>contraceptive</del>
+            <add>scientific</add> methods that have been demonstrated to be harmless and effective.
+            But until such scientific corroboration from unprejudiced sources is available, it is
+            not only absurd and illogical but shows a shocking disregard for the welfare of these
+            women to grant the necessity for family limitation at the same time instilling faith in
+            a method that offers a false hope of security.</p>
+        <byline><person reg="Sanger, Margaret">Margaret Sanger</person>.</byline>
+    </docBody>
+</doc>

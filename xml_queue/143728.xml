@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed Speech">
+    <mepHeader>
+        <prepDate>2009/07/16 JS</prepDate>
+        <prepDate>2014/03/10 EK cleanup</prepDate>
+
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1930-09-01">
+            <supplied resp="MSPP">1 Sept 1930</supplied>
+        </docDate>
+        <docTitle>
+            <titlePart>
+                <supplied resp="MSPP">Presidential Address to Seventh International Birth Control
+                    Conference</supplied>
+            </titlePart>
+        </docTitle>
+        <idno>msp143728</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Library of Congress</bibl>
+            <bibl><title>LCM</title> L130:572</bibl>
+        </sourceDesc>
+        <respStmt>               
+                  <resp/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>Margaret Sanger opened tbe Seventh International Birth Control Conference with this
+            speech</p>
+        <index level1="birth control" level2="clinics and leagues" level3="in Netherlands"/>
+        <index level1="birth control" level2="clinics and leagues"/>
+        <index level1="birth control" level2="movement"/>
+        <index level1="birth control" level2="movement" level3="disputes within"/>
+        <index level1="birth control" level2="movement" level3="goals and strategies"/>
+        <index level1="conferences" level2="International Birth Control Conference"
+            level3="1930 (7th)"/>
+        <index level1="Netherlands, the" level2="birth control in"/>
+        <index level1="physicians" level2="birth control and"/>
+    </headNote>
+    <docBody>
+        <head>President’s Opening Address</head>
+        <p>Ladies and Gentlemen, Honored guests and Members of the Conference: -- </p>
+        <p>I have the honor to welcome you to the <name type="conference">Seventh International
+                Birth Control Conference</name>. It is indeed an honor and a privilege which I
+            cherish and appreciate not only because of the attendance of so many distinguished
+            guests who have come from vast distances to attend this Conference, but also because of
+            the important place the idea of birth control is taking in the social program of all
+            civilized peoples.</p>
+        <p>When one considers the world wide problems of the population question, we seem in a way
+            like a small group, a mere handful of people battling for so mighty a cause, But while
+            you who come here because you are in the front ranks of the birth control army seem to
+            be small in numbers we know that the millions of men and women in all countries are
+            looking to you to unshackle them from the tyrannical laws of their own reproductivity.
+            You have become the protagonists of the millions of poor, hopeless, enslaved souls
+            caught in the trap of their own fecundity, and as such you voice their wrongs and battle
+            for their emancipation.</p>
+        <p>The last or <name type="conference"
+                reg="Sixth International Neo-Malthusian and Birth Control Conference">Sixth
+                International Conference</name> was held in <place reg="New York, NY">New York
+                City</place> in March, 1925. Since that time we have lost through death three of our
+            oldest workers, Dr. <person reg="Jacobs, Aletta">Aletta Jacobs</person>, Dr. <person
+                reg="Rutgers, Johannes">Rutgers</person> and Dr. <person
+                reg="Vickery, Alice Drysdale">Vickery</person>, the beloved mother of our <personRef
+                reg="Drysdale, Charles Vickery">Honorary President</personRef>. These three noble
+            souls carried high the ideals of this cause through those years when it severely tested
+            courage and vision, and they never wavered but proved themselves tried and true. May
+            their work live and may we carry their dreams into practical realization.</p>
+        <p>In 1925 there were outside of <place reg="Netherlandsthe ">Holland</place> only four
+            birth control clinics in the world, modeled mostly on the ideas I had obtained from my
+            visit to <place reg="The Hague, Netherlands">the Hague</place> in 1915, where I took
+            a course of contraception from Dr. Rutgers and outlined the organization of separate
+            birth control clinics.</p>
+        <p>Today we know of over 100 birth control clinics or centers where contraceptive
+            information is being given by qualified members of the medical profession. We know of
+            another fifty centers or departments of health or welfare work, where birth control
+            advice is part of general health and welfare service, so that it is safe to say that
+            there are today about 200 recognized centers where information on birth control is <emph
+                rend="underline">officially recognized</emph> and imparted. Besides these we know of
+            several thousand doctors who have begun to give advice in their private practice, and it
+            seems predestined that with this start already made nothing can prevent its permeation
+            to all corners of the earth, within the lifetime of those in this room.</p>
+        <p>There may be some who wonder why we came to <place reg="Zurich, Switzerland"
+                >Zurich</place> to hold this conference, and I’d like to explain why--
+                <del>First</del>
+            <add>Secondly</add>, because we knew of no organizations already here upon whose toes we
+            might tread. <del>Secondly</del>
+            <add>First</add>, because of the world wide reputation of the charms of
+                <place>Switzerland</place> and its hospitality. Thirdly because of its geographical
+            location which made it convenient for so many of our friends from
+            <place>Germany</place>. We had no idea of or desire to invade the precincts of this
+            delightful country, nor to <del>spread</del>
+            <add>broadcast</add> our ideas <del>among</del>
+            <add>to</add> the general population. We have already been justified in our selection,
+            for we have met with great kindness and helpfulness on all sides, and I am proud to say
+            that we have been honored tonight by the presence of such distinguished men,
+            representing the <org>Zurich Department of Health</org> (<foreign rend="GER"
+                >Gesundheitamt</foreign>), and the <org>Zurich Department of Social Welfare</org>
+                (<foreign rend="GER">Wohlfahrtsamt</foreign>), as Councilor (<foreign rend="GER"
+                >Stadtrat</foreign>) Dr. <person reg="Häberlin, Heinrich">Häberlin</person> and
+            Councilor (<foreign rend="GER">Stadtrat</foreign>) Herr <person reg="Gschwend, Herr"
+                >Gschwend</person>.</p>
+        <p>
+            <del>We had no idea or desire to invade the precincts of this delightful country,</del>
+        </p>
+        <p>The object of this Seventh International Conference is to discuss freely among the
+            workers all questions relating to the methods and technique of contraception to present
+            facts based upon past experience and to suggest plans and programs for research. We
+            cannot know what we need unless we know what we already have. This is in essence to be a
+            fact-finding conference, and we shall not be concerned with nor attempt to express our
+            opinions on birth control in conjunction with politics, religion or morals. We take it
+            as an accepted fact that the workers in this field are already convinced of its
+            importance. Therefore we do not need to be further converted. I ask you therefore,
+            during the sessions beginning tomorrow and ending Friday noon to leave aside all
+            controversial issues except those based on the experience of medical and scientific
+            study and fact. </p>
+        <p>
+            <add>In this way only [<unclear>we</unclear>] can take an accurate inventory of our work
+                and be guided accordingly for progress in the future.</add>
+        </p>
+        <p>
+            <add>Now again I extend to you a hearty and cordial welcome to this conference.</add>
+        </p>
+    </docBody>
+</doc>

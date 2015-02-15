@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Interview">
+    <mepHeader>
+        <prepDate>2014-08-13 CH proof tags</prepDate>
+        <docAuthor><person>Margaret Sanger</person></docAuthor>
+        <docDate value="1916-04-20">20 Apr. 1916</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Interview with the Pittsburgh Press</supplied></titlePart>
+        </docTitle>
+        <idno>msp422037</idno>
+        <sourceDesc>
+            <bibl><title type="article">Birth Control Apostle Talks Propaganda</title>, <title type="journal">Pittsburgh Press</title>, Apr. 20, 1916, p. 16.</bibl>
+            
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="PP">Pittsburgh Press</name>
+            <name id="UNK">Unknown</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger gave this interview the day of her speech on "Poverty and Family" at the Montefiore Auditorium in Pittsburgh. That speech has not been found, but the interview may summarize its major points.</p><index level1="Goldman, Emma"/>
+        <index level1="Netherlands, the" level2="birth control in"/>
+        <index level1="voluntary motherhood"/>
+        <index level1="birth rate" level2="population growth and"/>
+        <index level1="poverty" level2="family size and"/>
+        <index level1="birth control" level2="distribution of information about"/>
+        <index level1="birth control" level2="lack of knowledge of" level3="negative consequences of"/>
+        <index level1="birth control" level2="American opinion on"/>
+        <index level1="birth control clinics and leagues"/></headNote>
+    <docBody>
+        <head>BIRTH CONTROL APOSTLE TALKS OF PROPAGANDA</head>
+        <byline>By <person reg="Gordon, Gertrude">Gertrude Gordon.</person></byline>
+        <p>"This movement is a clarion call to voluntary motherhood," <q who="PP">today said <person reg="Sanger, Margaret">Mrs. Margaret Sanger,</person> propagandist for the science of birth control, who will lecture tonight at 8 o'clock in Montefiore auditorium on "Poverty and Family."</q></p>
+        <p>"Every advance women have made," she continued, "every shackle broken from women mentally, intellectually, spiritually and physically, has meant fight--and this movement, of course, is creating protest. There will not be a reform possible in the country until birth control is permitted. From an economic, healthful, moral and social standpoint, it is needed. Too many women have motherhood forced upon them. Too many women have their health broken and bring weak, sickly children into the world when they do not want to. It is nonsense to say that birth control will decrease the population.</p>
+        <p>"It will decrease the birthrate-yes, but then, the children who are born will live in greater proportion than they do now. Only a few weeks ago, a newspaper story was printed of a woman in an <place>Ohio</place> town who just had given birth to her thirteenth child. Nine of her children had died. <q who="UNK">'I do not believe in birth control,'</q> said this woman, fatuously. How much better it would have been had she had only four children and they all had lived, instead of having nine out of 13 die."</p>
+        <p><q who="PP">"Would birth control, known generally, increase immortality?" I asked her.</q> "Positively not," she said, indignantly. "I always consider that idea is an insult to womanhood. Fear of consequences keeps very few girls from illicit love. Girls are not moral through fear-they are moral because they inherently are good. If their own instinct does not keep them moral, nothing will. Besides, do not think this knowledge will be distributed promiscuously. Clinics will be established in every district and the knowledge will be given to those women who come and ask for it.</p>
+        <div type="section"><head type="sub">SUCCESS IN HOLLAND</head>
+        <p>"In <place reg="Netherlands">Holland</place> this has been practiced for 30 years. Every woman, when she is married, is given knowledge of how to limit her family. Every woman of mature age, whether married or not, also is given this knowledge if she asks for it. As a result Holland has few economic problems; she has no commercialized vice whatever; she has few feeble-minded persons-in fact, hardly any, and no poverty, such as we have here. The <place>United States</place> is the only civilized country where science refuses to help women.</p>
+        <p>"Today the percentage of women in broken health through effects of criminal operations is terrible to contemplate. Among the poor classes where large families are the rule, children are brought up in filth and squalor, in poverty and starvation. This all would be eliminated if mothers were given the power to protect themselves. All normal, healthy women want children. But it would be better that children would not be born than that they should be born of unwilling mothers, as too many are. Warped natures, criminal tendencies, abnormal selfishness, all are results of pre-natal influences upon unwilling mothers. I am pleased, though, to see how this movement is spreading.</p>
+        <p>"Sunday I speak before a Unitarian church in <place reg="Cleveland, OH">Cleveland.</place> In that city women's clubs, social organizations, all workers for the social uplift, are interested in the movement. In the west it is growing marvelously. But the east, as always, is slow to take up a reform."</p>
+            <p><q who="PP">Mrs. Sanger was arrested in <place reg="New York, NY">New York</place> for speaking on this subject, but her case was dismissed. <person reg="Goldman, Emma">Emma Goldman,</person> the anarchist, is on trial today for the same charge. Mrs. Sanger is a youthful looking woman, not pretty, but with a kindly, interesting, intellectual face. She is very earnest in her work.</q> "I was a nurse for 15 years," she said today, "and that atmosphere taught me how necessary this movement is to modern women."</p></div>
+    </docBody>
+</doc>

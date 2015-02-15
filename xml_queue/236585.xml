@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed draft article">
+    <mepHeader>
+        <prepDate>2012-04-16 AW Initial Tag</prepDate>
+        <prepDate>2012-05-15 CH Proofed Tags</prepDate>
+        <prepDate>2012-05-16 AW Corrected Tags</prepDate>
+        <prepDate>2014-04-24 EK clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1923-00-00"><supplied resp="MSPP"
+            >1923</supplied></docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Notes on Eugenics and Birth
+                    Control</supplied></titlePart>
+        </docTitle>
+        <idno>msp236585</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
+            <bibl><title>Margaret Sanger Microfilm, Smith College Collection</title>, S73:0091</bibl>
+        </sourceDesc>
+        <respStmt>
+            <name id="DRYCH">Drysdale, Charles V.</name>
+            <name id="CUROP">Current Opinion</name>
+            <name id="MARFR">Marvin, Francis Sydney</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>This untitled draft has paraphrases and uncredited quotes from at
+            least three other sources: <person reg="Drysdale, Charles Vickery"
+                >Charles Vickery Drysdale</person>, "<title type="article">A
+                Guiding Principle for Eugenic Reform</title>," <title
+                type="journal" rend="italics">Eugenics Review</title>, July
+            1922, 103-114; "<title type="article">Hostility to Birth Control As
+                an Expression of Primitive Superstition</title>," <title
+                type="journal" rend="italics">Current Opinion</title>, Jan
+            1917, 40-41; and <person reg="Marvin, Francis Sydney">Francis Sydney
+                Marvin</person>, <title type="book" rend="italics">Progress
+                and History</title>, (New York: 1916). No final version has been found.</p>
+        <index level1="birth control" level2="and sexuality"/>       
+        <index level1="birth control" level2="morality of"/>
+        <index level1="birth control" level2="upper classes and"/>
+        <index level1="Catholic Church" level2="birth control and"/>
+        <index level1="marriage"/>
+        <index level1="poverty" level2="family size and"/>
+        <index level1="sexuality"/>
+        <index level1="race suicide"/>
+        
+    </headNote>
+    <docBody>
+        <p><q who="DRYCH">We must consider the needs and happiness of
+                humanity</q> and <q who="DRYCH">until the mass of humanity is
+                able to command a reasonable level of comfort, that is a
+                sufficiency of the necessaries and comforts of existence</q>,
+            the great need is to hold our population at a stand still until we
+                <q who="DRYCH">are able to increase the efficiency of the
+                productive arts so as to provide this sufficiency</q>.</p>
+        <p><q who="DRYCH">Sentimental humanitarianism has constantly interfered
+                with natural selection. The “slave morality” which <person
+                    reg="Nietzsche, Friedrich">Nietzsche</person> so eloquently
+                denounces has been invoked in favor of the preservation and
+                propagation of the unfit; poverty, sickness, humility have been
+                exalted</q>, first by theology and later by social-democratic
+            legislation, a marked contradiction between social convention and
+            private conviction. Well-to-do classes practice Birth Control but
+            condemn it for the poor. <emph rend="underline">The <org>Roman
+                    Catholic Church</org> condemns it as a public practice,
+                while the prelates of the Church themselves practice it
+                religiously.</emph></p>
+        <p>The law makers read the laws and pass sentences upon those who would
+            pass information on to poor, desperate mothers to help them--while
+            they themselves, boast of one or two children well spaced for the
+            convenience of the mother’s health.</p>
+        <p>Again there are those who shout out against the practice of Birth
+            Control, proclaiming it against the laws of nature, while they
+            recommend in its stead the practice of self control, ignoring the
+            fact that “self control” or the denial of sex expression in a normal
+            adult man and woman is far more of an effort and much more against
+            the laws of nature than the use of knowledge of Birth Control can
+            be.</p>
+        <p>If they themselves happen to have only a small family, the impression
+            is given that it is accidental or is attained by abstention from
+            sexual relations, but in private conversation the contrary is
+            accepted as a mutually understood fact.</p>
+        <p>Again those who object to Birth Control on the “race suicide” grounds
+            claim the race will die out, that it is dying out and throw out
+            abuses upon the heads of those married couples who are trying hard
+            to decently keep out of debt, while trying also to bring up their
+            family as decent citizens. While the concern of this group of
+            persons seems to be that the race shall increase, they dare not
+            insist that men and women marry without love, even for the sake of
+            the race. Neither do they dare to recommend illegitimate children.
+            While the practice of polygamy--one of the surest methods of
+            increasing our population, would be abhorrent to them.</p>
+        <p>In fact after a little consideration they are willing to compromise
+            and agree that the sickly and diseased and poverty stricken should
+            not have offspring and the healthy might limit their number, if it
+            is done through self control. There are two uses to be made of the
+            sex act: generation and regeneration, or reproduction and love.</p>
+        <p>So far as the ways of nature can be understood by us, it is both our
+            right and our duty, as intelligent beings, to control these for our
+            own uses and our own good. This includes both the regulation of the
+            number of children and the methods of regulation.</p>
+        <p> The means seems to be the object of attack by our opponents.</p>
+        <p> No person can, with clear self-consciousness, choose to be born in
+            disease, poverty and ignorance for the glory of the State or of God
+            or of the species.</p>
+        <p>
+            <q who="CUROP">No self conscious human being can regard his sexual
+                life as a means for the ends of others. For by the very fact of
+                his being self conscious, this function, otherwise merely
+                physiological, has become deeply personal and intimately his
+                own. While for Nature and the animal kingdom the sex relation is
+                only a means, for man and woman it is the first and most
+                important part of the end. This attitude of men and women toward
+                marriage is one the most distinct mark of a higher
+                civilization</q>.</p>
+        <p> We call it prostitution when one sacrifices personal choice and love
+            in the sexual relation, for monetary gain; why should it be less
+            prostitution when the end is the propogation of the species.</p>
+        <p> Among the personal relations none is more replete with significance
+            than the sex relation, and none makes a richer contribution to the
+            content of life.</p>
+        <p><q who="CUROP">Marriage must be regarded as an end and not merely as
+                a means. Marriage should represent a choice unencumbered by
+                extraneous obligation (as far as possible) while within the
+                limits of health and safety we are justified in employing all
+                the resources of knowledge to render marriage fertile or
+                infertile as those individuals in question may see fit.</q></p>
+        <p><q who="CUROP">The control of natural forces for human ends is now
+                generally accepted as a mark of an enlightened humanity.</q></p>
+        <p><q who="CUROP">We no longer allow women to suffer child-birth
+                agonies without the use of anesthetics--we no longer leave the
+                syphilitic to suffer because they have been “immoral”.</q></p>
+        <p><q who="CUROP">We have discarded these views and we must also accept
+                birth control as a right in itself.</q></p>
+        <p><q who="MARFR">To a certain extent, we are each of us in touch with
+                myriads of men past and present. We participate in a world
+                    <del>love</del>, and by so doing are advanced in the scale
+                of spiritual worth and dignity as members of the human race. It
+                is not that we must agree in ideals with each other, but the
+                quest for an ideal is a necessary factor for the ennobling form
+                of experience whereby we become conscious co-workers and
+                co-helpers in the age long, world wide striving after the
+                good.</q></p>
+        <p> Let us make a human experiment for one generation only. This will at
+            least give us an intelligent surmise of what can be done through the
+            application of Birth Control. We can then discard it or extend it.
+        </p>
+    </docBody>
+</doc>

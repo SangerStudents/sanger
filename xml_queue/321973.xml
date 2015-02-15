@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+	<mepHeader>
+		<prepDate>2013/12/18 JK</prepDate>
+		<prepDate>2014-11-10 CH clean regs</prepDate><prepDate>2014-12-18 CH proof tags and enter</prepDate>
+		<docAuthor>Margaret Sanger</docAuthor>
+		<docDate value="1920-02-00">Feb 1920</docDate>
+		<docTitle>
+			<titlePart>Light for Mexico and South America</titlePart>
+		</docTitle>
+		<idno>msp321973</idno>
+		<sourceDesc>
+			<bibl><title type="journal">The Birth Control Review</title>, Feb. 1920, p. 15. </bibl>
+
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="UNK">Unknown</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>This unsigned article was likely written by Margaret Sanger.</p>
+		<index level1="Latin America" level2="birth control in"/>
+		<index level1="Mexico" level2="descriptions of"/>
+		<index level1="infant mortality"/>
+	</headNote>
+	<docBody>
+		<head>Light for Mexico and <place>South America</place></head>
+
+		<p>ONE OF THE recent important developments in the Birth Control movement is that which is
+			manifesting itself vigorously in <place>Latin America</place>. Every mail brings us,
+			from some country to the south of us, letters of encouragement. These letters give
+			evidence of the fact that independent thinkers have recognized the necessity of woman's
+			freedom as the first step in solving the problems with which the masses are confronted.
+				<person reg="Unknown">One man</person> who has been active in behalf of Birth
+			Control in South America writes from a city in <place>Colombia</place> "<q who="UNK"
+				>Every day that passes away I realize more and more what a great help Birth Control
+				is going to be in the near future. Here in this poor country they need more of that
+				help than any other. People of the lower class here live like pigs. They used to
+				have from six to eighteen children and almost all died before being three years old.
+				If you could look at the statistics in this country you would see that the mortality
+				of children under three years old is awfully high. I saw a report stating that the
+				births in one week had been 128 and the infant mortality 122 among the poor people.
+				This is terrible, <person reg="Sanger, Margaret">Mrs. Sanger</person>, and I wish I
+				could use all my power, money and knowledge to help those poor women of this beloved
+				but unhappy country of mine.</q>"</p>
+		<p>A birth control group in Colombia is also planning to translate <title type="journal">THE
+				BIRTH CONTROL REVIEW</title> into Spanish for the benefit of the native population
+			of all Latin American Countries. It is needless to say that all available information
+			concerning contraceptive methods has already been translated and is in circulation. A
+			group headed by a <person reg="Unknown">North American woman</person> in <place
+				reg="Buenos Aires, Argentina">Buenas Ayres</place> has its branch of the movement
+			well under way. Literature is being distributed and a general interest is being aroused.
+			Coming nearer home, there is also a lively movement in Mexico, with headquarters in the
+				<place reg="Mexico City, Mexico">capital city</place> of the republic. In that
+			country, one of the most familiar sights is that of beggar women, mothers of from nine
+			to sixteen children, clustered about the doors of the church, to claim the charity of
+			the worshipper and to divide their gains with the church itself. To offset this misery,
+			the Birth Control group have translated the literature of the movement into the native
+			language and have distributed it widely. Although the church is opposed to this activity
+			and spares no pains to prohibit it, the present <org reg="Mexico, Government of"
+				>government of <place>Mexico</place></org> has been liberal enough to refuse to
+			prosecute these workers for humanity. The women of Mexico are moving on toward their
+			freedom. One of the important recent events in the City of Mexico was a feminist
+			conference, which was widely asserting their rights, it will not be long until they
+			claim the fundamental right of controlling their own productive functions. A new day is
+			dawning for the women of the world and the women of Latin America are claiming their
+			right to the light.</p>
+
+
+	</docBody>
+</doc>

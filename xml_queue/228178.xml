@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed speech">
+    <mepHeader>
+        <prepDate>2011/07/07 NC</prepDate>
+        <prepDate>2014-03-21 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1940-03-11">11 Mar 1940</docDate>
+        <docTitle>
+            <titlePart>Radio Message--Station WFAS</titlePart>
+        </docTitle>
+        <idno>msp228178</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Smith Collection</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S72:0141</bibl>
+        </sourceDesc>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger delivered this address on staion <org reg="WFAS (New York)"
+                >WFAS</org> in New York, NY at 2:00 P.M. in March of 1940.</p>
+        <index level1="birth control"/>
+        <index level1="birth control" level2="American opinion on"/>
+        <index level1="birth control" level2="war and"/></headNote>
+    <docBody>
+        <head>Message from Mrs. <person reg="Sanger, Margaret">Margaret Sanger</person> to be
+            delivered over Station WFAS</head>
+        <dateline><date value="1940-03-11">March 11, 1940 -- 2:00 P.M.</date></dateline>
+
+        <p><emph rend="underline">Friends:</emph> It is a matter of much regret to me that I cannot
+            participate personally in what I regard as a unique occasion, marking the recognition by
+            an influential radio station that birth control so deeply concerns the welfare of our
+            people that it merits wider discussion over the Forums of the Air, as well as in the
+            Forums of the public press and lecture platform. All honor to Station
+                W.F.A.S.!</p>
+        <p>I welcome this opportunity, however, to express my thanks to the countless unseen
+            friends, whose loyal and sustained support throughout the dark and difficult years, have
+            made our present progress possible.</p>
+        <p>Now that the recent <org>Gallup poll</org> has unmistakably pointed its prophetic finger
+            towards the future--for in a democracy the will of the people must eventually come to
+            pass--it is to be hoped and expected that conservative public health officials will be
+            encouraged to move ahead more confidently. For 77% of American voters have now
+            registered their opinion that birth control should be added to existing government
+            health services! Motherhood may soon indeed become for ALL mothers a blessed privilege,
+            rather than an unwelcome burden imposed by a relentless nature.</p>
+        <p>In a war-torn world, we see the tragedies resulting from the fact that little or no
+            consideration has ever been given to the quality of life; only to its quantity; and the
+            quantity has been enormous, making life cheap indeed. In birth control we have the means
+            of raising the quality of life itself; a basic element in any constructive program for
+            “Race Building in a Democracy.”</p>
+
+
+    </docBody>
+</doc>

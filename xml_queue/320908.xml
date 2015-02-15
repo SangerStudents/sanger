@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+    <mepHeader>
+        <prepDate>2011/06/08 CE</prepDate>
+        <prepDate>2011/06/20 CE</prepDate>
+        <prepDate>2011-11-30 CH typos</prepDate>
+        <prepDate>2014-04-01 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1937-05-17">17 May 1937</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Bermuda Speech</supplied></titlePart>
+        </docTitle>
+        <idno>msp320908</idno>
+        <sourceDesc>
+            <bibl><title type="journal">The Royal Gazette and Colonist Daily</title>, May 18, 1937,
+                pp. 1 and 10.</bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <name id="RGCD">Royal Gazette and Colonist Daily</name>
+            <name id="BMA">British Medical Association</name>
+            <name id="BROAR">Browne, Arthur Heber</name>
+            <name id="DILTH">Dill, Thomas Melville</name>
+            <name id="HUGVI">Hugo, Victor-Marie</name>
+            <name id="KEYJO">Keynes, John Maynard</name>
+            <name id="BMH">British Ministry of Health</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger gave a speech to the <org>Bermuda House of Assembly and
+                Legislative Council</org>. No complete version of the speech has been found, but the
+            following article quotes and summarizes the speech.</p>
+        <index level1="Anglican Church" level2="birth control and abortion and"/>
+        <index level1="birth control" level2="access to"/>
+        <index level1="birth control" level2="access to" level3="international"/>
+        <index level1="birth control" level2="distribution of information about"/>
+        <index level1="birth control" level2="distribution of information about"
+            level3="morality of"/>
+        <index level1="birth control" level2="economic benefits and risks of"/>
+        <index level1="birth control" level2="health benefits and risks"/>
+        <index level1="birth control" level2="lack of knowledge of"
+            level3="negative consequences of"/>
+        <index level1="birth control" level2="in marriages"/>
+        <index level1="birth control" level2="movement" level3="American"/>
+        <index level1="birth control" level2="movement" level3="international"/>
+        <index level1="birth control" level2="opposition to"/>
+        <index level1="birth control" level2="religion and"/>
+        <index level1="birth control" level2="rights associated with"/>
+        <index level1="birth control" level2="socio-economic benefits of"/>
+        <index level1="birth control" level2="war and"/>
+        <index level1="birth rate" level2="efforts to reduce"/>
+        <index level1="birth rate" level2="population growth and"/>
+        <index level1="Catholic Church" level2="birth control and abortion and"/>
+        <index level1="England" level2="birth control in"/>
+        <index level1="England" level2="population policies of"/>
+        <index level1="Europe" level2="birth control in"/>
+        <index level1="men" level2="reproductive choices and decisions"/>
+        <index level1="physicians" level2="birth control and"/>
+        <index level1="population" level2="war and"/>
+        <index level1="population growth" level2="regulation of"/>
+        <index level1="population growth" level2="standard of living and"/>
+        <index level1="unfit to reproduce" level2="descriptions of"/>
+        <index level1="women" level2="freedom and rights of"/>
+        <index level1="women" level2="health of"/>
+        <index level1="women" level2="reproductive choices and decisions"/>
+        <index level1="working classes" level2="children"/>
+        <index level1="working classes" level2="fertility of"/>
+    </headNote>
+    <docBody>
+        <head>BIRTH CONTROL</head>
+        <head type="sub">Illuminating Address by Noted Authority</head>
+        <q who="RGCD">
+            <p>Yesterday afternoon, in a Committee Room of the <org reg="Bermuda House of Assembly"
+                    >House of Assembly</org>, members of the <org reg="Bermuda Department of Health"
+                    >Board of Health</org> and <person reg="Browne, Arthur Heber">His Lordship the
+                    Bishop of Bermuda</person>, listened to an address on the need for birth control
+                in the modern world by Mrs. <person reg="Sanger, Margaret">Margaret Sanger</person>,
+                Chairman of the <org>National Commission for Federal Legislation on Birth
+                    Control</org>, and leader of the movement in the <place reg="United States"
+                    >U.S.A.</place></p>
+            <p>Col. <person reg="Dill, Thomas Melville">Dill</person>, stating that it was his
+                privilege to introduce the speaker to her audience, emphasised what he has so often
+                remarked upon in the House of Assembly, the fact that <place>Bermuda</place> had the
+                almost uncanny knack of reproducing in very minute miniature many important world
+                problems. Bermuda, on chart of the <place>North Atlantic</place>, is shewn as a mere
+                comma, and yet, he said, he believed he was right in saying that she is one of the
+                most densely populated of any place in the <place reg="United Kingdom"
+                    >Empire</place>, beaten only by <place>Malta</place>, <place>Hong Kong</place>,
+                and <place>Gibralter</place>.</p></q>
+        <p>Mrs. Sanger said:-</p>
+        <p>I feel that the movement that I represent owes a great debt of gratitude to those
+            outstanding distinguished men and women in <place>England</place> who, from the
+            beginning of this movement, have not only lent the dignity and prestige of their names
+            to it, but have on many occasions thrown the whole weight of their influence to bring
+            enlightenment to the English speaking world with regard to this question of limitation
+            of population, more popularity known as birth control.</p>
+        <p>This term was coined in America by a group of us who thought that the old terms of
+            Malthusianism and Neo-Malthusianism, were rather controversial questions in England, and
+            that the newer term of the control of the birth rate by means that prevent conception
+            would reach the common mind more quickly than the long explanation of what Malthusianism
+            meant. I spent two years in England studying the question men and women there who knew a
+            good deal about population, its control and distribution, and more and more I came in
+            contact with men like <person reg="Inge, William Ralph">Dean Inge</person>, who was one
+            of those who had the courage, the fearlessness, to speak his mind, and felt
+            responsibility in doing so. Later on, <person reg="Dawson, Bertrand Edward">Lord
+                Dawson</person> of <place reg="Penn, England">Penn</place>, who went before the
+                <org>Lambeth Conference</org>, and who there perhaps gave one of the most
+            magnificent pronouncements on this question that ever had been given in this generation,
+            when he said to the churchmen at that time that it was their duty to go forth and tell
+            the healthy young men and women, starting out in marriage, that they were assuming one
+            of the greatest responsibilities of the world today, the responsibility of passing on
+            the gift of life. It was for the <org reg="Church of England">Church</org> to help them
+            carry those responsibilities and to help them to meet the demands of the marriage. And
+            in his address at that time, he said, that unless the churchmen would open their eyes
+            and ears and go forth and speak that they would soon be closing their doors.</p>
+        <p>It was about a year, I think before the Lambeth Conference came out and made a statement,
+            and it was rather a conservative statement then; but, considering the time, and the
+            newness of the subject from a scientific point of view, and from the war of controversy
+            that it had waged in England, I think it was perhaps a very courageous thing for them to
+            take the stand they did, in which they claimed that according to Christian principles
+            and ethics, that an individual had a right to practice contraception according to his
+            conscience.</p>
+        <p>That started a controversy.</p>
+        <p>There was then issued the Encyclical from the <org reg="Roman Catholic Church">Church of
+                Rome</org>--from the <org>Vatican</org>.</p>
+        <p>The <org>British Medical Association</org>, upon clause 3, came forth and stated where
+            they stood. They said that they would not be dictated to by any group, for or against;
+            they were going to take their stand upon the question of whether it was a human thing.
+            That was a very courageous and splendid position to take. It was a medical proposition
+            and the medical men would not be dictated to, either by propagandists, pro or con. That
+            was a most splendid stand, because it influenced the medical profession in other
+            countries. It was the way they felt and should feel.</p>
+        <p>A few years later, in 1931, the <org reg="British Ministry of Health">Ministry of
+                Health</org>, through the <org>Maternity and Infant Welfare Agencies</org>, claimed
+            that they had a right to give information to the mothers who came to the <org>Maternity
+                Centres</org> whenever there was a disease condition, or a condition that made
+            pregnancy or childbirth a hardship, and later they followed that up by another statement
+            maintaining that any disease that was hazardous to pregnancy, or childbearing was a
+            condition upon which the physician should have the right to inform the mother against
+            pregnancy.</p>
+        <p>And so we have had, one after the other, step by step, these outstanding men taking a
+            stand that I believe future generations will bless them for I have always been
+            encouraged in the many ups and downs one has in a cause of this kind in remembering the
+            words of <person reg="Hugo, Victor">Hugo</person> "<q who="HUGVI">There is no force in
+                the world so great as that of an idea who's hour has struck</q>." I believe that
+            twenty years ago the time had come for people to think of progeny, not for their own
+            convenience, but to think of it in relation to the future; to consider is as a
+            qualitative factor; and to realise that there must be a consciousness in bringing life
+            into being, not letting it be an accident-an accidental result of conduct; but more and
+            more is should be a serious thing planned with a sense of responsibility for the child,
+            its welfare, and for the race generally.</p>
+        <p>I think perhaps never before in the history of mankind is the ideal so important to put
+            before the people of the world as today. There is no subject that has so large a
+            practical significance, which at the same time goes so deeply into the foundations of
+            social evolution, as this same question, the conscious control of birth. There is no
+            other subject of equal importance that has been left so long in equal obscurity, and yet
+            none that can shew so unequalled an in-interest, an interest which has leaped horizons
+            nationally and internationally, as the subject has done in the past ten years, because
+            it is of interest to the average man and woman. It goes close to them. Every married man
+            and woman must think of this question, must want to know what there is to know,
+            individually. And communities, those in charge of health of communities, must certainly
+            long to do something to prevent the coming of children into the strata of life when it
+            will be difficult to give them adequate means to carry though.</p>
+        <p>When I met <person reg="Keynes, John Maynard">John Maynard Keynes</person> in <place
+                reg="Geneva, Switzerland">Geneva</place> in 1925 he was looking rather depressed and
+            rather gloomy. He had then been sent down to Geneva by the <org>British Government</org>
+            to the <org>League of Nations</org> to do something fine towards establishing
+            international peace. Mr. Keynes said to me, "<q who="KEYJO">I am discouraged because
+                they are not striking at fundamentals. They do not want to think of one fundamental
+                question, and that is the population question. There is not a city, not a country,
+                in the League of Nations today that will accept it, or discuss it, and until the
+                nations of the world are willing to sit down and talk about their problems from the
+                population point of view, its rate of growth, its distribution, and its quality,
+                they might just as well throw their peace proposals into the waste basket, because
+                they will never have international peace until they do consider that problem</q>." I
+            think he was a prophet.</p>
+        <p>I am more convinced today as history has shown with <place>Italy</place>,
+                <place>Germany</place>, <place>Japan</place>-which have been long danger spots in
+            the world, bound to move over geographical course from sea to sea-that John Maynard
+            Keynes was right, and that in order to have international peace we must have population
+            control.</p>
+        <p>There used to be three means of control, birth, death and immigration. But since 1924
+            when the United States closed its doors against Immigration the rest of the world felt
+            that bar, because the United States was the open door into which the surplus population
+            of the world, especially of <place>Europe</place>, had poured for over a hundred
+            years.</p>
+        <q who="RGDC">
+            <p>Continuing, Mrs. Sanger said: since 1924, in spite of this we have increased
+                twenty-five million, and we have ten million people on relief and sixtyfive percent
+                of the birth rate in the last three years has come from those people on relief.</p>
+            <p>After speaking of the economic situation in the United States and the possible ways
+                of attacking the problem, Mrs. Sanger said that in Every country there were two
+                groups, the group that has controlled its birth rate, and the groups that has not.
+                It was the intelligent educated people who had controlled the size of their family,
+                and the ignorant, usually the diseased and poor people who had not. She drew
+                attention to the fact that the children of controlled families were able to enter
+                schools, trade colleges, college, and universities and were not obliged to enter
+                factories and mines.</p></q>
+        <p>“During the child-bearing period” <q who="RGDC">said Mrs. Sanger,</q> "women can produce
+            from two to twenty children, according to their reproductive capacity, without
+            interrupting their pregnancy, and that is the problem that England and the United States
+            is facing today.</p>
+        <q who="RGDC">
+            <p>Mrs. Sanger quoted many statistics which appeared to establish her plea for a
+                deliberate consideration of necessity for informing men and women of the means of
+                preventing conception, and urged that it was a medical question, and asked why,
+                since a woman of means could afford to visit a doctor and obtain from him privately
+                in his surgery information which enabled her to control her family, a poor woman,
+                faced with the possibility of pregnancy when in poor health and in fortuitous
+                circumstances, should not be able to obtain the same information by means of a
+                clinic established for such a purpose.</p>
+            <p>Mrs. Sanger, stated that the movement with which she was associated did not consider
+                that early marriages were to be avoided, but that early parenthood was not
+                desirable, since it was better for men and women to be thoroughly balanced,
+                physically, mentally and nervously, before reproducing life. She considered, too,
+                that pre-natal information was of great assistance to young pregnant woman.</p>
+            <p>Another important aspect of the case was emphasised by Mrs. Sanger when she spoke of
+                the transmission of disease, and also of the undesirability of women suffering from
+                what are regarded as perhaps common complaints, minor heart diseases goiter and so
+                on from being subject to child birth.</p>
+            <p>At the end of the address, <person reg="Williams, L.J.">Dr. L.J. Williams</person>,
+                in response to a request for questions, asked whether the contraceptive methods
+                recommended by the Movement with which Mrs. Sanger is associated could be guaranteed
+                one hundred per cent.</p>
+            <p>Mrs. Sanger stated that that was a difficult question to answer, but that of 10,000
+                cases analysed in <place reg="New York City, NY">New York</place>, the failures were
+                classified in two categories, the technical failure and the human failure. The
+                technical failure was responsible for only two and a half per cent of the cases, and
+                the human failure-negligence and carelessness of the prospective mother-was
+                responsible for seven and a half per cent.</p>
+            <p>Col. Dill asked His Lordship the Bishop to say a few words.</p>
+            <p>His Lordship stated that he was there by courtesy of invitation and because he
+                thought that it was his duty to hear what was said. He had spent, he said, a very
+                painful time because he entirely disagreed with the speaker, though of course he did
+                not question her sincerity. He said that he was sure that without any intention Mrs.
+                Sanger had, as so many other people also had done, misrepresented the most
+                unfortunate pronouncement of Resolution 15 of the Lambeth Conference of 1930. He was
+                thankful to say that he was one of a strong minority who resisted the passing of the
+                resolution, not because they were in entire disagreement with what was said, as
+                because they were sure that the effect that it would produce in the world would be
+                lamentable and in the years that have been passed that has been shewn to have been
+                the case. He agreed most emphatically with Mrs. Sanger upon one point, and that was
+                the grave responsibility incumbent upon every parent of transmitting disease,
+                particularly the transmission of mental instability. He said that he would like to
+                press that point home because there was a desire to face fact, then that fact should
+                most certainly be faced. He concluded his brief remarks by recommending the speaker
+                to follow the example of <person reg="Stopes, Marie">Dr. Marie Stopes</person>.</p>
+            <p>(We take this to refer to the fact that Dr. Stopes was recently admitted to the Roman
+                Catholic Church which refuses to recognize birth control, and apparently forbids its
+                members any independent thought upon the subject. The recommendation will not find
+                favour with those who prefer reason to dogma--Editor.</p>
+            <p>Col. Dill in thanking Mrs. Sanger said that there were undoubtably two points of view
+                antagonistic on to the other, but he believed that it would be possible after due
+                deliberation to resolve the two conflicting opinions.</p></q>
+    </docBody>
+</doc>

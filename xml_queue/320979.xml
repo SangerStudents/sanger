@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+    <mepHeader>
+        <prepDate>2011/06/01 CE</prepDate>
+        <prepDate>2014-03-18 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1948-00-00">1948</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Birth Control, 1947</supplied></titlePart>
+        </docTitle>
+        <idno>msp320979</idno>
+        <sourceDesc>
+            <bibl><title type="book">Britannica Book of the Year</title>(1947), pp.122-123</bibl>
+        </sourceDesc>
+    </mepHeader>
+    <headNote resp="MSPP"><p>For a typed draft, see <title>Margaret Sanger Microfilm</title>
+            S72:550.</p>
+        <p>For other articles in the <title type="book">Britannica Book of the Year</title> series,
+            see <xref from="320980.xml"><title type="article">Birth Control, 1946</title></xref>;
+                <xref from="321981.xml"><title type="article">Birth Control, 1948</title>,
+                1949</xref>;<xref from="320981.xml"><title type="article">Birth Control,
+                    1949</title></xref>; <xref from="321981.xml"><title type="article">Birth
+                    Control, 1950</title></xref>; <xref from="320983.xml"><title type="article"
+                    >Birth Control, 1951</title></xref>; <xref from="320984.xml"><title
+                    type="article">Birth Control, 1952</title></xref>; <xref from="321984.xml"
+                    ><title type="article">Birth Control, 1953</title></xref>; <xref
+                from="320985.xml"><title type="article">Birth Control, 1954</title></xref>; <xref
+                from="320986.xml"><title type="article">Birth Control, 1955</title></xref>; <xref
+                from="none.xml"><title type="article">Birth Control, 1956</title></xref>; <xref
+                from="320987.xml"><title type="article">Birth Control, 1957</title></xref>; <xref
+                from="320988.xml"><title type="article">Birth Control, 1958</title></xref></p>
+        <index level1="birth control" level2="clinics and leagues" level3="in US"/>
+        <index level1="birth control" level2="international conferences on"/>
+        <index level1="birth control" level2="laws and legislation" level3="Connecticut"/>
+        <index level1="birth control" level2="laws and legislation" level3="Massachusetts"/>
+        <index level1="birth control" level2="medical community and"/>
+        <index level1="birth control" level2="movement" level3="American"/>
+        <index level1="birth control" level2="movement" level3="international"/>
+        <index level1="conferences" level2="World Conference on the Family and Population"
+            level3="1947"/>
+        <index level1="physicians" level2="birth control and"/>
+        <index level1="Planned Parenthood Federation of America"/>
+        <index level1="United States" level2="government" level3="birth control and"/>
+        <index level1="United States" level2="government" level3="public health programs"/>
+    </headNote>
+    <docBody>
+        <div type="section">
+            <head type="sub">Birth Control.</head>
+            <p>Planned Parenthood programs throughout the <place>United States</place> were expanded
+                in 1947, a direct result of the first nation-wide campaign of the <org>Planned
+                    Parenthood Federation of America</org>, Inc. A major campaign by-product was the
+                vast increase in public understanding and acceptance of Planned Parenthood services.
+                The coverage given by the nation’s press, wire services, radio and other media,
+                especially magazines, was instrumental in breaking down some of the resistance to
+                publicized discussion of birth control.</p>
+        </div>
+        <div type="section">
+            <head type="sub">Research.–-</head>
+            <p>The first comprehensive program for research in the field of human reproduction was
+                instituted during 1947. It was under the direction of the <org>National Research
+                    council</org> in <place reg="Washington, D.C.">Washington</place>. The <org
+                    reg="National Research Council Committee on Human Reproduction">Committee on
+                    Human Reproduction</org> established by the council was to study need and
+                recommend grants for specific research to qualified institutions and investigators.
+                The council by contact with the <org>National Committee on Maternal Health</org> and
+                in collaboration with the Planned Parenthood federation established this committee
+                to plan the program of research. Research panels were to operate in accordance with
+                policies to be defined by the newly reorganized board of the Committee on Maternal
+                Health, under the chairmanship of <person reg="Emerson, John Haven">Dr. Haven
+                    Emerson</person>, professor emeritus of public health service at <org>Columbia
+                    University</org>, and a member of the <org><place reg="New York City, NY">New
+                        York city</place> board of health</org>.</p>
+            <p>The Committee on Human Reproduction of the National Research council was headed by
+                    <person reg="Taylor, Howard Canning, Jr.">Dr. Howard C. Taylor, Jr</person>.,
+                professor of obstetrics and gynaecology at <org>Columbia university</org>’s college
+                of physicians and surgeons.</p>
+            <p>More than the purely medical aspects of reproduction was envisaged by the Committee
+                on Human Reproduction as vital to its program. The medical aspects are so closely
+                bound to the socio-economic environmental problems of the individual, family,
+                community, nation, and the whole world that a sound research program can ignore none
+                of them. The main areas of the study would include: (1) the physiology of and the
+                factors controlling conception; (2) the causes of sterility and treatment for
+                infertility; (3) maternal and foetal physiology and clinical disorders developing
+                during pregnancy; (4) the psychological problems of marriage and family
+                relationships; (5) the population aspects of these problems, social and economic as
+                well as medical.</p>
+            <p>The Planned Parenthood federation would seek to contribute a substantial part of the
+                funds for the research program. The clinics and records of its affiliates would also
+                constitute a valuable field for certain research projects. While not a party to the
+                contract between the National Research council and the National Committee on
+                Maternal Health, the federation was collaborating as a full partner in the whole
+                program.</p>
+        </div>
+        <div type="section">
+            <head type="sub">Medical Survey of U.S. Physicians on Birth Control.–-</head>
+            <p><person reg="Guttmacher, Alan Frank">Dr. Alan F. Guttmacher</person>, associate
+                director of obstetrics and gynaecology at <org reg="Johns Hopkins University">Johns
+                    Hopkins</org>, conducted a nation-wide survey to tabulate medical opinion on
+                conception control. According to his poll, 96% of the physicians in the U.S.
+                approved birth control. Teaching of conception control methods in medical schools
+                was found inadequate. Three-quarters of the respondents had not received training in
+                this area. Only 7% said they had received both lectures and clinical instruction in
+                contraception.</p>
+        </div>
+        <div type="section">
+            <head type="sub">Lasker Awards in Planned Parenthood.–-</head>
+            <p>Dr. Guttmacher and <person reg="Stone, Abraham">Dr. Abraham Stone</person> received
+                the third annual Lasker Awards in Planned Parenthood for their distinguished
+                contribution in the fields of marriage counseling and education. The award
+                recognized Dr. Stone’s 30 years of clinical work, teaching and marriage
+                counseling.</p>
+        </div>
+        <div type="section">
+            <head type="sub">Development of Services.–-</head>
+            <p><person reg="Kling, Llewellyn E.">Dr. L. E. Kling</person>, formerly with the <org
+                    reg="United States Public Health Service">U.S. public health service</org>,
+                became acting medical director of the federation. During his public health services,
+                Dr. Kling developed the first mass X-ray programs and had wide experience in
+                tuberculosis and cancer control public health programs.</p>
+            <p>Nearly two-thirds of the people of the U.S. believed government health clinics should
+                furnish birth control information, it was found in a Gallup poll conducted during
+                the year. Figure showed that 64% approved, 23% disapproved and 13% had no
+                opinion.</p>
+            <p>A bill to permit physicians in <place>Connecticut</place> to prescribe contraceptives
+                to their patients was defeated in May when the state senate voted two to one against
+                the bill. It had passed the lower house 180 to 40.</p>
+            <p><place>Massachusetts</place> officially opened a campaign for repeal of the state law
+                forbidding medical prescription of contraception on Sept. 2. An initiative petition
+                for a new law was approved by the state attorney general after it had been filed by
+                ten voters headed by <person reg="Compton, Karl Taylor">Dr. Karl T.
+                Compton</person>, president of the <org>Massachusetts Institute of Technology</org>.
+                Many more than the 20,000 registered voters required by law signed the petition.</p>
+            <p>Four fertility clinics were opened during the year. Two of them were in
+                    <place>Delaware</place> and Connecticut where these services had hitherto been
+                unavailable. Of these four new clinics, two were under Planned Parenthood
+                auspices.</p>
+        </div>
+        <div type="section">
+            <head type="sub">International Developments.–-</head>
+            <p>An <org>International Union of Family Organizations</org> was established by 27
+                nations meeting in <place reg="Paris, France">Paris</place> June 22-29 at a
+                    <org>World Conference on the Family and Population</org>. It was called by the
+                    <org>French Union of Family Associations</org>. U.S. representatives included
+                Dr. Abraham Stone, who was delegated by the <org>National Research Council</org>,
+                the Planned Parenthood federation and the National Council for Family Relations;
+                    <person reg="Stebbins, Ernest Lyman">Dr. Ernest Stebbins</person>, professor of
+                hygiene and public health, Johns Hopkins; Miss <person reg="Hoey, Jane M.">Jane
+                    Hoey</person>, director of the social welfare bureau, <org
+                    reg="United States Federal Security Agency, Social Welfare Bureau">Federal
+                    Security Agency</org>; Mrs. <person reg="Nyswander, Rachel">Rachel
+                    Nyswander</person>, director of the <org
+                    reg="United States Department of Labor, Women's Bureau">women’s bureau of the
+                    labor department</org>; and <person reg="Himes, Norman E">Dr. Norman
+                    Himes</person> from the educational department of the U.S. military government
+                in <place>Germany</place>. Representatives from the cultural department of the <org
+                    reg="United States Embassy of Paris">U.S. embassy in Paris</org> and of the <org
+                    reg="United Nations Organization for Education, Science and Culture">United
+                    Nations Educational, Scientific, and Cultural organization</org> also
+                participated. Dr. Stone was elected a vice-president of the new <org>International
+                    Union of Family Organizations</org>.</p>
+        </div>
+        <div type="section">
+            <head type="sub">Organization.–-</head>
+            <p>The Planned Parenthood federation was in 1947 the national agency and clearinghouse
+                for 38 state leagues and 206 local committees. The total number of birth control
+                centres stood at 550. These services were in 231 public health clinics, 60 hospital
+                clinics and 214 extramural clinics. Of the 55 fertility clinics in the U.S., 12 were
+                under Planned Parenthood direction. (See also BIRTH STATISTICS.)</p>
+            <byline>(<person reg="Sanger, Margaret">M.SR.</person>)</byline>
+        </div>
+    </docBody>
+</doc>

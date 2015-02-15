@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed Speech">
+    <mepHeader>
+        <prepDate>2011/05/24 CE</prepDate>
+        <prepDate>2011/06/21 CE Corrections</prepDate>
+        <prepDate>2014-03-30 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1942-12-08">8 Dec 1942</docDate>
+        <docTitle>
+            <titlePart>Birth Control, <supplied resp="MSPP">1942</supplied></titlePart>
+        </docTitle>
+        <idno>msp236628</idno>
+        <sourceDesc>
+            <bibl><title type="book">Britannica Book of the Year</title> (1943), p. 109.</bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>For other articles in the <title type="book">Britannica Book of the
+                Year</title> series, see <xref from="320976.xml"><title type="book">Birth Control,
+                    1944</title></xref>; <xref from="320980.xml"><title type="book">Birth Control,
+                    1946</title></xref>; <xref from="320979.xml"><title type="book">Birth Control,
+                    1947</title></xref>; <xref from="320981.xml"><title type="book">Birth Control,
+                    1949</title></xref>; <xref from="321981.xml"><title type="book">Birth Control,
+                    1950</title></xref>; <xref from="320983.xml"><title type="book">Birth Control,
+                    1951</title></xref>; <xref from="320984.xml"><title type="book">Birth Control,
+                    1952</title></xref>; <xref from="321984.xml"><title type="book">Birth Control,
+                    1953</title></xref>; <xref from="320985.xml"><title type="book">Birth Control,
+                    1954</title></xref>; <xref from="320986.xml"><title type="book">Birth Control,
+                    1955</title></xref>; <xref from="none.xml"><title type="book">Birth Control,
+                    1956</title></xref>; <xref from="320987.xml"><title type="book">Birth Control,
+                    1957</title></xref>; <xref from="320988.xml"><title>Birth Control,
+                1958</title></xref></p><p>For typewritten drafts see <title>Margaret Sanger
+                Microfilm</title> S72:368 and Library of Congress Microfilm 129:94, 99B and 101.</p>
+        \
+        <index level1="African Americans" level2="birth control and"/>
+        <index level1="birth control clinics and leagues" level2="in Europe"/>
+        <index level1="birth control clinics and leagues" level2="in United States"/>
+        <index level1="Connecticut" level2="birth control in"/>
+        <index level1="Massachusetts" level2="birth control in"/>
+        <index level1="Birth Control Federation of America"/>
+        <index level1="birth control" level2="legalization of"/>
+        <index level1="birth control" level2="medical community and"/>
+        <index level1="birth control methods" level2="efficacy of"/>
+        <index level1="birth control methods" level2="research on"/>
+        <index level1="birth control methods" level2="diaphragm"/>
+        <index level1="birth control methods" level2="sponge"/>
+        <index level1="Planned Parenthood Federation of America"/>
+        <index level1="Germany" level2="birth control in"/>
+        <index level1="Japan" level2="birth control in"/>
+        <index level1="United States" level2="Southern States"/>
+        <index level1="United States" level2="public health programs"/>
+        <index level1="United States" level2="population of"/>
+        <index level1="birth control" level2="class-based"/>
+    </headNote>
+    <docBody>
+        <head>BIRTH CONTROL</head>
+        <div type="section">
+            <p>The <org>Birth Control Federation of America, Inc</org>. by vote of its members at
+                the Annual Meeting in January 1942, changed its name to <org>Planned Parenthood
+                    Federation of America, Inc</org>., as more indicative of its aims and purposes.
+                Work during the year was concentrated on: (1) inclusion of pregnancy spacing in more
+                State Health Departments; (2) stimulation of adequate teaching of contraception in
+                medical schools and wider distribution to physicians, of a condensed authoritative
+                text by <person reg="Dickinson, Robert Latou">Robert L. Dickinson</person>, on
+                techniques of conception control; (3) raising funds for research, and (4) continuing
+                public education.</p>
+            <p><person reg="Pierce, Claude C.">Claude C. Pierce</person>, M.D. who retired as former
+                Director of Region 1 of the <org reg="United States Public Health Service">U.S.
+                    Public Health Service</org>, became Medical Director of the Federation, <person
+                    reg="Upham, John H. J.">John H. J. Upham</person>, M.D., former President of the
+                    <org>American Medical Association</org>, was elected Chairman of the Board, and
+                    <person reg="Eastman, Nicholson J.">Nicholson J. Eastman</person>, M.D., head of
+                the Department of Obstetrics and Gynecology, <org>Johns Hopkins Medical
+                School</org>, became Chairman of the <org>National Medical Council on Birth
+                    Control</org>.</p>
+        </div>
+        <div type="section" n="1">
+            <head type="sub">Public Health.</head>
+            <p>Three more states were assisted in initiation pregnancy spacing in their Health
+                Departments, bring the total to six.</p>
+            <div type="subsection">
+                <head type="subsub">Clinical Service.</head>
+                <p>On December 1, 1942, there was 782 services in the <place>United States</place>;
+                    216 in hospitals; 256 in public health quarters; 310 extra mural; and 336 of the
+                    total supported in whole or part by public funds.</p>
+            </div>
+        </div>
+        <div type="section" n="2">
+            <head type="sub">Medical Education.</head>
+            <p>Copies of a new edition of Dr. Dickinson’s <title type="book">Techniques of Conception
+                    Control</title>” were sent, on request, to 45,000 physicians and medical
+                schools. Returns on a questionnaire sent to 34,000 of those receiving the pamphlet,
+                showed that the doctors greatest interest was in technique. A syllabus for teaching
+                contraception in medical schoold was drawn up, to be sent for their consideration to
+                heads of these institutions.</p>
+            <div type="subsection">
+                <head type="subsub">Medical Endorsements.</head>
+                <p>The <org><place>Florida</place> State Medical Association</org>, the
+                            <org><place>Tennessee</place> State Medical Society</org> and the
+                            <org><place>West Virginia</place> State Medical Association</org>, all
+                    passed resolutions approving child-spacing, or Planned Parenthood, as part of
+                    public health activities and medical practice.</p>
+            </div>
+        </div>
+        <div type="section" n="3">
+            <head type="sub">Research and Investigations.</head>
+            <p>The Federation raised funds for research in various aspects of human fertility, to be
+                conducted under the guidance of the <org>National Committee on Maternal
+                Health</org>. These studies are long range projects; results will be announced at
+                their termination. There is still urgent need for research in simpler effective
+                contraceptive methods. Among the independent clinical studies on simple forms of
+                contraception, were those of <person reg="Stein, Irving R.">Irving R.
+                Stein</person>, et al (a) in <place reg="Chicago, Illinois">Chicago</place>, <person
+                    reg="Beebe, Gilbert W.">Beebe</person> and <person reg="Overton, John"
+                    >Overton</person>, (b) in <place reg="Nashville, Tennessee">Nashville</place>,
+                Beebe (c) in a rural area in West Virginia, and Beebe and <person
+                    reg="Geisler, Murray">Geisler</person> (d) in a rural area of
+                    <place>Kentucky</place>. All of these studies showed a varying reduction in
+                fertility among the cases advised. Clinic Reports show diaphragm and jelly the
+                choice of doctors in private practice; in public health clinics foam powder and
+                sponge seemed to give adequate protection when regularly used. the non-use of a
+                method, occasionally, was the human factor which faced doctors in all branches of
+                preventive medicine.</p>
+            <p>The <org reg="American medican Association Council on Chemistry and Pharmacy">Council
+                    on chemistry and Pharmacy</org> of the American Medical Association appointed a
+                Committee on contraceptives to study drugs used in this field and to report on
+                contraceptive preparations, and the Medical Sub-Committee of the <org>Family
+                    Planning Association</org> of Great Britain appointed a special As-Hoc Committee
+                to conduct a clinical investigation of the efficiency of certain chemical
+                contraceptives.</p>
+        </div>
+        <div type="section" n="4">
+            <head type="sub">Public Education.</head>
+            <head type="subsub">Negro Program.</head>
+            <p>A two-year Negro child-spacing demonstration project was successfully carried out
+                under the most difficult conditions to provide proof that under public health
+                direction the benefits of planned parenthood can reach and will receive acceptance
+                by even the poorest and most illiterate groups. Negro leaders in the fields of
+                medicine, education and social welfare gave active support to a national educational
+                campaign.</p>
+            <div type="subsection">
+                <head type="subsub">Legal Decisions, U.S.</head>
+                <p>The <org reg="United States Supreme Court of Errors">Supreme Court of
+                        Errors</org>, of <place>Connecticut</place>, by a vote of 3 to 2, on the
+                        <person reg="Tileston, Wilder">Tileston</person> case in June, ruled that
+                    the State law on contraception was constitutional and that under it no doctor
+                    could advise the use of contraceptives even in cases where the life of a patient
+                    was threatened by pregnancy. In November, the <org
+                        reg="United States Supreme Court">U.S. Supreme Court</org> agreed to accept
+                    the <name type="legal case" reg="Tileston v. Ullman">Tileston</name> case for
+                    review. In <place>Massachusetts</place>, all efforts of the opposition to keep
+                    the question off the ballot having failed, the people voted in a referendum as
+                    to wehther physicians in that state could legally advice patients on
+                    contraceptives, when life or health were threatened by pregnancy.</p>
+            </div>
+        </div>
+        <div type="section">
+            <head type="sub">Abroad.</head>
+            <p>In Great Britain birth control clinics remained open and an increase in the number of
+                patients was reported. Conscription of women for war work led to a demand for
+                contraceptive by many who could not carry on in th country’s war effort if they
+                became pregnant. Medical Officers of Health were reported as cooperating, in many
+                countries by referring cases to clinics for advice. Elsewhere in
+                    <place>Europe</place> no information filtered through, beyond and authentic
+                report from <place>Germany</place> that contraceptives were among the few articles
+                still advertised for sale in a number of large cities. Germany,
+                <place>Italy</place>, and <place>Japan</place> were all pressing frantically for
+                higher birth rates. this policy, accompanied by suppression of birth control
+                information did not bring the desired results.</p>
+        </div>
+        <div type="section">
+            <head type="sub">BIBLIOGRAPHY.--</head>
+            <p>Irving R. Stein, <person reg="Cohen, Melvin R.">Melvin R. Cohen</person> and <person
+                    reg="Nielsen, Rita">Rita Nielsen</person>. "<title type="article">Jelly alone as Contraceptive
+                    Method</title>." <title type="journal">Human Fertility</title> (April 1942).</p>
+            <p>Gilbert W. Beebe and John Overton. <title type="article">The Contraceptive Service of the Department
+                    of Health, City of Nashville</title>. <title type="journal">J.A.M.A.</title>. (March 28,
+                1942).</p>
+            <p>G.W. Beebe. <title type="book">Contraception and Fertility in the Southern Appalachian</title>
+                (1942).</p>
+            <p>G.W. Beebe and murray Geisler. <title type="article">Control of Contraception in a Selected Rural
+                    Sample</title> -- <title type="journal">Human Biology</title>. (Feb. 1942).</p>
+        </div>
+    </docBody>
+</doc>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+    <mepHeader>
+        <prepDate>2011/06/21 CE</prepDate>
+        <prepDate>2011-11-30 CH typos</prepDate>
+        <prepDate>2014-04-09 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1923-12-00">Dec 1923</docDate>
+        <docTitle>
+            <titlePart>Woman and Birth Control</titlePart>
+        </docTitle>
+        <idno>msp306006</idno>
+        <sourceDesc>
+            <bibl><title type="journal">The Thinker</title> (Dec. 1923), pp. 69-72.</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> C16:206</bibl>
+        </sourceDesc>
+        <respStmt>
+            <name id="UNK">Unknown</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>This is the third of a six-article series, but only five have been
+            found. For other articles in the series, see <xref from="306641.xml"><title
+                    type="article">Highlights in the History of Birth Control</title> Oct.
+                1923</xref>; <xref from="306638.xml"><title type="article">A Better Race Through
+                    Birth Control</title> Nov.1923</xref>; <xref from="305275.xml"><title
+                    type="article">"Birth Control in China and Japan"</title> Feb. 1924</xref>
+                and<xref from="300368.xml"><title type="article">The Birth Control Movement in
+                    1923</title> April 1924</xref></p>
+        <index level1="abortion" level2="health risks of"/>
+        <index level1="American Birth Control League"/>
+        <index level1="birth control" level2="access to"/>
+        <index level1="birth control" level2="class-based"/>
+        <index level1="birth control" level2="distribution of information about"/>
+        <index level1="birth control" level2="health benefits and risks"/>
+        <index level1="birth control" level2="in marriages"/>
+        <index level1="birth control" level2="lack of knowledge of"/>
+        <index level1="birth control" level2="opposition to"/>
+        <index level1="birth control" level2="socio-economic benefits of"/>
+        <index level1="birth control" level2="suppression of"/>
+        <index level1="children" level2="unwanted"/>
+        <index level1="Europe" level2="MS on"/>
+        <index level1="family size" level2="class-based"/>
+        <index level1="France" level2="birth rate in"/>
+        <index level1="Germany" level2="birth rate in"/>
+        <index level1="labor movement," level2="birth control and"/>
+        <index level1="mentally disabled and diseased" level2="birth control and"/>
+        <index level1="motherhood" level2="consripted"/>
+        <index level1="mortality rates" level2="infant"/>
+        <index level1="mortality rates" level2="maternal"/>
+        <index level1="physicians" level2="birth control and"/>
+        <index level1="poverty" level2="family size and"/>
+        <index level1="pregnancy" level2="fears of"/>
+        <index level1="quackery"/>
+        <index level1="Sanger, Margaret" level2="biography"/>
+        <index level1="Sanger, Margaret" level2="nursing and"/>
+        <index level1="Spain" level2="MS on"/>
+        <index level1="upper classes" level2="birth control and"/>
+        <index level1="women" level2="birth control and"/>
+        <index level1="women" level2="enslavement of"/>
+        <index level1="women" level2="freedom and rights of"/>
+        <index level1="women" level2="health of"/>
+        <index level1="women" level2="reproductive choices and decisions"/>
+        <index level1="working classes" level2="birth control and"/>
+        <index level1="working classes" level2="children"/>
+        <index level1="working classes" level2="fertility of"/>
+        <index level1="working classes" level2="living conditions of"/>
+        <index level1="working classes" level2="women and girls"/>
+    </headNote>
+    <docBody>
+        <head>Woman and Birth Control</head>
+        <byline>By <person reg="Sanger, Margaret">Margaret Sanger</person>, 104 5th Ave., <place
+                reg="New York, NY">New York City</place></byline>
+        <p>The Birth Control movement has its roots in the history of subjection. In the past women
+            have been brood animals to the state, to industry, to the church. Whenever they have
+            raised their heads and tried to loosen the chains that bound them, they have met with
+            opposition--opposition often cloaked in apparent solicitude for their moral and
+            spiritual well-being, and efforts have been made to keep them in servitude in the sphere
+            that men marked out for them. Today, however, women are rising, even though slowly, in
+            fundamental revolt. Their efforts at superficial reforms are steps in that direction.
+            but more essential is their demand for the right to voluntary motherhood. They are
+            determined to decide for themselves whether they shall become mothers, under what
+            conditions, and when. They are beginning to ask the purposes for which their children
+            will be used; whether as slaves or freemen. This is a fundamental question. This is a
+            fundamental revolt. It is for women the key to the temple of liberty.</p>
+        <p>For centuries, woman has gone forth with man to till the fields, to feed and clothe the
+            nations. She has sacrificed her life to populate the earth. She has overdone her labors.
+            She now steps forward and declares that she will cease producing in ignorance. To do
+            this she must have the power to control birth. To secure this power--to obtain the
+            knowledge that will give it to her--this is the first immediate step she must take
+            towards the goal of her freedom.</p>
+        <p>Those who are opposed to giving this power to women are simply those who do not know.
+            Anyone who, like myself, has worked among the people and who has found on the one hand
+            an increasing proletarian class with its ever deepening misery, poverty and ignorance,
+            and on the other hand a stationary or decreasing section of the population with
+            increasing wealth and higher standards of living, greater freedom, greater possibilities
+            of joy and happiness, cannot doubt that Birth Control is the livest issue of the day and
+            one on which depends the future welfare of the race.</p>
+        <p>Before I turn to the arguments against Birth Control, I should like to tell something of
+            the conditions I met with in my work as a trained nurse, and a little of the experiences
+            that convinced me of the necessity of Birth Control, and led me to jeopardize my liberty
+            in order to place this information in the hands of the women who most need it.</p>
+        <p>My first clear impression of life was that large families and poverty went hand in hand.
+            I was born and brought up in a glass factory town in the western part of <place>New York
+                State</place>. I was one of eleven children--so I had some personal experience of
+            the struggles and hardships that a large family endures. When I was seventeen years old
+            my <person reg="Higgins, Anne Purcell">mother</person> died form overwork and the strain
+            of too-frequent child-bearing. I was left to care for the younger children and share the
+            burdens of all. When I was old enough I entered a hospital to take up the profession of
+            nursing.</p>
+        <p>In the hospital I found that seventy-five per cent of the diseases of men and women are
+            the result of ignorance of their sex functions. I found that every department of life
+            was open to investigation and discussion except that shaded valley of sex. The explorer,
+            scientist, inventor may go forth in their various fields of investigation and return to
+            lay their discoveries at the feet of mankind. But woe to him who dares explore that
+            forbidden realm of sex. No matter how pure the motive, no matter what miseries he seeks
+            to remove, slanders, persecution, jail await him who dares bear the light of knowledge
+            into that cave of darkness.</p>
+        <p>So great was the ignorance of the women and girls whom I met concerning their own bodies,
+            that I decided to specialize in women’s diseases, and took up gynecological and
+            obstetrical nursing.</p>
+        <p>A few years of this work brought me to a shocking discovery--that knowledge of methods of
+            controlling birth was accessible to women of wealth, while the working women were
+            deliberately kept in ignorance!</p>
+        <p>I found that the women of the working class were as anxious to obtain this knowledge as
+            their sisters of wealth, but that they were told that there were laws on the statute
+            books against imparting it to them. And the medical profession was most religious in
+            obeying these laws when the patient was a poor woman.</p>
+        <p>I found that women of the working class had emphatic views on the crime of bringing
+            children into the world to die of hunger. They would rather risk their lives through
+            abortion than give birth to little ones they could not feed or care for.</p>
+        <p>I found that the laws against imparting this knowledge force thousands of poor women into
+            the hands of the filthiest midwives and quack abortionists, with the consequence that,
+            while abortion is practised among all classes of women, the deaths from abortion are
+            almost entirely among the poor.</p>
+        <p>No other country in the world has so large a number of abortions, nor so large a number
+            of women dying therefrom as the <place reg="United States">United States of
+                America</place>. Our law-makers close their virtuous eyes, while they refuse access
+            to safe scientific contraceptive knowledge, and drive these unfortunate women to this
+            abominable crime. A most conservative estimate is that there are 500,000 abortions
+            performed in this country every year.</p>
+        <p>For millions of babies whose mothers have not resorted to abortion there is no welcome
+            when they arrive. How often have I stood at the bedside of a woman in childbirth and
+            seen the tears flow in gladness and heard the sigh of “<q who="UNK">Thank God</q>!” when
+            told that her baby was born dead! What can men know of the fear and dread of unwanted
+            pregnancy? What can men know of the agony of carrying beneath one’s heart a little life
+            that tells the mother every instant that there is no room and no chance for it on earth?
+            Even if it should be born alive, the probabilities are that it would perish within a
+            year, after costing its mother untold anguish and suffering.</p>
+        <p>Do you know that 200,000 babies under one year of age die in the United States every
+            year, chiefly from poverty, neglect and bad antenatal conditions; while four hundred
+            thousand parents are kept in ignorance of how to prevent two hundred thousand more
+            babies from coming into the world next year, again to die because they ought never to
+            have been born?</p>
+        <p>I found from records concerning women of the under-world that eighty-five per cent of
+            them come from parents averaging nine living children. And that fifty per cent of them
+            are mentally defective.</p>
+        <p>We know that the birth rate of mentally defective parents is about four times as great as
+            that of normal parents. Is not this a cause for alarm? And yet there are people who
+            raise the objection to Birth Control that it may cause women to be immoral! Solicitude
+            for woman’s morals has ever been the cloak that Authority has worn in its age-long
+            conspiracy to keep woman in bondage.</p>
+        <p>When I was in <place>Spain</place> some years ago I found that the Spanish women were far
+            behind their European sisters in readiness or even in desire for modern freedom. Upon
+            investigation into the causes of this, I found that there were over five thousand
+            villages and towns in Spain with no facilities for travel, transportation or
+            intercommunication except donkeys, over bridle paths. I was told that all attempts to
+            build roads and railroads in Spain had met with the strongest opposition from the clergy
+            and the government on the ground that roads and railroads would make it easier for the
+            women to leave the country for the cities, and that in the cities they would meet their
+            downfall.</p>
+        <p>Do we, who have roads and railroads, think that our women are less moral than the Spanish
+            women? Certainly not. But, after all, we in this country are only just emerging from the
+            fight for higher education for women which met with the same kind of opposition only a
+            few years ago.</p>
+        <p>We now know that education has not done the dreadful things to women and women’s morals
+            that were predicted as certain to result from it. and so we shall find that knowledge to
+            control birth, which has been in the hands of the more fortunate women of wealth for the
+            past twenty-five years, will not tend to lower woman’s standard of morals, but rather to
+            make a woman a more responsible human being.</p>
+        <p>Statistics show us that the birth rate of any give quarter is in inverse ratio to its
+            wealth, and direct ratio to over-crowdedness and poverty. The figures show that in large
+            cities the birth rate of the rich districts is a third of that of the poor districts. In
+                <place reg="Paris, France">Paris</place> for every 1,000 women between the ages of
+            15 and 50, the poor districts yield 116 births and the rich districts 34 births. In
+                <place reg="Berlin, Germany">Berlin</place>, conditions before the war were
+            approximately the same. For every 1,000 women between the ages of 15 and 50, the poor
+            districts yielded 157 births, while the rich yielded 47. The same proportion is found in
+            practically all the large cities of the Western world.</p>
+        <p>It may be inferred form these figures that women of wealth use means to prevent
+            conception which it is not permitted to teach to the poor. But the menace of our
+            civilization, which constitutes the population problem of today, is not so much the
+            stationary birth rate among the upper classes as the tremendous increase among the poor,
+            the diseased and the defective members of the community.</p>
+        <p>Can it be openly denied that woman has a right to consider her health? Is woman to remain
+            a producing machine? Is she to have no time to think, to study, to care for herself and
+            her own development? Man cannot travel to his goal alone. And until woman has knowledge
+            to control birth she cannot get the time to think and to develop. Until she has the time
+            to think, neither the labor question nor any other social question will interest her.
+            she cannot learn to use aright the vote which woman suffrage has put into her hands. She
+            will merely use it to strengthen the forces of reaction and ignorance; while she herself
+            will remain the drudge she is, and her husband the slave he is, putting their whole
+            strength and energy into continuing to supply the market with cheap labor.</p>
+        <p>Let me ask you: “Has the State any more right to ravish a woman against her will by
+            keeping her in ignorance than a man has through brute force? Has the State a right to
+            decide when a woman shall bear a child and to refuse to her the right to decline to
+            bear?</p>
+        <p>Picture a woman with five or six little ones living on the average working man’s wage.
+            The mother is broken in health and spirit, the wornout shadow of the woman she once was.
+            Where is the man or woman who would reproach us for trying to put into this woman’s
+            hands knowledge that will save her from giving birth to any more babies doomed to
+            certain poverty and misery and perhaps to disease and death?</p>
+        <p>It is to make such knowledge legally and medically accessible to the oppressed mothers of
+            our land that in November 1921 we formed the <org>American Birth Control League</org>--a
+            League that is growing and extending itself across this continent and even reaching into
+                <place>Mexico</place>, <place>Canada</place>, <place>Japan</place>,
+                <place>China</place> and <place>India</place>.</p>
+        <trailer>(To Be Continued.)</trailer>
+    </docBody>
+</doc>

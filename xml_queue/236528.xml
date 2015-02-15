@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed speech">
+    <mepHeader>
+        <prepDate>2004/02/23 ML</prepDate>
+        <prepDate>2009/07/14 LL</prepDate>
+        <prepDate>2009/07/21 CH corrected docType</prepDate>
+        <prepDate>2014-03-10 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1930-10-28">Oct. 28, 1930</docDate>
+        <docTitle>
+            <titlePart>Huxley Luncheon Address</titlePart>
+        </docTitle>
+        <idno>msp236528</idno>
+        <sourceDesc>
+            <bibl><title>Margaret Sanger Papers, Sophia Smith Collection, Smith College</title>
+                S71:0215</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p> Sanger organized a luncheon in honor of <person reg="Huxley, Julian">Julian
+                Huxley</person>, sponsered by the <org>National Committee on Federal Legislation for
+                Birth Control</org>, in <place reg="New York, NY">New York City</place>--other
+            speakers were <person reg="Reiland, Karl">Karl Reiland</person> and Julian Huxley.</p>
+        <index level1="conferences" level2="World Population Conference" level3="1927"/>
+        <index level1="Huxley, Julian"/>
+        <index level1="Huxley Family"/>
+    </headNote>
+    <docBody>
+        <head/>
+        <dateline>
+            <date value="YYYY-MM-DD "/>
+            <place/>
+        </dateline>
+
+
+        <p>I wonder if all of you here today realize just how proud <del>all of us</del> should feel
+            that Julian Huxley is with us and cooperating with our Birth Control movement. The very
+            name of Huxley means freedom and courage and fighting for unpopular causes. It is the
+            very trademark of free-thinking and liberty of action. Julian Huxley's grandfather
+                <person reg="Huxley, Thomas Henry" rend="underline">Thomas Henry Huxley</person>,
+            was the <gap reason="deleted" extent="four characters"/> founder of our liberated
+            outlook today. I well remember how generously Mr. Huxley helped me in the organization
+            of the <org reg="World Population Conference, 1st">World Population Conference</org> in
+                <place reg="Geneva, Switzerland">Geneva</place>. He gave unstintedly his advice and
+            his time. Day after day he attended council meetings, and contributed to the conference
+            that touch of personal interest that lifted it out of the purely academic and technical
+            field into once of vital personal interest. Without the tireless interest of Julian
+            Huxley it could not have achieved so marked a success.</p>
+        <p>At the risk of being unpleasantly personal, but in the hope that this may save Mr.<gap
+                reason="deleted" extent="three to four characters"/> Huxley <add>from</add>certain
+            annoying questions. I shall seek to answer the queries that may be formulating in some
+            of your heads. <title type="book">Who's Who</title> tells me that Julian Sorell Huxley
+            is the grandson of the immortal <person reg="Husley, Thomas Henry">Thomas Henry
+                Huxley</person>, the pioneer of free thinking and free speech in the nineteenth
+            century; the son of <person reg="Huxley, Leonard">Leonard Huxley</person>, and <person
+                reg="Arnold, Julia Francis">Julia Francis Arnold</person>, who was I think the
+            sister of Mrs. <person reg="Ward, Mary Agusta
+">Humphry Ward</person>. He is also the
+            elder brother of <person reg="Huxley, Aldous">Aldous Huxley</person>, who is the most
+            brilliant and penetrating novelist of the younger generation in <place>England</place>.
+            Somewhere in Mr. Huxley's pedigree looms the important figure of <person
+                reg="Arnold, Matthew">Matthew Arnold</person>. So you see that he brings to the
+            Birth Control movement the most distinguished intellectual background England can boast.
+            I forgot to mention that Julian Huxley is the collaborator with <person
+                reg="Wells, H. G.">H. G. Wells</person> and his son <person
+                reg="Wells, George Phillip">George</person> in that fascinating book of popular
+            science now being published under the title of "<title type="book">The Science of
+                Life</title>." In his late twenties, I have been informed, he taught biology in the
+                <org>Rice Institute</org> in <place reg="Houston, TX">Houston Texas</place>, so he
+            knows our country and our problems.</p>
+        <p>Mr. Huxley's generous cooperation, far more valuable to B.C. than a vast amount of money,
+            reminds me that English scientists of the best type are courageous and generous enough
+            to lend their prestige and support to all liberating though unpopular causes. Until
+            lately, American men of science have tended to lean backwards in their conservativism. I
+            welcoming Julian Huxley let us hope that his example may serve as an inspiration to
+            American thinkers and scholars who have held themselves aloof-- on their high horses--
+            from our pressing social and sexual problems.</p>
+    </docBody>
+</doc>

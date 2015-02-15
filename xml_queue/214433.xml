@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published document">
+    <mepHeader>
+        <prepDate>2012-06-08 AW Initial Tag</prepDate>
+        <prepDate>2014-04-17 EK clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1955-10-29">29 Oct 1955</docDate>
+        <docTitle>
+            <titlePart>Votes of Thanks</titlePart>
+        </docTitle>
+        <idno>msp214433</idno>
+        <sourceDesc>
+            <bibl><title type="proceedings">The Fifth International Conference on Planned
+                    Parenthood, Report of Proceedings, <place>Tokyo, Japan</place>,
+                    1955</title>(<place reg="London, England">London</place>: 1956)</bibl>
+            <bibl><title>Margaret Sanger Microfilm: Smith College Collections,</title>
+                S72:0958</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>This document appears at the end of the Report of Proceedings, after Lady <person
+                reg="Rama Rau, Dhanvanthi">Dhanvanthi Rama Rau</person> and Mrs. <person
+                reg="Katō, Shidzue Ishimoto">shidzue Kato</person>'s messages of thanks.</p>
+        <index level1="conferences" level2="International Conference on Planned Parenthood"
+            level3="1955 (5th)"/>
+    </headNote>
+    <docBody>
+        <head rend="italics">VOTES OF THANKS</head>
+        <byline>Margaret Sanger,<lb/>
+            <emph rend="italics">President, <org>International Planned Parenthood
+                Federation</org></emph></byline>
+        <p>Our efficient, capable and charming <person reg="Rama Rau, Dhanvanthi">chairman</person>
+            has left practically nothing for me to say. I had hoped that she would leave a few
+            things out of her congratulations and expressions of thanks, but she covered all except
+            the Press, and then Mrs. Kato took that. But there is one group no one has yet mentioned
+            -- the photographers, who were here early and late with their bulbs flashing, and thanks
+            to them we have all been appearing in the newspapers. </p>
+        <p>There is one to whom I want to give special thanks -- Dr. <person reg="Koya, Yoshio"
+                >Koya</person> -- who is really the one responsible for sifting through and bringing
+            most of the scientists and medical delegates to this conference. He has done a superb
+            job. I also want to thank the <person reg="Shimojo, Yasumaro">President</person> of the
+                <org>Family Planning Federation of Japan</org> for the wonderful reception he gave
+            us. That will remain as something quite unique in our memories, the dinner by the light
+            of the moon in the beautiful gardens of the Korinkaku Mansion. I also want to say what a
+            splendid job was done on the mimeographed papers in the translations from Japanese into
+            English, as well as by the interpreters at the meetings. </p>
+        <p>We have all enjoyed these days, and I hope that you will go back to your own homes with
+            what you have gained from this pooling of experience and knowledge and the wonderful
+            contributions from the scientists. I feel sure we shall make great progress after this
+            harnessing of the work of the international planned parenthood movement. Thank you for
+            coming and for giving such splendid support to this conference in <place>Japan</place>,
+            which is going to mean a great deal to us in every country. Hail and farewell. </p>
+    </docBody>
+</doc>

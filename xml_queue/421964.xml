@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+    
+    <mepHeader>
+        <prepDate>2014/06/11 AS encoded</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1955-09-14">14 Sept 1955</docDate>
+        <docTitle>
+            <titlePart>Interview with the <org>Arizona Daily Star</org></titlePart>
+        </docTitle>
+        <idno>msp421964</idno>
+        <sourceDesc>
+            <bibl><title type="Journal">Margaret Sanger Slee Leaves Today for Conference in Japan, The Arizona Daily Star</title>, Sept. 14, 1955, p. 12</bibl>
+            
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="ADS">Arizona Daily Star</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">Sanger spoke to reporters about her upcoming trip to Japan for the Fifth International Conference on Planned Parenthood. <index level1="International Planned Parenthood Federation"/>
+        <index level1="conferences" level2="International Conference on Planned Parenthood" level3="1955 (5th)"/>
+        <index level1="Japan" level2="birth control laws and legislation in"/>
+        <index level1="abortion" level2="laws and legislation"/>
+        <index level1="midwives" level2="birth control and"/>
+        <index level1="birth control" level2="distribution of information about"/>
+        <index level1="birth control" level2="conferences on"/>
+        <index level1="birth control" level2="international"/>
+        <index level1="hormones"/>
+        <index level1="England" level2="birth control in"/>
+        <index level1="United States" level2="birth control in"/>
+        <index level1="Sanger, Margaret" level2="speaking tours" level3="1955 (Japan)"/>
+        
+    </headNote>
+    <docBody>
+        <head>Margaret Sanger Slee Leaves Today for Conference In Japan</head>
+        <byline>By ELEANOR RICE Star Women's Editor</byline>
+       
+        <p/>
+        <q who="ADS"><p><person reg="Sanger Slee, Margaret">Mrs. Margaret Sanger Slee,</person> energetic and indomitable head of the <org>International Planned Parenthood Federation,</org> leaves today for Japan to attend a <org>conference of the Federation</org> in <place reg="Tokyo, Japan">Tokyo.</place></p>
+            <p>At work here before her departure, Mrs. Slee said that more than 100 delegates from outside <place>Japan,</place> representing 14 countries, were expected to attend.</p></q>
+        <p>"Japanese leaders invited the conference to be held there to help them influence the <org reg="Japanese government">government</org> to prohibit abortions and increase and encourage the practice of birth control," Mrs. Slee stated.</p>
+        <p>"We hope that this will be done by instructing and educating the 50,000 trained mid-wives in Japan."</p>
+        <q who="ADS"><p>Another goal of the conference is the setting up of a scientific committee of biochemists, biologists, and gynecologists to develop inexpensive hormone or chemical contraceptives. Studies aimed at this goal are already developing in <place reg="Great Britain">England</place> and the <place>United States,</place> Mrs. Slee said.</p>
+            <p>The scientists are invited to go to <place reg="Bombay, India">Bombay</place> after the Tokyo conference. There <person reg="Rama Rau, Dhanvanthi">Lady Rama Rau</person> is organizing the scientific group with the hope that an international scientific committee may be formed.</p>
+            <p>Among the scientist delegates planning to attend, Mrs. Slee said there will be two from <place>Israel,</place> four from England, three from <place>Scandinavia,</place> one from <place>Germany,</place> two from <place>Hawaii,</place> one from <place>Bermuda,</place> seven from the United States and four from <place>India.</place></p>
+            <p>A number of interpreters will be needed at this first international conference to be held in Japan, Mrs. Slee commented, although the Japanese hosts have been making a big effort to conduct as much of it in English as possible.</p>
+            <p>Mrs. Slee's last trip to Japan was in March of 1954 when she went to accept the invitation for this conference. In the meantime she has had close contact with the country in the [personable?] pretty young <person reg="Kato, Sumiko">Sumiko Kato</person> who lived with her last year while attending <place>Arizona College of Commerce</place> here. Now back in Japan, Sumiko is doing secretarial work at the conference and Mrs. Slee will see her on this trip.</p>
+            <p>She will sail on the <place reg="President Cleveland, American President Ocean Liner">President Cleveland</place> from <place reg="Los Angeles, California">Los Angeles</place> and will have a day in <place reg="Honolulu, Hawaii">Honolulu</place> en route. The <org>executive committee of the Federation</org> will meet Oct. 20 and the conference is scheduled from Oct. 24 to Nov. 1.</p>
+            <p>A special dinner honoring Mrs. Slee will be held on Oct. 29. Most of the conference meetings are to take place in the <place reg="International Hotel, Tokyo, Japan">International Hotel</place> in Tokyo. Mrs. Slee said she will be staying at the <place reg="Imperial Hotel, Tokyo, Japan">Imperial Hotel.</place></p>
+            <p>She expects to be gone about six weeks, having tentative plans to go to <place reg="Manila, Philippines">Manila,</place> <place>Hong Kong</place> and Honolulu after the conference. The fact that she just returned to <place reg="Tucson, Arizona">Tucson</place> from <place reg="Santa Barbara, California">Santa Barbara</place> a week ago, contributes to the reason why Mrs. Slee may be called energetic and indomitable and why she is an internationally known figure as one of the leading women of the world.</p></q>
+    </docBody>
+</doc>

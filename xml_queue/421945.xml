@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2014/04/16 VS initial tags</prepDate>
+        <prepDate>2014-12-15 CH proof and correct tags</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1917-05-17 ">17 May 1917</docDate>
+        <docTitle>
+            <titlePart>Should U.S. Soldiers Be Compelled to Marry Before Going to War?</titlePart>
+        </docTitle>
+        <idno>msp421945</idno>
+        <sourceDesc>
+            <bibl><title type="journal">Salt Lake Telegram</title>, May 17, 1917</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="SLT">Salt Lake Telegram</name>
+            <name id="FORWI">Forbes, William Cameron</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>This article compiled responses to the title question and included a series if responses.
+            Only Sanger's response has been included.</p>
+        <index level1="birth control" level2="and marriage"/>
+        <index level1="birth control" level2="and war"/>
+        <index level1="birth control" level2="in marriages"/>
+        <index level1="family planning, principles of"/>
+        <index level1="marriage"/>
+        <index level1="reproductive responsibility"/>
+        <index level1="women" level2="reproductive choices and decisions"/>
+        <index level1="World War I" level2="MS on"/>
+    </headNote>
+    <docBody>
+        <head>Should U.S. Soldiers Be Compelled to Marry Before Going to War?</head>
+        <div>
+            <q who="SLT">
+                <p> Shall <place>United States</place> soldiers be obliged to marry before they go
+                    to the front?</p>
+                <p> Shall the young troopers be compelled to take unto themselves wives so the race
+                    shall not lose in perpetuation by their going?</p>
+                <p> This is a big new question hurled into the midst of <place reg="United States"
+                        >America</place>’s preparation for the war, touch most intimated the future
+                    of every unmarried man sent to the front and beating at the heart strings of
+                    every unmarried young woman who watches the troops march away.</p>
+                <p>
+                    <person reg="Forbes, William Cameron">W. Cameron Forbes</person>, former
+                    governor general of the <place>Philippines</place>, financier and student of
+                    sociology, has brought forward the proposal that no soldier be allowed to march
+                    away unmarried.</p>
+            </q>
+
+            <p>
+                <q who="FORWI"> “The future of the race requires that these young men, the best of
+                    our youth, should be represented in future generations,”</q> Forbes says. </p>
+            <q who="SLT">
+                <p> Forbes also says that if the 2,000,000 young men whom it is proposed to select
+                    for service are permitted to go to the front unmarried it will mean:</p>
+            </q>
+            <q who="FORWI">
+                <p> “Complete failure to realize the necessity of the maintenance of the race.”</p>
+                <p> “Two million women deprived of the privilege of marriage and the bringing up of
+                    families.”</p>
+                <p>“These young women will be left mateless,” says Forbes. </p>
+            </q>
+            <q who="FORWI">
+                <p> "The offspring of soldiers will be a necessity in the next generation to carry
+                    out the social requirements of the nation."</p>
+            </q>
+            <q who="SLT">
+                <p> These declarations by a man of national reputation and a former high government
+                    official have aroused men and women in all parts of the country to discussion of
+                    the issue.</p>
+                <p> Should soldiers be compelled to marry?</p>
+                <p> Should women be compelled to marry soldiers about to go to war?</p>
+                <p> If there should be compulsion, how?</p>
+                <p> Forbes is a grandson of <person reg="Emerson, Ralph Waldo">Ralph Waldo
+                        Emerson</person>, formerly was head of the financial department of
+                        <org>Stone and Webster</org>, a big electrical engineering firm, has been
+                    connected in important capacities with probably half a hundred <place>New
+                        England</place> corporations and is something of a poet and a writer.</p>
+                <p> But, can Forbes, financier and former arbiter of the destines of the little
+                    brown Filipinos, induce America to adopt compulsory marriage for soldiers and
+                    for young women – for it takes two to make this kind of a bargain.</p>
+                <p> What do you think about this proposal?</p>
+                <p> Here are opinions of noted persons asked by The Telegram to give their
+                    views:</p>
+            </q>
+        </div>
+        <div>
+            <p>
+                <supplied resp="MSPP"> [Opinions written by Rev. <person reg="Ames, Waldo A.">Waldo
+                        A. Ames</person>, Miss <person reg="Todd, Helen">Helen Todd</person>, Dr.
+                        <person reg="Wile, Ira S.">Ira S. Wile</person>, <person
+                        reg="Widtsoe, John, A.">John A. Widtsoe</person>, and Mrs. <person
+                        reg="Fels, Mary">Joseph Fels</person> were omitted.]</supplied>
+            </p>
+        </div>
+        <div>
+            <head type="sub"> By Margaret Sanger</head>
+            <p> Let the women of America marry the two million soldiers who are called to the front
+                if they desire to. The result would be mutual development a spiritual awakening.</p>
+            <p> But let the war wives think seriously before they bear children for fathers who may
+                never return. Only women can realize double sorrow for the loved ones gone and a
+                little fatherless one to come which a woman would endure during those long months of
+                waiting.</p>
+        </div>
+    </docBody>
+</doc>

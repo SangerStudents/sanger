@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Autograph draft speech">
+	<mepHeader>
+		<prepDate>2015-02-6 CH encoding</prepDate>
+		<prepDate>2015-02-06 CH proofread tags and enter.</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1935-03-25">25 Mar 1935</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">New Jersey Birth Control League Speech Notes</supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp236450</idno>
+		<sourceDesc>
+			<bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
+			<bibl><title>Margaret Sanger Microfilm, Smith Collection Collections</title>
+				S71:727</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="NIEFR">Nietzsche, Friedrich</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>Sanger spoke to the Central New Jersey Council of the <org>New Jersey Birth Control
+				League</org> in Trenton on Mar. 25, 1935.</p>
+		<index level1="Great Depression"/>
+		<index level1="United States" level2="population growth in"/>
+		<index level1="family size" level2="class-based"/>
+	</headNote>
+	<docBody>
+		<dateline>
+			<place reg="Trenton, NJ">Trenton</place>
+			<date value="1935-03-25">35</date>
+		</dateline>
+		<p>Federal laws--62 years ago <name reg="United States Penal Code, Section 211" type="law"
+				>Sec 211</name>, <name reg="United States Penal Code, Section 245" type="law"
+				>245</name>: 5 years $5000. <emph rend="underline">Where</emph>--Clinics 162.</p>
+		<p>Caused deaths of 15,000,000 children. We have paid--Women paying.</p>
+		<p><org reg="United States Reserve Board">Fed Reserve Board</org> Industrial Production.</p>
+		<p><org reg="United States National Emergency Council">Nat Emergency Council</org>
+			10,830,000 unemployed.</p>
+		<p><org reg="United States Federal Emergency Relief Administration">FERA</org>. 22,375,000
+			persons on Relief 4000000 families. </p>
+		<p>Costs 3,207,00,000 a year.</p>
+		<p>Birth rates 60% higher in families unemployed. Who will take care. Recovery has been
+			largely attained &amp; we still have nearly 11,000,000 unemployed. Then we find
+			ourselves <add>confronted</add> with far greater problems than turning our Set of
+			politicians out of office &amp; voting another set in.</p>
+		<p>On March 10/1935 <title type="journal">NY Times</title> carried a headline--<title
+				type="article">$58 a Second cost of relief in Nation</title>. 22,375,000 persons now
+			on relief rolls &amp; trend continues to be upward. Federal Reserve Board announced on
+			Feb 26 1935 that industrial production in <place reg="United States">USA</place>
+			<del>rose</del> in January rose to 90% of the 1923-25 average. This is within a close
+			range of what it generally regarded as normal production. In the same papers the
+			National Emergency Council announced that the number of unemployed in December was
+			10,380,000. What do these two reports mean?</p>
+		<p>If <del>we have</del> Industrial Stand up <add>now</add> &amp; Fight. Your future is at
+			Stake.</p>
+		<p>Pension the incompetents who agree to voluntary Sterilization! Money well spent.</p>
+		<p><q who="NIEFR">Build tho beyond thyself sound &amp; wholesome of body &amp; soul.</q> Bc
+			will build beyond itself. A Finer civilization in America</p>
+		<p>Study made by Prof <person reg="Bossard, James">Bossard</person>
+			<org reg="University of Pennsylvannia">Univ of Penn</org>.</p>
+		<p>Families on relief have a birth rate of 60% higher than other families living in the Same
+				<add>Economic</add> scale but not accepting public <del>relief</del> aid.</p>
+		<p>Unemployed unskilled have the highest 234 birth rates.</p>
+		<p>Unemployed skilled 188 salaried workers.</p>
+		<p>Oct 1934-- 1,612891 new babies arrived in families on <supplied resp="MSPP"
+				>relief</supplied> during the year.</p>
+		<p>Somethng wrong.</p>
+		<p>Recovery &amp; 11 millions <supplied resp="MSPP">unemployed</supplied> 22 million on
+			relief.</p>
+		<p>Let us dismiss from our mind that the vast extent of unemployment temporary.</p>
+		<p>Machinery &amp; invention for production <del>thru</del> makes human labor less
+			needed.</p>
+	</docBody>
+</doc>

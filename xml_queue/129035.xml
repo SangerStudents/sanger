@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed draft speech">
+    <mepHeader>
+        <prepDate>2014/02/26 VS initial tagging</prepDate>
+        <prepDate>2014/02/28 CH Proof tags</prepDate>
+        <prepDate>2014/03/04 VS correct tags</prepDate>
+        <prepDate>2014-11-14 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1932-02-19">19 Feb 1932</docDate>
+        <docTitle>
+            <titlePart>
+                <supplied resp="MSPP">My Way to World Peace</supplied>
+            </titlePart>
+        </docTitle>
+        <idno>msp129035</idno>
+        <sourceDesc>
+            <bibl> Margaret Sanger Papers, Library of Congress </bibl>
+            <bibl>Library of Congress Microfilm, 130:190-197</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="JAP">Japanese Government</name>
+            <name id="UNK">Unknown</name>
+            <name id="ROSFL">Rose, Florence</name>
+            <name id="MSPP">Margaret Sanger Papers Project</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>This is a revised version of Sanger's Jan. 17, 1932 speech "<xref from="129037.xml"
+                    ><title type="article">My Way to Peace</title></xref>," given to the <org>New
+                History Society</org>. This version may not have been published or given as a
+            speech. Interlineations were made by hand by Margaret Sanger.</p>
+        <p> A note was attatched to this draft from Sanger's secretary, <person reg="Rose, Florence"
+                >Florence Rose</person>. It reads:</p>
+        <q who="ROSFL">
+            <p> WELL, HERE'S THE REVISED VERSION OF "MY PLAN TO PEACE"</p>
+            <p> All the figures need checking: many of them <emph rend="underline">cannot
+                    possibly</emph> be right. Their figures were wrong in many cases, I knew, and I
+                used mine where I had them--but I did not exert myself to catch them when taking
+                notes, as I felt sure you had the statistical data somewhere.</p>
+            <p> I EXPECT TO HAVE THE <org reg="Russell Sage Foundation">RUSSELL-SAGE</org>
+                <xref from="321976.xml">ARTICLE</xref> BY TOMORROW NOON FOR YOU.</p>
+            <p> Like the Scotchman and his tight shoes--it feels so good when you take them off--it
+                feels grand to at least have this preliminary work down! At any rate, it isn't as
+                bad as the version they presented as your talk!</p>
+            <p> F.R.</p>
+            <p> Hope you had a good time today!</p>
+        </q>
+        <index level1="birth control" level2="class-based"/>
+        <index level1="birth control" level2="definitions of"/>
+        <index level1="birth control" level2="mainstreaming of"/>
+        <index level1="birth control" level2="population and"/>
+        <index level1="birth control" level2="religion and"/>
+         <index level1="birth control movement" level2="goals and strategies"/>
+        <index level1="birth rate" level2="increase in"/>
+        <index level1="birth rate" level2="efforts to reduce"/>
+        <index level1="child spacing"/>
+        <index level1="family size" level2="class-based"/>
+        <index level1="&quot;feeble-minded&quot; persons" level2="fertility and birth rate of"/>
+        <index level1="immigration" level2="U.S. policy"/>
+        <index level1="Italy" level2="overpopulation and"/>
+        <index level1="Italy" level2="population policies of"/>
+        <index level1="Japan" level2="overpopulation and"/>
+        <index level1="National Committee on Federal Legislation for Birth Control"/>
+        <index level1="overpopulation" level2="threat to peace as"/>
+        <index level1="population growth" level2="regulation of"/>
+        <index level1="United States" level2="population growth in"/>
+    </headNote>
+    <docBody>
+        <byline>Mrs. <person reg="Sanger, Margaret">Margaret Sanger</person>, Chairman of
+                <org>National Committee on Federal Legislation for Birth Control</org>, 17 W. 16th
+            St., <place reg="New York, NY">New York City</place>.</byline>
+        <dateline>
+            <date value="1932-02-19"/>
+        </dateline>
+        <p> Mr. <person reg="Unknown">Chairman</person>, Ladies &amp; Gentlemen:</p>
+        <p> In this day of great world upheaval it is natural that there should be drawn up various
+            plans and proposals as to the means of world peace. My way to world peace is not the way
+            of moratoriums, reparations, or tariffs; it is not the way of Versailles treaties; my way to peace is the way of
+            the people. My way is to direct and control the population through birth control.</p>
+        <p> There is probably no other subject that has such a practical significance,
+                <add>which</add> at the same time cuts so deeply into the foundations of social
+            evolution and world peace, as birth control. Birth control is a keynote, – it is a
+            signal of a new moral awakening; a moral responsibility, not only for those children who
+            have already been born; a responsibility not only for those that are about to be born;
+            but for those who have not yet been conceived. It is not only a health and economic
+            expedient; it is a great social <del>measure</del>
+            <add>principle</add>, and that <del>measure</del>
+            <add>principle</add> is interlocked and interwoven with the spiritual progress of the
+            race, and its future.</p>
+        <p> The definition of birth control is, “the conscious control of the birth rate by means
+            that prevent conception of human lives”. When you prevent the conception of human life,
+            you do not have to destroy human life. You do not destroy,-–you do not interfere with
+            the development of human life, because there is no life to interfere with or to destroy.
+            It is no more an interference with life to prevent conception than to remain single or
+            to live in celibacy. We say “<emph rend="underline">control</emph>”. When you control
+            the birth rate you do not have to limit it, any more than when you control your own
+            furnace; you do not put out the fire. You merely adjust its temperature to the
+            requirements of the weather, <del>(you do not have to put the fire out)</del>
+            <add>considering the time of the day and the season</add>. When you control your
+            automobile, you do not necessarily have to stop the engine. And when you control the
+            size of your family, you do not have to <emph rend="underline">limit</emph> yourself to
+            one or two children, but you control <del>it</del>
+            <add>the number</add>; first according to the state of the mother’s health affecting the
+            possible inheritance of the child; second, according to the father’s earning power; and
+            third, according to the standards of living that you wish to maintain. <del>When</del>
+            We say conscious control – I wonder if any of us can imagine what it is going to mean
+            when the human <del>voice</del>
+            <add>race</add> is conceived <add>consciously</add>, not just as a result of casual
+            accident – the reckless abandon of the moment – <del>but</del>
+            <add>when it</add> is consciously <del>planned for</del>
+            <add>desired,</add> and <del>consciously</del> conceived <add>consciously</add>. I tell
+            you my friends, we <del>don’t know what is</del>
+            <add>can only glimpse at the wonders that will be be</add> before us, when that
+            possibility becomes a reality.</p>
+        <p> You hear people say, “<q who="UNK">Why control the birth rate? There is plenty of room
+                in the world and in this country <add>for unlimited population</add></q>”. What we
+            need is a more equal distribution of the necessities of life<add>, a new social
+                system</add>. <del>The control of nature is not the control that we desire today,
+                because there are only two ways of controlling the population in that way; either by
+                increasing deaths, or by decreasing births.</del></p>
+        <p> Let us regard this. Population has always been controlled. From the beginning of time, –
+            back as far as we know anything about the human race, there has been control of
+                <del>numbers</del>
+            <add>population</add> by the <del>control</del>
+            <add>methods</add> of Nature. <del>Which</del>
+            <add>This</add> is not the control we desire today. There are only two ways to control
+            population – either <del>increase</del>
+            <add>to decrease</add> the birth rate or <del>decrease</del>
+            <add>to increase</add> death rate, and all through the history of mankind, population
+            has been controlled by <del>the death method</del>
+            <add>increasing the death rate</add>. Nature has been the most ruthless advocate of
+            birth control <del>through</del>
+            <add>by</add> this method. She has accomplished it through famines, pestilences,
+            diseases, floods and wars. Nature thrusts to the wall the old, the weak, the maimed, the
+            mentally deficient, until she perfects her type. Only the fit and strong are able to
+            survive through the way of nature.</p>
+        <p> This <del>might have been</del>
+            <add>doubtless is</add> an excellent way <add>for Nature</add> to perfect <add>our</add>
+            civilization. But today, whether we like it or not, we no longer <add>allow</add>
+            control <add>of</add> the population through nature’s method of increased death rates.
+            Civilization has progressed beyond that. <del>Now</del> With the <del>development</del>
+            <add>advance</add> of Christianity; with the <del>development</del>
+            <add>organization</add> of Charity and <add>development of</add> Humanitarianism, we
+            have <del>turned</del>
+            <add>thrust</add> aside the hand of nature, we have interfered with nature’s methods, we
+            will not allow these methods to operate. Civilization takes <del>into the race</del>
+            <add>care of</add> the old, the feeble, the mentally deficient, <add>the diseased, the
+                insane, the morons</add> and makes it almost imperative for them to <del>exist
+                and</del> increase <del>their numbers</del>
+            <add>and multiply</add>. Defectives are <del>now</del>
+            <add>fast</add> breeders<add>.</add>
+            <add>The feeble minded woman is </add>three times as <del>fast</del>
+            <add>fertile</add> as normal <del>mothers</del>
+            <add>women</add>. This constitutes a real menace to our civilization. There is no doubt
+            that those privileged to carry on the torch of civilization are <add>comparitively
+                in</add> lessening <add>in</add> numbers <del>than bear to those who have become on
+                the race</del>
+            <add>while at the same time they carry the financial burdens of the unfit</add>.</p>
+        <p> We find, according to psychological tests made by Professor <person
+                reg="Starr-Meyer, William">William Starr-Meyer</person> a few years ago, that only
+            15,000,000 out of a population of 165,000,000 could be classified as intellectuals and
+            it was found that 85,000,000 had the minds of juveniles under 14 years of age,
+            45,000,000 were just average and 15,000,000 were known to be feeble-minded. The great
+            majority of the feeble-minded, the degenerates and the morons do not live in
+            institutions but are <del>mothers</del> living in homes and multiplying rapidly. Is
+                <place reg="United States">America</place> then, safe for democracy? In this
+            country, the feeble-minded, if they are twenty-one years of age, have the power to vote
+            and their vote is just as good as that of the fifteen percent who are intellectuals.
+            Isn’t it time to do something about this?</p>
+        <p> We have today what <del>is called</del><add>scientists call</add> a differential birth
+            rate: <add>or</add> in other words <add>a difference in the birth rate of two groups in
+                our population</add>, For the last <del>two</del> generations <del>perhaps</del>, a
+            certain number of people, mainly the fifteen percent intellectuals have been controlling
+            their birthrate – that is the group with the small families. They have, perhaps, two or
+            three or four children, but in that group, the greatest number of children achieve
+            maturity. Here, consideration is given to the mother’s health, <add>to the child's</add>
+            education and to the possible development <add>of talents</add> of the children.
+                <del>and</del> It is from this group <add>that</add> we find the <del>most</del>
+            children going to <add>high</add> schools<add>,</add>
+            <del>the longest. Their children go</del> to colleges, universities and eventually
+                <del>they fill</del>
+            <add>filling</add> the best positions in society.</p>
+        <p> The other group <add>of large families</add> struggles in poverty and in ignorance. Here
+            we find that poverty and <del>ignorance</del><add>lack of birth control</add> go hand in
+            hand. We find the mothers broken on the wheel of <del>poverty trying hard to find
+                out</del><add>maternity</add>, <add>everywhere they ask</add> what they can do to
+            prevent bringing another human being into this world. The fathers become desperate<del>
+                when unemployed</del><add>, and dismayed</add>. <del>They become over-burdened and
+                morally unfit.</del> It is in this group that we have almost all the great social
+            problems of the day. You have slums, overcrowding, high maternal and infant morality,
+            child labor, illegitimacy, illiteracy. Many in this group are not only unemployed, but
+            unemployable, I found, while working among this group, that it is not their fault that
+            they have more children than they can decently provide for. I found an awakening
+            consciousness on the part of these <del>women to</del><add>mothers and a desire to</add>
+            have only the number that they could decently take care of, but, because of their
+            poverty, they found every door closed against them.</p>
+        <p>
+            <add>Because</add> These <del>are the</del> mothers <del>who</del> have to go to public
+            institutions, hospitals, etc., for medical advice and care, and <del>when</del> they are
+            taken to the hospital to have their babies or to have abortions performed,
+                <add>when</add> they as what they can do <emph rend="underline">not</emph> to have
+            any more <del>and</del> they are told that it is against the law to give them this
+            information; <add>or</add> that it is immoral and against the laws of nature. Yet, all
+            the time, the wives of professional classes are obtaining information to enable them to
+            limit their families.</p>
+        <p> What do we do about these <del> evils of society</del>
+            <add>problems</add>? We do not like them; we try to legislate them out of existence. We
+            have been trying for over fifty years to do away with child labor, yet, have we done it?
+            A few years ago, we had several million children under fifteen years working in the
+            United States. <del>Mainly, </del>These children are taking the place <add>of
+                adults</add> and competing with their fathers and mothers in industry
+                <del>just</del>
+            <add>mainly</add> for <add>a</add> daily existence. Behind them are more and more
+            children forced out of schools and homes, little children who should be getting their
+            education <del>for the sake of</del>
+            <add>in preparation for</add> the future of the race. It is a long story, that of child
+            labor. Go to the beet fields of <place>Colorado</place> or to the cotton fields of the
+            South and you will see the devastating effects of ignorance <del>ethics</del>
+            <add>of birth control and child labor</add>. The child labor committee worked valiantly
+            to try to legislate this evil out of existence, but it cannot succeed until Birth
+            Control Clinics are in operation in these sections; until the mothers of these children
+            have the proper scientific information necessary to control their power of
+            fertility.</p>
+        <p> One can go through almost all of <del>these</del>
+            <add>our</add> social problems and <del>you</del> can see at a glance how they are
+            interwoven <del>and how they</del>
+            <add>with and</add> pivot around the question of birth control. Let us consider together
+            two more problems connected with the welfare of the race. Take the simple question of
+            maternal mortality. Every physician will tell a mother who has heart disease or kidney
+            disease that she should not go through child-birth again. If she <del>does</del>
+            <add>should</add> become pregnant <del>again</del>, according to <del>the law</del>
+            <add>medical ethics</add>, it is legal to interrupt this condition <add>to save her
+                life</add>. But instead of <add>them</add> instructing her in the means of
+            contraception, she is sent back to her home with only a <del>statement that the doctors
+                will not be responsible for her life if she should</del>
+            <add>warning not to</add> get into that condition again. She then goes back to her
+                <del>children</del><add>home</add> in a fearful and nervous condition with a death
+            sentence hanging over her head<del>, and in a weakened state of mind</del>. Can you
+            imagine the effect <add>that</add> this <add>fear</add> creates in a home and what it
+            means to the husband and children? Every <del>sick</del> mother should be protected by
+            the best information possible.</p>
+        <p> We move from the mother problem to the infant problem. There we find conditions just as
+            bad; there the mortality is even larger. Approximately 200,000 little children never
+            reach their first birthday; ninety-five percent of them are unwanted and the large
+            majority of them die from causes <del>of</del><add>due to</add> poverty and neglect.
+            There is not one person here who believes that we can do away with this problem next
+            year or the following year – and yet the state allows these mothers to remain in utter
+            ignorance of how to prevent the coming of 200,000 more lives next year and the next
+            year, who are doomed in advance to die from causes of poverty and neglect.</p>
+        <p> Our <org reg="United States Children's Bureau">Children’s Bureau</org> tells us
+                <del>that</del>
+            <add>from</add> some of their statistics <del>with</del>
+            <add>that</add> this question of <del>unfit</del><add>infant</add> mortality
+                <del>has</del>
+            <add>is concerned with</add> three <del>very</del> vital factors. The first is the
+            father’s wage. As it goes up, a larger number of the children survive – if it goes down,
+            a larger number of children die. Second, is the spacing of children in a family. <del>In
+                other words,</del> Where two or three years elapse between the birthdays of
+            children, they have a better chance to survive and develop. The mother has had an
+            opportunity to recuperate and rebuild her health. The family income has been stretched
+            out over the intervening period of years to meet the family needs. We know that the
+            spacing of children determines their chances of survival –that the second child has a
+            better chance to live than the fifth, and the fifth a better chance to live than the
+            twelfth, certainly. We have the astounding statistics that sixty percent of percent of
+            all the twelfth children born in this country <del>are doomed to</del> die before they
+            reach their first birthday. In other words, about six out of every ten children who are
+            twelfth in their family <del>are doomed to</del> die before they breathe their first
+            breath. What a waste of child life! <del>And</del>
+            <add>Waste</add> of mother power! <del>Which</del>
+            <add>Both of these</add> might have been put into the constructive forces <del>in this
+                world</del>
+            <add>of race building</add> instead of making <del>of our</del> women <del>only</del>
+            incubators or child-bearing machines, which is, what women <del>have been throughout the
+                ages</del>
+            <add>become when they are ignorant of birth control</add>.</p>
+        <p>
+            <del>While</del>
+            <add>We know</add>All of <del>this</del><add>these statistical facts</add>
+            <del>we know</del>, and we <del>should</del> try to alleviate some of the conditions but
+            our efforts are only palliative. We can correct them only to a certain degree. We give
+            free lunches<add> to children</add>, educational care, do everything possible to keep
+            them alive. <del>You</del><add>We</add> rescue a child <del>to live</del><add>and bring
+                it</add> through its first years, <del>and</del> then <del>you</del><add>we</add>
+            have to battle again to carry <del>them</del><add>it</add> through the succeeding years
+            and <del>then</del> when it becomes fourteen, it secures working papers and starts to
+            compete with his father in industry thereby creating labor problems. Thus all workers
+            become their own rivals in <del>trade</del><add>the labor market. The law of supply and
+                demand dominates their existance</add></p>
+        <p> How stupid the labor organizations have been to recognize the power of limited numbers
+            in a union, but <add>to fail</add>
+            <del>not</del> to recognize <del>how illogical it is to permit themselves to become
+                their own rivals</del><add>the same principle in their families</add>.</p>
+        <p> It seems to me there is no greater cruelty than bringing a child into this
+                world<del>,</del>
+            <add>when the parents are diseased or</add> when there is no provision for its care<del>
+                when the parents are diseased</del>. When studying law or when
+                <del>preparing</del><add>contemplating</add>
+            <del>to take</del><add>training</add> the robe of priesthood or entering <del>even</del>
+            <add>law or</add> the least of the professions, <del>you have to</del>
+            <add>one must</add> study carefully to fit <del>yourself</del>
+            <add>oneself</add> for <del>your</del>
+            <add>one's</add> duties. But anyone can become a father or mother. It makes no
+            difference how unprepared <add>or how unfit</add> one <del>might</del>
+            <add>may</add> be – no difference what one can earn – one can have <del>as large a</del>
+            <add>any</add> number of children <del>as wanted</del>. Let us consider the children
+            born of diseased parents. If we know we had to pass through other human bodies in order
+            to reach another world, would we <add>not</add> be most particular and careful to choose
+            the kind of parents we should have? We would be more than particular, so why should we
+            not be just as particular about our obligations to the children we expect to bear?</p>
+        <p> It is not only a personal question, not only a question affecting family welfare but is
+            also a question affecting world affairs.</p>
+        <p> In 1924, the United States Government came to the realization that there was a serious
+            population problem in this country. We were not so much concerned about the number of
+            people as about the quality of the population. The <org>United States Government</org>
+            therefore put a <title type="law"><rs reg="Immigration Act of 1924">ban</rs></title> on
+            immigration. No alien could enter who had certain diseases or was feeble-minded,
+                <add>or</add> illiterate, or who came here for the practice of prostitution. There
+            is a very long list of undesirable <del>aliens who cannot come into</del>
+            <add>qualities which ban aliens from</add> this country. Furthermore, <add>if</add>
+            incase some of them do get in, these undesirable qualities are indicated within five
+            years, these individuals can be deported. This is a good law. We do not want undesirable
+            types to stain the blood stream of the Nation, but, if it is <add>right that</add>
+            undesirables, <del>that they</del>
+            <add>shall not</add> come <add>into the country</add> from without, then why isn’t it
+            equally important that they <add>not</add> increase and multiply <del>from</del> within
+            the country? They propagate the same undesirable qualities that we are trying to keep
+            out <del>of</del>
+            <add>by</add> our immigration laws. These laws of the United States Government cause a
+            great upheaval in <place>Europe</place> and have disturbed the flow and flux of
+            population throughout the whole world. Since we have had a selective quota of
+            population, you can imagine what it has meant to some of those countries that had free
+            entry into our country for so many years. Let us consider two countries that are no
+            longer able to find a place for their surplus population in the United States.</p>
+        <p> There are two countries that we must call danger spots in the world:
+                <place>Italy</place> and <place>Japan</place>. These two countries have a very acute
+            population problem. Japan is a country mostly mountainous with a population of
+            67,000,000 of people and with a territorial area not quite as large as
+                <place>California</place>. She cannot possibly feed her population and has never
+            tried to reduce her birth rate and density of population which is very heavy indeed.
+            There are only about 148 square miles and over 400 human beings are crammed into each
+            square mile. It means that Japan, not being able to expand in other countries who would
+            not have her<add> people</add>, had to look for other outlets for her large
+            over-population. <place>South America</place> was willing to take care of part of this
+            surplus population, but not all the ships that Japan has could take her surplus
+            population to South America. Japan cannot accommodate them all at home and South America
+            can only accommodate a small percentage.</p>
+        <p> Japan has an inadequacy of the most important natural resources, <del>but</del><add>and
+                although</add> she has a good water power and a <add>large</add> textile industry
+                <del>which however, is</del><add>even these are</add> insufficient for that great
+            population for which she must provide. <place>Manchuria</place> had all that
+                <place>China</place> wanted and lacked in raw materials, and at the first
+            opportunity she marched right into Manchuria at the psychological moment when the rest
+            of the world was busy at home with its own problems, and it seems that there she will
+            stay. She has <del>acclaimed</del><add>proclaimed</add> that “<q who="JAP">Might is
+                Right</q>”, and says: “<q who="JAP">What are you going to do about it</q>?”;
+                <del>and</del> it is now indeed too late to do much about it.</p>
+        <p> Now let us look at Italy who has 119 square miles with a population of 41 millions of
+            people, with over 340 people to a square mile. In 1921 the population was 28 millions at
+            the rate of 548 people per square mile. The birth rate in 1921 was 30.4, and in 1927 it
+            was 26.4. On top of this population which she could not provide for with the world
+            against her immigration, she had 4 to 5 thousand additional human beings being born into
+            her population annually. Over 25% of Italy’s natural increase was coming into this
+            country every year. <place>France</place> received 6 or 7 percent of Italy’s increase,
+            but France has curbed this percentage because of her unemployment problems. Italy is
+            unable to till her own home areas. She has low standards of living and a slight margin
+            of life. Her water power might be developed but at a great expense. She has very little
+            iron ore and other raw materials. If she <del>would</del><add>should</add> build up her
+            textile industry she would have strong competition <del>in</del><add>from</add>
+            Japan.</p>
+        <p> Neither the industrial nor the agricultural possibilities of Italy can provide for her
+            people, yet we know that Italy is increasing; that her <person reg="Mussolini, Benito"
+                >dictators</person> call upon her to increase and multiply; and I read
+                <add>that</add> there is now a law in Italy providing that every woman must report
+            to a health station periodically to show cause why she has not had a baby every two
+            years. However, this condition of population today <del>have</del>
+            <add>has</add> not been brought about by dictators alone. <del>We</del>
+            <add>And although we</add> have only recently become conscious of the importance of
+            birth control and its relation to overpopulation, with the facts of science and
+            knowledge that we have today, it seems to me that any dictator who insists upon
+            increasing the population by force, <del>such a person</del> should be made to account
+            for it at the world court of human justice.</p>
+        <p> Other countries are doing their best to adjust their populations. <place>Germany</place>
+            is today doing all possible to keep her birth rate down and avert a recurrance of the
+            conditions of 1914. France is now trying to compete with Germany by boosting up her
+            birth rate. France increases her numbers fearing that Germany will come across the
+            border to invade her. It is absurd for France to thus compete with Germany whose
+            proportionate majority is so great that France will not catch up to her even in 10
+            years. France’s death rate – both infants and maternal – is very high, and she should
+            decrease this death rate instead of trying to increase the present population.</p>
+        <p>
+            <place>England</place> also had an acute problem of over-population and unemployment, so
+            she decided to send her surplus people to some of her colonies in order to remedy the
+            situation. But it did not work out properly. These people were not happy in the wilds of
+                <place>Australia</place> and <place>Canada</place> because of the different
+            environment and climatic conditions. They did not have the resistance and vigor to
+            withstand the climate. The colonies were therefore obliged to send them back to England
+            saying: “We can’t use your slum population. They can’t stand the rigors of the climate.”
+            It all comes back to the “quality” of the human being.</p>
+        <p> My way of peace is a way of birth control. It can be applied in three ways: First, by
+            continence – not marrying. This however, should not be recommended because it implies
+            the abandonment of the natural marriage relationship <del>which</del>
+            <add>and</add> very often results in the break-up of family life. Second, by
+            sterilization. This method is recommended by physicians only in extreme cases where
+            other forms of contraception are not possible. <del>for</del>
+            <add>It is</add> For those who have not the mental equipment or moral character to use
+            means of contraception, and yet who should be given help to prevent their bringing more
+            children into the world. There you have chemical and mechanical methods over which the
+            whole controversy on birth control has been waged.</p>
+        <p> It is to these methods that the <org>Roman Catholic Church</org> objects. An analysis of
+            the <person reg="Pope Pius XI">Pope</person>’s recent Encyclical, “<title type="article"
+                >On Chaste Wedlock</title>” reveals that they countenance <del>intercourse</del>
+            <add>marital intimacies only for propogation or</add> under certain conditions where
+            there can be no possibility of conception.</p>
+        <p> Now, my way to peace is to apply the same constructive knowledge to this subject that
+            has been applied to industry and to the world of life itself.</p>
+        <gap reason="missing" extent="several pages"/>
+        <p> This is part of the program that we are trying to bring about now. We hope that a
+            falling birth rate will do its part to avert future wars, and to maintain world, as well
+            as international, peace. We want to make it possible for people to have the best
+            scientific information available. We want the medical profession to take this
+            responsibility and to distribute information in <del>their</del> public and private
+            practice. We want women to be free from the fear of pregnancy. We want children to be
+                <add>conceived and</add> born in love, and <add>to</add> be given heritage of a
+            sound body and a sound mind.</p>
+        <p> We believe that through Birth Control, untold millions can be relieved of misery and
+            unhappiness. We believe this is the first and most important step we must take if we
+            would bring peace on earth and good will to men and scatter it over the face of the
+            world.</p>
+    </docBody>
+</doc>

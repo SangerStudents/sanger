@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published statement">
+    <mepHeader>
+        <prepDate>2014-06-25 CH proofed </prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1925-03-30">30 Mar 1925</docDate>
+        <docTitle>
+            <titlePart>Request for a Federal Birth Rate Commission</titlePart>
+        </docTitle>
+        <idno>msp421974</idno>
+        <sourceDesc>
+            <bibl><title type="article">1,000 Doctors O.K. Birth Control Aid as Clinical Study</title>Mar. 30, 1925</bibl>
+
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="NYW">New York World</name>
+            <name id="6INMBCC">Sixth International Neo-Malthusian and Birth Control Conference</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger released a statement and sent a telegram to President Calvin Coolidge from teh Sixth International Neo-Malthusian and Birth Control Conference.</p>
+        <index level1="American Medical Association"/>
+        <index level1="birth control" level2="medical community and"/>
+        <index level1="birth rate"/>
+        <index level1="Netherlands, the" level2="birth control clinics in"/>
+        <index level1="Birth Control League of New York"/>
+        <index level1="National Birth Control League"/>
+        <index level1="birth control" level2="conferences on"/>
+        <index level1="conferences" level2="International Neo-Malthusian and Birth Control Conference" level3="1922 (5th)"/></headNote>
+    <docBody>
+        <head>1,000 DOCTORS O.K. BIRTH CONTROL AID AS CLINICAL STUDY</head>
+        <q who="NYW"><p><div type="section"><head type="sub">Conference Calls on <org>American Medical Association</org> to Include It in Hospital Work</head></div></p>
+        <p><person reg="Coolidge, Calvin">President Coolidge</person> has been appealed to by the <org reg="American Birth Control League">Birth Control League</org> through its President, Mrs. <person reg="Sanger, Margaret">Margaret Sanger,</person> to appoint a commission to study the question and formulate recommendations. Medical societies, as well as the American Medical Association, were called upon at a meeting of about 1,000 physicians to inaugurate a movement in all the <place reg="United States">States</place> to promote contraceptive methods.</p>
+        <p>Announcement of the plans were made yesterday at the <org>sixth international Neo-Malthusiasm and Birth Control Conference,</org> in progress in the <org>Hotel McAlpin</org> since Tuesday.</p>
+        <p>So many physicians sought to attend that an overflow meeting was held at the <org>Waldorf.</org></p>
+        <p>The resolution adopted is as follows:</p></q>
+        <p><q who="6INMBCC">"That this meeting on contraception, consisting of members of the American medical profession, affirms that birth control being a very important and complicated problem requiring scientific study and guidance, comes properly within the province of preventive medicine, and that the subject should not only be given a place on the program of county and State societies and of the American Medical Association but also become a part of the work of suitable clinics, hospitals and other medically supervised organizations engaged in the scientific study and prevention of disease and crime."</q></p>
+        <q who="NYW"><p><div type="section"><head type="sub">President's Aid Asked</head></div></p>
+        <p>Mrs. Sanger, in her telegram to the President, said:</p></q>
+        <p>"It is imperative, Mr. President, that as a Nation the United States must meet this problem of an uncontrolled birth rate. As an American citizen, I respectfully suggest that you, as Chief Executive of the United States of America, take steps toward the formation of a Federal Birth Rate Commission.</p>
+        <p>"I suggest that this commission be composed of impartial scientists drawn from the fields of economics, biology, sociology, genetics, medicine and philanthropy, and should have free access to all facts and statistics to all customs and conditions now menacing the racial health and economic well-being of our country.</p>
+        <p>"The formation of such a commission would, I am sure, win for you the eternal gratitude of all American citizens who carry in their hearts a deep and disinterested love for this country and concern for its future. I believe that all patriotic American citizens, including yourself, Mr. President, must agree with me that our Chief Executive can not willingly or consciously evade problems, upon a solution of which depends the fulfillment of our high destiny in the creation of the future."</p>
+        <q who="NYW"><p>No lay delegates were admitted yesterday to the contraceptive conference, not even Mrs. Sanger. Among the doctors were seventy women. <person reg="Solley, John B.">Dr. John B. Solley jr.</person> presided at the regular meeting in the McAlpin, while <person reg="Vaughn, John C.">Dr. John C. Vaughn</person> was the Chairman in the Waldorf.</p>
+        <p><person reg="Cooper, James F.">Dr. James F. Cooper,</person> medical director of the <org reg="Birth Control Clinical Reseasrch Bureau">clinical research department</org> of the American Birth Control League; <person reg="Jacobs, Aletta">Dr. Aletta Jacobs</person> of <place reg="The Hague, Netherlands">The Hague,</place> who established the first birth control clinic in <place reg="Netherlands">Holland;</place> <person reg="Haire, Norman">Dr. Norman Haire</person> of <place>England,</place> and <person reg="Stone, Hannah M.">Dr. Hannah M. Stone</person> addressed both meetings.</p></q>
+
+
+        <p/>
+    </docBody>
+</doc>

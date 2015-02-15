@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2001-12-05 MH</prepDate>
+        <prepDate>2002-08-29 KH</prepDate>
+        <prepDate>2004/07/20 CH</prepDate>
+        <prepDate>2007-05-31 CH Oxygen update</prepDate>
+        <prepDate>2011-11-02 EH correct transcriptions and index</prepDate>
+        <prepDate>2014-03-26 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1914-07-00">July 1914</docDate>
+        <docTitle>
+            <titlePart>Are Preventive Means Injurious?</titlePart>
+        </docTitle>
+        <idno>msp420026</idno>
+        <sourceDesc>
+            <bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 5, July 1914, 40</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> C16:554</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+        </respStmt>
+    </mepHeader>
+    <headNote>
+        <index level1="birth control" level2="health benefits and risks of"/>
+        <index level1="birth control" level2="lack of knowledge of"/>
+        <index level1="birth control" level2="class-based"/>
+        <index level1="Comstock, Anthony"/>
+        <index level1="birth control laws and legislation" level2="Comstock Laws"/>
+        <index level1="birth control" level2="morality of"/>
+    </headNote>
+    <docBody>
+        <head>ARE PREVENTIVE MEANS INJURIOUS?</head>
+        <p>It is often asked by those interested in the control of offspring whether the use of
+            preventive means does not injure the health. According to investigations carried on
+            among physicians in <place reg="Paris, France">Paris</place>, the families who average
+            about two children each and who have practiced and used preventative means have
+            certainly not found the means harmful.</p>
+        <p>The people of each country have found means of prevention differing from those used in
+            other countries. The people in this country shall soon demand such knowledge just as
+            they do preventive medicine and anti-toxins, and open discussion of these means. To-day
+            the women and men of the middle and upper classes certainly use preventives, the death
+            rate among them is proportionately small. It is the working class who do not use these
+            means that fill the hospitals of the country as well as the grave-yards.</p>
+        <p>There is greater harm being done today where women, only half and poorly informed, use
+            strong solutions, which are often injurious to the delicate membranous linings of the
+            generative organs.</p>
+        <p>There are, however, harmless preventives, which, when used, have a temporary effect, and
+            when the woman later desires a child she will be in condition to have one.</p>
+        <p>These are the sane measures to be advanced; and the stupidity of <person
+                reg="Anthony Comstock">Comstock</person> as well as the
+                "morality" of the <org reg="United States Post Office">Post
+                Office </org>censors, shall never prevent your knowing these preventive means or in
+            passing on this knowledge to your shop mate; for every time you place such information
+            into the hands of your fellow-workers, you are building the foundation of a clean and
+            intelligent society.</p>
+    </docBody>
+</doc>

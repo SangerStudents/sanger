@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+    <mepHeader>
+        <prepDate>2004/06/30 CH</prepDate>
+        <prepDate>2004/07/02 CH</prepDate>
+        <prepDate>2004/08/09 CH</prepDate>
+        <prepDate>2007/08/28 CH Oxygen update/Portions missing, get complete copy</prepDate>
+        <prepDate>2011/03/11 CH Entered corrections suggested by Andy Carloff.</prepDate>
+        <prepDate>2014-03-12 CH fix errors and regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1919-09-20">
+            <supplied resp="MSPP">20 Sept 1919</supplied>
+        </docDate>
+        <docTitle>
+            <titlePart>Birth Control: Yes or No?</titlePart>
+        </docTitle>
+        <idno>msp302878</idno>
+        <sourceDesc>
+            <bibl><title type="journal">Fairplay</title>, <supplied resp="MSPP">20 Sept.
+                    1919</supplied></bibl>
+            <bibl><title>Margaret Sanger Microfilm</title>, C16: 125</bibl>
+        </sourceDesc>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <p>Portions of this text are missing. This is Sanger's third article in a seven-part series
+            on "Prudence and Purity in Sex Matters." Her other two articles were published on <xref
+                from="302881.xml">Aug. 23, 1919</xref> and <xref from="304453.xml"
+                >Oct. 4, 1919</xref>. Other articles were written by different authors. </p>
+        <p>The article was introduced by an editorial paragraph referencing the August 23 article and
+            obtaining back issues of the journal.</p>
+        <index level1="abortion" level2="birth control vs."/>
+        <index level1="Catholic Church" level2="birth control and abortion and"/>
+        <index level1="Lincoln, Abraham"/>
+        <index level1="mentally disabled and diseased" level2="birth control and"/>
+        <index level1="physicians" level2="birth control and"/>
+        <index level1="family size"/>
+        <index level1="population" level2="birth control and"/>
+        <index level1="United States" level2="charitable relief in"/>
+        <index level1="eugenics" level2="birth control and"/>
+    </headNote>
+    <docBody>
+        <head>Birth Control: Yes or No?</head>
+        <p>
+            <emph rend="bold">Yes, but how about the unfit,--the mental defectives who ought most of
+                all to avoid offspring,--would they know enough to use the knowledge if it were
+                given to them?</emph>
+        </p>
+        <p>The great majority of mental defectives are not in institutions, but are at large in the
+            community. No defective can produce normal offspring. These people are therefore a
+            serious menace to community health. Experts such as Dr. <person reg="Goddard, Henry H."
+                >H. H. Goddard</person> of the <org>Vineland Training School for the Feeble
+                Minded</org>, have expressed the very definite opinion that large numbers of
+            defective people are capable of understanding and acting upon contraceptive information,
+            and that they should be taught. The institutions for feeble-mindedness and insanity are
+            increasingly overflowing. The supply of defectives should be cut off at the source. Mere
+            governmental economy demands this,--even if there were no other reasons. To use public
+            funds needlessly for the care of the unfit instead of for education and opportunity for
+            the normal is criminal stupidity.</p>
+        <p> The same reasoning applies to the vast sums given with such warm hearted emotion by the
+            rich to charities every year. A substantial part of charitable relief could be
+            eliminated if the poor were taught how to avoid over-population in their own families,
+            how not to be submerged by their mere numbers. Which is more sensible,--for the
+            charity-givers to contribute $50,000 to our <org reg="New York Birth Control League"
+                >League</org> for the repeal of the wretched laws forbidding the knowledge by which
+            the poor can help themselves and control their own destinies,--or to spend a thousand
+            times that amount in trying endlessly to patch up the wreckage of humanity after the
+            misery has been needlessly produced?</p>
+        <p>
+            <emph rend="bold">Yes, but <person reg="Lincoln, Abraham">Abraham Lincoln</person> was
+                one of many children. Suppose his parents had practised family limitation and left
+                him out?</emph>
+        </p>
+        <p> True, many great men beside Lincoln have been born in large families, and likewise many
+            great people have been born in small families. It proves nothing. Notice that we never
+            heard anything of Abraham Lincoln's brothers and sisters, for they, not he, were the
+            natural product of hardship and ignorance. They were the rule, he the exception.</p>
+        <p> Any country is grateful when a few great souls develop and hold ideals aloft for others
+            to follow, but the real test of a country's greatness is whether it will provide
+            conditions which will produce many instead of a few great souls,--whether it will
+            increase health, education and opportunity so that the average person can be a fine
+            specimen.</p>
+        <p>If anyone sincerely believed that poverty and hardship produced the best results, he
+            would deliberately choose them for himself and his children. But no one does. Health,
+            happiness and opportunity are unquestionably a benefit to humanity, otherwise we should
+            not be justified in struggling for them.</p>
+        <p>If we look after the well-being of the average children, the Lincolns will look after
+            themselves and there will be more of them for us to admire.</p>
+        <p>
+            <emph rend="bold">Yes, but ought not the country to encourage births now, to make up for
+                the loss of life in the war?</emph>
+        </p>
+        <p>The deliberate speeding up of the birth rate without regard to economic conditions and
+            health is nothing but disastrous. All efforts of this sort have failed.</p>
+        <p>A notable instance occurred in <place>France</place> shortly before the war. In response
+            to public action against the decreasing birth-rate, various rewards were offered to
+            parents of large families and bonuses were given to those who had children in rapid
+            succession. This did increase births, but alas! it also increases the baby death rate,
+            so the number of survivors was less and the parents were needlessly depleted.</p>
+        <p>If the war loss of life could be replaced by an increase of births in the families of
+            those who have remained prosperous in spite of the war, or those who have become
+            prosperous because of the war, it might, perhaps, be a good thing. And yet, to enlarge
+            profiteering families might not be a real asset to the country!</p>
+        <p>At any rate, to ask the mass of people to repopulate when the cost of living is still
+            high, wages going down and unemployment increasing, is simply to invite disaster. The
+            war-industry worker who has lost his job or the returned soldier who has not yet found
+            his job, is not the man who ought to undertake parenthood. He will be a better
+                "patriot" if he postpones his family till times are more
+            propitious.</p>
+        <p rend="bold">It must never be inferred that advocates of family limitation are necessarily
+            urging small families as such. It is true that relatively few parents can give
+            successful care to large families, but all who can ought surely to have as many as they
+            want.</p>
+        <gap extent="unknown"/>
+        <p>two years, it could mean ten children! So as a method of family regulation that sort of
+            self-control is hardly useful.</p>
+        <p>If by self-control you mean entire abstinence from the marital relation, that is not
+            considered ideal by most normal people. They do not find it conducive to health or
+            happiness. The old idea, born of certain religious tenets, that sex relations are a
+            concession to weakness and at best a compromise with the lower nature, is giving way to
+            the newer idealism, fostered by some of the best sex psychologists that there is a dual
+            function for the human sex-relation, unknown to the lower orders of life,–namely, that
+            it is to produce children and also to increase well-being, and that both functions,
+            under right conditions, can be superlatively fine; both are essential parts of the
+            richness and beauty of life. Enlightened people are coming to understand that the sex
+            impulse, instead of being a thing to be repressed and disciplined out of existence, is
+            something which should produce invaluable reactions,–physical, emotional, mental and
+            spiritual.</p>
+        <p>As to abstinence, please note that for two reasons, it has no place at all, in the eyes
+            of the law. First, according to the precedent of common law, a wife is supposed to give
+            her "services" in exchange for her
+                "necessaries." Services are interpreted to mean household
+            services and sex relations. If she withholds her services, it is in some states, a cause
+            for divorce on the ground that she has "deserted" her husband.
+            Second, abstinence is a method of preventing conception, and therefore those who
+            advocate it are literally breaking the law, quite as much as those who advocate other
+            methods.</p>
+        <p>The law therefore does not sanction abstinence, except among the unmarried. Oddly enough,
+            however, there are not prosecutions of the "purists" who commend
+            abstinence, but in view of the common law provision, they should be prosecuted,–if the
+            law is to be enforced.</p>
+        <p rend="bold">Yes, But How About Abortion?</p>
+        <p>Contraceptive knowledge will do more than anything else to lessen the shocking number of
+            abortions. No one can give accurate statistics as to the number of abortions, as most of
+            them are illegal and secret, but Dr. <person reg="Robinson, William J.">William J.
+                Robinson</person> estimates that there may be a million annually in the United
+            States. It is well known that they are fearfully frequent among the rich, who can
+            command the services of skillful operators and have the leisure to devote to safe
+            recovery; also that the desperate poor resort to bungling, dangerous, amateur operations
+            with terribly fatal results. Mere preaching can not correct this appalling situation but
+            the perfection and simplification of contraceptive science will go farther than anything
+            else to improve it. </p>
+        <p rend="bold">Yes, but how about the Opposition of the Catholics? Don't they consider
+            contraception as wicked as abortion?</p>
+        <p>Yes, the general influence of the church is against contraception, and on the ground that
+            it destroys life. But there is no rule of the church against it. There is merely
+            precedent. And many Catholics are slipping away from church influence in this
+            particular, because they realize<gap extent="last page(s) missing"/></p>
+    </docBody>
+</doc>

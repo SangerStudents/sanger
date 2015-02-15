@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed draft article">
+	<mepHeader>
+		<prepDate>2009/08/03 LL</prepDate>
+		<prepDate>2011/10/18 EK </prepDate>
+		<prepDate>2014-03-26 CH clean regs</prepDate>
+		<prepDate>2015-01-23 CH proof tags and enter</prepDate>
+		<docAuthor>Margaret Sanger</docAuthor>
+		<docDate value="1929-00-00">
+			<supplied resp="MSPP">1929</supplied>
+		</docDate>
+		<docTitle>
+			<titlePart>Motherhood Enslaved in Italy</titlePart>
+		</docTitle>
+		<idno>msp129029</idno>
+		<sourceDesc>
+			<bibl>Margaret Sanger Papers, Library of Congress</bibl>
+			<bibl>Library of Congress Microfilm 130:0166.</bibl>
+		</sourceDesc>
+		<respStmt>
+			<name id="FRE">French</name>
+			<name id="CARMA">Carli, Mario</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP"><p>No published version was found.</p>
+		<index level1="Mussolini, Benito" level2="policy of"/>
+		<index level1="women" level2="enslavement of"/>
+		<index level1="motherhood" level2="conscripted"/>
+		<index level1="overpopulation"/>
+		<index level1="birth control" level2="war and"/>
+		<index level1="Italy" level2="MS on"/>
+		<index level1="Italy" level2="pro-natalism in"/>
+		<index level1="Italy" level2="birth rate in"/>
+	</headNote>
+	<docBody>
+		<byline>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</byline>
+		<p><add>Either title may be used</add> Motherhood Enslaved in Italy or "Mussolini's Insult
+			to Womankind"</p>
+		<p>The conscription of motherhood appears to be the inevitable next step in the Fascist
+			policy of <person reg="Mussolini, Benito">Mussolini</person>. Benito’s Napoleonic
+			complex and <emph rend="underline"><foreign lang="FRE">folie de grandeur</foreign>
+			</emph> have not as yet reached the point at which he compels by force every Italian
+			woman to undergo the ordeal of periodic pregnancy, but he is not lacking sycophants
+			ready and willing to give expression to expressed thoughts that lurk uncrystallized
+			behind his noble brow. Signor <person reg="Carli, Mario">Mario Carli</person>, <title
+				type="journal">Time</title> (January 21, 1929) Mario Carli has been making a
+			passionate demand for the immediate conscription of Italian motherhood. He is directly
+			quoted by <title type="journal">Time</title>: “<q who="CARMA">Every Italian woman must
+				give to her country at least one son every two years. A refusal on this point will
+				be equivalent to pushing men on the road to polygamy–-which, however, is contrary to
+				Fascist principles. Flight in the face of maternity-–that divine maternity which
+				together with some brief physical suffering, gives the loftiest and deepest joys of
+				life (sic!)-–is as culpable as the desertion of soldiers in the face of the enemy,
+				as the attempt of the taxpayer to escape the payment of taxes.....</q>” Furthermore:
+				“<q who="CARMA">Voluntary barrenness and reducing cures to rid her miserable body of
+				superfluous fat are the greatest crimes a woman can commit under the Fascist
+				regime.</q>”</p>
+		<p>This tyrannical threat is scracely veiled. It indicates the extent to which the impudent
+			dictatorship of Mussolini has gone in <place>Italy</place>. Indifferent or easy-going
+			people in this country may retort that this idea is not to be taken seriously. We wish
+			that such were the case. But history of the world demonstrates that conscription of
+			womanhood has been enforced innumerable times in the past, and that it is not outside
+			the bounds of possibility that it can be enforced in the future. Every ambitious
+			militarist in the history of the world has called upon women to undertake the rapid
+			multiplication of cannon-fodder. History from the forgotten potentates of the East to
+				<person reg="Caesar, Julius">Julius Caesar</person>, <person
+				reg="Bonaparte, Napoleon">Napoleon Bonaparte</person> to the rulers who brought
+			about the Great War, is crowded with such instances.</p>
+		<p>The conscription of motherhood, and the advocacy of “cradle competition", is a policy
+			which every dictator ambitious for his own glory, almost automatically advocated. Thus
+			he attempts to assert his own godlike superiority over the rest of humanity. Thus he
+			makes of all men soldiers and of all women slaves and breeding-machines. Even if there
+			is no immediate danger of Mussolini’s enforcing the dictum already expressed by his
+			editorial sycophant, the very expression of this idea, and the reiterated call for an
+			even higher birth-rate in Italy, become of the most sinister significance in European
+			politics. Mussolini is demanding of his subjects a greater and greater over-population.
+			He is aiming at the production in the Italian peninsula of an expanding and therefore an
+			explosive population.</p>
+		<p>Increased population-pressure, and eventually over-population, bring with them a lowered
+			standard of living, and also a search for new territories, inevitably to be acquired by
+			conquest, and therefore by war. Mussolini and his cohorts are therefore progressively
+			undermining the instability of <place>Europe</place> and the entire Mediterranean zone.
+			The alternatives appear to be: either Birth Control or War. Only a decade has passed
+			since the signing of the Armistice and all of us are still paying, in one way or
+			another, for the last international debauch of blood.</p>
+		<p>Seemingly remote as we may be from the scene of Benito Mussolini’s strutting theatricals,
+			all of us are thus involved in this last insult cast in the face of Occidental
+			civilization. While the material prosperity of Italy continues-–a prosperity dependent
+			to no slight extent upon the millions of dollars annualy expended in Italy by American
+			travellers and visitors-–the Fascist regime will continue to take credit for the
+			country’s good fortune.</p>
+		<p>The insult to Italian womanhood uttered by Mario Carli is an insult to all womankind.
+			American women to whom the ancient glories of Italy have made an esthetic appeal, would
+			do well to consider these implications. If they would courageously decide to postpone
+			all travel in Italy until that country again demonstrates its right to a place in
+			Occidental civilization, an invaluable lesson in discipline and international courtesy
+			would not be long in demonstrating its value. Those who respect women will stay out of
+			Italy until the last act of her present tragedy has been played.</p>
+		<signed>
+			<del>M.S.</del>
+		</signed>
+		<signed>Margaret Sanger</signed>
+	</docBody>
+</doc>

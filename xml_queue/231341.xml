@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed document">
+    <mepHeader>
+        <prepDate>2012-06-18 AW Initial Tag</prepDate>
+        <prepDate>2014-04-17 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1958-12-17">17 Dec 1958</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Statement for Proposed Souvenir</supplied></titlePart>
+        </docTitle>
+        <idno>msp231341</idno>
+        <sourceDesc>
+            <bibl>Margaret Sanger Papers, Sophia Smith Collection</bibl>
+            <bibl><title>Margaret Sanger Microfilm: Smith College Series</title> S72:72</bibl>
+        </sourceDesc>
+        <respStmt>
+            <name id="UNK">Unknown</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="conferences" level2="International Conference on Planned Parenthood"
+            level3="1958 (6th)"/>
+        <index level1="India" level2="MS on"/>
+        <index level1="International Planned Parenthood Federation"/>
+        <index level1="Sanger, Margaret" level2="descriptions of"/>
+    </headNote>
+    <docBody>
+        <head>STATEMENT BY MARGARET SANGER for Proposed Souvenir of <org
+                reg="International Planned Parenthood Federation">IPPF</org>
+            <emph rend="underline">Sixth International Conference</emph></head>
+        <p>Once again after five years, we, the International Planned Parenthood Federation meet for
+            our international sessions in India. This <org
+                reg="International Conference on Planned Parenthood, 6th">Sixth International
+                Conference on Planned Parenthood</org> is our second Conference convened in
+                <place>India</place>, as we held our <org
+                reg="International Conference on
+                Planned Parenthood, 3rd">Third
+                International Conference</org> at <place reg="Bombay, India">Bombay</place> in
+            1952.</p>
+        <p>In the years since that Third Conference, India has achieved much and advanced far in
+            educating Government Officials as well as the general public about the importance of
+            family planning and birth control. It is with profound gratitude and pride that we of
+            the IPPF congratulate all the people of India who have made this progress, and
+            especially those leaders of the <org>Family Planning Association of India</org> who have
+            been in the forefront of the program.</p>
+        <p>It is a matter of much personal gratification to me that one of India’s <person
+                reg="Unknown">leading business men</person> reported in a <place
+                reg="Los Angeles, CA">Los Angeles, California</place>, Newspaper last autumn that,
+                "<q who="UNK">As <person reg="Gandi, Mohandas">Mohandas Ghandi</person> was the
+                leader before independence in India, <person reg="Sanger, Margaret">Margaret
+                    Sanger</person> is the leader for India today, meaning that our Nation can
+                progress faster if its people practice birth control as expounded by Mrs. Sanger for
+                many years</q>.” Although this praise must be accepted for our cause rather than for
+            me as an individual, it is good to find that progressive business men of India now are
+            taking this position in favor of birth control, which I knew your scientists and doctors
+            had taken for a long while. </p>
+        <p>The full cooperation of the <org reg="India Government">Government of India</org> in the
+            preparation of this Conference is a most welcome approval of the importance of our
+            goals, as is the increasing place given to the planned parenthood services in the
+            budgets of the Five Year Plans. </p>
+        <p>My best wishes to all the friends and co-workers who have made this Sixth International
+            Conference on Planned Parenthood possible. </p>
+    </docBody>
+</doc>

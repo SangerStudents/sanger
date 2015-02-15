@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Article">
+    <mepHeader>
+        <prepDate>2011-09-09 CH</prepDate>
+        <prepDate>2013-04-23 CH Proof tags</prepDate>
+        <prepDate>2013-04-29 AW Correct tags</prepDate>
+        <prepDate>2014-07-02 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1955-01-00">Jan 1955</docDate>
+        <docTitle>
+            <titlePart>Happy Birthday</titlePart>
+        </docTitle>
+        <idno>msp213736</idno>
+        <sourceDesc>
+            <bibl><title type="journal">Around the World News of Population and Birth
+                    Control</title> Jan. 1955, p. 1</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S72:915</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name/>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>The byline was a facsimile signature.</p>
+        <index level1="International Planned Parenthood Federation"/>
+        <index level1="Around the World News of Population and Birth Control"/></headNote>
+    <docBody>
+        <head>HAPPY BIRTHDAY</head>
+        <p>Happy Birthday to our international bulletin and congratulations to the <person
+                reg="Brush, Dorothy">editor</person>. The <title type="journal">News of Population
+                and Birth Control</title> is now three years old. The Chinese would say that it is
+            four--according to their reckoning, life is one year old the day it begins. However,
+            what difference is a year or two when progress and growth lead this little monthly paper
+            steadily forward as they have ever since its birth.</p>
+        <p>The beauty and simplicity of the contents give you, the reader, a vision of both achieved
+            and potential aid toward the good life of your planned parenthood ideas. You can see at
+            a glance how these ideals are permeating far-flung cities and countries--wherever people
+            are united in interest for a new, civilized world. When this paper began realize that
+            only four countries had initiated the <org>International Planned Parenthood
+                Federation</org>: <place>Great Britain</place>, <place reg="Netherlands"
+                >Holland</place>, <place>Sweden</place>, and the <place>United States</place>.
+            Within this short time, fifteen members now belong to it. Already the News is translated
+            into German, Italian, Japanese and Spanish. Shortly, <org
+                reg="Hong Kong Family Planning Association">Hong Kong</org> will publish a
+            bi-lingual paper, re-printing some of our bulletin in Chinese.</p>
+        <p>My wish for the New Year is that the paper will stay as it is and not increase in size.
+            Jewels come in small packages! Reaching us ten months of the year like a fresh breeze on
+            an April morning, these four pages of quickly read, closely packaged, well edited facts
+            present us all with a world’s eye view of the latest news of population and birth
+            control.</p>
+        <p>Let us all increase and multiply its circulation in every country around the world!</p>
+        <byline><person reg="Sanger, Margaret">Margaret Sanger</person></byline>
+    </docBody>
+</doc>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published Speech">
+    <mepHeader>
+        <prepDate>2013/12/04 JK encoded</prepDate>
+        <prepDate>2014-08-21 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1932-10-31 ">31 Oct 1932</docDate>
+        <docTitle>
+            <titlePart><supplied resp="MSPP">Address to the New Jersey Birth Control
+                    League</supplied></titlePart>
+        </docTitle>
+        <idno>msp421053</idno>
+        <sourceDesc>
+            <bibl><title type="article">Mrs. Sanger Speaks Here</title>, <title type="journal"
+                    >Newark Star Eagle</title>, Nov. 01, 1932</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="NSE">Newark Star Eagle</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP"><p>Sanger spoke to 200 members of the <org>New Jersey Birth Control
+                League</org> at a housewarming reception for its new <org
+                reg="Newark Maternal Health Center">Maternal Health Center in Newark</org>. Others
+            appearning included <person reg="Hart, Henrietta">Henrietta Hart</person> and <person
+                reg="Stone, Hannah Mayer">Hannah Mayer Stone</person>. No draft version of these
+            remarks were found, the text here comes from <title type="journal">Newark Star
+                Eagle</title> November 1, 1932.</p>
+        <index level1="birth control" level2="in New Jersey"/>
+        <index level1="birth control" level2="clinics and leagues" level3="in US"/></headNote>
+    <docBody>
+        <head>Mrs. <person reg="Sanger, Margaret">Sanger</person> Speaks Here</head>
+        <head type="sub">Urges <place reg="New Jersey">N.J</place> Clinic to Aid Happiness of
+            Families.</head>
+        <p> “I want you also to ask the heads of your institutions for the incompetent what they are
+            doing to help cut down the need for the appalling bill for the maintenance of these
+            institutions,” Mrs. Sanger pleaded. </p>
+        <div>
+            <head type="sub">Early Marriage</head>
+            <p><q who="NSE">Although she said she believes in early marriage, especially in hard
+                    times, because a young couple can live together more cheaply than apart, Mrs.
+                    Sanger opposes the early assumption of the responsibility of children.
+                </q>“There would be fewer divorces among young people,” she said, “If they could
+                have at least two years to get really acquainted with each other and to have fun
+                together before the children came.” </p>
+        </div>
+    </docBody>
+</doc>

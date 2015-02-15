@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Typed speech">
+    <mepHeader>
+        <prepDate>2002-08-01 KH</prepDate>
+        <prepDate>2002-08-09 CH</prepDate>
+        <prepDate>2002-08-15 KH</prepDate>
+        <prepDate>2003/09/16 CH</prepDate>
+        <prepDate>2004/08/09 CH</prepDate>
+        <prepDate>2004/08/13 CH</prepDate>
+        <prepDate>2011/11/28 CH correct typos</prepDate>
+        <prepDate>2011-11-30 CH typos</prepDate>
+        <prepDate>2014-04-01 CH</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1938-03-03">March 3, 1938</docDate>
+        <docTitle>
+            <titlePart>Human Conservation And Birth Control</titlePart>
+        </docTitle>
+        <idno>msp220126</idno>
+        <sourceDesc>
+            <bibl>
+                <title>Margaret Sanger Papers, Sophia Smith Collection</title>
+            </bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> S71:0977</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp/>
+            <name id="DARLE">Darwin, Leonard</name>
+            <name id="SYDED">Sydenstricker, Edgar</name>
+            <name id="POPPA">Popenoe, Paul</name>
+            <name id="WILEL">Williams, Ellen Morton</name>
+            <name id="HOOHE">Hoover, Herbert</name>
+            <name id="PARTH">Parran, Thomas S. Jr.</name>
+            <name id="MACHE">MacMurchy, Helen</name>
+            <name id="WOORO">Woodbury, Robert Morse</name>
+            <name id="INGDE">Inge, William Ralph</name>
+            <name id="UNK">Unknown</name>
+        </respStmt>
+    </mepHeader>
+    <sourceNote>For duplicate versions see Library of Congress Microfilm 127:702 and <title>Margaret
+            Sanger Microfilm</title> S71:996.</sourceNote>
+    <headNote>
+        <index level1="eugenics"/>
+        <index level1="mental capacity"/>
+        <index level1="eugenics" level2="birth control and"/>
+        <index level1="population control"/>
+        <index level1="birth control" level2="class-based"/>
+        <index level1="fertility rates"/>
+        <index level1="birth control" level2="socio-economic benefits of"/>
+        <index level1="mortality rates" level2="maternal"/>
+        <index level1="mortality rates" level2="infant"/>
+        <index level1="abortion"/>
+        <index level1="birth control" level2="lack of knowledge of"/>
+        <index level1="birth control" level2="health benefits and risks"/>
+        <index level1="client letters"/>
+        <index level1="birth control" level2="clinics and leagues"/>
+        <index level1="sterilization" level2="methods and devices"/>
+        <index level1="mentally disabled and diseased"/>
+        <index level1="&quot;unfit&quot; to reproduce" level2="social burdens, as"/>
+        <index level1="United States government" level2="public health programs"/>
+        <index level1="United States" level2="charitable relief in"/>
+        <index level1="sterilization" level2="candidates for"/>
+    </headNote>
+    <docBody>
+        <head rend="underline">Human Conservation And Birth Control</head>
+        <byline>
+            <person>Margaret Sanger</person>
+        </byline>
+        <div type="">
+            <p>In almost all of the conferences dealing with human conservation, maternal health,
+                infant and maternal mortality, or population and the falling birth rate,
+                conservation of the race through birth control is avoided or ignored. Speakers skirt
+                the subject, delicately, and while it is in every one's mind and is discussed in the
+                ante-rooms, and in private, at such conferences, it is not brought out into the open
+                and given the place it deserves at these gatherings. It is a pleaser, therefore, to
+                have the subject assigned me at this meeting. It is time -- in fact the time is long
+                overdue -- that we should be frank and honest; that we should face the facts in this
+                country and ask where the present policy -- if there be a policy -- of race
+                conservation is leading us, so that we may plan to stem the tide of production of
+                the unfit and try to turn it in the right direction. </p>
+            <p>In his address to the <org>International Congress of Eugenics</org>, 1932, <person
+                    reg="Darwin, Leonard">Leonard Darwin</person> said: "<q who="DARLE">Racial
+                    deterioration is, I fully believe, taking place amongst us in such a way as to
+                    affect society as a whole; and if this be so, the cure should be as wide spread
+                    as the disease.</q>"</p>
+            <p>How can we define human conservation biologically? In olden times the race struggled
+                toward a higher standard through the exercise of the law of the survival of the
+                fittest. Only the strongest members of the race survived; it was a process of
+                natural selection of those physically most fit. Inferior stocks were weeded out in
+                the ruthless process; famine, pestilence and war assisting. Populations grew slowly
+                under these checks, and intelligence was fostered as those not so physically strong
+                had to learn how to protect themselves and develop arts and culture as well.</p>
+            <p>Then came the time when this balance was upset. Humanitarians, among civilized
+                nations began their work to conquer disease, prolong life, reduce infant mortality
+                and generally improve living conditions. Social services later became a business and
+                the conservation of human life -- <emph rend="underline">any</emph> life--a goal.
+                There was no defined plan behind this program. It was motivated by sympathy and the
+                desire to alleviate suffering. Laudable as was its purposes, emphasis was often not
+                put on the proper objectives and the ultimate result has not tended to improve the
+                race, but rather the reverse. Population increased rapidly, as natural checks were
+                removed, but its quality of stamina, initiative and resistence did not increase
+                proportionately. All over the world, where the subject is studies, we find
+                biologists concerned over the fall in the level of intelligence, and the increase in
+                the number of those of low I.Q. The figures of those men drafted for service in the
+                World War in the <place reg="United States">United States</place>, showed a level of
+                about 12 years, mentally, and that in a nation with exceptionally high standards of
+                living, and almost nationwide compulsory education.</p>
+            <p>All this is elementary and perhaps it is unnecessary to reiterate it, but we are here
+                to deal with effects and hence, while searching for remedies for these effects,
+                cannot ignore their causes. </p>
+            <p>Although the multiplication of the unfit is a world problem, we are here concerned
+                with its impact on this country primarily. </p>
+            <p>Birth control, properly directed, is an implement of vast importance in conservation
+                of the race: it is a basic need in any program of human betterment. But it has never
+                been utilized in large scale planning and it is time to ask why. </p>
+            <p> The growth of population in the United States has been tremendously rapid, due both
+                to natural fertility and immigration. The birth rate is now decreasing, and the
+                increase slowing down, so that alarmists are already deep in gloom over the prospect
+                of a stationary population in the not very distant future, though the increase still
+                goes on. No one seems unduly alarmed about the <emph rend="underline">quality</emph>
+                of our population; the fears are all about decreasing quantity. We have millions of
+                unemployed, many of them idle because they are unemployable except in boom times
+                when almost any one can get a job. These people are providing a large proportion of
+                the increase in both our social problems and our population today. At the recent
+                conference on Better Care for Mothers and Babies, held in Washington, January 1938,
+                the Surgeon General, Dr. <person reg="Parran, Thomas S., Jr.">Thomas
+                Parran</person>, stated that "<q who="PARTH">approximately one million children are
+                    born each year in families on relief or with an annual income of less than
+                    $1,000.00.</q>" </p>
+            <p>These findings are backed by the studies of Dr. <person reg="Stouffer, S. A.">S. A.
+                    Stouffer</person> of the <org>University of Wisconsin</org>, in the <title
+                    type="journal">Journal of the American Statistical Association</title>,
+                September, 1934, showing that in 5,520 families on relief in <place
+                    reg="Milwaukee, WI">Milwaukee</place>, the rate of confinements, taking place
+                nine months or more after the families went on relief, exceeded the non-relief
+                families by 43%. </p>
+            <p>The late <person reg="Sydenstricker, Edgar">Edgar Sydenstricker</person> and <person
+                    reg="Perrott, George St. John">G. St. J. Perrott</person> in another study of
+                8,000 families in 8 American cities (<title type="journal">Milbank Mem.
+                    Quart.</title> 12 April 1934) found that the birth rate had been highest during
+                the depression in families without employment or with only part time work in 1932.
+                The highest rate was in families who were poor in 1932 and continued poor in 1932.
+                The rate was 66% higher than that of families in relatively comfortable
+                circumstances. The birth rate of all those on relief was 54% higher than those not
+                on relief. "<q who="SYDED">High fertility,</q>" says Sydenstricker and Perrott, "<q
+                    who="SYDED">was associated with inability to succeed in the severe competition
+                    for jobs, brought about by the depression."</q> The high birth rate, they found,
+                was largely in families who "<q who="SYDED">could least afford, from any point of
+                    view, to assume this responsibility.</q>"</p>
+            <p><person reg="Paul Popenoe">Popenoe</person> &amp; <person
+                    reg="Williams, Ellen Morton">Williams</person>, in an article, "<title>Fecundity
+                    of Families Dependent on Public Charity</title>",(<title type="journal">American
+                    Journal of Sociology</title> 40:214-220, September, 1934) found that in 504
+                families who prior to the depression were dependent on charity in <place
+                    reg="Los Angeles, CA">Los Angeles</place> County, California, the completed
+                family averaged 5 children, of whom a third were born after the families became
+                dependent. Over 80% of these families were being assisted by three or more social
+                service welfare agencies."</p>
+            <p>The authors in questioning the possibility that such families may be producing
+                children of superior quality point out that one must be optimistic indeed, to
+                believe in such a possibility, if one may judge from intelligence levels in
+                comparable groups elsewhere, which have been found uniformly below par.</p>
+            <p><org>The Charity Organization Society in New York</org> in testing 451 representative
+                children under its care found the median I.Q. 86. That of 821 children in <place
+                    reg="Indianapolis, IN">Indianapolis</place> was the same, while of 1,500 women
+                admitted as charity obstetrical patients at <org>Johns Hopkins Hospital</org>,
+                    <place reg="Baltimore, MD">Baltimore</place>, 39% o the whites and 70% of the
+                negroes were found to have a mental age of 11 years or less. (Popenoe &amp; Williams
+                p. 220)</p>
+            <p>Prof. <person reg="Bossard, James H. S.">James H. S. Bossard</person>, of the
+                Department of Sociology, <org>University of Pennsylvania</org>, was quoted in 1935
+                    (<title type="journal">New York Times</title>--January 25, 1935) as citing
+                figures to show that the birth rate of families on relief was about 60% above that
+                of families no on relief. </p>
+            <p>Any plan of human conservation would be supposed to build for human betterment--not
+                to tear down; to encourage, not penalize those who are prudent and thrifty, while it
+                encourages the reckless and improvident to breed. </p>
+            <p>Relief, by its ver nature is not conservation. It may serve a destructive purpose,
+                first by keeping alive the most unfit and encouraging them by federal, state and
+                local aid, to multiply their kind. Second: Relief cannot do more than try to patch
+                up a bad situation. It serves to prolong conditions of poverty and misery. It
+                provides just enough to keep from actual starvation those who live, normally, almost
+                submerged. </p>
+            <p>But while keeping these people alive and fed it does something worse to them,
+                mentally. It takes away the necessity that urges them forward in the endeavor to
+                provide for themselves and their families. It destroys what little initiative they
+                may have had before they went on relief. It supports the instincts of those who are
+                always looking for the easy way, who love to follow the line of least resistance;
+                the inefficient; the soft. It increases the unfit and decreases the fit. </p>
+            <p>The State is now placing a burden on the fit. Heavy taxation makes them keep their
+                numbers down, but the unfit are relieved from the burden; the machinery of the State
+                takes care of them at the expense of those who work and try to save for their
+                children and old age. </p>
+            <p rend="underline">People no longer have pride in taking care of themselves and their
+                families. They assume the responsibility of parenthood carelessly, knowing that some
+                one else will carry the burden for them it is not necessary now for them to make
+                good. The sympathy which operated to take care of them has kept their bodies alive
+                and fed, but has atrophied their spirits, and in so doing has dealt a heavy blow to
+                the nation, for it was its spirit that drove it forward. There is not one of us here
+                who does not remember -- and not so many years ago -- when there was nothing the
+                average American would not do to avoid taking charity. Those days are gone. He does
+                not take charity now, he goes on relief, and feels no shame about it often because
+                charity is camouflaged now under this new name.</p>
+        </div>
+        <div>
+            <head rend="underline" type="sub">The Burden.</head>
+            <p>What efforts has this country made toward race conservation, and what agencies carry
+                the load of the unfit?</p>
+            <p><emph rend="underline">Physical</emph>. Dr. <person reg="Kingsbury, Johns Adams"
+                    >Kingsbury</person> will give you the picture of the cost of trying to keep the
+                nation in health. Over 165,000 doctors; almost 6,500 hospitals; all kinds of public
+                health agencies; nurses, dentists and others at an estimated cost of about 3 3/4
+                billions a year are part of the load. Dr. <person reg="Huntington, Ellsworth"
+                    >Huntington</person> in "<title type="article">Tomorrow's Children</title>" (p.
+                3) estimates that we spend 3 billion on education and possibly 2 billion on
+                recreation for children, with another 2 billion on their health. </p>
+            <p>Much of this load is borne by all the people in taxes for public schools and state
+                universities; in contributions for up-keep of hospitals and health agencies; in
+                donations to <org>Community Chests</org> for every kind of activity, health and
+                recreational. No one would grudge this money if it brought results. But we are
+                constantly appalled by reading of the increase in crime--a large proportion of it by
+                young criminals--by the low physical an mental standards of so many of our people.
+                And if we ask why so little progress is made we are told that it is because we don't
+                spend enough money--we need billions more if the needs are to be properly met. </p>
+            <p>In all this frantic struggle to get more money to take care of the hordes of the
+                unfit, few voices have been heard asking why the people of this country should be
+                asked to drag this increasingly heavy ball and chain forever; why something cannot
+                be done to help these people keep themselves, thus relieving the burden on every
+                one. Why spend so much money and effort on the effect, without going to the root of
+                the matter and eliminating the cause? Why continue to put salve on a wound which
+                never heals?</p>
+            <p>The nation's most precious asset is its children--provided that they are born of
+                parents who can give them a fair physical and mental inheritance and can provide
+                them with at least decent comfort. </p>
+            <p>At the <org>White House Conference on Child Health and Protection</org> in 1930,
+                    <person reg="Hoover, Herbert">President Hoover</person> said, "<q who="HOOHE">If
+                    we could have but one generation of properly born, trained, educated and healthy
+                    children, a thousand other problems of government would vanish.</q>"</p>
+            <p>Yet when these conferences are called together everything but birth control is
+                weighed and considered--that topic is omitted. </p>
+            <p>The <org reg="United States Children's Bureau">Children's Bureau</org> was created
+                after the first White House Conference was called in 1912 by <person
+                    reg="Roosevelt, Theodore">Theodore Roosevelt</person>. the Second Conference
+                called by <person>Woodrow Wilson</person> in 1929 reviewed the same old problems,
+                and said that many things ought to be done about them; but birth control was not
+                mentioned. </p>
+            <p>The Third Conference, called by Herbert Hoover in 1930, made the recommendation,
+                through a sub-committee on obstetric training, that medical students should be
+                taught the technique of contraception and medical indications therefore, but birth
+                control was not discussed at the sessions.</p>
+            <p>The latest <org>conference on Better Care for Mothers and Babies</org>, held under
+                the auspices of the Children's Bureau in January, 1938, was addressed by the Surgeon
+                General, Dr. Thomas Parran, who informed it that, "<q who="PARTH">One-third of the
+                    population here is ill-fed, ill-housed, ill-clothed and ill-provided with
+                    opportunity for life and health.</q>" He stressed the fact that the relationship
+                between poverty and disease had long been known, and said that "<q who="PARTH"
+                    >illness among persons on relief is 68% higher than among those in comfortable
+                    circumstances; chronic illness 87% higher,</q>"--these figures probably being
+                taken from the recent National Health Survey under the Division of Public
+                Health.</p>
+            <p>Dr. Parran then went on to consider the question of maternal mortality. "<q
+                    who="PARTH">The 12,544 mothers who died as a result of conditions of pregnancy
+                    and child-birth in 1935, do not represent the whole of the loss from
+                    child-bearing. In the past it seems clear that we have underestimated the size
+                    and scope of the problem, for there were more than 60,000 babies who died 2
+                    weeks after birth; there were 77,119 recorded still-births. In other words,
+                    there occur inthe country each year, more than 150,000 deaths -- 60% of which
+                    are needlessly lost because of the mismanagement of the child-bearing
+                    function.</q>" He went on, "<q who="PARTH">Approximately one million children
+                    are born each year to families on relief or with an annual income of less than
+                    $1,000.00. Here are found the highest death rates of mothers and infants; Here
+                    the least, and the least good, medical care.</q>"</p>
+            <p>Yet not a voice was raised to ask why this crime was permitted, why there mothers and
+                babies were sacrificed; why no one gave these families any advice on
+                contraception!</p>
+            <p>What form of race conservation is this? Not that many American men were killed in the
+                World War, but we mourn them unceasingly, because they were young and they were
+                sacrificed. Night and day a sentry guards the tomb of the Unknown Soldier at <place
+                    reg="Arlington, VA">Arlington</place>--the symbol of our sorrow for the
+                holocaust of war. But who mourns these mothers, or tries to prevent the yearly
+                repetition of their deaths by making it possible for them to have a breathing spell
+                between the births of their children?</p>
+            <p>In only one tabulated report on maternal mortality, by Dr. <person
+                    reg="MacMurchy, Helen">Helen MacMurchy</person> of <place>Canada</place>, have I
+                see <q who="MACHE">"Exhaustion after repeated pregnancies</q>", listed as a cause of
+                death of the mother. </p>
+            <p>But the nation loses more than the mothers. There are the babies. Figures on infant
+                mortality in this country have been incomplete until the last few years, because all
+                of the states had not come into the birth registration area. Still-birth
+                registration is even now most unsatisfactory, and the <org>American Committee on
+                    Maternal Welfare</org>, under Dr. <person reg="Adair, Fred">Fred Adair</person>,
+                is endeavoring to have a uniform blank adopted for such registrations, for until
+                this is done all vital statistics are skewed by this unknown factor. </p>
+            <p>We do know, however, that infant mortality in the United States is inexcusably high
+                and that some of its underlying causes should be attacked. In 1926,<person
+                    reg="Woodbury, Robert Morse">Robert Morse Woodbury</person>, in "<title
+                    type="book">Infant Mortality and Its Causes</title>", said,--"<q who="WOORO"
+                    >Perhaps first in the underlying causes of these infant deaths--was lack of
+                    health and physical vitality in the mother during pregnancy. Infants whose
+                    mothers died within one year following confinement had a mortality rate 4 times
+                    as high as that for other infants. Where the mother died one month after
+                    confinement 6 in every 10 of the babies died before the end of the first year.
+                    Infants whose mothers had tuberculosis had a mortality 2 1/2 times as high as
+                    that among other infants.</q>"</p>
+            <p>Woodbury's figures showed that lack of spacing of birth affected the death rate
+                unfavorably; that the rate when births were at one year intervals was 146.7,
+                dropping to 98.6 within two year intervals and to 86.5 when children were born three
+                years apart. </p>
+            <p>Low family income was another unfavorable factor. Where earnings were less than
+                $450.00 a year, infant death rate was 166.9. When they rose to $1,250.00 and over,
+                the rate dropped to 59.1, and where there was no income it shot up to 210.9. </p>
+            <p>The larger families, where the family income per capita fell with each additional
+                child, the death rate was heavy. Woodbury's figures show that where earnings were
+                less than $50.00 per capita each year the infant death rate was 215.9. </p>
+            <p>Each survey of maternal mortality lists induced abortion as one of the major causes
+                of this loss of life to the nation. From 1/4 to 1/3 of the mothers died from this
+                cause. Statistics show that they are usually young married women, who leave families
+                of small children behind them. They induce abortion because they have reached the
+                end of the rope. In many cases they cannot feed the children behind them. They
+                induce abortion because they have reached the end of the rope. In many cases they
+                cannot feed the children they have and another is something they cannot face.
+                Government investigations of this problem are now in progress in <place>Great
+                    Britain</place> and <place>New Zealand</place>. It is a growing evil all over
+                the world. Repressive laws do not stamp it out. The trade flourishes because the
+                poor, who should have the best contraceptive advice do not get it, and the cheap
+                abortionist or midwife "helps them out" when an undesired pregnancy exists. There is
+                money in it for the unscrupulous men, sometimes physicians, who either operate
+                alone, at high prices for those who can afford to pay, or form an "abortion ring"
+                such as was uncovered on the West Coast about a year ago, when one of its victims
+                died.</p>
+            <p>It is incredible that organized medicine does not know that these evils exist, (a
+                canker inside the profession in spite of Hippocratic oaths) and do something about
+                it; but no one stirs. It is encouraging, however, that more and more in these
+                surveys of maternal death following abortion the point is stressed that had these
+                women been given proper contraceptive information many of them need not have died,
+                and recommendation made that such instruction be made available, so that in the
+                future, lives may be saved. </p>
+            <p>And so we go to the same weary round. The White House Conference of 1930 found that,
+                out of 45 million children, 6 million were improperly nourished, 1 million had
+                defective speech; 3 million impaired hearing, 1 million weak or damaged hearts;
+                675,000 behavior problems; 450,000 mentally retarded; 382,000 tuberculous; 300,000
+                crippled. It was recommended that something be done to alleviate these conditions.
+                And sothey started to patch and tinker and repair the damage.</p>
+            <p>But the same flood of defective children went on pouring out in the same old way. No
+                one ever dreamed of stopping that leak. And another conference was held in 1938. Its
+                Findings Committee, <q who="WHC30">"after reviewing the information placed before
+                    it</q>", announced (its figures slightly at variance with the Surgeon General's
+                who spoke at it that "<q who="PARTH">14,000 women die each year in this country from
+                    causes connected with childbirth, leaving at least 35,000 children motherless;
+                    more than 75,000 infants are still-born, and more than 69,000 die during the
+                    first month of life.</q>" They say that the maternal mortality rate has not been
+                appreciably reduced here in years; that the still-birth rate has remained unchanged
+                and that from one-half to two-thirds of these maternal deaths are preventable. They
+                go on to state that approximately 840,000 or more than one-third of al the births in
+                the United States "<q who="PARTH">occur each year in families on relief or with
+                    incomes (including home produce) of $750. a year.</q>" </p>
+            <p>They then make recommendations. The nearest they dare get to birth control is to say
+                that "<q who="UNK">preconceptional and premarital care will help to safeguard the
+                    mother from possible later disaster.</q>"</p>
+            <p>The usual recommendations of adequate pre- and postlated care; medical, dental and
+                nursing care during pregnancy, and labor; periodic examination by a pediatrical
+                hospitalization, etc., etc., were made. And then came the inevitable demand for
+                larger funds, under the <name type="law">Social Security Act</name>, to finance
+                these needs. </p>
+            <p>Has it never occurred to our present charitable and relief agencies that they are
+                really not relieving our social problems, but are aggravating them? What have our
+                government agencies really done to conserve the best in human kind? In animal
+                industry the poor stock is not allowed to breed; in gardens the weeds are kept down.
+                The Government sends all kinds of literature through its numerous departments to
+                inform farmers and livestock breeders as to how they can improve produce--by
+                nurturing the good and eliminating the bad stock.</p>
+            <p>But when it comes to human beings these same agencies prefer to patch and tinker
+                rather than to prevent or eliminate. They are dominated by the fear of religious
+                intolerance, with its dogmatic cruelty. It is this same intolerance (and let us be
+                frank about it) that prevents all discussion at these National Conferences of the
+                one thing which would help most in human conservation--birth control.</p>
+            <p>You cannot build a good house without a strong foundation, and the foundations of
+                this nation are being sapped. While alarmists are shaking their heads over the
+                declining birth rate, we had in 1935 (Huntington--"<title type="book">Children of
+                    Tomorrow</title>") 90,000 feeble-minded and epileptics in institutions alone,
+                with 2 million, estimated, in the population. Few state laws forbid the marriage of
+                such persons. There were 324,000 insane in institutions and 184,000 criminals,
+                confined, but constantly paroled to commit more crimes. There were 650,000 persons
+                committed to jail each year. The cost of all this is staggering; it runs into many
+                billions annually. In addition there were about 5 million who failed to go above the
+                4th grade in school and about 5 3/4 millions of that age in the United States. </p>
+            <p>These are not reassuring figures, but if we do not really attack the problem
+                intelligently, the totals will be worse in another generation. This is the size of
+                the problem. What is being done about it? No government agency dares to suggest a
+                nation-wide program of birth control, but such a program must ultimately be adopted
+                or our national level of intelligence will continue to sink. </p>
+            <p>Private enterprise and philanthropy have always blazed the trail in human
+                conservation. It was a lay group that inaugurated the battle against tuberculosis
+                and which has successfully fought that disease and greatly lowered its incidence. So
+                with cancer. Lay groups raised funds for research in this field. Lay groups carried
+                the burden of charity for years, until in 1932, the Government took it over and the
+                    <emph rend="underline">relief</emph> program began. </p>
+            <p>We are now facing a situation where more and more of our citizens are expecting and
+                demanding that they and their children be taken care of indefinitely--possibly for
+                life. This load is assuming such proportions that the nation will not be able to
+                carry it unless the annual increment of relief babies is checked, and unless those
+                not on relief but living on the bare subsistence level are given instruction. </p>
+            <p>It may be said that they do not want such help, but my experience of years tell a
+                different story. Over a million mothers have written to me begging for information
+                on family limitation and their letters would convince any one -- except a religious
+                fanatic, that here is a great and agonizing need that is not being filled. </p>
+        </div>
+        <div>
+            <head rend="underline" type="sub">Program</head>
+            <p>What can we do about it? What plan will cover it? Only a national, coordinated
+                service. We have now in this country about 384 birth control clinics for a
+                population of millions of women of child bearing age. The majority of these are
+                financed by lay committees; a few are run by state or local public health agencies;
+                all are under medical direction. </p>
+            <p>To say that this handful of centers is filling the need is ridiculous. They are a
+                drop in an ocean. There should be thousands of clinics, easily accessible, with less
+                rigid requirements and financed by the Government as part of its public health
+                service. </p>
+            <p>But even if every organized health center had such service it would still not be
+                enough. The clinics almost invariably advise one method. This method entails a
+                medical examination and technical knowledge. In rural areas such clinics often
+                cannot be set up. Not only are no trained physicians available, but the women live
+                too far away to be able to travel in for aid; so it must be taken to them, as
+                obstetric service is taken to them by the frontier nurses in many states. </p>
+            <p>Simple methods have been discovered, to fit the needs of these women; something which
+                will not require a doctor's examination but which will not require a doctor's
+                examination but which a nurse can advise under a doctor's prescription. Simple
+                methods may not be 100% effective, but what therapy in any disease can claim that?
+                Such methods will be better than nothing-- They will reduce the number of the
+                unwanted and the unfit. </p>
+            <p>All obstructive laws should be so clarified and recorded that nowhere in this country
+                should there be a shadow of doubt as to the doctor's legal right to advise patients
+                where pregnancy is contraindicated.</p>
+            <p>Discovery of even simpler, effective methods entails research. Millions have been
+                spent in research in other fields, but only a few thousands in this. Well directed
+                liberally financed research is an essential part of this program. </p>
+            <p>For those mothers--and there will always be such--who are too dull-witted, to
+                careless or too inert to use even simple methods, under direction, sterilization is
+                indicated. I shall not go into this field extensively, for it is covered by another
+                paper on the program, but the last available figures from the <org>Human Betterment
+                    Foundation</org> show that to date of January 1, 1937, only 25,403 persons had
+                been sterilized in state institutions in the United States. Of these 10,674 were men
+                and 14,729 women. Twenty-eight states have laws governing institutional inmates, but
+                these figures include 42 cases operated on in New York before the law there was
+                declared unconstitutional in 1918. Of the total number sterilized 11,484 or over 45%
+                were in <place>California</place> institutions. There is no way of estimating the
+                number of women sterilized in hospitals, where it is often routine procedure in
+                cases where the mother-s life would be endangered by another pregnancy; nor can we
+                estimate the number of men in our population who have had a voluntary vasectomy, for
+                various reasons, though communications from individual physicians indicate that this
+                number is increasing, particularly among professional men. </p>
+            <p>Contrary to common belief it is not illegal in most states for a physician to
+                sterilize a patient on request. In such cases written consent should be obtained
+                from wife or husband as a safeguard for the doctor. </p>
+            <p>Operation on the male may be an office procedure and is accompanied by little risk.
+                Operation on the woman is a major surgical procedure in most cases, but perfection
+                of the operation by the vaginal route, or by Xray in cases where an artificial
+                menopause will not too greatly unbalance the woman's system, may obviate the risks
+                to the mothers of the future. </p>
+            <p>Again, however, we must stress the fact that in a national program for human
+                conservation institutional and voluntary sterilization are not enough; they do not
+                reach those elements at large in the population whose children are a menace to the
+                national health and well-being. </p>
+            <p>Reports in medical journals state that the indications laid down in the German law
+                are being carefully observed. These are gongenital feeble-mindedness; schizophrenia,
+                circular insanity; heredity epilepsy; hereditary chorea (Huntington's)' hereditary
+                blindness or deafness; grave hereditary bodily deformity and chronic alcoholism. </p>
+            <p>Surely everyone will agree that the children of parents so afflicted are no
+                contribution to the nation for even if they do not inherit these defects they are
+                children of parents so handicapped that life will give them little, owing to their
+                necessarily bad environment. </p>
+            <p>There are 1,700 special courts and 27 higher courts in <place>Germany</place> to
+                review the cases certified for sterilization there. The rights of the individual
+                could be equally well safeguarded here, but in no case should the rights of society,
+                or which he or she is a member, be disregarded.</p>
+            <p>Dean <person reg="Inge, William Ralph">Inge</person>--The Gloomy Dean--in his "<title
+                    type="book">Gleanings from a Note Book</title>" has said: "<q who="INGWI">Don't
+                    be a pioneer. It is the early Christian that is gotten by the lion. The safest
+                    mountain paths are those trodden by mules and asses. Follow them.</q>"</p>
+            <p>In their anxiety to follow this advice, many nations are throwing away their
+                heritage; discarding the best to take care of the worst elements of society. If we
+                have not intelligence to adopt the program outlined above because it is a step
+                toward human conservation, let us adopt it in consideration for the mothers who have
+                borne the crushing load of our neglect through the centuries. If we have no sympathy
+                for the mothers, whose normal duty has been considered childbearing, regardless of
+                physical or economic conditions, let us adopt it in pity for the children--those
+                innocent sufferers born into a world they never made -- thrown out handicapped to
+                struggle for subsistence in a society so organized that only the strong can get
+                ahead--but eventually revenging themselves on this society by forming the social
+                problem group which costs us billions annually. </p>
+            <p>But let us thing straight and think fast, for the years are rolling by while we drift
+                without a real or practical program for race conservation. </p>
+        </div>
+    </docBody>
+</doc>

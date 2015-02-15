@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2001-12-10 MH</prepDate>
+        <prepDate>2004/07/20 CH</prepDate>
+        <prepDate>2007-05-31 CH Oxygen update</prepDate>
+        <prepDate>2014-03-05 CH fixed regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1914-09-00">Sep-Oct 1914</docDate>
+        <docTitle>
+            <titlePart>Consistency</titlePart>
+        </docTitle>
+        <idno>msp420057</idno>
+        <sourceDesc>
+            <bibl><title type="journal">The Woman Rebel</title>, Vol. 1, No. 7, Sept.-Oct. 1914,
+                54</bibl>
+            <bibl><title>Margaret Sanger Microfilm, Collected Documents Series</title> C16:568</bibl>
+        </sourceDesc>
+        <respStmt>
+            <resp id="MSPP">MSPP</resp>
+        </respStmt>
+    </mepHeader>
+    <headNote>
+        <index level1="birth control" level2="opposition to"/>
+        <index level1="women" level2="gender roles"/>
+    </headNote>
+    <docBody>
+        <head>CONSISTENCY</head>
+        <p>The inconsistency of the <org reg="New York State Government">Government of <place>New
+                    York</place>
+            </org>show themselves more and more, as it proceeds to interfere with the private
+            relations of the individuals. The latest laughable act in the action of the <org
+                reg="New York State Court of Appeals">Court of Appeals of New York State</org> which
+            upheld the <org reg="New York State Board of Education">Board of Education</org> in
+                <place reg="New York, NY">New York City</place> in dismissing Mrs. <person
+                reg="Peixotto, Bridget C.">Bridget C. Peixotto</person> because she remained away
+            from her duties as a teacher to become a mother. It was no objection to her as a married
+            woman, but does object to her as a mother. Yet this same government holds it a crime to
+            tell the woman how to prevent conception and thereby avoid motherhood.</p>
+    </docBody>
+</doc>

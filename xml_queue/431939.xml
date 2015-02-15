@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published interview">
+	<mepHeader>
+		<prepDate>2014/05/28 MM</prepDate>
+		<prepDate>2014-12-19 CH proof tags and enter</prepDate>
+		<prepDate>2015-01-28 EK divide</prepDate>
+		<prepDate>2015/02/10 EKcorrect proof and index</prepDate>
+		<docAuthor>
+			<person reg="Sanger, Margaret">Margaret Sanger</person>
+		</docAuthor>
+		<docDate value="1916-05-19">19 May 1916</docDate>
+		<docTitle>
+			<titlePart>
+				<supplied resp="MSPP">Interview for <title type="journal">St. Louis Post
+						Dispatch</title></supplied>
+			</titlePart>
+		</docTitle>
+		<idno>msp431939</idno>
+		<sourceDesc>
+			<bibl><title type="Published Interview">"Mrs. Sanger Here to Spread Gospel of Birth
+					Control,"</title>
+				<title type="journal">St. Louis Post-Dispatch</title>, May 19, 1916</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name id="STPD">St. Louis Post Dispatch</name>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p> On her arrival in St. Louis, Margaret Sanger gave similar interviews to other local
+			reporters.</p>
+		<index level1="abortion" level2="birth control and"/>
+		<index level1="Sanger, Margaret" level2="speaking tours" level3="1916 (U.S)"/>
+		<index level1="Sanger, Margaret" level2="nursing background"/>
+		<index level1="Sanger, Margaret" level2="children of"/>
+		<index level1="mortality rates" level2="infant"/>
+		<index level1="race suicide"/>
+		<index level1="Netherlands, the" level2="birth control in"/>
+		<index level1="Netherlands, the" level2="birth control clinics"/>
+		<index level1="New Zealand" level2="birth control clinics"/>
+		<index level1="United States" level2="birth control clincis"/>
+		<index level1="birth control" level2="distribution of information"/>
+		<index level1="birth control laws and legislation" level2="Federal"/>
+		<index level1="birth control" level2="morality of"/>
+		<index level1="Woman Rebel, The" level2="legal case"/>
+		<index level1="birth control" level2="publicity and propaganda"/>
+		<index level1="working classes" level2="and birth control"/>
+		<index level1="upper classes" level2="and birth control"/>
+		<index level1="nurses and nursing" level2="and birth control"/>
+	</headNote>
+	<docBody>
+
+		<div type="section">
+			<head>MRS. SANGER HERE TO SPREAD GOSPEL OF BIRTH CONTROL</head>
+			<p>
+				<q who="STPD"> Mrs. Margaret Sanger of New York is in <place reg="St. Louis, MO."
+						>St. Louis</place> to spread the knowledge of birth control. She will
+					deliver a lecture and take steps toward the organization of a birth control
+					clinic for the instruction of women.</q>
+			</p>
+			<p>
+				<q who="STPD"> Mrs. Sanger, was the editor of <title type="journal">the Woman
+						Rebel</title>, which was discontinued after seven of the nine issues had
+					been confiscated by the postal authorities, and is the author of pamphlets on
+					family limitation. A Federal indictment charging her with improper use of the
+					mails was dismissed in February on the eve of her trial in <place
+						reg="New York, NY">New York</place>. The reason given was that it was
+					desired to avoid making a martyr of her.</q>
+			</p>
+			<p>
+				<q who="STPD">Mrs. Sanger, who arrived at the <org>Jefferson Hotel</org> this
+					morning, said to a <title type="journal">Post-Dispatch</title> reporter that she
+					had no wish to be a martyr but she wanted the case to go to trial, desiring
+					acquittal at the hands of a jury and confidant that she would have been
+					acquitted.</q>
+			</p>
+		</div>
+		<div type="section">
+			<head type="sub">Making Tour of Country.</head>
+			<p>
+				<q who="STPD">She is touring the country in advocacy of birth control. She came here
+					from <place reg="Indianapolis, IN">Indianapolis</place>, where she spoke at the
+					national charity conference and where such interest was aroused, she says, that
+					birth control teas and birth control luncheons are crowding out other society
+					functions.</q>
+			</p>
+			<p>
+				<q who="STPD">Not that her message is to society women, she explained, except as she
+					desires to interest them in the propaganda, which is intended to benefit the
+					women of the laboring classes.</q> "I have no message for wealthy women," she
+				said. "They have been taken care of. The woman of Fifth Avenue and Riverside Drive
+				controls her family. It is the woman of the poorer classes who needs
+				enlightenment."</p>
+			<p>"I was prompted by my experience as a nurse and as a mother to take up this
+				propaganda. In my work as a nurse on <place reg="New York, NY">New York</place>'s
+				East Side I saw that there was overbreeding of the least desirable elements, which
+				was not making for a racial improvement.</p>
+		</div>
+		<div type="section">
+			<head type="sub">Studied Problems Abroad.</head>
+			<p>"If I had been all the time on the East Side I might have become hardened to the
+				conditions, as others do, but I returned each night to my own home and my three
+					<person reg="Sanger, Stuart"><person reg="Sanger, Grant"><person
+							reg="Sanger, Peggy">babies</person></person></person>, and the contrast
+				inspired me to do what I could to improve conditions among the poor by limitation of
+				their families."</p>
+			<p>"Birth control does not lead to race suicide. I studied the problem four years in
+					<place>England</place>, <place reg="Netherlands, the">Holland,</place>
+				<place>France</place> and <place>Spain</place>. In Holland there are 52 clinics
+				where married women are taught by nurses how to exercise birth control. This has
+				been done for 30 years. The result is that Holland has the lowest general death rate
+				in <place>Europe</place>. The infant mortality in <place
+					reg="Amsterdam, Netherlands, the">Amsterdam </place>and <place
+					reg="The Hague, Netherlands,the">The Hague</place> is lower than in any other
+				city in the world. There are fewer births, but the babies that are born have a
+				better chance to survive, and the population goes on increasing.</p>
+			<p>"<place>New Zealand</place> has had birth control clinics for 20 years, and the
+				infant mortality in that country is also low. Commercialized vice is almost unknown
+				in both countries."</p>
+			<p>"In <place reg="United States">this country</place> there has never been a clinic for
+				the instruction of married women. I want to see them established in every city.
+				Interest has been manifested by St. Louis nurses and social workers, and something
+				has been done toward organizing a branch of the <org>National Birth Control
+					League</org>, which has already spread to 12 states."</p>
+			<p>"Unfortunately there is a Federal statute which forbids the use of the mails to
+				disseminate such information, and there are hindering laws in some of the states.
+				The object of the National Birth Control League is to bring about the repeal of
+				these laws, so that nurses and doctors can be free to give instruction."</p>
+			<p>"In European countries, except Holland and New Zealand, the information is
+				disseminated improperly. I want it done here properly, by doctors and nurses. Such
+				information will go far toward preventing the illegal operations which cause the
+				death of thousands of women."</p>
+			<p>"The objection is made that the dissemination of this knowledge will encourage
+				immorality. But the women of the upper classes have possessed this knowledge and it
+				will hardly be said that the knowledge has encouraged immorality among them."</p>
+		</div>
+
+	</docBody>
+</doc>

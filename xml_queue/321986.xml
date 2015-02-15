@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published statement">
+	<mepHeader>
+		<prepDate>2013-10-23 EK Initial Tag</prepDate>
+		<prepDate>2014/03/30 EK clean regs + proof corrections </prepDate>
+		<prepDate>2015-01-07 CH proof tags and enter</prepDate>
+		<docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+		<docDate value="1913-12-00">Dec 1913</docDate>
+		<docTitle>
+			<titlePart><supplied resp="MSPP">Statement on Women and
+				Capitalism</supplied></titlePart>
+		</docTitle>
+		<idno>msp321986</idno>
+		<sourceDesc>
+			<bibl><title type="journal">The Conservator</title>Dec. 1913, p. 145</bibl>
+		</sourceDesc>
+		<respStmt>
+			<resp/>
+			<name/>
+		</respStmt>
+	</mepHeader>
+	<headNote resp="MSPP">
+		<p>This statement was published in <title type="journal">The Conservator</title>, a radical
+			literary monthly edited by <person reg="Traubel, Horace">Horace Traubel</person>.</p>
+		<index level1="capitalism"/>
+		<index level1="women's rights"/>
+		<index level1="prostitution"/>
+		<index level1="venereal disease"/>
+		<index level1="sex education"/>
+	</headNote>
+	<docBody>
+		<p>It is impossible to separate the ignorance of parents, prostitution, venereal diseases,
+			or the silence of the medical profession, from the great economic question that the
+			world is facing today. It is here ever before us, and the more we look into the
+			so-called evils of the day the more we realize that the whole structure of present-day
+			society is built upon a rotten and decaying foundation. Until capitalism is swept away,
+			there is no hope for young girls to live a beautiful life during their girlhood. There
+			is no hope for boys or girls to build up strong and sturdy bodies. There is no hope that
+			a woman can live in the family relation and have children without sacrificing every
+			vestige of individual development. There is no hope that prostitution will cease as long
+			as there is hunger. There is no hope for a strong race as long as venereal diseases
+			exist. And they will exist until women rise in one big sisterhood to fight this
+			capitalist society which compels a woman to serve as a sex implement for man's use.
+			Education is necessary—-education is the need of the people. For this will soon enable
+			one to see that knowledge alone does not suffice, but that it is only through economic
+			security that the man and the woman will emerge in a future civilization.</p>
+		<byline>MARGARET SANGER</byline>
+	</docBody>
+</doc>

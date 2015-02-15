@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE doc SYSTEM "meptei3xMSP.dtd">
+<doc type="Published article">
+    <mepHeader>
+        <prepDate>2012-03-23 AW</prepDate>
+        <prepDate>2012-03-27 AW</prepDate>
+        <prepDate>2014-04-02 CH clean regs</prepDate>
+        <docAuthor>Margaret Sanger</docAuthor>
+        <docDate value="1957-09-00">1957 Sept</docDate>
+        <docTitle>
+            <titlePart>Too Many People!</titlePart>
+        </docTitle>
+        <idno>msp303195</idno>
+        <sourceDesc>
+            <bibl><title type="journal">Together</title> Sept. 1957 p. 16-18</bibl>
+            <bibl><title>Margaret Sanger Microfilm</title> C16:492</bibl>
+        </sourceDesc>
+        <respStmt>
+            <name id="TMC">The Methodist Church</name>
+            <name id="JEPL">Japanese Eugenic Protection Law</name>
+            <name id="LIDEQ">Li, Dequan</name>
+        </respStmt>
+    </mepHeader>
+    <headNote resp="MSPP">
+        <index level1="birth control" level2="population and"/>
+        <index level1="birth rate" level2="increase in"/>
+        <index level1="birth rate" level2="efforts to reduce"/>
+        <index level1="birth rate" level2="population growth and"/>
+        <index level1="birth control" level2="socio-economic benefits of"/>
+        <index level1="birth control" level2="access to" level3="international"/>
+        <index level1="overpopulation" level2="MS on"/>
+        <index level1="Methodist Church"/>
+        <index level1="planned parenthood" level2="and the Methodist Church"/>
+        <index level1="Japan" level2="birth control in"/>
+        <index level1="Japan" level2="overpopulation and"/>
+        <index level1="Japan" level2="infanticide in"/>
+        <index level1="India" level2="mortality rates" level3="infant"/>
+        <index level1="India" level2="overpopulation and"/>
+        <index level1="India" level2="birth control movement in"/>
+        <index level1="India" level2="Five Year Plan in"/>
+        <index level1="China" level2="overpopulation and"/>
+        <index level1="China" level2="population policies of"/>
+        <index level1="sterilization" level2="in Puerto Rico"/>
+        <index level1="United States" level2="overpopulation in"/>
+        <index level1="United States" level2="population growth in"/>
+        <index level1="birth control" level2="methods" level3="pill"/>
+        <index level1="abortion" level2="illegal"/>
+        <index level1="International Planned Parenthood Federation"/>
+    </headNote>
+    <docBody>
+        <head>Too Many People!</head>
+        <byline>By MARGARET SANGER</byline>
+        <div>
+            <p>The world is exploding at the seams. Population growth is outracing our ability to
+                produce more food and goods. From the Orient to South America, from Eastern Europe
+                to the <place reg="United States">U.S.</place>, soaring birth rates are posing
+                future problems potentially more dangerous than the H-bomb.</p>
+            <p> Just look at these facts:</p>
+            <p> • By this time tomorrow, there will be at least 70,000 more people in the world than
+                there are today.</p>
+            <p> • If the current birth rate had started the year <person reg="Jesus Christ"
+                    >Christ</person> was born, there would be <emph rend="italics">1 million</emph>
+                people in the world for every <emph rend="italics">one</emph> now alive.</p>
+            <p> • In 3 ½ years Red <place>China</place>’s population alone has shot up by 42
+                millions -- more than the total population of <place>New York</place>,
+                    <place>California</place>, and <place>Pennsylvania</place>, the three most
+                heavily populated U.S. states.</p>
+            <p>At present, demographers -- scientists who devote their lives to studying population
+                problems -- estimate that there are 2.7 billion people in the world. By 1980, they
+                expect this to soar to 4 billions; by the year 2000, to 5.5 billions. In theory,
+                ways can be found to feed that many human beings -- on a scale of living like that
+                of Red China or <place>India</place>’s masses. (For a close-up of what that means:
+                an estimated 100 million Chinese have died of starvation in the last 100 years.) But
+                few, if any, experts foresee any way in which 5.5 billion people, even half a
+                century from now, can enjoy a standard of living remotely approaching that now
+                enjoyed by this country.</p>
+            <p>What is the answer? Birth control or, to give it another name, planned
+                parenthood.</p>
+            <p>This is going to be a bitter pill in Roman Catholic countries, where the <org
+                    reg="Roman Catholic Church">official church</org> still boils down to this:
+                Abstinence, or the far-from-certain rhythm theory, are all that can be countenanced
+                in the way of planning one’s family. On the other hand, The <org>Methodist
+                    Church</org> has officially endorsed planned parenthood. The 1956 edition of the
+                    <title rend="italics" type="book">Discipline of The Methodist Church</title>
+                contains a series of resolutions on the Christian family, adopted by the <org
+                    reg="Methodist Church, General Conference">General Conference</org> last year.
+                Included is this highly important statement on planned parenthood:</p>
+            <p>"<q who="TMC" rend="italics">We believe that planned parenthood, practiced in the
+                    Christian conscience, may fulfill rather than violate the will of <name
+                        type="deity">God</name>.</q>"</p>
+            <p>Beliefs of this sort, put into intelligent practice the world over, hold the only
+                promise of forestalling a world-wide explosion from population pressures. Have-not
+                nations, with millions more mouths to feed each year, must spill over their borders
+                in unending aggressions, searching for more and more food-producing areas -- unless
+                their sky-rocketing birth rates are pulled down. Eventually, the threat of
+                starvation will hang over everyone unless the problem is faced squarely -- right
+                now.</p>
+            <p>Paradoxically, the root of the problem is man’s progress and advancing knowledge. We
+                have cut infant mortality to a tiny fraction of its former toll. At the same time,
+                we have extended the span of man’s years. And advancing prosperity has encouraged
+                larger families. Add the three together and you get a population mushrooming more
+                ominously than the cloud over any atom-bomb explosion.</p>
+            <p>Let’s take a look at what some of the hardest-pressed countries are doing under this
+                threat:</p>
+        </div>
+        <div>
+            <p><emph rend="bold"><place>Japan</place></emph>: In 1922 I was forbidden to discuss
+                birth control from a lecture platform in <place reg="Tokyo, Japan">Tokyo</place>.
+                Japan’s population then totaled 66 millions, was increasing at 800,000 a year. We
+                all know now how the resulting pressures helped bring about aggression and war in
+                the Pacific. Now, with defeat and the return of millions of Japanese from her
+                conquered “overseas empire,” nearly 90 millions are crammed into a vastly shrunken
+                area -- and once-shunned planned parenthood is becoming a cornerstone of government
+                policy.</p>
+            <p>In the past, infanticide provided a partial -- and brutal -- remedy to oversized
+                Japanese families. Then, in 1948, the Japanese government took a big step forward by
+                enacting the <name type="law">Eugenics Protection Law</name>, which approves the “<q
+                    who="JEPL">termination</q>” of pregnancies whenever the mother’s health may be
+                    “<q who="JEPL">seriously injured</q>” because of “<q who="JEPL">physical or
+                    economic conditions</q>” -- in other words, Japan has legalized abortions where
+                families feel they can’t afford another child.</p>
+            <p>Latest official figures place the number of legal abortions at 1.7 millions a year,
+                or about one for every live birth. How many clandestine abortions are performed is
+                anybody’s guess. But the number is undoubtedly large. This is a tragic
+                situation.</p>
+            <p>In recognition of this, the Japanese government is also encouraging dissemination of
+                information on contraceptives, but has hardly made a beginning in this work. Until
+                thousands more midwives can be trained to teach married couples the use of
+                contraceptives, and until the government can bring the price of these materials
+                within the reach of the poorest peasants, legalized abortion will have to be the
+                mainstay in keeping the Japanese birth rate down. And, bad as it is, it is a big
+                step upward from infanticide.</p>
+        </div>
+        <div>
+            <p><emph rend="bold">India</emph>: Indian scientists are proud that infant mortality has
+                dropped from 215 per 1,000 live births in 1901 to 114 in 1956; that it is expected
+                to fall to 35 by 1964. But they are worried because population is zooming at the
+                rate of 5 millions a year, is heading for 512 millions by 1980. With the masses
+                already living on a less-than-subsistence level, the outlook is far from happy.</p>
+            <p>At present, the Indian government’s Five Year Plan officially endorses contraception.
+                Health-service centers, operating on an $8 millions budget, are spreading
+                information on planned parenthood and supplying free contraceptives. The nation’s
+                second Five Year Plan calls for setting up 2,100 maternal and child-health centers
+                in rural areas and 2,300 birth-control clinics.</p>
+            <p>Indian leaders pull no punches in describing their predicament. As they see it, they
+                face a grim choice: If they don’t check the runaway increase in population, each
+                person will be eating 5 per cent less food each year than he did the year before. On
+                the other hand, if fertility can be cut in half, by 1986 each person will be able to
+                consume 50 per cent more than he can today, thanks to improved methods of
+                agriculture and production. For India, it is literally the hour to choose between
+                cutting the birthrate or facing starvation.</p>
+        </div>
+        <div>
+            <p><emph rend="bold">China</emph>: Red China’s official census in 1953 put its
+                population at 583 millions, increasing at the rate of over 12 millions a year. At
+                latest estimates, the total is 625 millions -- half again as much as India. <place
+                    reg="Peking, China">Peiping</place>’s overlords realize, despite their mouthing
+                of Communist propaganda, that no Five Year Plan or magical improvement in
+                agriculture or industry is ever going to catch up with increases such as these. </p>
+            <p>Already the ruling hierarchy is practicing birth control. Families of most leaders
+                are limited to an average of two children each, setting a theoretical example to the
+                masses. But actually reaching the millions of rural peasants is a task of the first
+                magnitude. Last year the <person reg="Li, Dequan">minister of health</person>
+                ordered an all-out propaganda drive to win these families away from their age-old
+                desire for “<q who="LIDEQ">many sons</q>” and into the field of planned parenthood.
+                Officials claim China’s women are enthusiastically backing the campaign, but admit
+                that China lacks the birth-control devices to meet even a fraction of anticipated
+                demand.</p>
+        </div>
+        <div>
+            <p>Turning to the Western Hemisphere, we find that the Latin American countries are
+                growing at an even faster rate than the Asiatic. However, because they have not yet
+                been brought under the intense population pressure of the Oriental countries, and
+                because most of these are Catholic nations, their situation is not being faced by
+                their governments.</p>
+            <p>Except in <place>Puerto Rico</place>. Perhaps because of its close ties with the
+                Protestant U.S. mainland, or because its population has already reached the
+                explosion point, that island is turning to an unusual solution. Despite Catholic
+                opposition, it is using sterilization to limit the size of families.</p>
+            <p>The operation is performed most often on women immediately after childbirth.
+                Perfectly legal, it is done only when the woman, her husband, and their doctor
+                agree.</p>
+            <p>Within the U.S. itself, population is growing all too fast. It has been estimated
+                that by 1975 we may have 249 million people -- although surveys show over 80 per
+                cent of American white women of childbearing age practice birth control. Actually,
+                planned parenthood is becoming more accepted all the time. Not too many years ago,
+                advocates of birth control were thrown in jail. It was illegal for a doctor to give
+                information on spacing children.</p>
+            <p>Now, however, planned parenthood has become an accepted part of our life. Information
+                and devices are available in hundreds of hospitals, clinics, and public-health
+                centers. New methods are being tested in leading laboratories; even the
+                    <org>Rockefeller Foundation</org> is donating liberally to this work.</p>
+            <p>Too, U.S. scientists report encouraging results in experiments with an oral
+                contraceptive, taken by women 20 days each month. Years of further testing remain,
+                but the search for a “birth-control pill” appears to be bearing fruit. </p>
+            <p>All these things make the picture appear bright. But there is a darker side. The size
+                of families is increasing, population is soaring, too many people refuse to look at
+                the handwriting on the wall. A recent national survey shows 36 per cent of all
+                births were unplanned. Too, there still remain thousands of frightened, unknowing
+                women to whom illegal abortion remains the only known way of controlling the
+                family’s size.</p>
+            <p>It has been estimated that, in addition to the comparative handful of legal
+                abortions, 2 million illegal operations are performed every year in this country,
+                and that racketeers net $50 millions annually from these terrorized women. How many
+                victims die? Some sources say well over 100 a week, and probably considerably more,
+                since most of these deaths are listed under some other cause.</p>
+            <p>And did you know that nine out of every 10 abortions in the U.S. reportedly are
+                performed on married women between 25 and 35, with three or more children?</p>
+            <p>That is the frightening picture of “enlightened” womankind in this country in this
+                year of grace, 1957. </p>
+            <p>What, then, is the world-wide situation? Progress is being made -- but time is
+                running out. Some countries, especially those pushed to the brink of starvation, are
+                at last teaching their people the elements of planned parenthood. In others, such as
+                the U.S., the picture is confused. Birth control once a forbidden subject, is
+                widespread and an accepted pattern of married life for millions. But for many others
+                there still remains only that last desperate step -- the illegal abortion -- if the
+                size of the family is to be limited.</p>
+            <p>In all, 18 nations now are members of the <org>International Planned Parenthood
+                    Federation</org>, whose next meeting will be held in <place reg="Washington, DC"
+                    >Washington</place> in 1958. But over all, federation members or not, hangs the
+                threat of a P (for Population) bomb explosion.</p>
+            <p>Most nations, preoccupied with the threat of atomic wars and mass destruction, are
+                unable -- or unwilling -- to face the stark specter of starvation which, in varying
+                degrees of nearness, is drawing in on all of them. Authorities agree that there is
+                nothing in the teachings of most major religions to forbid the practice of having
+                children when they are really wanted. There seems, therefore, to be but one humane
+                solution to the problem. That is best summed up in those simple words, quoted
+                earlier, of The Methodist Church in its 1956 <title rend="italics" type="book"
+                    >Discipline</title>:</p>
+            <p><q who="TMC" rend="italics">“We believe that planned parenthood, practiced in
+                    Christian conscience, may fulfill rather than violate the will of God.”</q></p>
+        </div>
+    </docBody>
+</doc>

@@ -3,22 +3,22 @@
 <doc type="Typed speech">
     <mepHeader>
         <prepDate>2010/02/24 AC</prepDate>
-        <prepDate>2014/03/10 EK clean regs</prepDate>
+        <prepDate>2014/03/10 EK clean regs</prepDate><prepDate>2015-02-18 CH proof tags and enter</prepDate>
 
-        <docAuthor>Margaret Sanger</docAuthor>
-        <docDate value="1933-10-00"><supplied resp="MSPP">October 1933</supplied></docDate>
+        <docAuthor><person reg="Sanger, Margaret">Margaret Sanger</person></docAuthor>
+        <docDate value="1933-10-00"><supplied resp="MSPP">Oct 1933</supplied></docDate>
         <docTitle>
             <titlePart>Margaret Sanger Advocates the ABC--American Babies' Code</titlePart>
         </docTitle>
         <idno>msp236126</idno>
         <sourceDesc>
             <bibl>Margaret Sanger Papers, Sophia Smith Collection, Smith College</bibl>
-            <bibl><title>MSM</title>S71:0529</bibl>
+            <bibl><title>Margaret Sanger Microfilm, Smith College Collecions</title> S71:0529</bibl>
         </sourceDesc>
         <respStmt>
             <resp/>
-            <name id="WILIR">Wile, Dr. Ira S.</name>
-            <name id="LITCC">Little, Dr. C. C.</name>
+            <name id="WILIR">Wile, Ira S.</name>
+            <name id="LITCC">Little, C. C.</name>
             <name id="HOOHE">Hoover, Herbert</name>
         </respStmt>
     </mepHeader>
@@ -31,14 +31,14 @@
     </headNote>
     <docBody>
         <head>MARGARET SANGER ADVOCATES THE ABC--American Babies' Code</head>
-        <byline>Foremost Advocate of Birth Control Declare's the "Blue Stork" must come to the aid
-            of the Blue Eagle</byline>
-        <p> In his fantastic play "<title type="play">The Blue Bird</title>" <person
+        <head type="sub">Foremost Advocate of Birth Control Declare's the "Blue Stork" must come to the aid
+            of the Blue Eagle</head>
+        <p> In his fantastic play "<title type="book">The Blue Bird</title>" <person
                 reg="Maeterlinck, Maurice">Maurice Maeterlinck</person> placed one famous scene in
             the Azure Palace, where children still to be born waited to come into the world of the
             living. This Palace was named the Kingdom of the Future. Each morning at dawn, Time
             opened its great portals and the Unborn crowded down into the realm of the Living.</p>
-        <p>In his strange novel “<title type="novel">Erewhon</title>” the eccentric English
+        <p>In his strange novel “<title type="book">Erewhon</title>” the eccentric English
             satirist, <person rend="Butler, Samuel">Samuel Butler</person>, also described the World
             of the Unborn and the fantastic theory of Preexistence which was a part of the creed of
             his imaginary Erewhonians.</p>
@@ -50,7 +50,7 @@
             we make sure that sound health and racial strength must be assured to every baby which
             is brought into the world. Scientists today insist that there must be a Blue Stork to
             supplement the work of the Blue Eagle.</p>
-        <p> Speaking recently before a fashionable gathering of civic leaders in the Biltmore Hotel
+        <p> Speaking recently before a fashionable gathering of civic leaders in the <org>Biltmore Hotel</org>
             in <place reg="Providence, RI">Providence, R. I.</place>, Dr. <person reg="Wile, Ira S."
                 >Ira S. Wile</person>, celebrated physician of <place reg="New York, NY">New York
                 City</place>, declared:</p>
@@ -87,7 +87,7 @@
                 little more than seven months ago.</q>"</p>
         <p>With this point of view I am in thorough agreement. For twenty years I have been battling
             for the rights of the unborn. And why now, in these days of reconstruction, when all
-            traditional ideas have been turned topsy-turvy in <place reg="Washington, D.C."
+            traditional ideas have been turned topsy-turvy in <place reg="Washington, DC"
                 >Washington</place>, I am urging, as an indispensible supplement to the <org
                 reg="National Recovery Administration">NRA</org>
             <add>and</add> the PWA (<org>Public Works Administration</org>), <del>the</del>
